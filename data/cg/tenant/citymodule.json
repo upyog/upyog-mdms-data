@@ -1,9 +1,9 @@
 {
-  "tenantId": "cg", 
+  "tenantId": "cg",   
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "PGR",
+      "module": "wwwwwPGR",
       "code": "PGR",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
       "active": true,
