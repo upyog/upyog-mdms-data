@@ -3,26 +3,47 @@
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "wwwwwPGR",
+      "module": "PGR",
       "code": "PGR",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
       "active": true,
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
 
       ]
@@ -35,19 +56,40 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -58,13 +100,40 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -75,19 +144,40 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -99,19 +189,40 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -122,19 +233,40 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -145,19 +277,40 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -169,19 +322,40 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -193,19 +367,40 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -216,7 +411,40 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -228,19 +456,40 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -251,19 +500,40 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -274,19 +544,40 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -297,19 +588,40 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -320,19 +632,40 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -343,19 +676,40 @@
       "order":6,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -366,19 +720,40 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -389,19 +764,40 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -412,19 +808,40 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -435,19 +852,40 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     },
@@ -458,19 +896,40 @@
       "order":5,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "cg.Ambikapur"
         },
         {
-          "code": "pg.cityb"
+          "code": "cg.Bhilai"
         },
         {
-          "code": "pg.cityc"
+          "code": "cg.Bilaspur"
         },
         {
-          "code": "pg.cityd"
+          "code": "cg.Chirimiri"
         },
         {
-          "code": "pg.citye"
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
         }
       ]
     }
