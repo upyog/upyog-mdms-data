@@ -5,8 +5,8 @@
     {
       "name": "Demo",
       "code": "pg",
-      "bannerUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/images/1bannern.png",
-      "logoUrl": null,
+      "bannerUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/images/banner.png",
+      "logoUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/images/mainlogo.png",
       "logoUrlWhite": null,
       "hasLocalisation": true,
       "defaultUrl": {
