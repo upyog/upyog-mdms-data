@@ -21,10 +21,6 @@
         {
           "label": "हिंदी",
           "value": "hi_IN"
-        },
-          {
-          "label": "ENGLISH1",
-          "value": "en1_IN"
         }
       ],
       "localizationModules": [
