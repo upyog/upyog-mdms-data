@@ -1,0 +1,937 @@
+{
+  "tenantId": "cg",   
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+   {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": true,
+      "order":5,
+      "tenants": [
+        {
+          "code": "cg.Ambikapur"
+        },
+        {
+          "code": "cg.Bhilai"
+        },
+        {
+          "code": "cg.Bilaspur"
+        },
+        {
+          "code": "cg.Chirimiri"
+        },
+        {
+          "code": "cg.Dhamtari"
+        },
+        {
+          "code": "cg.Durg"
+        },
+        {
+          "code": "cg.Jagdalpur"
+        },
+        {
+          "code": "cg.Korba"
+        },
+        {
+          "code": "cg.Raigarh"
+        },
+        {
+          "code": "cg.Raipur"
+        },
+        {
+          "code": "cg.Risali"
+        },
+        {
+          "code": "cg.Rajnandgaon"
+        }
+      ]
+    }
+  ]
+}

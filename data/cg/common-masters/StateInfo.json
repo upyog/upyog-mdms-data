@@ -1,13 +1,13 @@
 {
-  "tenantId": "pg",
+  "tenantId": "cg",
   "moduleName": "common-masters",
   "StateInfo": [
     {
       "name": "Demo",
-      "code": "pg",
-      "bannerUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/banner.png",
-      "logoUrl": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/mainlogo.png",
-      "logoUrlWhite": "https://try-digit-eks-yourname.s3.ap-south-1.amazonaws.com/mainlogo.png",
+      "code": "cg",
+      "bannerUrl": null,
+      "logoUrl": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/nugp.png",
+      "logoUrlWhite": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/nugp.png",
       "hasLocalisation": true,
       "defaultUrl": {
         "citizen": "/user/register",
