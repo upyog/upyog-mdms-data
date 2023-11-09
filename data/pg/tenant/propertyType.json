@@ -3,6 +3,12 @@
   "moduleName": "tenant",
   "propertyType": [
 	{
+      "name": "Domestic",
+      "code": "Domestic",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{
       "name": "Residential",
       "code": "Residential",
       "active": true,
