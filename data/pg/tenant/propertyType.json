@@ -20,12 +20,29 @@
       "active": true,
       "module": "NationalDashboard"
     },
-{
+	{
       "name": "Institutional",
       "code": "Institutional",
       "active": true,
       "module": "NationalDashboard"
-    }  
-	  
+    } ,
+	{	
+      "name": "Domestic Exempted",
+      "code": "Domestic Exempted",
+      "active": true,
+      "module": "NationalDashboard"
+    },  	
+	 {	
+      "name": "Commercial Motor",
+      "code": "Commercial Motor",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{	
+      "name": "Domestic SLC",
+      "code": "Domestic SLC",
+      "active": true,
+      "module": "NationalDashboard"
+    }
   ]
 }
