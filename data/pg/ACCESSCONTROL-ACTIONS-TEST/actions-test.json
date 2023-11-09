@@ -15057,6 +15057,19 @@
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
-      }
+      },
+	  {
+      "id": 2537,
+      "name": "MiscDashboardReport",
+      "url": "url",
+      "displayName": "Miscellaneous Dashboard Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscDashboardReport",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscDashboardReport",
+      "path": "Reports.miscellaneous Dashboard Report"
+    }
    ]
 }
