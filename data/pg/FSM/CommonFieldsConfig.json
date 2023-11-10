@@ -157,7 +157,7 @@
       "body": [
         {
           "label": "ES_NEW_APPLICATION_PIT_TYPE",
-          "isMandatory": false,
+          "isMandatory": true,
           "type": "component",
           "route": "pit-type",
           "key": "pitType",
@@ -165,8 +165,7 @@
           "texts": {
             "header": "CS_FILE_PROPERTY_PIT_TYPE",
             "cardText": "CS_FILE_PROPERTY_PIT_TYPE_TEXT",
-            "submitBarLabel": "CS_COMMON_NEXT",
-            "skipText": "CORE_COMMON_SKIP_CONTINUE"
+            "submitBarLabel": "CS_COMMON_NEXT"
           },
           "nextStep": "tank-size"
         },
