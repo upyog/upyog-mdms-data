@@ -15070,6 +15070,28 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscDashboardReport",
       "path": "Reports.miscellaneous Dashboard Report"
-    }
+    },
+	{
+      "id": 2538,
+      "name": "MiscDashboardReport",
+      "url": "/report/rainmaker-uc/MiscDashboardReport/metadata/_get",
+      "displayName": "MiscDashboardReport metadata",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "MiscDashboardReport Metadata"
+    },
+    {
+      "id": 2539,
+      "name": "MiscDashboardReport",
+      "url": "/report/rainmaker-uc/MiscDashboardReport/_get",
+      "displayName": "Misc Dashboard Report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "MiscDashboardReport"
+    },
    ]
 }
