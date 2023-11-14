@@ -3046,7 +3046,7 @@
          "displayName": "Complaint Types",
          "orderNumber": 2,
          "parentModule": "rainmaker-pgr",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.PGR Reports.ComplaintTypesReport",
