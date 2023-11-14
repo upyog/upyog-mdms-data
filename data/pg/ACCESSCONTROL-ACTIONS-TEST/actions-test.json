@@ -2472,7 +2472,7 @@
          "displayName": "Get Actions from mdms",
          "orderNumber": 1,
          "parentModule": "221",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.Get Actions from MDMS"
