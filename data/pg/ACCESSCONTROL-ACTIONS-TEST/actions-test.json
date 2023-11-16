@@ -10168,7 +10168,7 @@
       "displayName": "Defaulter Report",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": "Property Tax.PT Reports.DEFAULTER Report",
@@ -10182,7 +10182,7 @@
       "url": "/report/pt-reports/DefaulterReport/_get",
       "displayName": "Defaulter Report",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PTDEFAULTERREPORTS",
       "code": "null",
       "path": "Employee Report"
