@@ -46,7 +46,7 @@
     },
 	{	
       "name": "Domestic SLC",
-      "code": "Domestic SLC",
+      "code": "Domestic Slc",
       "active": true,
       "module": "NationalDashboard"
     }
