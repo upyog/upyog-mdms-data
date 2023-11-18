@@ -15092,6 +15092,80 @@
       "serviceCode": "REPORTS",
       "code": "null",
       "path": "MiscDashboardReport"
+    },
+	{
+      "id": 2540, 
+      "name": "WaterDisconnectionReport",
+      "url": "url",
+      "displayName": "Water Disconnection Report",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "Water & Sewerage.Water & Sewerage Reports.WaterDisconnectionReport",
+      "navigationURL": "report/rainmaker-ws/WaterDisconnectionReport",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+    {
+      "id": 2541, 
+      "name": "WaterDisconnectionReport-Metadata",
+      "url": "/report/rainmaker-ws/WaterDisconnectionReport/metadata/_get",
+      "displayName": "WS Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
+    },
+    {
+      "id": 2542, 
+      "name": "WaterDisconnectionReport",
+      "url": "/report/rainmaker-ws/WaterDisconnectionReport/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
+    },
+	{
+      "id": 2543, 
+      "name": "WaterConnectionReport",
+      "url": "url",
+      "displayName": "Water Connection Report",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "Water & Sewerage.Water & Sewerage Reports.WaterConnectionReport",
+      "navigationURL": "report/rainmaker-ws/WaterConnectionReport",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+    {
+      "id": 2544, 
+      "name": "WaterConnectionReport-Metadata",
+      "url": "/report/rainmaker-ws/WaterConnectionReport/metadata/_get",
+      "displayName": "WS Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
+    },
+    {
+      "id": 2545, 
+      "name": "WaterConnectionReport",
+      "url": "/report/rainmaker-ws/WaterConnectionReport/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
     }
    ]
 }
