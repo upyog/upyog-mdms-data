@@ -666,6 +666,18 @@
             "jsonPath": "name",
             "patternId": "002",
             "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "mobilenumber",
+            "jsonPath": "mobilenumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "guardian",
+            "jsonPath": "guardian",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
           }
         ],
         "roleBasedDecryptionPolicy": [
