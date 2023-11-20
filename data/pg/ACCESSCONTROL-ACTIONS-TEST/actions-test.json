@@ -14851,7 +14851,7 @@
       "url": "/service-request/service/definition/v1/_update",
       "displayName": "Update Service Definition",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "service-request",
       "code": "null",
       "path": ""
