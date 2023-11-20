@@ -1447,6 +1447,28 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+		{
+          "roleCode": "WS_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+		{
+          "roleCode": "SW_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
