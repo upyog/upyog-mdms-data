@@ -15166,6 +15166,33 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "WS Report"
+    },
+	   {
+      "id": 2546,
+      "name": "Main Dashboard",
+      "url": "url",
+      "displayName": "Dashboard",
+      "orderNumber": 4,
+      "parentModule": "ndss-dashboard",
+      "enabled": true,
+      "serviceCode": "NDSS",
+      "code": "null",
+      "path": "NatDashboard.Main Dashboard",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/mainDashboard",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2547,
+      "name": "DSS Dashboard Config Main page",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/mainDashboard",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
     }
    ]
 }
