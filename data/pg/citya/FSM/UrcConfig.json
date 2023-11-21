@@ -1,9 +1,9 @@
 {
     "tenantId": "pg.citya",
     "moduleName": "FSM",
-    "zeroPricing": [
+    "UrcConfig": [
         {
-            "zeroPricingStatus": false
+            "URCEnable": true
         }
     ]
 }

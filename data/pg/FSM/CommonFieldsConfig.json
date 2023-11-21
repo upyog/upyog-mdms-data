@@ -33,23 +33,47 @@
             "cardText": "CS_FILE_APPLICATION_PROPERTY_SUBTYPE_TEXT",
             "submitBarLabel": "CS_COMMON_NEXT"
           },
-          "nextStep": "map"
+          "nextStep": "pincode"
         }
       ]
     },
     {
       "head": "ES_NEW_APPLICATION_LOCATION_DETAILS",
       "body": [
+        
         {
-          "route": "map",
-          "component": "FSMSelectGeolocation",
-          "nextStep": "pincode",
-          "hideInEmployee": true,
-          "key": "address"
+          "route": "address",
+          "component": "SelectAddress",
+          "withoutLabel": true,
+          "texts": {
+            "headerCaption": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LABEL",
+            "header": "CS_FILE_APPLICATION_PROPERTY_LOCATION_ADDRESS_TEXT",
+            "cardText": "CS_FILE_APPLICATION_PROPERTY_LOCATION_CITY_MOHALLA_TEXT",
+            "submitBarLabel": "CS_COMMON_NEXT"
+          },
+          "key": "address",
+          "nextStep": "locality-gramPanchayat",
+          "isMandatory": true,
+          "type": "component"
+        },
+        {
+          "route": "locality-gramPanchayat",
+          "component": "SelectLocalityOrGramPanchayat",
+          "withoutLabel": true,
+          "texts": {
+            "headerCaption": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LABEL",
+            "header": "CS_FILE_APPLICATION_PROPERTY_LOCATION_ADDRESS_TEXT",
+            "cardText": "CS_FILE_APPLICATION_PROPERTY_LOCATION_CITY_MOHALLA_TEXT",
+            "submitBarLabel": "CS_COMMON_NEXT"
+          },
+          "key": "address",
+          "nextStep": "select-trip-number",
+          "isMandatory": true,
+          "type": "component"
         },
         {
           "route": "pincode",
-          "component": "FSMSelectPincode",
+          "component": "SelectPincode",
           "texts": {
             "headerCaption": "",
             "header": "CS_FILE_APPLICATION_PINCODE_LABEL",
@@ -59,22 +83,8 @@
           },
           "withoutLabel": true,
           "key": "address",
-          "nextStep": "address",
-          "type": "component"
-        },
-        {
-          "route": "address",
-          "component": "FSMSelectAddress",
-          "withoutLabel": true,
-          "texts": {
-            "headerCaption": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LABEL",
-            "header": "CS_FILE_APPLICATION_PROPERTY_LOCATION_ADDRESS_TEXT",
-            "cardText": "CS_FILE_APPLICATION_PROPERTY_LOCATION_CITY_MOHALLA_TEXT",
-            "submitBarLabel": "CS_COMMON_NEXT"
-          },
-          "key": "address",
           "nextStep": "check-slum",
-          "isMandatory": true,
+
           "type": "component"
         },
         {
@@ -108,7 +118,7 @@
         {
           "type": "component",
           "route": "street",
-          "component": "FSMSelectStreet",
+          "component": "SelectStreet",
           "key": "address",
           "withoutLabel": true,
           "texts": {
@@ -123,7 +133,7 @@
         {
           "type": "component",
           "route": "landmark",
-          "component": "FSMSelectLandmark",
+          "component": "SelectLandmark",
           "withoutLabel": true,
           "texts": {
             "headerCaption": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LABEL",
@@ -168,7 +178,7 @@
           },
           "type": "component",
           "key": "pitDetail",
-          "nextStep": "select-payment-preference",
+          "nextStep": "select-gender",
           "label": "ES_NEW_APPLICATION_PIT_DIMENSION"
         },
         {
