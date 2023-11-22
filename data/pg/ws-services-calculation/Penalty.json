@@ -8,7 +8,7 @@
       "applicableAfterDays": 0,
       "flatAmount": null,
       "fromFY": "2023-24",
-      "startingDay": 16
+      "startingDay": "16"
     },
      {
       "rate": 15,
@@ -16,7 +16,7 @@
       "applicableAfterDays": 0,
       "flatAmount": null,
       "fromFY": "2023-24",
-      "startingDay": 30
+      "startingDay": "30"
     }
   ]
 }
