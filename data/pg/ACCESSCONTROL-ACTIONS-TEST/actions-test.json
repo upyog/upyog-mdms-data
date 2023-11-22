@@ -15272,7 +15272,7 @@
          "id": 2554,
          "name": "PTGrievances",
          "url": "url",
-         "displayName": "Description Report",
+         "displayName": "PT Grievance Report",
          "orderNumber": 6,
          "parentModule": "pgr",
          "enabled": true,
