@@ -25872,6 +25872,12 @@
       "actionid": 1556,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "LOC_ADMIN",
+      "actionid": 1734,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
