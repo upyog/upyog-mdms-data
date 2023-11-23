@@ -9,7 +9,7 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2023-24",
-      "startingDay": "30"
+      "startingDay": 30
     }
   ]
 }
