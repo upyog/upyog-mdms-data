@@ -26625,6 +26625,12 @@
       "tenantId": "pg"
     },
 	{
+      "rolecode": "PT_CEMP",
+      "actionid": 2554,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
       "rolecode": "SUPERUSER",
       "actionid": 2555,
       "actioncode": "",
@@ -26649,6 +26655,12 @@
       "tenantId": "pg"
     },
 	{
+      "rolecode": "PT_CEMP",
+      "actionid": 2555,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
       "rolecode": "SUPERUSER",
       "actionid": 2556,
       "actioncode": "",
@@ -26662,6 +26674,12 @@
     },
     {
       "rolecode": "PGR_LME",
+      "actionid": 2556,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "PT_CEMP",
       "actionid": 2556,
       "actioncode": "",
       "tenantId": "pg"
