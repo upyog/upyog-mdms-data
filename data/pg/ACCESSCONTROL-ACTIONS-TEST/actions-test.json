@@ -15279,14 +15279,14 @@
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.PGR Reports.PTGrievances",
-         "navigationURL": "report/pgr/PTGrievances",
+         "navigationURL": "report/pt-reports/PTGrievances",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
 	  {
          "id": 2555,
          "name": "PTGrievancesReport-Metadata",
-         "url": "/report/pgr/PTGrievances/metadata/_get",
+         "url": "/report/pt-reports/PTGrievances/metadata/_get",
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
@@ -15297,7 +15297,7 @@
       }, {
          "id": 2556,
          "name": "PTGrievances",
-         "url": "/report/pgr/PTGrievances/_get",
+         "url": "/report/pt-reports/PTGrievances/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
          "enabled": true,
