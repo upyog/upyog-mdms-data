@@ -14891,60 +14891,6 @@
       "serviceCode": "MDMS v2",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2524,
-      "name": "Locality searcher endpoint for Vehicle",
-      "url": "/egov-searcher/locality/Vehicle/_get",
-      "displayName": "Vehicle searcher",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "egov-searcher",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2525,
-      "name": "rainmaker-common-dashboard",
-      "url": "card",
-      "displayName": "Dashboard",
-      "orderNumber": 3,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "egov-dashboard/home",
-      "leftIcon": "custom:publicIcon",
-      "rightIcon": ""
-    },
-    {
-      "id": 2526,
-      "name": "Search FSM Application",
-      "url": "/fsm/v1/_plainsearch",
-      "displayName": "Search  FSM Appliacations",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "FSM",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2527,
-      "name": "rainmaker-citizen-fsm",
-      "url": "url",
-      "displayName": "Faecal Sludge Management",
-      "orderNumber": 8,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "fsm",
-      "code": "",
-      "path": "fsm",
-      "navigationURL": "/digit-ui/citizen",
-      "leftIcon": "custom:localShipping",
-      "rightIcon": "",
-      "queryParams": ""
     }
    ]
 }

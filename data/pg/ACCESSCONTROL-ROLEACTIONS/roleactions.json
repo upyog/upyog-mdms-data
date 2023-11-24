@@ -26221,66 +26221,6 @@
       "actionid": 1734,
       "actioncode": "",
       "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2524,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_EDITOR_EMP",
-      "actionid": 2526,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_VIEW_EMP",
-      "actionid": 2526,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_ADMIN",
-      "actionid": 2526,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_DSO",
-      "actionid": 2526,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_DRIVER",
-      "actionid": 2526,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_EMP_FSTPO",
-      "actionid": 2526,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_COLLECTOR",
-      "actionid": 2526,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CSR_FSTPO",
-      "actionid": 2526,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2527,
-      "actioncode": "",
-      "tenantId": "pg"
-    } 
+    }
   ]
 }
