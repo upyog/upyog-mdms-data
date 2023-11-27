@@ -10,20 +10,14 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
+          "code": "pg.Nagaon"
+         }
 
       ]
     },
@@ -35,19 +29,13 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -58,13 +46,13 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -75,19 +63,13 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -99,19 +81,13 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -122,19 +98,13 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -145,19 +115,13 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -169,19 +133,13 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -193,19 +151,13 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -216,7 +168,7 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         }
       ]
     },
@@ -228,19 +180,13 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -252,19 +198,13 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -275,19 +215,13 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -298,19 +232,13 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -321,19 +249,13 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -344,19 +266,13 @@
       "order":6,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -367,19 +283,13 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -390,19 +300,13 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -413,19 +317,13 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -436,19 +334,13 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -459,19 +351,13 @@
       "order":5,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -483,13 +369,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -500,13 +386,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -517,13 +403,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -535,13 +421,13 @@
       "order": 3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -553,19 +439,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     },
@@ -577,19 +457,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.Goalpara"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.Jorhat"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.Nagaon"
         }
       ]
     }

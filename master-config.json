@@ -1268,7 +1268,7 @@
     },
     "VehicleOwner": {
       "masterName": "VehicleOwner",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
@@ -1276,14 +1276,14 @@
     "Vendor": {
       "AgencyType": {
         "masterName": "AgencyType",
-        "isStateLevel": false,
+        "isStateLevel": true,
         "uniqueKeys": [
           "$.code"
         ]
       },
       "PaymentPreference": {
         "masterName": "PaymentPreference",
-        "isStateLevel": false,
+        "isStateLevel": true,
         "uniqueKeys": [
           "$.code"
         ]

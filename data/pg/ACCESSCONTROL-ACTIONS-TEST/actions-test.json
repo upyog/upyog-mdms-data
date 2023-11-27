@@ -2472,7 +2472,7 @@
          "displayName": "Get Actions from mdms",
          "orderNumber": 1,
          "parentModule": "221",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.Get Actions from MDMS"
@@ -3046,7 +3046,7 @@
          "displayName": "Complaint Types",
          "orderNumber": 2,
          "parentModule": "rainmaker-pgr",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints.PGR Reports.ComplaintTypesReport",
