@@ -5,7 +5,7 @@
     {
       "head": "ES_NEW_APPLICATION_PROPERTY_DETAILS",
       "body": [
-         {
+        {
           "label": "ES_NEW_APPLICATION_PROPERTY_ID",
           "isMandatory": true,
           "type": "component",
@@ -156,6 +156,22 @@
       "head": "CS_CHECK_PIT_SEPTIC_TANK_DETAILS",
       "body": [
         {
+          "label": "ES_NEW_APPLICATION_ROAD_WIDTH",
+          "isMandatory": true,
+          "type": "component",
+          "route": "road-details",
+          "key": "roadWidth",
+          "hideInEmployee": true,
+          "component": "SelectRoadDetails",
+          "texts": {
+            "header": "CS_FILE_PROPERTY_ROAD_WIDTH",
+            "cardText": "CS_FILE_PROPERTY_ROAD_WIDTH_TEXT",
+            "submitBarLabel": "CS_COMMON_NEXT",
+            "skipText": "CORE_COMMON_SKIP_CONTINUE"
+          },
+          "nextStep": "tank-size"
+        },
+        {
           "label": "ES_NEW_APPLICATION_PIT_TYPE",
           "isMandatory": true,
           "type": "component",
@@ -167,7 +183,7 @@
             "cardText": "CS_FILE_PROPERTY_PIT_TYPE_TEXT",
             "submitBarLabel": "CS_COMMON_NEXT"
           },
-          "nextStep": "tank-size"
+          "nextStep": "road-details"
         },
         {
           "route": "tank-size",
