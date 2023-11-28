@@ -3,23 +3,11 @@
   "moduleName": "tenant",
   "propertyType": [
 	{
-      "name": "Domestic",
-      "code": "Domestic",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-	{
       "name": "Residential",
       "code": "Residential",
       "active": true,
       "module": "NationalDashboard"
     },
-	{
-      "name": "Industrial",
-      "code": "Industrial",
-      "active": true,
-      "module": "NationalDashboard"
-	},
 	{
       "name": "Commercial",
       "code": "Commercial",
@@ -31,22 +19,48 @@
       "code": "Institutional",
       "active": true,
       "module": "NationalDashboard"
-    } ,
+    },
+	{
+      "name": "Public and Semi Public",
+      "code": "Public And Semi Public",
+      "active": true,
+      "module": "NationalDashboard"
+	},
+
+		{
+      "name": "Mixed Use",
+      "code": "Mixed Use",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+
 	{	
-      "name": "Domestic Exempted",
-      "code": "Domestic Exempted",
+      "name": "Industrial",
+      "code": "Industrial",
       "active": true,
       "module": "NationalDashboard"
     },  	
 	 {	
-      "name": "Commercial Motor",
-      "code": "Commercial Motor",
+      "name": "Heritage",
+      "code": "Heritage",
       "active": true,
       "module": "NationalDashboard"
     },
 	{	
-      "name": "Domestic SLC",
-      "code": "Domestic Slc",
+      "name": "Religious",
+      "code": "Religious",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{	
+      "name": "Recretional",
+      "code": "Recretional",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{	
+      "name": "Vacant land",
+      "code": "Vacant Land",
       "active": true,
       "module": "NationalDashboard"
     }
