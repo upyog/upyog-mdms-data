@@ -15178,7 +15178,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Main Dashboard",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/mainDashboard",
+      "navigationURL": "/digit-ui/employee/dss/main-dashboard-landing",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
