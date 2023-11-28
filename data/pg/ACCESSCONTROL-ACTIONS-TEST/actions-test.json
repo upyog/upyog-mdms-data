@@ -15278,8 +15278,8 @@
          "enabled": true,
          "serviceCode": "PGR",
          "code": "null",
-		 "path": "Property Tax.PT Reports.DEFAULTER Report",
-         "navigationURL": "report/pt-reports/DefaulterReport",
+		 "path": "Property Tax.PT Reports.PTGrievances",
+         "navigationURL": "report/pt-reports/PTGrievances",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
