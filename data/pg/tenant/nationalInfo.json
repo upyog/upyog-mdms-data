@@ -20257,6 +20257,14 @@
       "name": "jh.mahagamanagarpanchayat",
       "active": true,
       "module": "NationalDashboard"
-    }
+    },
+	{ 
+	  "stateCode": "Tripura", 
+	  "stateName": "Tripura", 
+	  "code": "tr.agartalamunicipalcorporation", 
+	  "name": "tr.agartalamunicipalcorporation", 
+	  "active": true, 
+	  "module": "NationalDashboard"
+	}
   ]
 }
