@@ -15290,7 +15290,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
