@@ -33,17 +33,38 @@
             "cardText": "CS_FILE_APPLICATION_PROPERTY_SUBTYPE_TEXT",
             "submitBarLabel": "CS_COMMON_NEXT"
           },
-          "nextStep": "pincode"
+          "nextStep": "map"
         }
       ]
     },
     {
       "head": "ES_NEW_APPLICATION_LOCATION_DETAILS",
       "body": [
-        
+        {
+          "route": "map",
+          "component": "FSMSelectGeolocation",
+          "nextStep": "pincode",
+          "hideInEmployee": true,
+          "key": "address"
+        },
+        {
+          "route": "pincode",
+          "component": "FSMSelectPincode",
+          "texts": {
+            "headerCaption": "",
+            "header": "CS_FILE_APPLICATION_PINCODE_LABEL",
+            "cardText": "CS_FILE_APPLICATION_PINCODE_TEXT",
+            "submitBarLabel": "CS_COMMON_NEXT",
+            "skipText": "CORE_COMMON_SKIP_CONTINUE"
+          },
+          "withoutLabel": true,
+          "key": "address",
+          "nextStep": "address",
+          "type": "component"
+        },
         {
           "route": "address",
-          "component": "SelectAddress",
+          "component": "FSMSelectAddress",
           "withoutLabel": true,
           "texts": {
             "headerCaption": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LABEL",
@@ -67,24 +88,8 @@
             "submitBarLabel": "CS_COMMON_NEXT"
           },
           "key": "address",
-          "nextStep": "select-trip-number",
-          "isMandatory": true,
-          "type": "component"
-        },
-        {
-          "route": "pincode",
-          "component": "SelectPincode",
-          "texts": {
-            "headerCaption": "",
-            "header": "CS_FILE_APPLICATION_PINCODE_LABEL",
-            "cardText": "CS_FILE_APPLICATION_PINCODE_TEXT",
-            "submitBarLabel": "CS_COMMON_NEXT",
-            "skipText": "CORE_COMMON_SKIP_CONTINUE"
-          },
-          "withoutLabel": true,
-          "key": "address",
           "nextStep": "check-slum",
-
+          "isMandatory": true,
           "type": "component"
         },
         {
@@ -118,7 +123,7 @@
         {
           "type": "component",
           "route": "street",
-          "component": "SelectStreet",
+          "component": "FSMSelectStreet",
           "key": "address",
           "withoutLabel": true,
           "texts": {
@@ -133,7 +138,7 @@
         {
           "type": "component",
           "route": "landmark",
-          "component": "SelectLandmark",
+          "component": "FSMSelectLandmark",
           "withoutLabel": true,
           "texts": {
             "headerCaption": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LABEL",
@@ -178,7 +183,7 @@
           },
           "type": "component",
           "key": "pitDetail",
-          "nextStep": "select-gender",
+          "nextStep": "select-payment-preference",
           "label": "ES_NEW_APPLICATION_PIT_DIMENSION"
         },
         {
