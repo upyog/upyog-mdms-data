@@ -26683,6 +26683,42 @@
       "actionid": 2556,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 2557,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2557,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 2558,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2558,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 2559,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2559,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
