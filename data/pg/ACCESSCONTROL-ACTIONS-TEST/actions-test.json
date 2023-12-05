@@ -10242,7 +10242,7 @@
       "displayName": "PTCollection Report",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": "Property Tax.PT Reports.Receipt Register",
@@ -10256,7 +10256,7 @@
       "url": "/report/pt-reports/PTCollectionReport/_get",
       "displayName": "PT Collection Report",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PTCOLLECTIONREPORTS",
       "code": "null",
       "path": "Employee Report"
@@ -10267,7 +10267,7 @@
       "url": "/report/pt-reports/PTCollectionReport/metadata/_get",
       "displayName": "PTCollection Metadata Report",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PTCOLLECTIONREPORTMETADATA",
       "code": "null",
       "path": "Employee Report"
