@@ -15340,7 +15340,43 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "WS Report"
+    },
+	{
+      "id": 2560, 
+      "name": "DemandCollectionBalancedRegister",
+      "url": "url",
+      "displayName": "Demand Collection Balanced Report",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "Water & Sewerage.Water & Sewerage Reports.DemandCollectionBalancedRegister",
+      "navigationURL": "report/rainmaker-ws/DemandCollectionBalancedRegister",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+    {
+      "id": 2561, 
+      "name": "DemandCollectionBalancedRegister-Metadata",
+      "url": "/report/rainmaker-ws/DemandCollectionBalancedRegister/metadata/_get",
+      "displayName": "WS Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
+    },
+    {
+      "id": 2562, 
+      "name": "DemandCollectionBalancedRegister",
+      "url": "/report/rainmaker-ws/DemandCollectionBalancedRegister/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
     }
-	
    ]
 }
