@@ -202,8 +202,8 @@
                   {
                     "type": "component",
                     "isMandatory": true,
-                    "component": "ElectricityUID",
-                    "key": "electricityuid",
+                    "component": "UID",
+                    "key": "uid",
                     "withoutLabel": true
                 },
                   {
@@ -228,9 +228,9 @@
                 },
                  {
                     "type": "component",
-                    "route": "electricityuid",
+                    "route": "uid",
                     "isMandatory": true,
-                    "component": "ElectricityUID",
+                    "component": "UID",
                     "texts": {
                         "headerCaption": "",
                         "header": "PT_ASSESSMENT_FLOW_AREA_HEADER",
