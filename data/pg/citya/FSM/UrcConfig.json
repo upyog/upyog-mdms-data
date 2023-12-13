@@ -3,7 +3,8 @@
     "moduleName": "FSM",
     "UrcConfig": [
         {
-            "URCEnable": true
+            "URCEnable": true,
+            "villageHierarchyAvailable": true
         }
     ]
 }
