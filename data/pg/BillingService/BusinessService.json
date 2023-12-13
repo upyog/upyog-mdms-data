@@ -2005,7 +2005,7 @@
     },
     {
       "businessService": "pet-services",
-      "code": "PET_REGISTRATION_FEE",
+      "code": "pet-services",
       "collectionModesNotAllowed": [
         "DD"
       ],
