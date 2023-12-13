@@ -15077,6 +15077,30 @@
       "leftIcon": "custom:localShipping",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 2539,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.PropertyType",
+      "displayName": "Update RAINMAKER-PGR.ComplainClosingTime",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2540,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.PropertyType",
+      "displayName": "Create RAINMAKER-PGR.ServiceDefs",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
    ]
 }
