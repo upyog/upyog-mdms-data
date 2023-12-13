@@ -15081,7 +15081,7 @@
     {
       "id": 2539,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.PropertyType",
+      "url":"/mdms-v2/v2/_update/PropertyTax.PropertyType",
       "displayName": "Update RAINMAKER-PGR.ComplainClosingTime",
       "orderNumber": 1,
       "parentModule": "",
@@ -15093,7 +15093,7 @@
     {
       "id": 2540,
       "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.PropertyType",
+      "url":"/mdms-v2/v2/_create/PropertyTax.PropertyType",
       "displayName": "Create RAINMAKER-PGR.ServiceDefs",
       "orderNumber": 1,
       "parentModule": "",
