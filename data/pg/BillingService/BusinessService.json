@@ -1963,7 +1963,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "isCitizen": true,
       "type": "Adhoc"
     },
@@ -1977,7 +1977,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "isCitizen": true,
       "type": "Adhoc"
     },
