@@ -3210,7 +3210,7 @@
 "isDebit": false,
 "isActualDemand": true,
 "order": "0",
-"isRequired": true
+"isRequired": false
 },
 {
 "category": "CHARGES",
