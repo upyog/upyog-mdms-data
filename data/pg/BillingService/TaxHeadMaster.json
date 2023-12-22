@@ -5666,14 +5666,14 @@
   "isDiscountApplicable": false
 },
 {
-  "category": "CHARGES",
+  "category": "TAX",
   "service": "DEATH_CERT",
   "name": "DEATH_CERT_FEE",
   "code": "DEATH_CERT_FEE",
   "isDebit": false,
   "isActualDemand": false,
   "order": "0",
-  "isRequired": false,
+  "isRequired": true,
   "isDiscountApplicable": false
 },
 	   {
