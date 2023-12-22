@@ -3204,13 +3204,13 @@
 },
 {
 "category": "TAX",
-"service": "TX.ADVT.Outdoor_Media_Display_Fee",
+"service": "ADVT.Outdoor_Media_Display_Fee",
 "name": "TX.ADVT.Outdoor_Media_Display_Fee_TAX",
 "code": "ADVT.Outdoor_Media_Display_Fee_TAX",
 "isDebit": false,
 "isActualDemand": true,
 "order": "0",
-"isRequired": false
+"isRequired": true
 },
 {
 "category": "CHARGES",
@@ -3220,7 +3220,7 @@
 "isDebit": false,
 "isActualDemand": false,
 "order": "1",
-"isRequired": false
+"isRequired": true
 },
 {
 "category": "TAX",
@@ -3230,7 +3230,7 @@
 "isDebit": false,
 "isActualDemand": false,
 "order": "0",
-"isRequired": false
+"isRequired": true
 },
 {
 "category": "TAX",
@@ -3240,20 +3240,8 @@
 "isDebit": false,
 "isActualDemand": false,
 "order": "0",
-"isRequired": false
+"isRequired": true
 },
-
-
-
-
-
-
-
-
-
-
-
-
 {
 "category": "TAX",
 "service": "RT.Tower_Installation",
