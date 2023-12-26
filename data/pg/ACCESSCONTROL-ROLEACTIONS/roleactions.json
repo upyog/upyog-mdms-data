@@ -18026,6 +18026,18 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2084,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2084,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "FSM_ADMIN",
       "actionid": 2085,
       "actioncode": "",
