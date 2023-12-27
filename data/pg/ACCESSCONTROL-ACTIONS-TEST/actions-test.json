@@ -15101,6 +15101,20 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2541,
+      "name": "Workbench",
+      "url": "url",
+      "displayName": "Workbench",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "null",
+      "navigationURL": "/workbench-ui/employee/workbench/manage-master-data",
+      "path": "UC",
+      "leftIcon": "image:collections-bookmark"
     }
    ]
 }
