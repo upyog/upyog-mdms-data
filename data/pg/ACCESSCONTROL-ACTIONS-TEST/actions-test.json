@@ -15110,10 +15110,10 @@
       "orderNumber": 4,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "UC",
+      "serviceCode": "Workbench",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/manage-master-data",
-      "path": "UC",
+      "path": "Workbench",
       "leftIcon": "image:collections-bookmark"
     }
    ]
