@@ -38,14 +38,6 @@
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
-      "service": "PT.MUTATION",
-      "code": "PTMUTAN2023",
-      "financialYear": "2023-24"
-    },
-    {
-      "fromDate": 1680287400000,
-      "toDate": 1711909799000,
-      "periodCycle": "ANNUAL",
       "service": "TL",
       "code": "TLRENEWAL2023",
       "financialYear": "2023-24"
@@ -538,6 +530,30 @@
       "code": "BPA10YRS2018",
       "financialYear": "2018-28"
     },
+	{
+      "fromDate": 1680307200000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2023",
+      "financialYear": "2023-24"
+    },
+	{
+      "fromDate": 1648771200000,
+      "toDate": 1680307199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2022",
+      "financialYear": "2022-23"
+    },
+	{
+      "fromDate": 1617235201000,
+      "toDate": 1648771199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2021",
+      "financialYear": "2021-22"
+    },
     {
       "fromDate": 1585785599000,
       "toDate": 1617235199000,
@@ -657,22 +673,6 @@
       "service": "FSM.TRIP_CHARGES",
       "code": "FSMTRIPCHARGE10YRS",
       "financialYear": "2020-2030"
-    },
-    {
-      "fromDate": 1617235201000,
-      "toDate": 1648771199000,
-      "periodCycle": "ANNUAL",
-      "service": "PT.MUTATION",
-      "code": "PTMUTAN2021",
-      "financialYear": "2021-22"
-    },
-    {
-      "fromDate": 1648751400000,
-      "toDate": 1680287399000,
-      "periodCycle": "ANNUAL",
-      "service": "PT.MUTATION",
-      "code": "PTMUTAN2022",
-      "financialYear": "2022-23"
     },
 	{
       "fromDate": 1459449000000,
@@ -1608,14 +1608,6 @@
       "periodCycle": "ANNUAL",
       "service": "PT",
       "code": "PTAN2023",
-      "financialYear": "2023-24"
-    },
-	{
-      "fromDate": 1680307199000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
-      "service": "PT.MUTATION",
-      "code": "PTMUTAN2023",
       "financialYear": "2023-24"
     },
     {
