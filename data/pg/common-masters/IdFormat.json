@@ -724,7 +724,7 @@
         },
         {
             "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "ptr.receipt.id"
+            "idname": "pet-services.receipt.id"
         }
     ]
 }
