@@ -15377,6 +15377,45 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "WS Report"
-    }
+    },
+	{
+         "id": 2563,
+         "name": "TradeLicenseCancelledRegistryReport",
+         "url": "url",
+         "displayName": "Trade License Cancelled Registry Report",
+         "orderNumber": 4,
+         "parentModule": "rainmaker-tl",
+         "enabled": true,
+         "serviceCode": "TL",
+         "code": "null",
+         "path": "TradeLicense.Trade License Reports.TradeLicenseCancelledRegistryReport",
+         "navigationURL": "report/rainmaker-tl/TradeLicenseCancelledRegistryReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+	   {
+         "id": 2564,
+         "name": "TradeLicenseCancelledRegistryReport",
+         "url": "/report/rainmaker-tl/TradeLicenseCancelledRegistryReport/metadata/_get",
+         "displayName": "rainmaker-tl-TradeLicenseCancelledRegistryReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 2565,
+         "name": "TradeLicenseCancelledRegistryReport",
+         "url": "/report/rainmaker-tl/TradeLicenseCancelledRegistryReport/_get",
+         "displayName": "rainmaker-tl-TradeLicenseCancelledRegistryReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
