@@ -1519,6 +1519,46 @@
       "order": "0",
       "isRequired": false
     },
+	{
+      "category": "TAX",
+      "service": "TB.Challan_Under_section_156",
+      "name": "TB.Challan_Under_section_156_TAX",
+      "code": "TB.Challan_Under_section_156_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TB.Challan_Under_section_156",
+      "name": "TB.Challan_Under_section_156_FIELD_FEE",
+      "code": "TB.Challan_Under_section_156_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+     {
+      "category": "TAX",
+      "service": "TB.Challan_Under_section_156",
+      "name": "TB.Challan_Under_section_156_CGST",
+      "code": "TB.Challan_Under_section_156_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TB.Challan_Under_section_156",
+      "name": "TB.Challan_Under_section_156_SGST",
+      "code": "TB.Challan_Under_section_156_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
     {
       "category": "TAX",
       "service": "WF.Contractor_Enlistment",
@@ -3204,8 +3244,8 @@
 },
 {
 "category": "TAX",
-"service": "TX.ADVT.Outdoor_Media_Display_Fee",
-"name": "TX.ADVT.Outdoor_Media_Display_Fee_TAX",
+"service": "ADVT.Outdoor_Media_Display_Fee",
+"name": "ADVT.Outdoor_Media_Display_Fee_TAX",
 "code": "ADVT.Outdoor_Media_Display_Fee_TAX",
 "isDebit": false,
 "isActualDemand": true,
@@ -3220,7 +3260,7 @@
 "isDebit": false,
 "isActualDemand": false,
 "order": "1",
-"isRequired": false
+"isRequired": true
 },
 {
 "category": "TAX",
@@ -3230,7 +3270,7 @@
 "isDebit": false,
 "isActualDemand": false,
 "order": "0",
-"isRequired": false
+"isRequired": true
 },
 {
 "category": "TAX",
@@ -3240,20 +3280,8 @@
 "isDebit": false,
 "isActualDemand": false,
 "order": "0",
-"isRequired": false
+"isRequired": true
 },
-
-
-
-
-
-
-
-
-
-
-
-
 {
 "category": "TAX",
 "service": "RT.Tower_Installation",
@@ -5678,14 +5706,14 @@
   "isDiscountApplicable": false
 },
 {
-  "category": "CHARGES",
+  "category": "TAX",
   "service": "DEATH_CERT",
   "name": "DEATH_CERT_FEE",
   "code": "DEATH_CERT_FEE",
   "isDebit": false,
   "isActualDemand": false,
   "order": "0",
-  "isRequired": false,
+  "isRequired": true,
   "isDiscountApplicable": false
 },
 	   {

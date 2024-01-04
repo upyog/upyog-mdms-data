@@ -26355,6 +26355,18 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "SYS_INTEGRATOR_GIS",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_GIS",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "pg"
+    },	  
+    {
       "rolecode": "TL_CEMP",
       "actionid": 1895,
       "actioncode": "",
@@ -26625,6 +26637,12 @@
       "tenantId": "pg"
     },
 	{
+      "rolecode": "PT_CEMP",
+      "actionid": 2554,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
       "rolecode": "SUPERUSER",
       "actionid": 2555,
       "actioncode": "",
@@ -26649,6 +26667,12 @@
       "tenantId": "pg"
     },
 	{
+      "rolecode": "PT_CEMP",
+      "actionid": 2555,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
       "rolecode": "SUPERUSER",
       "actionid": 2556,
       "actioncode": "",
@@ -26663,6 +26687,66 @@
     {
       "rolecode": "PGR_LME",
       "actionid": 2556,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "PT_CEMP",
+      "actionid": 2556,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "PT_CEMP",
+      "actionid": 2557,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "PT_CEMP",
+      "actionid": 2558,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "PT_CEMP",
+      "actionid": 2559,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 2560,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2560,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 2561,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2561,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 2562,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2562,
       "actioncode": "",
       "tenantId": "pg"
     }

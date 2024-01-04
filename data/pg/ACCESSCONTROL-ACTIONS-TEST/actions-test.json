@@ -10242,7 +10242,7 @@
       "displayName": "PTCollection Report",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": "Property Tax.PT Reports.Receipt Register",
@@ -10256,7 +10256,7 @@
       "url": "/report/pt-reports/PTCollectionReport/_get",
       "displayName": "PT Collection Report",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PTCOLLECTIONREPORTS",
       "code": "null",
       "path": "Employee Report"
@@ -10267,7 +10267,7 @@
       "url": "/report/pt-reports/PTCollectionReport/metadata/_get",
       "displayName": "PTCollection Metadata Report",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PTCOLLECTIONREPORTMETADATA",
       "code": "null",
       "path": "Employee Report"
@@ -15178,7 +15178,7 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": "NatDashboard.Main Dashboard",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/mainDashboard",
+      "navigationURL": "/digit-ui/employee/dss/main-dashboard-landing",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -15278,33 +15278,105 @@
          "enabled": true,
          "serviceCode": "PGR",
          "code": "null",
-         "path": "Complaints.PGR Reports.PTGrievances",
-         "navigationURL": "report/pgr/PTGrievances",
+		 "path": "Property Tax.PT Reports.PTGrievances",
+         "navigationURL": "report/pt-reports/PTGrievances",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
 	  {
          "id": 2555,
          "name": "PTGrievancesReport-Metadata",
-         "url": "/report/pgr/PTGrievances/metadata/_get",
+         "url": "/report/pt-reports/PTGrievances/metadata/_get",
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
       }, {
          "id": 2556,
          "name": "PTGrievances",
-         "url": "/report/pgr/PTGrievances/_get",
+         "url": "/report/pt-reports/PTGrievances/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
          "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
-      }
-	
+      },{
+      "id": 2557,
+      "name": "PTCoverageReport",
+      "url": "url",
+      "displayName": "PT Coverage Report",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "Property Tax.PT Reports.PT Coverage Report",
+      "navigationURL": "report/pt-reports/PTCoverageReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2558,
+      "name": "PTCoverageReport",
+      "url": "/report/pt-reports/PTCoverageReport/_get",
+      "displayName": "PT Coverage Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PTPTCOVERAGEREPORTS",
+      "code": "null",
+      "path": "Employee Report"
+    },
+    {
+      "id": 2559,
+      "name": "PTCoverageReport",
+      "url": "/report/pt-reports/PTCoverageReport/metadata/_get",
+      "displayName": "PT Coverage Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "PTCOVERAGEREPORTMETADATA",
+      "code": "null",
+      "path": "Employee Report"
+    },
+	{
+      "id": 2560, 
+      "name": "DemandCollectionBalancedRegister",
+      "url": "url",
+      "displayName": "Demand Collection Balanced Report",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "Water & Sewerage.Water & Sewerage Reports.DemandCollectionBalancedRegister",
+      "navigationURL": "report/rainmaker-ws/DemandCollectionBalancedRegister",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+    {
+      "id": 2561, 
+      "name": "DemandCollectionBalancedRegister-Metadata",
+      "url": "/report/rainmaker-ws/DemandCollectionBalancedRegister/metadata/_get",
+      "displayName": "WS Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
+    },
+    {
+      "id": 2562, 
+      "name": "DemandCollectionBalancedRegister",
+      "url": "/report/rainmaker-ws/DemandCollectionBalancedRegister/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "path": "WS Report"
+    }
    ]
 }
