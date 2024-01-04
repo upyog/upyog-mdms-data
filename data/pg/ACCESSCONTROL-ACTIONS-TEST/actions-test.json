@@ -15112,7 +15112,7 @@
       "enabled": true,
       "serviceCode": "Workbench",
       "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/manage-master-data",
+      "navigationURL": "/workbench-ui/employee",
       "path": "Workbench",
       "leftIcon": "image:collections-bookmark"
     }
