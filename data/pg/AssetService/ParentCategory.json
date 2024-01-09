@@ -1,0 +1,38 @@
+{
+    "tenantId": "pg",
+    "moduleName": "AssetService",
+    "ParentCategory": [
+      {
+        "name": "Land",
+        "code": "LAND",
+        "active": true,
+        "AssetCategory": "IMMOVABLE"
+      },
+      {
+        "name": "Buildings",
+        "code": "BUILDINGS",
+        "active": true,
+        "AssetCategory": "IMMOVABLE"
+      },
+      {
+        "name": "Services",
+        "code": "SERVICES",
+        "active": true,
+        "AssetCategory": "IMMOVABLE"
+      },
+      {
+        "name": "Vehicles",
+        "code": "VEHICLES",
+        "active": true,
+        "AssetCategory": "MOVABLE"
+      },
+      {
+        "name": "Office Equipmnet ",
+        "code": "OFFICE_EQQUIPMENT",
+        "active": true,
+        "AssetCategory": "MOVABLE"
+      }
+     
+    ]
+  }
+  
