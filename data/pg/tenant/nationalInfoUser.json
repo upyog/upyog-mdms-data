@@ -3,28 +3,22 @@
   "moduleName": "tenant",
   "nationalInfoUser": [
     {
-      "stateCode": "Punjab",
-      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+      "stateCode": "Punjab"
     },
  {
-      "stateCode": "Chandigarh",
-      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+      "stateCode": "Chandigarh"
     },
  {
-      "stateCode": "Uttarakhand",
-      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+      "stateCode": "Uttarakhand"
     },
  {
-      "stateCode": "Karnataka",
-      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+      "stateCode": "Karnataka"
     },
  {
-      "stateCode": "Maharashtra",
-      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+      "stateCode": "Maharashtra"
     },
  {
-      "stateCode": "Telangana",
-      "uuid":"54dd1169-7ae7-4589-95ba-5b2bb5f56894"
+      "stateCode": "Telangana"
     },
 {
       "stateCode": "Tamil Nadu",
