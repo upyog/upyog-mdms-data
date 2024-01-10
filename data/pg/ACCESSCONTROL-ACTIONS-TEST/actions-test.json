@@ -15470,6 +15470,44 @@
          "queryParams": "",
          "sidebar": "digit-ui-links",
          "sidebarURL": "/digit-ui/citizen/ptr-home"
-       }
+       },
+	   {
+         "id": 2570,
+         "name": "GrievanceDispatchDate",
+         "url": "/report/pgr/GrievanceDispatchDate/_get",
+         "displayName": "PGR Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+	   {
+         "id": 2571,
+         "name": "PGR-GrievanceDispatchDate-Metadata",
+         "url": "/report/pgr/GrievanceDispatchDate/metadata/_get",
+         "displayName": "Rainmaker PGR report",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+	   {
+         "id": 2572,
+         "name": "GrievanceDispatchDate",
+         "url": "url",
+         "displayName": "Grievance Dispatch Report",
+         "orderNumber": 6,
+         "parentModule": "pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Complaints.PGR Reports.GrievanceDispatchDate",
+         "navigationURL": "report/pgr/GrievanceDispatchDate",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      }
    ]
 }
