@@ -15416,6 +15416,82 @@
          "queryParams": "",
          "sidebar": "digit-ui-links",
          "sidebarURL": "/digit-ui/citizen/ptr-home"
-       }
+       },
+	   {
+         "id": 2570,
+         "name": "GrievanceDispatchDate",
+         "url": "/report/pgr/GrievanceDispatchDate/_get",
+         "displayName": "PGR Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+	   {
+         "id": 2571,
+         "name": "PGR-GrievanceDispatchDate-Metadata",
+         "url": "/report/pgr/GrievanceDispatchDate/metadata/_get",
+         "displayName": "Rainmaker PGR report",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+	   {
+         "id": 2572,
+         "name": "GrievanceDispatchDate",
+         "url": "url",
+         "displayName": "Grievance Dispatch Report",
+         "orderNumber": 6,
+         "parentModule": "pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Complaints.PGR Reports.GrievanceDispatchDate",
+         "navigationURL": "report/pgr/GrievanceDispatchDate",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+	  {
+         "id": 2573,
+         "name": "Grievance Reopen Report",
+         "url": "/report/pgr/GrievanceReopenRecord/_get",
+         "displayName": "PGR Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+	   {
+         "id": 2574,
+         "name": "PGR-GrievanceReopenRecord-Metadata",
+         "url": "/report/pgr/GrievanceReopenRecord/metadata/_get",
+         "displayName": "Rainmaker PGR report",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+	   {
+         "id": 2575,
+         "name": "Grievance Reopen Report",
+         "url": "url",
+         "displayName": "Grievance Reopen Report",
+         "orderNumber": 6,
+         "parentModule": "pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Complaints.PGR Reports.GrievanceReopenRecord",
+         "navigationURL": "report/pgr/GrievanceReopenRecord",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      }
    ]
 }

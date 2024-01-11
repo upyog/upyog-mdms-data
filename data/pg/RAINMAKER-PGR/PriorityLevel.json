@@ -1,0 +1,21 @@
+{
+    "tenantId": "pg",
+    "moduleName": "RAINMAKER-PGR",
+    "PriorityLevel": [
+      {
+        "name": "Priority 1",
+        "code": "P1",
+        "active": true
+      },
+      {
+        "name": "Priority 2",
+        "code": "P2",
+        "active": true
+      },
+      {
+        "name": "Priority 3",
+        "code": "P3",
+        "active": true
+      }
+    ]
+  }
