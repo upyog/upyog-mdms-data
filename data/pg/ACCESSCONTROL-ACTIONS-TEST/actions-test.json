@@ -15511,7 +15511,7 @@
       },
 	  {
          "id": 2573,
-         "name": "Grievance Reopen Report",
+         "name": "Grievance Reopen Record",
          "url": "/report/pgr/GrievanceReopenRecord/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
@@ -15534,9 +15534,9 @@
       },
 	   {
          "id": 2575,
-         "name": "Grievance Reopen Report",
+         "name": "Grievance Reopen Record",
          "url": "url",
-         "displayName": "Grievance Reopen Report",
+         "displayName": "Grievance Reopen Record",
          "orderNumber": 6,
          "parentModule": "pgr",
          "enabled": true,
