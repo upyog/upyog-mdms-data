@@ -18,14 +18,6 @@
       "code": "PTAN2023",
       "financialYear": "2023-24"
     },
-    {
-      "fromDate": 1680287400000,
-      "toDate": 1711909799000,
-      "periodCycle": "ANNUAL",
-      "service": "FIRENOC",
-      "code": "FIRENOCAN2023",
-      "financialYear": "2023-24"
-    },
       {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
@@ -194,6 +186,46 @@
       "code": "TLAN2023",
       "financialYear": "2023-24"
     },
+	{
+      "fromDate": 1680287400000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2023",
+      "financialYear": "2023-24"
+    },
+	{
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2022",
+      "financialYear": "2022-23"
+    },
+	{
+      "fromDate": 1617215400000,
+      "toDate": 1648751399000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2021",
+      "financialYear": "2021-22"
+    },
+	{
+      "fromDate": 1585679400000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2020",
+      "financialYear": "2020-21"
+    },
+	{
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2019",
+      "financialYear": "2019-20"
+    },
     {
       "fromDate": 1522540800000,
       "toDate": 1554076799000,
@@ -219,48 +251,8 @@
       "financialYear": "2016-17"
     },
     {
-      "fromDate": 1554076799000,
-      "toDate": 1585679399000,
-      "periodCycle": "ANNUAL",
-      "service": "FIRENOC",
-      "code": "FIRENOCAN2019",
-      "financialYear": "2019-20"
-    },
-    {
-      "fromDate": 1617215400000,
-      "toDate": 1648751399000,
-      "periodCycle": "ANNUAL",
-      "service": "FIRENOC",
-      "code": "FIRENOCAN2016",
-      "financialYear": "2020-21"
-    },
-    {
-      "fromDate": 1617215400000,
-      "toDate": 1648751399000,
-      "periodCycle": "ANNUAL",
-      "service": "FIRENOC",
-      "code": "FIRENOCAN2019",
-      "financialYear": "2021-22"
-    },
-	{
-      "fromDate": 1680307199000,
-      "toDate": 1711909799000,
-      "periodCycle": "ANNUAL",
-      "service": "FIRENOC",
-      "code": "FIRENOCAN2023",
-      "financialYear": "2023-24"
-    },
-	{
       "fromDate": 1459449000000,
       "toDate": 1711909799000,
-      "periodCycle": "ANNUAL",
-      "service": "FIRENOC",
-      "code": "FIRENOCAN2022",
-      "financialYear": "2022-23"
-    },
-    {
-      "fromDate": 1648751400000,
-      "toDate": 1680287399000,
       "periodCycle": "ANNUAL",
       "service": "TX.Electricity_Chungi",
       "code": "TXNDCAN2023",
@@ -1633,6 +1625,30 @@
       "service": "PT.MUTATION",
       "code": "PTMUTAN2023",
       "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "WSReconnection",
+      "code": "WS10YRS2019",
+      "financialYear": "2019-29"
+    },
+	{
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "SWReconnection",
+      "code": "SW10YRS2019",
+      "financialYear": "2019-29"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "pet-services",
+      "code": "PET10YRS2019",
+      "financialYear": "2019-29"
     }
   ]
 }

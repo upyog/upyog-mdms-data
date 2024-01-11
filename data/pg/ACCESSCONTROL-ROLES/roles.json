@@ -693,6 +693,11 @@
       "description": "FireNOC User that can view FireNOC reports"
     },
     {
+      "code": "SYS_INTEGRATOR_GIS",
+      "name": "System Integrator GIS",
+      "description": "Role for allowing system integration of GIS app with UPYOG"
+    },
+    {
       "code": "MDMS_ADMIN",
       "name": "MDMS ADMIN",
       "description": "MDMS User that can create and search schema"
