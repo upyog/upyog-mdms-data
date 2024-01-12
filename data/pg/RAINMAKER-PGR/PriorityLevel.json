@@ -3,18 +3,18 @@
     "moduleName": "RAINMAKER-PGR",
     "PriorityLevel": [
       {
-        "name": "Priority 1",
-        "code": "P1",
+        "name": "LOW",
+        "code": "LOW",
         "active": true
       },
       {
-        "name": "Priority 2",
-        "code": "P2",
+        "name": "MEDIUM",
+        "code": "MEDIUM",
         "active": true
       },
       {
-        "name": "Priority 3",
-        "code": "P3",
+        "name": "HIGH",
+        "code": "HIGH",
         "active": true
       }
     ]
