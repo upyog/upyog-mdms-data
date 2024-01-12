@@ -15492,6 +15492,44 @@
          "navigationURL": "report/pgr/GrievanceReopenRecord",
          "leftIcon": "action:assignment",
          "rightIcon": ""
+      },
+	  {
+         "id": 2576,
+         "name": "TopTenGrievances",
+         "url": "/report/pgr/TopTenGrievances/_get",
+         "displayName": "PGR Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+	   {
+         "id": 2577,
+         "name": "PGR-TopTenGrievances-Metadata",
+         "url": "/report/pgr/TopTenGrievances/metadata/_get",
+         "displayName": "Rainmaker PGR report",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+	   {
+         "id": 2578,
+         "name": "TopTenGrievances",
+         "url": "url",
+         "displayName": "TopTenGrievances",
+         "orderNumber": 6,
+         "parentModule": "pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Complaints.PGR Reports.TopTenGrievances",
+         "navigationURL": "report/pgr/TopTenGrievances",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
       }
    ]
 }
