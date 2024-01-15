@@ -24067,6 +24067,12 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+ {
+      "rolecode": "FSM_DSO",
+      "actionid": 2071,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
     {
       "rolecode": "FSM_EDITOR_EMP",
       "actionid": 2071,
