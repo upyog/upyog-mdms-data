@@ -26881,6 +26881,24 @@
       "actionid": 2578,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 2579,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_CEMP",
+      "actionid": 2579,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2579,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

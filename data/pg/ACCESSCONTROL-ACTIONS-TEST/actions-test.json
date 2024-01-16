@@ -15530,6 +15530,18 @@
          "navigationURL": "report/pgr/TopTenGrievances",
          "leftIcon": "action:assignment",
          "rightIcon": ""
+      },
+      {
+         "id": 2579,
+         "name": "PTR Payment search",
+         "url": "/collection-services/payments/pet-services/_search",
+         "displayName": "PTR Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
       }
    ]
 }
