@@ -706,6 +706,11 @@
       "code": "LOC_ADMIN",
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
+    },
+    {
+      "code": "PT_REPORT_VIEWER",
+      "name": "PT Report Viewer",
+      "description": "PT User that can view PT reports"
     }
   ]
 }
