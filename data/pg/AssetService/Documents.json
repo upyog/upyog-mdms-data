@@ -1,0 +1,32 @@
+{
+    "tenantId": "pg",
+    "moduleName": "AssetService",
+    "Documents": [
+      {
+        "code": "OWNER.BILLCOPY",
+        "documentType": "OWNER.BILLCOPY",
+        "required": true,
+        "active": true,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "dropdownData": [
+            {
+                "code": "OWNER.BILLCOPY",
+                "active": true
+            }
+        ],
+        "description": "OWNER.BILLCOPY_DESCRIPTION"
+    }
+      
+    ]
+  }
