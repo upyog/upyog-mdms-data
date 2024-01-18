@@ -15542,6 +15542,45 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
-      }
+      },
+	  	{
+         "id": 2580,
+         "name": "TradeLicenseDefaulterReport",
+         "url": "url",
+         "displayName": "Trade License Defaulter Report",
+         "orderNumber": 4,
+         "parentModule": "rainmaker-tl",
+         "enabled": true,
+         "serviceCode": "TL",
+         "code": "null",
+         "path": "TradeLicense.Trade License Reports.TradeLicenseDefaulterReport",
+         "navigationURL": "report/rainmaker-tl/TradeLicenseDefaulterReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+	        {
+         "id": 2581,
+         "name": "TradeLicenseDefaulterReport",
+         "url": "/report/rainmaker-tl/TradeLicenseDefaulterReport/_get",
+         "displayName": "rainmaker-tl-TradeLicenseDefaulterReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
+	        {
+         "id": 2582,
+         "name": "TradeLicenseDefaulterReport",
+         "url": "/report/rainmaker-tl/TradeLicenseDefaulterReport/metadata/_get",
+         "displayName": "rainmaker-tl-TradeLicenseDefaulterReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
    ]
 }
