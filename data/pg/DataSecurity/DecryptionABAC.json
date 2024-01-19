@@ -494,6 +494,24 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+		        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
