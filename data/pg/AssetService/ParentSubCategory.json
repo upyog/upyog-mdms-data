@@ -39,13 +39,13 @@
         "ParentCategory": "LAND"
       },
       {
-        "name": "Waste Landfill Sites ",
+        "name": "Waste Landfill Sites",
         "code": "WASTE_LANDFILL_SITES",
         "active": true,
         "ParentCategory": "LAND"
       },
       {
-        "name": "Administration ",
+        "name": "Administration",
         "code": "ADMINISTRATION",
         "active": true,
         "ParentCategory": "BUILDINGS"
@@ -57,58 +57,70 @@
         "ParentCategory": "BUILDINGS"
       },
       {
-        "name": "Education ",
+        "name": "Education",
         "code": "EDUCATION",
         "active": true,
         "ParentCategory": "BUILDINGS"
       },
       {
-        "name": "Health ",
+        "name": "Health",
         "code": "HEALTH",
         "active": true,
         "ParentCategory": "BUILDINGS"
       },
       {
-        "name": "Public Facilities ",
+        "name": "Public Facilities",
         "code": "PUBLIC_FACILITIES",
         "active": true,
         "ParentCategory": "BUILDINGS"
       },
       {
-        "name": "Residential ",
+        "name": "Residential",
         "code": "RESIDENTIAL",
         "active": true,
         "ParentCategory": "BUILDINGS"
       },
       {
-        "name": "Roads / Streets ",
+        "name": "Roads / Streets",
         "code": "ROADS_STREETS",
         "active": true,
         "ParentCategory": "SERVICES"
       },
       {
-        "name": "Traffic Lights ",
+        "name": "Traffic Lights",
         "code": "TRAFFIC_LIGHTS",
         "active": true,
         "ParentCategory": "SERVICES"
       },
       {
-        "name": "Advertisement ",
+        "name": "Advertisement",
         "code": "ADVERTISEMENT",
         "active": true,
         "ParentCategory": "SERVICES"
       },
       {
-        "name": "Pipelines ",
+        "name": "Pipelines",
         "code": "PIPELINES",
         "active": true,
         "ParentCategory": "SERVICES"
       },
       {
-        "name": "Storage Facilities ",
+        "name": "Storage Facilities",
         "code": "STORAGE_FACILITIES",
         "active": true,
         "ParentCategory": "SERVICES"
+      },
+      {
+        "name": "Vehicles",
+        "code": "VEHICLES",
+        "active": true,
+        "ParentCategory": "VEHICLES"
+      },
+      {
+        "name": "Office Equipmnet",
+        "code": "OFFICE_EQQUIPMENT",
+        "active": true,
+        "ParentCategory": "OFFICE_EQQUIPMENT"
       }
       
       
