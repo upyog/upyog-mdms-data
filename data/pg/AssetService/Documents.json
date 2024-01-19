@@ -3,8 +3,8 @@
     "moduleName": "AssetService",
     "Documents": [
       {
-        "code": "OWNER.BILLCOPY",
-        "documentType": "OWNER.BILLCOPY",
+        "code": "OWNER.RECIEPTPHOTO",
+        "documentType": "OWNER.RECIEPTPHOTO",
         "required": true,
         "active": true,
         "additionalDetails": {
@@ -21,12 +21,37 @@
         },
         "dropdownData": [
             {
-                "code": "OWNER.BILLCOPY",
+                "code": "OWNER.RECIEPTPHOTO",
                 "active": true
             }
         ],
-        "description": "OWNER.BILLCOPY_DESCRIPTION"
-    }
+        "description": "OWNER.RECIEPTPHOTO_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.ASSETPHOTO",
+      "documentType": "OWNER.ASSETPHOTO",
+      "required": true,
+      "active": true,
+      "additionalDetails": {
+        "enabledActions": {
+          "update": {
+            "disableUpload": true,
+            "disableDropdown": true
+          },
+          "create": {
+            "disableUpload": false,
+            "disableDropdown": false
+          }
+        }
+      },
+      "dropdownData": [
+          {
+              "code": "OWNER.ASSETPHOTO",
+              "active": true
+          }
+      ],
+      "description": "OWNER.ASSETPHOTO_DESCRIPTION"
+  }
       
     ]
   }
