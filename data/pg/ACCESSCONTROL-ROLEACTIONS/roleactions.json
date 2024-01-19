@@ -26923,6 +26923,12 @@
       "actionid": 2582,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	   {
+      "rolecode": "WS_CEMP",
+      "actionid": 2583,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
