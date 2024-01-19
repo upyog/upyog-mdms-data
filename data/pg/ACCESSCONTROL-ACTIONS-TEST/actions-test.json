@@ -15581,6 +15581,17 @@
          "serviceCode": "report",
          "code": "null",
          "path": ""
+      },
+	    {
+         "id": 2583,
+         "name": "Enter Bulk Meter Reading",
+         "url": "/ws-calculator/meterConnection/_bulkReading",
+         "displayName": "Enter Bulk Meter Reading",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
       }
    ]
 }
