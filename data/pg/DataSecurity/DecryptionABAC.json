@@ -254,6 +254,12 @@
                 "jsonPath": "*/lastassignedto"
               },
               "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
+              },
+              "accessType": "PLAIN"
             }
           ]
         },
@@ -271,6 +277,12 @@
                 "jsonPath": "*/lastassignedto"
               },
               "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
+              },
+              "accessType": "PLAIN"
             }
           ]
         },
@@ -286,6 +298,12 @@
             {
               "attribute": {
                 "jsonPath": "*/lastassignedto"
+              },
+              "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
               },
               "accessType": "PLAIN"
             }
@@ -461,6 +479,24 @@
       "roleAttributeAccessList": [
         {
           "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+		        {
+          "roleCode": "TL_CEMP",
           "attributeAccessList": [
             {
               "attribute": {
