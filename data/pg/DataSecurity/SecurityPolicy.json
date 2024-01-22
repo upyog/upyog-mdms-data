@@ -973,8 +973,16 @@
           }
         ],
         "roleBasedDecryptionPolicy": [
-  
-        ]
+		{
+            "roles": [
+			"TL_CEMP",
+			"EMPLOYEE"
+        ],
+            "attributeAccessList": [
+
+            ]
+		}
+		]
       },
       {
         "model": "TradeLicenseDailyCollectionReport",
