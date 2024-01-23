@@ -319,12 +319,12 @@
 		  {
             "name": "mobilenumber",
             "jsonPath": "mobilenumber",
-            "patternId": null,
+            "patternId": 001,
             "defaultVisibility": "PLAIN"
           }
         ],
         "roleBasedDecryptionPolicy": [
-  
+			
         ]
       },
       {
@@ -980,7 +980,7 @@
 		  {
             "name": "mobilenumber",
             "jsonPath": "mobilenumber",
-            "patternId": null,
+            "patternId": 001,
             "defaultVisibility": "PLAIN"
           }
         ],
