@@ -315,6 +315,12 @@
             "jsonPath": "name",
             "patternId": "002",
             "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "mobilenumber",
+            "jsonPath": "mobileNumber",
+            "patternId": null,
+            "defaultVisibility": "PLAIN"
           }
         ],
         "roleBasedDecryptionPolicy": [
@@ -969,6 +975,12 @@
             "name": "name",
             "jsonPath": "name",
             "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "mobilenumber",
+            "jsonPath": "mobileNumber",
+            "patternId": null,
             "defaultVisibility": "PLAIN"
           }
         ],
