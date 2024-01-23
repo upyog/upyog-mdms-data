@@ -1,0 +1,130 @@
+{
+    "tenantId": "pg",
+    "moduleName": "AssetService",
+    "ParentSubCategory": [
+      {
+        "name": "Vacant Land",
+        "code": "VACANT_LAND",
+        "active": true,
+        "ParentCategory": "LAND"
+      },
+      {
+        "name": "Open Spaces",
+        "code": "OPEN_SPACES",
+        "active": true,
+        "ParentCategory": "LAND"
+      },
+      {
+        "name": "Parks & Gardens",
+        "code": "PARKS_GARDENS",
+        "active": true,
+        "ParentCategory": "LAND"
+      },
+      {
+        "name": "Burial Grounds",
+        "code": "BURIAL_GROUNDS",
+        "active": true,
+        "ParentCategory": "LAND"
+      },
+      {
+        "name": "Cremation Grounds",
+        "code": "CREMATION_GROUNDS",
+        "active": true,
+        "ParentCategory": "LAND"
+      },
+      {
+        "name": "Atheletic Fields",
+        "code": "ATHELETIC_FIELDS",
+        "active": true,
+        "ParentCategory": "LAND"
+      },
+      {
+        "name": "Waste Landfill Sites",
+        "code": "WASTE_LANDFILL_SITES",
+        "active": true,
+        "ParentCategory": "LAND"
+      },
+      {
+        "name": "Administration",
+        "code": "ADMINISTRATION",
+        "active": true,
+        "ParentCategory": "BUILDINGS"
+      },
+      {
+        "name": "Commercial ",
+        "code": "COMMERCIAL",
+        "active": true,
+        "ParentCategory": "BUILDINGS"
+      },
+      {
+        "name": "Education",
+        "code": "EDUCATION",
+        "active": true,
+        "ParentCategory": "BUILDINGS"
+      },
+      {
+        "name": "Health",
+        "code": "HEALTH",
+        "active": true,
+        "ParentCategory": "BUILDINGS"
+      },
+      {
+        "name": "Public Facilities",
+        "code": "PUBLIC_FACILITIES",
+        "active": true,
+        "ParentCategory": "BUILDINGS"
+      },
+      {
+        "name": "Residential",
+        "code": "RESIDENTIAL",
+        "active": true,
+        "ParentCategory": "BUILDINGS"
+      },
+      {
+        "name": "Roads / Streets",
+        "code": "ROADS_STREETS",
+        "active": true,
+        "ParentCategory": "SERVICES"
+      },
+      {
+        "name": "Traffic Lights",
+        "code": "TRAFFIC_LIGHTS",
+        "active": true,
+        "ParentCategory": "SERVICES"
+      },
+      {
+        "name": "Advertisement",
+        "code": "ADVERTISEMENT",
+        "active": true,
+        "ParentCategory": "SERVICES"
+      },
+      {
+        "name": "Pipelines",
+        "code": "PIPELINES",
+        "active": true,
+        "ParentCategory": "SERVICES"
+      },
+      {
+        "name": "Storage Facilities",
+        "code": "STORAGE_FACILITIES",
+        "active": true,
+        "ParentCategory": "SERVICES"
+      },
+      {
+        "name": "Vehicles",
+        "code": "VEHICLES",
+        "active": true,
+        "ParentCategory": "VEHICLES"
+      },
+      {
+        "name": "Office Equipmnet",
+        "code": "OFFICE_EQQUIPMENT",
+        "active": true,
+        "ParentCategory": "OFFICE_EQQUIPMENT"
+      }
+      
+      
+     
+    ]
+  }
+  

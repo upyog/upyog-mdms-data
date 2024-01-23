@@ -15581,6 +15581,55 @@
          "serviceCode": "report",
          "code": "null",
          "path": ""
+      },
+	    {
+         "id": 2583,
+         "name": "Enter Bulk Meter Reading",
+         "url": "/ws-calculator/meterConnection/_bulkReading",
+         "displayName": "Enter Bulk Meter Reading",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 2584,
+         "name": "GrievanceWithPriority",
+         "url": "/report/pgr/GrievanceWithPriority/_get",
+         "displayName": "PGR Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+	   {
+         "id": 2585,
+         "name": "PGR-GrievanceWithPriority-Metadata",
+         "url": "/report/pgr/GrievanceWithPriority/metadata/_get",
+         "displayName": "Rainmaker PGR report",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+	   {
+         "id": 2586,
+         "name": "GrievanceWithPriority",
+         "url": "url",
+         "displayName": "GrievanceWithPriority",
+         "orderNumber": 6,
+         "parentModule": "pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Complaints.PGR Reports.GrievanceWithPriority",
+         "navigationURL": "report/pgr/GrievanceWithPriority",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
       }
    ]
 }
