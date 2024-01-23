@@ -318,7 +318,7 @@
           },
 		  {
             "name": "mobilenumber",
-            "jsonPath": "mobileNumber",
+            "jsonPath": "mobilenumber",
             "patternId": null,
             "defaultVisibility": "PLAIN"
           }
@@ -979,7 +979,7 @@
           },
 		  {
             "name": "mobilenumber",
-            "jsonPath": "mobileNumber",
+            "jsonPath": "mobilenumber",
             "patternId": null,
             "defaultVisibility": "PLAIN"
           }
