@@ -15630,6 +15630,84 @@
          "navigationURL": "report/pgr/GrievanceWithPriority",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-      }
+      },
+      {
+         "id": 2587,
+         "name": "Get Authorization URL",
+         "url": "/requester-services-dx/user/authorization/url",
+         "parentModule": "",
+         "displayName": "",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "DX Requester Services",
+         "code": "null",
+         "path": "",
+         "navigationURL": ""
+      },
+      {
+         "id": 2588,
+         "name": "Get Access Token",
+         "url": "/requester-services-dx/user/token",
+         "parentModule": "",
+         "displayName": "",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "DX Requester Services",
+         "code": "null",
+         "path": "",
+         "navigationURL": ""
+      },
+      {
+         "id": 2589,
+         "name": "Get User Details",
+         "url": "/requester-services-dx/user/details",
+         "parentModule": "",
+         "displayName": "",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "DX Requester Services",
+         "code": "null",
+         "path": "",
+         "navigationURL": ""
+      },
+      {
+         "id": 2590,
+         "name": "Get Issued Files",
+         "url": "/requester-services-dx/user/issuedfiles",
+         "parentModule": "",
+         "displayName": "",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "DX Requester Services",
+         "code": "null",
+         "path": "",
+         "navigationURL": ""
+      },
+      {
+         "id": 2591,
+         "name": "Get File",
+         "url": "/requester-services-dx/user/file",
+         "parentModule": "",
+         "displayName": "",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "DX Requester Services",
+         "code": "null",
+         "path": "",
+         "navigationURL": ""
+      },
+      {
+         "id": 2592,
+         "name": "Get Authorization URL",
+         "url": "/requester-services-dx/user/authorization/url",
+         "parentModule": "",
+         "displayName": "",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "DX Requester Services",
+         "code": "null",
+         "path": "",
+         "navigationURL": ""
+      }	   
    ]
 }
