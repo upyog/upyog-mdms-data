@@ -10874,6 +10874,12 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+	{
+      "rolecode": "TL_CEMP",
+      "actionid": 1720,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 1721,
@@ -13670,12 +13676,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "TL_APPROVER",
-      "actionid": 1904,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "TL_CEMP",
       "actionid": 1906,
       "actioncode": "",
@@ -13732,12 +13732,6 @@
     {
       "rolecode": "TL_CEMP",
       "actionid": 1913,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 1914,
       "actioncode": "",
       "tenantId": "pg"
     },
