@@ -15780,6 +15780,44 @@
          "navigationURL": "report/pgr/CitizenGrievanceFeedback",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-      }	   
+      },
+	  {
+         "id": 2598,
+         "name": "StatusofGrievance",
+         "url": "/report/pgr/StatusofGrievance/_get",
+         "displayName": "PGR Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+       {
+         "id": 2599,
+         "name": "PGR-StatusofGrievance-Metadata",
+         "url": "/report/pgr/StatusofGrievance/metadata/_get",
+         "displayName": "Status of Grievance",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+       {
+         "id": 2600,
+         "name": "StatusofGrievance",
+         "url": "url",
+         "displayName": "Status of Grievance",
+         "orderNumber": 6,
+         "parentModule": "pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Complaints.PGR Reports.StatusofGrievance",
+         "navigationURL": "report/pgr/StatusofGrievance",
+         "leftIcon": "action:description",
+         "rightIcon": ""
+      }
    ]
 }
