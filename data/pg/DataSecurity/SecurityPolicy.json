@@ -908,6 +908,12 @@
             "jsonPath": "name",
             "patternId": "002",
             "defaultVisibility": "PLAIN"
+          },
+		  {
+            "name": "mobilenumber",
+            "jsonPath": "mobilenumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
           }
         ],
         "roleBasedDecryptionPolicy": [
