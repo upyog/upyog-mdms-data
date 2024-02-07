@@ -649,8 +649,8 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "School",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVT.SCHOOL",
+      "name": "Schools",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVT.SCHOOLS",
       "active": "True",
       "fromFY": "2015-16"
     },
