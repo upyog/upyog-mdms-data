@@ -262,7 +262,7 @@
     },
     {
       "name": "College",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.COLLEGES",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.COLLEGE",
       "active": true,
       "fromFY": "2015-16"
     },
