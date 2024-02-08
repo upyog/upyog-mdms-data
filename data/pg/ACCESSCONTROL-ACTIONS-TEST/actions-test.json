@@ -4851,21 +4851,6 @@
          "rightIcon": ""
       },
       {
-         "id": 1720,
-         "name": "StateLevelTradeLicenseRegistryReport",
-         "url": "url",
-         "displayName": "State Level Trade License Registry Report",
-         "orderNumber": 4,
-         "parentModule": "rainmaker-tl",
-         "enabled": true,
-         "serviceCode": "TL",
-         "code": "null",
-         "path": "TradeLicense.Trade License Reports.StateLevelTradeLicenseRegistryReport",
-         "navigationURL": "report/rainmaker-tl/StateLevelTradeLicenseRegistryReport",
-         "leftIcon": "action:assignment",
-         "rightIcon": ""
-      },
-      {
          "id": 1721,
          "name": "remittancepayment",
          "url": "url",
@@ -7130,18 +7115,6 @@
          "path": ""
       },
       {
-         "id": 1904,
-         "name": "StateLevelTradeLicenseRegistryReport",
-         "url": "/report/rainmaker-tl/StateLevelTradeLicenseRegistryReport/metadata/_get",
-         "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
-         "orderNumber": 1,
-         "parentModule": "",
-         "enabled": false,
-         "serviceCode": "report",
-         "code": "null",
-         "path": ""
-      },
-      {
          "id": 1906,
          "name": "TradeWiseCollectionReport",
          "url": "/report/rainmaker-tl/TradeWiseCollectionReport/metadata/_get",
@@ -7225,14 +7198,40 @@
          "code": "null",
          "path": ""
       },
+	  {
+         "id": 1720,
+         "name": "StateLevelTradeLicenseRegistryReport",
+         "url": "url",
+         "displayName": "State Level Trade License Registry Report",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "TradeLicense.Trade License Reports.State Level Trade License Registry Report",
+         "navigationURL": "report/rainmaker-tl/StateLevelTradeLicenseRegistryReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+	  {
+         "id": 1904,
+         "name": "StateLevelTradeLicenseRegistryReport",
+         "url": "/report/rainmaker-tl/StateLevelTradeLicenseRegistryReport/metadata/_get",
+         "displayName": "State Level Trade License Registry Report",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
       {
          "id": 1914,
          "name": "StateLevelTradeLicenseRegistryReport",
          "url": "/report/rainmaker-tl/StateLevelTradeLicenseRegistryReport/_get",
-         "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
-         "orderNumber": 1,
-         "parentModule": "",
-         "enabled": false,
+         "displayName": "State Level Trade License Registry Report",
+         "orderNumber": 0,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -15365,7 +15364,7 @@
          "name": "TradeLicenseCancelledRegistryReport",
          "url": "url",
          "displayName": "Trade License Cancelled Registry Report",
-         "orderNumber": 4,
+         "orderNumber": 2,
          "parentModule": "rainmaker-tl",
          "enabled": true,
          "serviceCode": "TL",
@@ -15374,31 +15373,31 @@
          "navigationURL": "report/rainmaker-tl/TradeLicenseCancelledRegistryReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-      },
-	   {
+    },
+	{
          "id": 2564,
-         "name": "TradeLicenseCancelledRegistryReport",
+         "name": "Trade License Cancelled Registry Report",
          "url": "/report/rainmaker-tl/TradeLicenseCancelledRegistryReport/metadata/_get",
-         "displayName": "rainmaker-tl-TradeLicenseCancelledRegistryReport",
+         "displayName": "Trade License Cancelled Registry Report",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
-      },
-	  {
+    },
+	{
          "id": 2565,
-         "name": "TradeLicenseCancelledRegistryReport",
+         "name": "Trade License Cancelled Registry Report",
          "url": "/report/rainmaker-tl/TradeLicenseCancelledRegistryReport/_get",
-         "displayName": "rainmaker-tl-TradeLicenseCancelledRegistryReport",
-         "orderNumber": 1,
+         "displayName": "Trade License Cancelled Registry Report",
+         "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
-      },
+    },
        {
          "id": 2566,
          "name": "PTR_MY_APPLICATION_HEADER",
