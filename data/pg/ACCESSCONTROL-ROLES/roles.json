@@ -667,6 +667,11 @@
       "name": "PGR Report Viewer",
       "description": "PGR User that can view tabular reports"
     },
+	{
+      "code": "MCOLLECT_REPORT_VIEWER",
+      "name": "MCollect Report Viewer",
+      "description": "MCollect User that can view tabular reports"
+    },
     {
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "Internal Microservice Role",
