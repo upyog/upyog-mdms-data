@@ -288,7 +288,7 @@
             "submitBarLabel": "CS_COMMON_NEXT",
             "skipLabel": "CS_COMMON_SERVICE_SKIP_INFO"
           },
-          "nextStep": "property-id"
+          "nextStep": "know-your-property"
         },
         {
           "label": "a",
