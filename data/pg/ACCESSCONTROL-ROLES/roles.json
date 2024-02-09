@@ -667,11 +667,6 @@
       "name": "PGR Report Viewer",
       "description": "PGR User that can view tabular reports"
     },
-	{
-      "code": "DEATH_REPORT_VIEWER",
-      "name": "Death Report Viewer",
-      "description": "Death User that can view tabular reports"
-    },
     {
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "Internal Microservice Role",
