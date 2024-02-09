@@ -26859,6 +26859,12 @@
       "tenantId": "pg"
     },
 	{
+      "rolecode": "PGR_REPORT_VIEWER",
+      "actionid": 2576,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
       "rolecode": "GRO",
       "actionid": 2577,
       "actioncode": "",
@@ -26866,6 +26872,12 @@
     },
     {
       "rolecode": "PGR_LME",
+      "actionid": 2577,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "PGR_REPORT_VIEWER",
       "actionid": 2577,
       "actioncode": "",
       "tenantId": "pg"
@@ -26882,6 +26894,12 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+	{
+      "rolecode": "PGR_REPORT_VIEWER",
+      "actionid": 2578,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
     {
       "rolecode": "PT_CEMP",
       "actionid": 2579,
@@ -27045,6 +27063,12 @@
       "tenantId": "pg"
     },
 	{
+      "rolecode": "PGR_LME",
+      "actionid": 2597,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
       "rolecode": "GRO",
       "actionid": 2598,
       "actioncode": "",
@@ -27056,6 +27080,18 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+	{
+      "rolecode": "PGR_LME",
+      "actionid": 2598,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "PGR_LME",
+      "actionid": 2598,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
     {
       "rolecode": "GRO",
       "actionid": 2599,
