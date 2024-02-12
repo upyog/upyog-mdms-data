@@ -77,6 +77,18 @@
       ]
     },
     {
+      "head": "FSM_NEW_APPLICATION_PROPERTY",
+      "body": [
+        {
+          "component": "CPTPropertySearchNSummary",
+          "withoutLabel": true,
+          "key": "cpt",
+          "type": "component",
+          "hideInCitizen": true
+        }
+      ]
+    },
+    {
       "head": "ES_NEW_APPLICATION_PROPERTY_DETAILS",
       "body": [
         {
