@@ -300,7 +300,7 @@
             "submitBarLabel": "CS_COMMON_NEXT",
             "skipLabel": "CS_COMMON_SERVICE_SKIP_INFO"
           },
-          "nextStep": "know-your-property"
+          "nextStep": "search-property"
         },
         {
           "label": "a",
