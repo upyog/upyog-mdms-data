@@ -40,7 +40,7 @@
           "component": "CPTSearchResults",
           "key": "cptsearchresults",
           "withoutLabel": true,
-          "nextStep": "property-details",
+          "nextStep": "property-type",
           "hideInEmployee": true
         },
         {
@@ -61,7 +61,7 @@
           "component": "CPTAcknowledgement",
           "key": "cptacknowledgement",
           "withoutLabel": true,
-          "nextStep": "property-details",
+          "nextStep": "property-type",
           "hideInEmployee": true
         },
         {
