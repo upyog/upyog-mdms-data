@@ -1,0 +1,21 @@
+{
+    "tenantId": "pg",
+    "moduleName": "AssetService",
+    "AssetCommonSelection": [
+      {
+        "name": "Land",
+        "code": "LAND",
+        "active": true
+      },
+      {
+        "name": "Buildings",
+        "code": "BUILDINGS",
+        "active": true
+      },
+      {
+        "name": "Services",
+        "code": "SERVICES",
+        "active": true
+      }
+    ]
+  }
