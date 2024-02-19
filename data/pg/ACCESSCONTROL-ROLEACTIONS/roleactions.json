@@ -24205,6 +24205,12 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+	{
+      "rolecode": "BIRTH_REPORT_VIEWER",
+      "actionid": 2349,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
     {
       "rolecode": "BND_CEMP",
       "actionid": 2350,
@@ -24856,12 +24862,6 @@
     {
       "rolecode": "DASHBOARD_REPORT_VIEWER",
       "actionid": 2368,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "DASHBOARD_REPORT_VIEWER",
-      "actionid": 2367,
       "actioncode": "",
       "tenantId": "pg"
     },
