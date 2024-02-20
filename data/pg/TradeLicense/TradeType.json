@@ -6137,6 +6137,19 @@
         "maxBulidingheight":10,
         "maxFloors":2
       }
+    },
+     {
+      "code": "DESIGNER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
     }
   ]
 }
