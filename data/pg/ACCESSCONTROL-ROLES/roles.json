@@ -362,6 +362,11 @@
       "name": "BPA Town Planner",
       "description": "BPA Town Planner"
     },
+	{
+      "code": "BPA_DESIGNER",
+      "name": "BPA Designer",
+      "description": "BPA Designer"
+    },
     {
       "code": "ANONYMOUS",
       "name": "Anonymous User",
