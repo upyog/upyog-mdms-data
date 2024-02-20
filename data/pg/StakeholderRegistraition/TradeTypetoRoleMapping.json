@@ -359,6 +359,71 @@
                 "required": false
             }
         ]
+      },
+	   {
+        "id": "421bbadb-c0d7-49b5-b021-77a608f13a31",
+        "tradeType": "DESIGNER.CLASSA",
+        "role": ["BPA_DESIGNER"],
+        "endstate": "APPROVED",
+        "applicationFee": 500,
+        "docTypes": [
+            {
+                "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+                "info": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+                "required": true
+            },
+            {
+                "code": "APPL.BPAREG_EDC_CERTIFICATE",
+                "info": "",
+                "required": true
+            },
+            {
+                "code": "APPL.BPAREG_EXP_CERTIFICATE",
+                "info": "",
+                "required": true
+            },
+            {
+                "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+                "info": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+                "required": true
+            },
+            {
+                "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+                "info": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+                "required": false
+            },
+            {
+                "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+                "info": "APPL.BPAREG_INCOMETAX_STATEMENT",
+                "required": false
+            },
+            {
+                "code": "APPL.BPAREG_OTHERS",
+                "info": "",
+                "required": false
+            },
+            {
+                "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+                "info": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+                "required": true
+            }
+        ]
+      },
+      {
+        "id": "421bbadb-c0d7-49b5-b021-77a608f13a31",
+        "tradeType": "DESIGNER.CLASSB",
+        "role": ["BPA_DESIGNER"],
+        "endstate": "APPROVED",
+        "applicationFee": 500,
+        "docTypes": null
+      },
+      {
+        "id": "421bbadb-c0d7-49b5-b021-77a608f13a31",
+        "tradeType": "DESIGNER.CLASSC",
+        "role": ["BPA_DESIGNER"],
+        "endstate": "APPROVED",
+        "applicationFee": 500,
+        "docTypes": null
       }
     ]
   }
