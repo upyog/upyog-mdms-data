@@ -15818,6 +15818,43 @@
          "navigationURL": "report/pgr/StatusofGrievance",
          "leftIcon": "action:description",
          "rightIcon": ""
-      }
+      },
+	  {
+      "id": 2601,
+      "name": "PTTop20TaxPayers",
+      "url": "url",
+      "displayName": "PT Top 20 Tax Payers Report",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "Property Tax.PT Reports.PT Top 20 Tax Payers Report",
+      "navigationURL": "report/pt-reports/PTTop20TaxPayers",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2602,
+      "name": "PTTop20TaxPayers",
+      "url": "/report/pt-reports/PTTop20TaxPayers/_get",
+      "displayName": "PT Top 20 Tax Payers Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PTTOPTAXPAYERSREPORTS",
+      "code": "null",
+      "path": "Employee Report"
+    },
+    {
+      "id": 2603,
+      "name": "PTTop20TaxPayers",
+      "url": "/report/pt-reports/PTTop20TaxPayers/metadata/_get",
+      "displayName": "PT Top 20 Tax Payers Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "PTTOPTAXPAYERSREPORTMETADATA",
+      "code": "null",
+      "path": "Employee Report"
+    }
    ]
 }

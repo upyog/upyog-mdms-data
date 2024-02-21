@@ -27650,6 +27650,42 @@
       "actionid": 2600,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	{
+      "rolecode": "PT_CEMP",
+      "actionid": 2601,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "PT_REPORT_VIEWER",
+      "actionid": 2601,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+		{
+      "rolecode": "PT_CEMP",
+      "actionid": 2602,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "PT_REPORT_VIEWER",
+      "actionid": 2602,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+		{
+      "rolecode": "PT_CEMP",
+      "actionid": 2603,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "PT_REPORT_VIEWER",
+      "actionid": 2603,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
