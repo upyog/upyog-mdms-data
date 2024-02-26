@@ -14718,14 +14718,14 @@
       "name": "StateLevelWater&SewerageReport",
       "url": "url",
       "displayName": "State Level Water & Sewerage Report",
-      "orderNumber": 3,
-      "parentModule": "",
+      "orderNumber": 2,
+      "parentModule": "rainmaker-wns",
       "enabled": true,
-      "serviceCode": "wns",
+      "serviceCode": "WnS",
       "code": "null",
-      "path": "Water & Sewerage.Water & Sewerage Reports.StateLevelWater&SewerageReport",
+      "path": "WnS.Wns Reports.StateLevelWater&SewerageReport",
       "navigationURL": "report/rainmaker-wns/StateLevelWater&SewerageReport",
-      "leftIcon": "action:description",
+      "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
@@ -14735,7 +14735,7 @@
       "displayName": "WS Metadata Report",
       "orderNumber": 1,
       "enabled": true,
-      "serviceCode": "wns",
+      "serviceCode": "report",
       "code": "null",
       "path": "WS Report"
     },
@@ -14744,11 +14744,11 @@
       "name": "StateLevelWater&SewerageReport",
       "url": "/report/rainmaker-wns/StateLevelWater&SewerageReport/_get",
       "displayName": "WS Report",
-      "orderNumber": 0,
+      "orderNumber": 1,
       "enabled": true,
-      "serviceCode": "wns",
+      "serviceCode": "report",
       "code": "null",
-      "path": "WS Report"
+      "path": ""
     },
 	{
       "id": 2512, 
