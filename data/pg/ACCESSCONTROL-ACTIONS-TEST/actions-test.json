@@ -15855,6 +15855,17 @@
       "serviceCode": "PTTOPTAXPAYERSREPORTMETADATA",
       "code": "null",
       "path": "Employee Report"
-    }
+    },
+	{
+         "id": 2604,
+         "name": "mcollect search",
+         "url": "/egov-pdf/download/MCOLLECT/mcollectreceipt",
+         "displayName": "mcollect search",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "egov-pdf",
+         "code": "null",
+         "path": ""
+      }
    ]
 }

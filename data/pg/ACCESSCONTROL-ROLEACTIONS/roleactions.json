@@ -27686,6 +27686,18 @@
       "actionid": 2603,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	{
+      "rolecode": "UC_EMP",
+      "actionid": 2604,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2604,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
