@@ -15601,6 +15601,12 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+ {
+      "rolecode": "AUTO_ESCALATE",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
     {
       "rolecode": "CSR",
       "actionid": 2007,
