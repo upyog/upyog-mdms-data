@@ -15866,6 +15866,18 @@
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
-      }
+      },
+	  {
+      "id": 2605,
+      "name": "Workflow Escalation Update",
+      "url": "/egov-workflow-v2/egov-wf/auto/PGR/_escalate",
+      "parentModule": "",
+      "displayName": "Workflow Escalation Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+	  }
    ]
 }

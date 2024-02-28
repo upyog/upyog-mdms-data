@@ -27704,6 +27704,18 @@
       "actionid": 2604,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	{
+      "rolecode": "AUTO_ESCALATE",
+      "actionid": 2605,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2605,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
