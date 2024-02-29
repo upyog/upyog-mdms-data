@@ -27716,6 +27716,42 @@
       "actionid": 2605,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	{
+      "rolecode": "AUTO_ESCALATE",
+      "actionid": 2606,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2606,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 2606,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 2606,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "AUTO_ESCALATE",
+      "actionid": 2607,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2607,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
