@@ -367,7 +367,7 @@
           "type": "component",
           "route": "owner-ship-details",
           "isMandatory": true,
-          "component": "SelectOwnerShipDetails",
+          "component": "TLSelectOwnerShipDetails",
           "texts": {
             "headerCaption": "TL_TRADE_OWNERSHIP_CAPTION",
             "header": "TL_PROVIDE_OWNERSHIP_DETAILS",
