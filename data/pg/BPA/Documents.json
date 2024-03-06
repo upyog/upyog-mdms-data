@@ -1,0 +1,207 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Documents": [
+        {
+          "code": "OWNER.SIGNED",
+          "documentType": "OWNER.SIGNED",
+          "required": true,
+          "active": true,
+          "additionalDetails": {
+            "enabledActions": {
+              "update": {
+                "disableUpload": true,
+                "disableDropdown": true
+              },
+              "create": {
+                "disableUpload": false,
+                "disableDropdown": false
+              }
+            }
+          },
+          "dropdownData": [
+              {
+                  "code": "OWNER.SIGNED",
+                  "active": true
+              }
+          ],
+          "description": "OWNER.SIGNED_DESCRIPTION"
+      },
+      {
+        "code": "OWNER.SITEPHOTOGRAPH.ONE",
+        "documentType": "OWNER.SITEPHOTOGRAPH.ONE",
+        "required": true,
+        "active": true,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "dropdownData": [
+            {
+                "code": "OWNER.SITEPHOTOGRAPH.ONE",
+                "active": true
+            }
+        ],
+        "description": "OWNER.SITEPHOTOGRAPH_ONE_DESCRIPTION"
+    },
+    {
+        "code": "OWNER.SITEPHOTOGRAPH.TWO",
+        "documentType": "OWNER.SITEPHOTOGRAPH.TWO",
+        "required": true,
+        "active": true,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "dropdownData": [
+            {
+                "code": "OWNER.SITEPHOTOGRAPH.TWO",
+                "active": true
+            }
+        ],
+        "description": "OWNER.SITEPHOTOGRAPH_TWO_DESCRIPTION"
+    },
+    {
+        "code": "OWNER.LASTPROPERTYTAX",
+        "documentType": "OWNER.LASTPROPERTYTAX",
+        "required": true,
+        "active": true,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "dropdownData": [
+            {
+                "code": "OWNER.LASTPROPERTYTAX",
+                "active": true
+            }
+        ],
+        "description": "OWNER.LASTPROPERTYTAX_DESCRIPTION"
+    },
+    {
+        "code": "OWNER.BUILDINGPLAN",
+        "documentType": "OWNER.BUILDINGPLAN",
+        "required": true,
+        "active": true,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "dropdownData": [
+            {
+                "code": "OWNER.BUILDINGPLAN",
+                "active": true
+            }
+        ],
+        "description": "OWNER.BUILDINGPLAN_IN_PDF_FORMAT_DESCRIPTION"
+    },
+    {
+        "code": "OWNER.APPOINTMENT.PROOF",
+        "documentType": "OWNER.APPOINTMENT.PROOF",
+        "required": true,
+        "active": true,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "dropdownData": [
+            {
+                "code": "OWNER.APPOINTMENT.PROOF",
+                "active": true
+            }
+        ],
+        "description": "OWNER.APPOINTMENT.PROOF_DESCRIPTION"
+    },
+    {
+        "code": "OWNER.OTHER.NOC",
+        "documentType": "OWNER.OTHER.NOC",
+        "required": true,
+        "active": true,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "dropdownData": [
+            {
+                "code": "OWNER.OTHER.NOC",
+                "active": true
+            }
+        ],
+        "description": "OWNER.OTHER.NOC_DESCRIPTION"
+    },
+    {
+        "code": "OWNER.NOC.NEIGHBOURING.FLAT.BASEMENT",
+        "documentType": "OWNER.NOC.NEIGHBOURING.FLAT.BASEMENT",
+        "required": true,
+        "active": true,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "dropdownData": [
+            {
+                "code": "OWNER.NOC.NEIGHBOURING.FLAT.BASEMENT",
+                "active": true
+            }
+        ],
+        "description": "OWNER.NOC.NEIGHBOURING.FLAT.BASEMENT_DESCRIPTION"
+    }
+        
+      ]
+  }
