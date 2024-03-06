@@ -1,0 +1,20 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "LabourCess": [
+        {
+            "fromPlotArea": 0,
+            "toPlotArea": 909,
+            "rate": 0,
+            "fromFY": "2023-24",
+            "note": "Plot area <909 sq.ft"
+        },
+        {
+            "fromPlotArea": 910,
+            "toPlotArea": 9999999,
+            "rate": 11,
+            "fromFY": "2023-24",
+            "note": "Plot area >909 sq.ft"
+        }
+    ]
+}

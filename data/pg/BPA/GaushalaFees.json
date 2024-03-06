@@ -1,0 +1,11 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "GaushalaFees": [
+        {
+            "rate": 50,
+            "fromFY": "2023-24",
+            "note": "Fixed Charges"
+        }
+    ]
+}
