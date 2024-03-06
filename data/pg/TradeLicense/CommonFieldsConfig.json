@@ -27,18 +27,6 @@
       ]
     },
     {
-      "head": "TL_TRADE_UNITS_HEADER",
-      "body": [
-        {
-          "type": "component",
-          "component": "TLTradeUnitsEmployee",
-          "key": "tradeUnits",
-          "withoutLabel": true,
-          "hideInCitizen": true
-        }
-      ]
-    },
-    {
       "head": "TL_NEW_TRADE_DETAILS_HEADER_ACC",
       "body": [
         {
@@ -523,18 +511,6 @@
           "withoutLabel": true,
           "nextStep": "owner-ship-details",
           "hideInEmployee": true
-        }
-      ]
-    },   
-    {
-      "head": "TL_NEW_APPLICATION_DOCUMENTS_REQUIRED",
-      "body": [
-        {
-          "component": "TLDocumentsEmployee",
-          "withoutLabel": true,
-          "key": "documents",
-          "type": "component",
-          "hideInCitizen": true
         }
       ]
     }
