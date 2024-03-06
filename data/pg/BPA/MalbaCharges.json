@@ -1,0 +1,41 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "MalbaCharges": [
+        {
+            "fromPlotArea": 0,
+            "toPlotArea": 500,
+            "rate": 500,
+            "fromFY": "2023-24",
+            "note": "Plot area <=500 sq.ft"
+        },
+        {
+            "fromPlotArea": 501,
+            "toPlotArea": 1000,
+            "rate": 1000,
+            "fromFY": "2023-24",
+            "note": "Plot area >= 501 && <=1000 sq.ft"
+        },
+        {
+            "fromPlotArea": 1001,
+            "toPlotArea": 1500,
+            "rate": 1500,
+            "fromFY": "2023-24",
+            "note": "Plot area >= 1001 && <=1500 sq.ft"
+        },
+        {
+            "fromPlotArea": 1501,
+            "toPlotArea": 2000,
+            "rate": 2000,
+            "fromFY": "2023-24",
+            "note": "Plot area >= 1501 && <=2000 sq.ft"
+        },
+        {
+            "fromPlotArea": 2001,
+            "toPlotArea": 9999999,
+            "rate": 2000,
+            "fromFY": "2023-24",
+            "note": "Plot area >=2001 sq.ft"
+        }
+    ]
+}
