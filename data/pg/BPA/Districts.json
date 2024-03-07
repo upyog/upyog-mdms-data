@@ -1,0 +1,22 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Districts": [
+      {
+        "name": "Amritsar",
+        "code": "AMRITSAR",
+        "active": true
+      },
+      {
+        "name": "Bathinda",
+        "code": "BATHINDA",
+        "active": true
+      },
+      {
+        "name": "Barnala",
+        "code": "BARNALA",
+        "active": true
+      }
+      
+    ]
+  }
