@@ -15337,6 +15337,75 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "WS Report"
+    },
+    {
+       "id": 2563,
+       "name": "Create Pet registration application",
+       "url": "/pet-services/pet-registration/_create",
+       "displayName": "Create Pet Registration Application",
+       "orderNumber": 1,
+       "enabled": false,
+       "serviceCode": "pet-services",
+       "code": "null",
+       "path": ""
+    },
+    {
+       "id": 2564,
+       "name": "Update Pet registration application",
+       "url": "/pet-services/pet-registration/_update",
+       "displayName": "Update Pet Application",
+       "orderNumber": 1,
+       "enabled": false,
+       "serviceCode": "pet-services",
+       "code": "null",
+       "path": ""
+    },
+    {
+       "id": 2565,
+       "name": "Search Pet registration application",
+       "url": "/pet-services/pet-registration/_search",
+       "displayName": "Search Pet Application",
+       "orderNumber": 3,
+       "enabled": false,
+       "serviceCode": "pet-services",
+       "code": "null",
+       "path": ""
+    },
+    {
+      "id": 2566,
+      "name": "PTR_CREATE_PET_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "Apply for Pet Application",
+      "orderNumber": 1,
+      "parentModule": "PTR",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ptr/petservice/new-application",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ptr-home"
+    },
+    {
+      "id": 2567,
+      "name": "PTR_MY_APPLICATION_HEADER",
+      "url": "digit-ui-card",
+      "displayName": "My Applications",
+      "orderNumber": 2,
+      "parentModule": "PTR",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ptr/petservice/my-applications",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ptr-home"
     }
    ]
 }
