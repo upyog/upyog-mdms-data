@@ -201,7 +201,57 @@
             }
         ],
         "description": "OWNER.NOC.NEIGHBOURING.FLAT.BASEMENT_DESCRIPTION"
-    }
+    },
+    {
+      "code": "OWNER.IDEMENTY.BONDFOR.BASEMENT",
+      "documentType": "OWNER.IDEMENTY.BONDFOR.BASEMENT",
+      "required": true,
+      "active": true,
+      "additionalDetails": {
+        "enabledActions": {
+          "update": {
+            "disableUpload": true,
+            "disableDropdown": true
+          },
+          "create": {
+            "disableUpload": false,
+            "disableDropdown": false
+          }
+        }
+      },
+      "dropdownData": [
+          {
+              "code": "OWNER.IDEMENTY.BONDFOR.BASEMENT",
+              "active": true
+          }
+      ],
+      "description": "OWNER.IDEMENTY.BONDFOR.BASEMENT_DESCRIPTION"
+  },
+  {
+    "code": "OWNER.OWNERSHIP.DOCUMENT",
+    "documentType": "OWNER.OWNERSHIP.DOCUMENT",
+    "required": true,
+    "active": true,
+    "additionalDetails": {
+      "enabledActions": {
+        "update": {
+          "disableUpload": true,
+          "disableDropdown": true
+        },
+        "create": {
+          "disableUpload": false,
+          "disableDropdown": false
+        }
+      }
+    },
+    "dropdownData": [
+        {
+            "code": "OWNER.OWNERSHIP.DOCUMENT",
+            "active": true
+        }
+    ],
+    "description": "OWNER.OWNERSHIP.DOCUMENT_DESCRIPTION"
+}
         
-      ]
+    ]
   }

@@ -1,0 +1,223 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Ulb": [
+      {
+        "name": "Ajnala",
+        "code": "AJNALA",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Amritsar",
+        "code": "AMRITSAR",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Jandiala",
+        "code": "JANDIALA",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Majitha",
+        "code": "MAJITHA",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Raja Sansi",
+        "code": "RAJA_SANSI",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Ramdas",
+        "code": "RAMDAS",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Rayya",
+        "code": "RAYYA",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Amritsar Region",
+        "code": "AMRITSAR_REGION",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Baba Bakala Sahib",
+        "code": "BABA_BAKALA",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Barnala",
+        "code": "BARNALA",
+        "active": true,
+        "Districts": "BARNALA"
+      },
+      {
+        "name": "Bhadaur",
+        "code": "BHADAUR",
+        "active": true,
+        "Districts": "BARNALA"
+      },
+      {
+        "name": "Dhanaula",
+        "code": "DHANAULA",
+        "active": true,
+        "Districts": "BARNALA"
+      },
+      {
+        "name": "Handiaya",
+        "code": "HANDIAYA",
+        "active": true,
+        "Districts": "BARNALA"
+      },
+      {
+        "name": "Tapa",
+        "code": "TAPA",
+        "active": true,
+        "Districts": "BARNALA"
+      },
+      {
+        "name": "Bathinda",
+        "code": "BATHINDA   ",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Bhagta Bhai Ka",
+        "code": "BHAGTA_BHAI",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Bhucho Mandi",
+        "code": "BHUCHO_MANDI",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Goniana",
+        "code": "GONIANA",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Kot Fatta",
+        "code": "KOT_FATTA",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Maur",
+        "code": "MAUR",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Raman",
+        "code": "RAMAN",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Bathinda Region",
+        "code": "BATHINDA_REGION",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Mandikalan",
+        "code": "MANDIKALAN",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Nathana",
+        "code": "NATHANA",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Chauke",
+        "code": "CHAUKE",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Rampura",
+        "code": "RAMPURA",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Bhairoopa",
+        "code": "BHAIROOPA",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Rampura Phul",
+        "code": "RAMPURA_PHUL",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Sangat",
+        "code": "SANGAT",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Talwandi Sabo",
+        "code": "TALWANDI_SABO",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Balian Wala",
+        "code": "BALIAN_WALA",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Maluka",
+        "code": "MALUKA",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Lehra Mohabbat",
+        "code": "LEHRA_MOHABBAT",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Kot Shamir",
+        "code": "KOT_SHAMIR",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Mehraj",
+        "code": "MEHRAJ",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Kotha Guru",
+        "code": "KOTHA_GURU",
+        "active": true,
+        "Districts": "BATHINDA"
+      }
+    ]
+  }
+  
