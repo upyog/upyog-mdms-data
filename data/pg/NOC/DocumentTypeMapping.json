@@ -61,6 +61,22 @@
                     "required": false
                 }
             ]
+        },
+        {
+            "texts": {
+                "header": "NOC_DOCUMENT_DETAILS",
+                "submitBarLabel": "PT_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+                "text": ""
+              },
+            "inputs": [
+                {
+                  "label": "NOC_DOCUMENT_DETAILS",
+                  "type": "text",
+                  "validation": {},
+                  "name": "nocDocumentDetails"
+                }
+              ]
         }
+        
     ]
 }
