@@ -61,6 +61,36 @@
                     "required": false
                 }
             ]
+        },
+		{
+            "applicationType": "PROVISIONAL",
+            "nocType": "NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC",
+                    "required": false
+                }
+            ]
         }
     ]
 }
