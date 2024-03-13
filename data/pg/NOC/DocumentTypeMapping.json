@@ -62,35 +62,21 @@
                 }
             ]
         },
-		{
-            "applicationType": "PROVISIONAL",
-            "nocType": "NOC",
-            "docTypes": [
-                {
-                    "documentType": "NOC",
-                    "required": true
-                }
-            ]
-        },
         {
-            "applicationType": "NEW",
-            "nocType": "NOC",
-            "docTypes": [
+            "texts": {
+                "header": "NOC_DOCUMENT_DETAILS",
+                "submitBarLabel": "PT_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+                "text": ""
+              },
+            "inputs": [
                 {
-                    "documentType": "NOC",
-                    "required": true
+                  "label": "NOC_DOCUMENT_DETAILS",
+                  "type": "text",
+                  "validation": {},
+                  "name": "nocDocumentDetails"
                 }
-            ]
-        },
-        {
-            "applicationType": "RENEW",
-            "nocType": "NOC",
-            "docTypes": [
-                {
-                    "documentType": "NOC",
-                    "required": false
-                }
-            ]
+              ]
         }
+        
     ]
 }
