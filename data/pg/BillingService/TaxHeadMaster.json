@@ -5770,7 +5770,7 @@
     },
 	  {
       "category": "FEE",
-      "service": "BPA.NC_APP_FEE",
+      "service": "BPA.NC_SAN_FEE",
       "name": "BPA Malwa fees",
       "code": "BPA_MALBA_CHARGES",
       "isDebit": false,
@@ -5780,7 +5780,7 @@
     },
 	   {
       "category": "FEE",
-      "service": "BPA.NC_APP_FEE",
+      "service": "BPA.NC_SAN_FEE",
       "name": "BPA Labour cess",
       "code": "BPA_LABOUR_CESS",
       "isDebit": false,
@@ -5790,7 +5790,7 @@
     },
 	   {
       "category": "FEE",
-      "service": "BPA.NC_APP_FEE",
+      "service": "BPA.NC_SAN_FEE",
       "name": "BPA Water fees",
       "code": "BPA_WATER_CHARGES",
       "isDebit": false,
@@ -5800,7 +5800,7 @@
     },
 	   {
       "category": "FEE",
-      "service": "BPA.NC_APP_FEE",
+      "service": "BPA.NC_SAN_FEE",
       "name": "BPA Gaushala charge fees",
       "code": "BPA_GAUSHALA_CHARGES_CESS",
       "isDebit": false,
@@ -5810,7 +5810,7 @@
     },
 	   {
       "category": "FEE",
-      "service": "BPA.NC_APP_FEE",
+      "service": "BPA.NC_SAN_FEE",
       "name": "BPA clubbing charges scheme plot",
       "code": "BPA_CLUBBING_CHARGES_SCHEME_PLOT",
       "isDebit": false,
@@ -5820,7 +5820,7 @@
     },
 	   {
       "category": "FEE",
-      "service": "BPA.NC_APP_FEE",
+      "service": "BPA.NC_SAN_FEE",
       "name": "BPA Development fees",
       "code": "BPA_DEVELOPMENT_CHARGES",
       "isDebit": false,
@@ -5830,7 +5830,7 @@
     },
 	     {
       "category": "FEE",
-      "service": "BPA.NC_APP_FEE",
+      "service": "BPA.NC_SAN_FEE",
       "name": "BPA Other fees",
       "code": "BPA_OTHER_CHARGES",
       "isDebit": false,
