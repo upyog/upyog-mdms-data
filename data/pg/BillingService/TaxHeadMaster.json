@@ -5811,8 +5811,8 @@
 	   {
       "category": "FEE",
       "service": "BPA.NC_SAN_FEE",
-      "name": "BPA clubbing charges scheme plot",
-      "code": "BPA_CLUBBING_CHARGES_SCHEME_PLOT",
+      "name": "BPA less adjustment plot",
+      "code": "BPA_LESS_ADJUSMENT_PLOT",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
