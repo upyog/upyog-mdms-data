@@ -246,7 +246,7 @@
           "type": "component",
           "route": "vehicle-type",
           "isMandatory": true,
-          "component": "SelectVehicleType",
+          "component": "TLSelectVehicleType",
           "texts": {
             "headerCaption": "TL_STRUCTURE_SUBTYPE_CAPTION",
             "header": "TL_VEHICLE_TYPE_HEADER",
