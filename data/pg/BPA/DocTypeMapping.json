@@ -112,7 +112,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -172,7 +172,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -784,7 +784,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -1856,7 +1856,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -2008,7 +2008,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -2160,7 +2160,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -2312,7 +2312,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -2464,7 +2464,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -2616,7 +2616,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -2768,7 +2768,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -3288,7 +3288,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -3440,7 +3440,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -3592,7 +3592,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -3744,7 +3744,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -3896,7 +3896,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -4048,7 +4048,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -4200,7 +4200,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -4352,7 +4352,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -4504,7 +4504,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -4656,7 +4656,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -4808,7 +4808,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -4960,7 +4960,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -5112,7 +5112,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -5264,7 +5264,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -5416,7 +5416,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -5568,7 +5568,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -5720,7 +5720,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -5872,7 +5872,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -6024,7 +6024,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -6176,7 +6176,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -6328,7 +6328,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -6664,7 +6664,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -7552,7 +7552,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -7704,7 +7704,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -7856,7 +7856,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -8008,7 +8008,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -8160,7 +8160,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -8312,7 +8312,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -8464,7 +8464,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -8616,7 +8616,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -8768,7 +8768,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -8920,7 +8920,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -9072,7 +9072,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -9224,7 +9224,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -9376,7 +9376,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -9528,7 +9528,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -9680,7 +9680,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -9832,7 +9832,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -9984,7 +9984,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -10136,7 +10136,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -10288,7 +10288,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -10440,7 +10440,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -10592,7 +10592,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -10744,7 +10744,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -10896,7 +10896,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -11048,7 +11048,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -11200,7 +11200,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -11352,7 +11352,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -11504,7 +11504,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -11656,7 +11656,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -11808,7 +11808,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
@@ -11960,7 +11960,7 @@
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
-          "required": true,
+          "required": false,
           "allow": false,
           "order": 18
         },
