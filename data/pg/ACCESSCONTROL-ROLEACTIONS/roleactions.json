@@ -27758,6 +27758,12 @@
       "actionid": 2607,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2608,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
