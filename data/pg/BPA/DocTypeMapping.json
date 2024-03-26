@@ -151,66 +151,6 @@
           "required": false,
           "allow": true,
           "order": 24
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
