@@ -11,6 +11,14 @@
       "financialYear": "2024-25"
     },
     {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2024",
+      "financialYear": "2024-25"
+    },
+    {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
