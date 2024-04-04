@@ -164,6 +164,10 @@
       "active": true,
       "allowedFormat" : ["image/*", ".png", ".jpeg"],
       "maxFileSize": 3000
+    },
+    {
+      "code" : "OWNER.SIGN",
+      "active" : true
     }
   ]
 }
