@@ -10,22 +10,6 @@
       "code": "PTAN2023",
       "financialYear": "2023-24"
     },
-    {
-      "fromDate": 1680287400000,
-      "toDate": 1711909799000,
-      "periodCycle": "TWOYEARS",
-      "service": "WS",
-      "code": "WC2023",
-      "financialYear": "2023-24"
-    },
-    {
-      "fromDate": 1680287400000,
-      "toDate": 1711909799000,
-      "periodCycle": "TWOYEARS",
-      "service": "SW",
-      "code": "SC2023",
-      "financialYear": "2023-24"
-    },
 	{
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
@@ -160,6 +144,14 @@
       "periodCycle": "ANNUAL",
       "service": "TL",
       "code": "TLAN2024",
+      "financialYear": "2024-25"
+    },
+	{
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2024",
       "financialYear": "2024-25"
     },
 	{
@@ -394,6 +386,14 @@
       "financialYear": "2023-24"
     },
 	{
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "TWOYEARS",
+      "service": "WS",
+      "code": "WC2024",
+      "financialYear": "2024-25"
+    },
+	{
       "fromDate": 1459449000000,
       "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
@@ -486,16 +486,16 @@
       "toDate": 1711909799000,
       "periodCycle": "TWOYEARS",
       "service": "SW",
-      "code": "WC2022",
-      "financialYear": "2023-24"
-    },
-	{
-      "fromDate": 1680287400000,
-      "toDate": 1711909799000,
-      "periodCycle": "TWOYEARS",
-      "service": "SW",
       "code": "SC2023",
       "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743445799000,
+      "periodCycle": "TWOYEARS",
+      "service": "SW",
+      "code": "SC2024",
+      "financialYear": "2024-25"
     },
 	{
       "fromDate": 1648771200000,
@@ -673,37 +673,38 @@
       "code": "FSMTRIPCHARGE10YRS",
       "financialYear": "2020-2030"
     },
+
 	{
       "fromDate": 1459449000000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "RT.Jamin_Theka",
       "code": "RTJTAN2023",
-      "financialYear": "2016-24"
+      "financialYear": "2016-25"
     },
    {
       "fromDate": 1459449000000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "RT.Land_Rent",
       "code": "RTJTAN2021",
-      "financialYear": "2016-24"
+      "financialYear": "2016-25"
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "LCF.Trade_License_Fee",
       "code": "LCFTLFAN2021",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "LCF.Rehri_Rickshaw_Fee",
       "code": "LCFTLFAN2021",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
@@ -875,11 +876,11 @@
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "FN.PF_transfer_(Accounts)",
       "code": "TXPTAN2021",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
@@ -891,11 +892,11 @@
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "FN.Grants_cheque",
       "code": "TXPTAN2021",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
@@ -939,11 +940,11 @@
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "ST.Stationary_Not_Income",
       "code": "TXPTAN2021",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
@@ -1131,19 +1132,19 @@
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Dog_Registration",
       "code": "TXPTAN2020",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Sale_of_Recyclable_Fees",
       "code": "TXPTAN2021",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
@@ -1171,11 +1172,11 @@
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Candy_fee_Slaughter_House",
       "code": "TXPTAN2021",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
@@ -1291,27 +1292,27 @@
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "OM.Road_Cut_Fees",
       "code": "TXPTAN2020",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "OM.Water_connection_disconnection_fees",
       "code": "TXPTAN2021",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "SNT.Licence_Pure_food",
       "code": "TXPTAN2020",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
@@ -1323,11 +1324,11 @@
     },
     {
       "fromDate": 1617215400000,
-      "toDate": 1711909799000,
+      "toDate": 1743445799000,
       "periodCycle": "ANNUAL",
       "service": "SNT.clean_safai_sanitation",
       "code": "TXPTAN2020",
-      "financialYear": "2021-24"
+      "financialYear": "2021-25"
     },
     {
       "fromDate": 1617215400000,
