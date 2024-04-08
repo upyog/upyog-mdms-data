@@ -15608,6 +15608,42 @@
       "navigationURL": "/workbench-ui/employee",
       "path": "Workbench",
       "leftIcon": "image:collections-bookmark"
+    },
+    {
+      "id": 2585,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.ServiceDefs",
+      "displayName": "Create RAINMAKER-PGR.ServiceDefs",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2576,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/common-masters.StructureType",
+      "displayName": "Update common-masters.StructureType",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2586,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/common-masters.StructureType",
+      "parentModule": "",
+      "displayName": "MDMS v2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
     }
    ]
 }
