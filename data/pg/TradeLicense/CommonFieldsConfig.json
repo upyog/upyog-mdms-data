@@ -182,7 +182,7 @@
           {
               "type": "component",
               "route": "proof",
-              "component": "Proof",
+              "component": "TLProof",
               "withoutLabel": true,
               "texts": {
                   "headerCaption": "TL_OWNERS_DETAILS",
