@@ -618,8 +618,8 @@
       ]
     },
     {
-      "module": "Astmgt",
-      "code": "Astmgt",
+      "module": "ASSET",
+      "code": "ASSET",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
       "order":1,
