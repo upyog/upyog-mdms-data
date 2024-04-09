@@ -51,7 +51,32 @@
           }
       ],
       "description": "OWNER.ASSETPHOTO_DESCRIPTION"
-  }
+  },
+  {
+    "code": "OWNER.ANYSUPPORTINGDOCUMENT",
+    "documentType": "OWNER.ANYSUPPORTINGDOCUMENT",
+    "required": true,
+    "active": true,
+    "additionalDetails": {
+      "enabledActions": {
+        "update": {
+          "disableUpload": true,
+          "disableDropdown": true
+        },
+        "create": {
+          "disableUpload": false,
+          "disableDropdown": false
+        }
+      }
+    },
+    "dropdownData": [
+        {
+            "code": "OWNER.ANYSUPPORTINGDOCUMENT",
+            "active": true
+        }
+    ],
+    "description": "OWNER.ANYSUPPORTINGDOCUMENT_DESCRIPTION"
+}
       
     ]
   }
