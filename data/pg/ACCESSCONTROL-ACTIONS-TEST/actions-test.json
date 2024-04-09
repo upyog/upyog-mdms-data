@@ -15882,7 +15882,7 @@
 	  {
       "id": 2606,
       "name": "TL Workflow Escalation Update",
-      "url": "egov-workflow-v2/egov-wf/auto/NewTL/_escalate",
+      "url": "/egov-workflow-v2/egov-wf/auto/NewTL/_escalate",
       "parentModule": "",
       "displayName": "TL Workflow Escalation Update",
       "orderNumber": 1,
@@ -15894,7 +15894,7 @@
 	  {
       "id": 2607,
       "name": "OBPS Workflow Escalation Update",
-      "url": "egov-workflow-v2/egov-wf/auto/BPA/_escalate",
+      "url": "/egov-workflow-v2/egov-wf/auto/BPA/_escalate",
       "parentModule": "",
       "displayName": "OBPS Workflow Escalation Update",
       "orderNumber": 0,
