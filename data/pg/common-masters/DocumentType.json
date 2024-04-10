@@ -172,7 +172,6 @@
     {
       "code": "SITEPHOTOGRAPH.ONE",
       "active" : true
-
     },
     {
       "code": "SITEPHOTOGRAPH.TWO",
@@ -209,6 +208,10 @@
     },
     {
       "code": "OWNERSHIP.DOCUMENT",
+      "active" : true
+    },
+    {
+      "code": "AIRPORTAUTHORITY.NOC",
       "active" : true
     }
   ]
