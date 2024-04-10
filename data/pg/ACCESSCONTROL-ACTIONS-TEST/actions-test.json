@@ -15788,6 +15788,54 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2599,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/TradeLicense.TradeType",
+      "displayName": "create TradeLicense.TradeType",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2600,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/TradeLicense.TradeType",
+      "displayName": "create TradeLicense.TradeType",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2601,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/PropertyTax.OccupancyType",
+      "displayName": "create PropertyTax.OccupancyType",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2602,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/PropertyTax.OccupancyType",
+      "displayName": "create PropertyTax.OccupancyType",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
    ]
 }
