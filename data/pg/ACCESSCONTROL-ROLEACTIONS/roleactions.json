@@ -7126,12 +7126,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 1214,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 1401,
       "actioncode": "",
       "tenantId": "pg"
