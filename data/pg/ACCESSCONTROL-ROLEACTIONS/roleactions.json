@@ -27055,6 +27055,18 @@
       "actionid": 2602,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2603,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2604,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
