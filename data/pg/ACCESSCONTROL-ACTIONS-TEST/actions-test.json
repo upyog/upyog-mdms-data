@@ -15914,7 +15914,7 @@
          "serviceCode": "wns",
          "code": "null",
          "navigationURL": "/digit-ui/employee/ws/water/bulk-bill",
-         "path": "wns",
+         "path": "WS.Bulk-Bill",
          "leftIcon": "custom:water-tap",
          "rightIcon": ""
       }
