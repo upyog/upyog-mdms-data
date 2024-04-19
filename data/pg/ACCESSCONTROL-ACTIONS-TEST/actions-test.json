@@ -15903,7 +15903,7 @@
       "code": "null",
       "path": ""
 	  },
-	  {
+	 	{
          "id": 2608,
          "name": "WS Bulk Bill",
          "url": "url",
@@ -15913,8 +15913,8 @@
          "enabled": true,
          "serviceCode": "wns",
          "code": "null",
-         "navigationURL": "ws/water/bulk-bill",
-         "path": "wns",
+         "navigationURL": "/digit-ui/employee/ws/water/bulk-bill",
+         "path": "WS.Bulk-Bill",
          "leftIcon": "custom:water-tap",
          "rightIcon": ""
       },
