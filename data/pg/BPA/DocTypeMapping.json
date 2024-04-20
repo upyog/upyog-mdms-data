@@ -105,58 +105,52 @@
           "order": 16
         },
         {
-          "code": "SITEPHOTOGRAPH.TWO",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": false,
           "order": 17
         },
         {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
           "code": "OWNER.BUILDINGPLAN",
           "required": false,
           "allow": true,
-          "order": 19
+          "order": 18
         },
         {
           "code": "OWNER.APPOINTMENTPROOF",
           "required": false,
           "allow": false,
-          "order": 20
+          "order": 19
         },
         {
           "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": false,
-          "order": 21
+          "order": 20
         },
         {
           "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": false,
-          "order": 22
+          "order": 21
         },
         {
           "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": false,
-          "order": 23
+          "order": 22
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
           "required": false,
           "allow": true,
-          "order": 24
+          "order": 23
         },
         {
           "code": "AIRPORTAUTHORITY.NOC",
           "required": false,
           "allow": true,
-          "order": 25
+          "order": 24
         }
       ]
     },
