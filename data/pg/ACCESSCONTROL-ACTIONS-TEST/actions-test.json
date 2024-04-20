@@ -15939,6 +15939,22 @@
         "serviceCode": "PETREPORTS",
         "code": "null",
         "path": "Pet Report"
-     }
+     },
+     {
+      "id": 2615,
+      "name": "rainmaker-common-propertytax",
+      "url": "card",
+      "displayName": "Asset Management",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/asset/assetservice/new-asset",
+      "leftIcon": "action:store",
+      "rightIcon": "",
+      "queryParams": ""
+   }
    ]
 }
