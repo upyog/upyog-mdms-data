@@ -15903,7 +15903,7 @@
       "code": "null",
       "path": ""
 	  },
-	  {
+	 	{
          "id": 2608,
          "name": "WS Bulk Bill",
          "url": "url",
@@ -15913,10 +15913,32 @@
          "enabled": true,
          "serviceCode": "wns",
          "code": "null",
-         "navigationURL": "ws/water/bulk-bill",
-         "path": "wns",
+         "navigationURL": "/digit-ui/employee/ws/water/bulk-bill",
+         "path": "WS.Bulk-Bill",
          "leftIcon": "custom:water-tap",
          "rightIcon": ""
-      }
+      },
+      {
+        "id": 2613,
+        "name": "PET Report",
+        "url": "/report/rainmaker-pet/PetReport/_get",
+        "displayName": "PET Report",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "PETREPORTS",
+        "code": "null",
+        "path": "Pet Report"
+     },
+     {
+        "id": 2614,
+        "name": "PET Report",
+        "url": "/report/rainmaker-pet/PetReport/metadata/_get",
+        "displayName": "PET Report",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "PETREPORTS",
+        "code": "null",
+        "path": "Pet Report"
+     }
    ]
 }

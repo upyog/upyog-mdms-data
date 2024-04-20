@@ -243,7 +243,13 @@
           "required": false,
           "allow": true,
           "order": 30
-        }    
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 25
+        }
       ]
     },
     {
@@ -335,6 +341,12 @@
           "required": false,
           "allow": true,
           "order": 46
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 25
         }
       ]
     },
