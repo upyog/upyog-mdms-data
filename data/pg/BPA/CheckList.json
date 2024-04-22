@@ -32,23 +32,23 @@
       "docTypes": [
         {
           "code": "FI.FIR",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SINS",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SISS",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SIES",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SIWS",
-          "required": true
+          "required": false
         }
       ]
     },
@@ -82,23 +82,23 @@
       "docTypes": [
         {
           "code": "FI.FIR",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SINS",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SISS",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SIES",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SIWS",
-          "required": true
+          "required": false
         }
       ]
     },
@@ -132,23 +132,23 @@
       "docTypes": [
         {
           "code": "FI.FIR",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SINS",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SISS",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SIES",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SIWS",
-          "required": true
+          "required": false
         }
       ]
     },
