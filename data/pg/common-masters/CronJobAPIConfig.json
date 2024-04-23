@@ -74,7 +74,7 @@
       }
 	  },
 	  {
-        "jobName": "daily",
+        "jobName": "bpa-auto-escalation-job-scheduler",
         "active": "true",
         "method": "POST",
         "url": "http://egov-workflow-v2:8080/egov-wf/auto/BPA/_escalate",
