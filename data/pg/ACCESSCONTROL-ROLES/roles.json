@@ -736,6 +736,6 @@
       "code": "PTR_REPORT_VIEWER",
       "name": "PTR Report Viewer",
       "description": "PTR User that can view PTR reports"
-    },
+    }
   ]
 }
