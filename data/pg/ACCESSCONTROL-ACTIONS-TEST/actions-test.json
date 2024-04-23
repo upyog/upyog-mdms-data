@@ -15011,7 +15011,7 @@
       "code": "",
       "path": "",
       "navigationURL": "/digit-ui/citizen/ptr/petservice/new-application",
-      "leftIcon": "TLIcon",
+      "leftIcon": "PTRIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
@@ -15411,7 +15411,7 @@
          "code": "",
          "path": "",
          "navigationURL": "/digit-ui/citizen/ptr/petservice/my-applications",
-         "leftIcon": "TLIcon",
+         "leftIcon": "PTRIcon",
          "rightIcon": "",
          "queryParams": "",
          "sidebar": "digit-ui-links",
@@ -15715,12 +15715,12 @@
          "url": "card",
          "displayName": "New Asset",
          "orderNumber": 1,
-         "parentModule": "Astmgt",
+         "parentModule": "ASSET",
          "enabled": true,
-         "serviceCode": "Astmgt",
+         "serviceCode": "ASSET",
          "code": "null",
          "path": "",
-         "navigationURL": "/digit-ui/employee/assetservice/new-asset",
+         "navigationURL": "/digit-ui/employee/asset/assetservice/new-asset",
          "leftIcon": "OBPSIcon",
          "rightIcon": "",
          "queryParams": "",
@@ -15732,12 +15732,12 @@
          "url": "card",
          "displayName": "My Assets",
          "orderNumber": 2,
-         "parentModule": "Astmgt",
+         "parentModule": "ASSET",
          "enabled": true,
-         "serviceCode": "Astmgt",
+         "serviceCode": "ASSET",
          "code": "null",
          "path": "",
-         "navigationURL": "/digit-ui/employee/assetservice/my-assets",
+         "navigationURL": "/digit-ui/employee/asset/assetservice/my-asset",
          "leftIcon": "OBPSIcon",
          "rightIcon": "",
          "queryParams": "",
@@ -15882,11 +15882,11 @@
 	  {
       "id": 2606,
       "name": "TL Workflow Escalation Update",
-      "url": "egov-workflow-v2/egov-wf/auto/NewTL/_escalate",
+      "url": "/egov-workflow-v2/egov-wf/auto/NewTL/_escalate",
       "parentModule": "",
       "displayName": "TL Workflow Escalation Update",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
@@ -15894,7 +15894,7 @@
 	  {
       "id": 2607,
       "name": "OBPS Workflow Escalation Update",
-      "url": "egov-workflow-v2/egov-wf/auto/BPA/_escalate",
+      "url": "/egov-workflow-v2/egov-wf/auto/BPA/_escalate",
       "parentModule": "",
       "displayName": "OBPS Workflow Escalation Update",
       "orderNumber": 0,
@@ -15903,7 +15903,7 @@
       "code": "null",
       "path": ""
 	  },
-	  {
+	 	{
          "id": 2608,
          "name": "WS Bulk Bill",
          "url": "url",
@@ -15913,10 +15913,32 @@
          "enabled": true,
          "serviceCode": "wns",
          "code": "null",
-         "navigationURL": "ws/water/bulk-bill",
-         "path": "wns",
+         "navigationURL": "/digit-ui/employee/ws/water/bulk-bill",
+         "path": "WS.Bulk-Bill",
          "leftIcon": "custom:water-tap",
          "rightIcon": ""
-      }
+      },
+      {
+        "id": 2613,
+        "name": "PET Report",
+        "url": "/report/rainmaker-pet/PetReport/_get",
+        "displayName": "PET Report",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "PETREPORTS",
+        "code": "null",
+        "path": "Pet Report"
+     },
+     {
+        "id": 2614,
+        "name": "PET Report",
+        "url": "/report/rainmaker-pet/PetReport/metadata/_get",
+        "displayName": "PET Report",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "PETREPORTS",
+        "code": "null",
+        "path": "Pet Report"
+     }
    ]
 }

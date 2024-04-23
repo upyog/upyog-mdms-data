@@ -164,6 +164,51 @@
       "active": true,
       "allowedFormat" : ["image/*", ".png", ".jpeg"],
       "maxFileSize": 3000
+    },
+    {
+      "code" : "OWNER.SIGN",
+      "active" : true
+    },
+    {
+      "code": "SITEPHOTOGRAPH.ONE",
+      "active" : true
+    },
+    {
+      "code": "OWNER.LASTPROPERTYTAX",
+      "active" : true
+
+    },
+    {
+      "code": "OWNER.BUILDINGPLAN",
+      "active" : true
+
+    },
+    {
+      "code": "OWNER.APPOINTMENTPROOF",
+      "active" : true
+
+    },
+    {
+      "code": "OWNER.OTHERNOC",
+      "active" : true
+
+    },
+    {
+      "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
+      "active" : true
+
+    },
+    {
+      "code": "INDEMNITY.BONDFORBASEMENT",
+      "active" : true
+    },
+    {
+      "code": "OWNERSHIP.DOCUMENT",
+      "active" : true
+    },
+    {
+      "code": "AIRPORTAUTHORITY.NOC",
+      "active" : true
     }
   ]
 }

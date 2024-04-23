@@ -9,8 +9,19 @@
           "route": "docs-required",
           "component": "DocsRequired",
           "key": "data",
-          "nextStep": "basic-details"
+          "nextStep": "noc-number"
         },
+		{
+        "route": "noc-number",
+        "component": "NOCNumber",
+        "nextStep": "basic-details",
+        "key": "nocnumber",
+        "texts": {
+            "headerCaption": "BPA_NOC_NUMBER_DETAILS",
+            "header": "",
+            "submitBarLabel": "CS_COMMON_NEXT"
+        }
+		},
         {
           "route": "basic-details",
           "component": "BasicDetails",
@@ -26,8 +37,7 @@
             "headerCaption": "BPA_SCRUTINY_DETAILS",
             "header": "BPA_PLOT_DETAILS_TITLE",
             "cardText": "",
-            "submitBarLabel": "CS_COMMON_NEXT",
-            "skipText": "CORE_COMMON_SKIP_CONTINUE"
+            "submitBarLabel": "CS_COMMON_NEXT"
           },
           "inputs": [
             {
@@ -41,6 +51,12 @@
               "type": "textarea",
               "validation": {},
               "name": "registrationDetails"
+            },
+			{
+                "label": "BPA_BOUNDARY_WALL_LENGTH_LABEL_INPUT",
+                "type": "text",
+                "validation": {},
+                "name": "boundaryWallLength"
             }
           ]
         },
@@ -86,7 +102,7 @@
         {
           "route": "document-details",
           "component": "DocumentDetails",
-          "nextStep": "noc-details",
+          "nextStep": null,
           "key": "documents",
           "texts": {
             "headerCaption": "BPA_OWNER_AND_DOCUMENT_DETAILS_LABEL",
