@@ -15920,25 +15920,40 @@
       },
       {
         "id": 2613,
-        "name": "PET Report",
+        "name": "PetReport",
         "url": "/report/rainmaker-pet/PetReport/_get",
         "displayName": "PET Report",
         "orderNumber": 0,
         "enabled": false,
-        "serviceCode": "PETREPORTS",
+        "serviceCode": "report",
         "code": "null",
         "path": "Pet Report"
      },
      {
         "id": 2614,
-        "name": "PET Report",
+        "name": "PetReport",
         "url": "/report/rainmaker-pet/PetReport/metadata/_get",
         "displayName": "PET Report",
         "orderNumber": 0,
         "enabled": false,
-        "serviceCode": "PETREPORTS",
+        "serviceCode": "report",
         "code": "null",
         "path": "Pet Report"
-     }
+     },
+	  {
+         "id": 2615,
+         "name": "PetReport",
+         "url": "url",
+         "displayName": "State Level Pet Registration Report",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "PetRegistration.Pet Registration Reports.State Level Pet Registration Report",
+         "navigationURL": "report/rainmaker-pet/PetReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      }
    ]
 }

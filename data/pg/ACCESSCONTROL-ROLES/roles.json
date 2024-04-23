@@ -731,6 +731,11 @@
       "code": "PTR_VERIFIER",
       "name": "Pet Document Verifier",
       "description": "Pet Document Verifier"
-    }
+    },
+    {
+      "code": "PTR_REPORT_VIEWER",
+      "name": "PTR Report Viewer",
+      "description": "PTR User that can view PTR reports"
+    },
   ]
 }
