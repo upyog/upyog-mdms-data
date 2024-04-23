@@ -27782,6 +27782,24 @@
       "actionid": 2614,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_REPORT_VIEWER",
+      "actionid": 2613,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_REPORT_VIEWER",
+      "actionid": 2614,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_REPORT_VIEWER",
+      "actionid": 2615,
+      "actioncode": "",
+      "tenantId": "pg"
     }
 
 
