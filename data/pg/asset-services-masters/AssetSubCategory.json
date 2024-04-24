@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "assetSubCategory": [
+      {
+        "name": "subCategory1",
+        "code": "SUBCATEGORY1",
+        "active": true
+      },
+      {
+        "name": "subCategory2",
+        "code": "SUBCATGORY2",
+        "active": true
+      }
+    ]
+}
