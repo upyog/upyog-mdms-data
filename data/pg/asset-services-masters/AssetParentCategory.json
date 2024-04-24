@@ -1,0 +1,30 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "assetParentCategory": [
+      {
+        "name": "Land",
+        "code": "LAND",
+        "active": true,
+        "assetClassification": "IMMOVEABLE"
+      },
+      {
+        "name": "Building",
+        "code": "BUILDING",
+        "active": true,
+        "assetClassification": "IMMOVEABLE"
+      },
+      {
+        "name": "Service",
+        "code": "SERVICE",
+        "active": true,
+        "assetClassification": "IMMOVEABLE"
+      },
+      {
+        "name": "Other",
+        "code": "OTHER",
+        "active": true,
+        "assetClassification": "MOVEABLE"
+      }
+    ]
+}
