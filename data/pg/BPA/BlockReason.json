@@ -3,12 +3,12 @@
   "moduleName": "BPA",
   "BlockReason": [
      {
-      "code": "Stay from court or Written orders from Higher Authorities",
+      "code": "Stay from court",
       "value" : "Stay from court or Written orders from Higher Authorities",
 	  "active": true
     },
     {
-      "code":"Non-compliance with Building Codes or Regulations",
+      "code":"Non-compliance",
 	  "value" : "Non-compliance with Building Codes or Regulations",
       "active":true
     },
