@@ -3,27 +3,27 @@
   "moduleName": "BPA",
   "BlockReason": [
      {
-      "code": "Stay from court",
+      "code": "R_01",
       "value" : "Stay from court or Written orders from Higher Authorities",
 	  "active": true
     },
     {
-      "code":"Non-compliance",
+      "code":"R_02",
 	  "value" : "Non-compliance with Building Codes or Regulations",
       "active":true
     },
 	{
-      "code": "Restricted Area",
+      "code": "R_03",
 	   "value": "Restricted Area",
       "active": true
     },
 	{
-      "code": "Violation of Master Plan",
+      "code": "R_04",
 	  "value": "Violation of Master Plan",
       "active": true
     },
 	{
-      "code": "Misrepresentation of Facts",
+      "code": "R_05",
 	  "value": "Misrepresentation of Facts",
       "active": true
     }
