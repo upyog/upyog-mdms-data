@@ -1155,7 +1155,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true
+      "isActive": true,
       "billGineiURL": "egov-searcher/bill-genie/waterbills/_get"
     },
     {
