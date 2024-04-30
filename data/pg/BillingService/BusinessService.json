@@ -1156,7 +1156,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
-      "billGineiURL": "egov-searcher/bill-genie/waterbills/_get",
+      "billGineiURL": "egov-searcher/bill-genie/waterbills/_get"
     },
     {
       "businessService": "SW.ONE_TIME_FEE",
