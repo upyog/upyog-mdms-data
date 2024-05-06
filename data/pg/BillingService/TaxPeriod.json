@@ -36,26 +36,18 @@
     },
     {
       "fromDate": 1711909800000,
-      "toDate": 1743445799000,
-      "periodCycle": "TWOYEARS",
+      "toDate": 1901212199000,
+      "periodCycle": "FIVEYEARS",
       "service": "WS",
       "code": "WC2024",
       "financialYear": "2024-25"
     },
     {
       "fromDate": 1711909800000,
-      "toDate": 1743445799000,
-      "periodCycle": "TWOYEARS",
+      "toDate": 1901212199000,
+      "periodCycle": "FIVEYEARS",
       "service": "SW",
       "code": "SC2024",
-      "financialYear": "2024-25"
-    },
-    {
-      "fromDate": 1711909800000,
-      "toDate": 1743445799000,
-      "periodCycle": "TWOYEARS",
-      "service": "SW",
-      "code": "WC2024",
       "financialYear": "2024-25"
     },
     {
