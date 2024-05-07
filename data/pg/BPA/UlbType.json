@@ -1,0 +1,26 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "UlbType": [
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true
+      }
+    ]
+  }

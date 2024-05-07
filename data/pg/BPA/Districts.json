@@ -5,18 +5,1058 @@
       {
         "name": "Amritsar",
         "code": "AMRITSAR",
-        "active": true
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Amritsar region",
+        "code": "AMRITSAR_REGION",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
       },
       {
         "name": "Bathinda",
         "code": "BATHINDA",
-        "active": true
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Abohar",
+        "code": "ABOHAR",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Batala",
+        "code": "BATALA",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Hoshiarpur",
+        "code": "HOSHIARPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Jalandhar",
+        "code": "JALANDHAR",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Kapurthala",
+        "code": "KAPURTHALA",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Ludhiana",
+        "code": "LUDHIANA",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Moga",
+        "code": "MOGA",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Pathankot",
+        "code": "PATHANKOT",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Patiala",
+        "code": "PATIALA",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Phagwara",
+        "code": "PHAGWARA",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "S.A.S. Nagar (Mohali, Ajitgarh)",
+        "code": "SAS_NAGAR_MOHALI_AJITGARH",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Ludhiana Region",
+        "code": "LUDHIANA_REGION",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Jalandhar Region",
+        "code": "JALANDHAR_REGION",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Patiala Region",
+        "code": "PATIALA_REGION",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Bathinda Region",
+        "code": "BATHINDA_REGION",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Firozpur Region",
+        "code": "FIROZPUR_REGION",
+        "active": true,
+        "UlbType": "MUNICIPAL_CORPORATION"
+      },
+      {
+        "name": "Adampur",
+        "code": "ADAMPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Ahmedgarh",
+        "code": "AHMEDGARH",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Alawalpur",
+        "code": "ALAWALPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Amloh",
+        "code": "AMLOH",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Anandpur Sahib",
+        "code": "ANANDPUR_SAHIB",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Bagha Purana",
+        "code": "BAGHA_PURANA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Balachaur",
+        "code": "BALACHAUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Banga",
+        "code": "BANGA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Banur",
+        "code": "BANUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Bareta",
+        "code": "BARETA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
       },
       {
         "name": "Barnala",
         "code": "BARNALA",
-        "active": true
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Bassi Pathana",
+        "code": "BASSI_PATHANA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Bhadaur",
+        "code": "BHADAUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Bhawanigarh",
+        "code": "BHAWANIGARH",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Bhogpur",
+        "code": "BHOGPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Bhucho Mandi",
+        "code": "BHUCHO_MANDI",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Budhlada",
+        "code": "BUDHLADA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Dasua (Dasuya)",
+        "code": "DASUA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Dera Baba Nanak",
+        "code": "DERA_BABA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Dera Bassi",
+        "code": "DERA_BASSI",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Dhanaula",
+        "code": "DHANAULA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Dharamkot",
+        "code": "DHARAMKOT",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Dhariwal",
+        "code": "DHARIWAL",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Dhuri",
+        "code": "DHURI",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Dina Nagar",
+        "code": "DINA_NAGAR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Doraha",
+        "code": "DORAHA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Faridkot",
+        "code": "FARIDKOT",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Fatehgarh Churian",
+        "code": "FATEHGARH_CHURIAN",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Fazilka",
+        "code": "FAZILKA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Firozpur",
+        "code": "FIROZPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Gardhiwala",
+        "code": "GARDHIWALA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Garhshankar (Garhshanker)",
+        "code": "GARHSHANKAR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Gidderbaha (Giddarbaha)",
+        "code": "GIDDERBAHA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Gobindgarh (Mandi Gobindgarh)",
+        "code": "GOBINDGARH",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Goniana",
+        "code": "GONIANA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Goraya",
+        "code": "GORAYA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Gurdaspur",
+        "code": "GURDASPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Guru Har Sahai",
+        "code": "GURU_HAR_SAHAI",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Hariana",
+        "code": "HARIANA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Jagraon",
+        "code": "JAGRAON",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Jaitu",
+        "code": "JAITU",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Jalalabad",
+        "code": "JALALABAD",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Jandiala",
+        "code": "JANDIALA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Kartarpur",
+        "code": "KARTARPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Khanna",
+        "code": "KHANNA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Kharar",
+        "code": "KHARAR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Kurali",
+        "code": "KURALI",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Lehragaga",
+        "code": "LEHRAGAGA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Longowal",
+        "code": "LONGOWAL",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Machhiwara",
+        "code": "MACHHIWARA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Majitha",
+        "code": "MAJITHA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Malerkotla",
+        "code": "MALERKOTLA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Malout",
+        "code": "MALOUT",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Mansa",
+        "code": "MANSA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Maur",
+        "code": "MAUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Morinda",
+        "code": "MORINDA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Mukerian",
+        "code": "MUKERIAN",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sri Muktsar Sahib",
+        "code": "MUKTSAR_SAHIB",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Mullanpur Dakha",
+        "code": "MULLANPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Nabha",
+        "code": "NABHA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Nakodar",
+        "code": "NAKODAR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Nangal",
+        "code": "NANGAL",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Nawanshahr",
+        "code": "NAWANSHAHR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Nurmahal",
+        "code": "NURMAHAL",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Patran",
+        "code": "PATRAN",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Patti",
+        "code": "PATTI",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Payal",
+        "code": "PAYAL",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Phillaur",
+        "code": "PHILLAUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Qadian",
+        "code": "QADIAN",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Rahon",
+        "code": "RAHON",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Raikot",
+        "code": "RAIKOT",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Rajpura",
+        "code": "RAJPURA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Raman",
+        "code": "RAMAN",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Ramdas",
+        "code": "RAMDAS",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Rampura Phul",
+        "code": "RAMPURA_PHUL",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Rupnagar",
+        "code": "RUPNAGAR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sahnewal",
+        "code": "SAHNEWAL",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Samana",
+        "code": "SAMANA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Samrala",
+        "code": "SAMRALA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sanaur",
+        "code": "SANAUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sangat",
+        "code": "SANGAT",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sangrur",
+        "code": "SANGRUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sham ChaurasI",
+        "code": "SHAM_CHAURASI",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sirhind Fatehgarh Sahib",
+        "code": "SIRHIND",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sri Hargobindpur",
+        "code": "SRI_HARGOBINDPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sujanpur",
+        "code": "SUJANPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sultanpur",
+        "code": "SULTANPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Sunam",
+        "code": "SUNAM",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Talwandi Bhai",
+        "code": "TALWANDI_BHAI",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Tapa",
+        "code": "TAPA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Tarn Taran",
+        "code": "TARN_TARAN",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Urmar Tanda",
+        "code": "URMAR_TANDA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Zira",
+        "code": "ZIRA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Zirakpur",
+        "code": "ZIRAKPUR",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Talwara",
+        "code": "TALWARA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "KotKapura",
+        "code": "KOTKAPURA",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Nayagaon",
+        "code": "NAYAGAON",
+        "active": true,
+        "UlbType": "MUNICIPAL_COUNCIL"
+      },
+      {
+        "name": "Ajanala",
+        "code": "AJNALA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Badhni Kalan",
+        "code": "BADHNI_KALAN",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Bariwala",
+        "code": "BARIWALA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Begowal",
+        "code": "BEGOWAL",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Bhadson",
+        "code": "BHADSON",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Bhagta Bhai Ka",
+        "code": "BHAGTA_BHAI_KA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Bhikhi",
+        "code": "BHIKHI",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Bhulath",
+        "code": "BHULATH",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Chamkaur Sahib",
+        "code": "CHAMKAUR_SAHIB",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Cheema",
+        "code": "CHEEMA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Dhilwan",
+        "code": "DHILWAN",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Dirba",
+        "code": "DIRBA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Ghagga",
+        "code": "GHAGGA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Ghanaur",
+        "code": "GHANAUR",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Handiaya",
+        "code": "HANDIAYA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Khamanon",
+        "code": "KHAMANON",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Khanauri",
+        "code": "KHANAURI",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Khem Karan",
+        "code": "KHEM_KARAN",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Kot Fatta",
+        "code": "KOT_FATTA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Lohian Khass",
+        "code": "LOHIAN_KHASS",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Mahilpur",
+        "code": "MAHILPUR",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Makhu",
+        "code": "MAKHU",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Mallanwala Khass",
+        "code": "MALLANWALA_KHASS",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Maloud (Malaudh)",
+        "code": "MALOUD",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Moonak",
+        "code": "MOONAK",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Mudki",
+        "code": "MUDKI",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Lalru",
+        "code": "LALRU",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Raja Sansi",
+        "code": "RAJA_SANSI",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Rayya",
+        "code": "RAYYA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Sardulgarh",
+        "code": "SARDULGARH",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Shahkot",
+        "code": "SHAHKOT",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Talwandi Sabo",
+        "code": "TALWANDI_SABO",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Bhikhiwind",
+        "code": "BHIKHIWIND",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Narot Jaimal Singh",
+        "code": "NARJOT_JAIMAL_SINGH",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Mehatpur",
+        "code": "MEHATPUR",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Bilga",
+        "code": "BILGA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Nadala",
+        "code": "NADALA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Kiratpur Sahib",
+        "code": "KIRATPUR_SAHIB",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Amargarh",
+        "code": "AMARGARH",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Maluka",
+        "code": "MALUKA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Kotha Guru",
+        "code": "KOTHA_GURU",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Mehraj",
+        "code": "MEHRAJ",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Kot Shamir",
+        "code": "KOT_SHAMIR",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Lehra Mohabbat",
+        "code": "LEHRA_MOHABBAT",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Balian Wala",
+        "code": "BALIAN_WALA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Bhairoopa",
+        "code": "BHAIROOPA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Rampura",
+        "code": "RAMPURA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Chauke",
+        "code": "CHAUKE",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Nathana",
+        "code": "NATHANA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Mandikalan",
+        "code": "MANDIKALAN",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Boha",
+        "code": "BOHA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Joga",
+        "code": "JOGA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Arniwala Sheikh Subhan",
+        "code": "ARNIWALA_SHEIKH",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Mamdot",
+        "code": "MAMDOT",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Nihalsingh Wala",
+        "code": "NIHALSINGH_WALA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Kot Isse Khan",
+        "code": "KOT_ISSE",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Fatehgarh Panjtoo",
+        "code": "FATEHGARH_PANJTOO",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Baba Bakala Sahib",
+        "code": "BABA_BAKALA",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Gharuan",
+        "code": "GHARUAN",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
+      },
+      {
+        "name": "Devigarh",
+        "code": "DEVIGARH",
+        "active": true,
+        "UlbType": "NAGAR_PANCHAYAT"
       }
-      
     ]
   }
