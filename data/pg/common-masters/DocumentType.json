@@ -209,6 +209,14 @@
     {
       "code": "AIRPORTAUTHORITY.NOC",
       "active" : true
+    },
+    {
+      "code": "CITIZEN.UNDERTAKING",
+      "active" : true
+    },
+    {
+      "code": "ARCHITECT.UNDERTAKING",
+      "active" : true
     }
   ]
 }
