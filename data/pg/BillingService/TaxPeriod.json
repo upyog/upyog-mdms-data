@@ -691,20 +691,20 @@
       "financialYear": "2016-17"
     },
     {
-      "fromDate": 1554057000000,
-      "toDate": 1869676199000,
-      "periodCycle": "TENYEARS",
+      "fromDate": 1711909800000,
+      "toDate": 1901212199000,
+      "periodCycle": "FIVEYEARS",
       "service": "WS.ONE_TIME_FEE",
-      "code": "WS10YRS2019",
-      "financialYear": "2019-29"
+      "code": "WS5YRS2024",
+      "financialYear": "2024-25"
     },
     {
-      "fromDate": 1554057000000,
-      "toDate": 1869676199000,
-      "periodCycle": "TENYEARS",
+      "fromDate": 1711909800000,
+      "toDate": 1901212199000,
+      "periodCycle": "FIVEYEARS",
       "service": "SW.ONE_TIME_FEE",
-      "code": "SW10YRS2019",
-      "financialYear": "2019-29"
+      "code": "SW5YRS2024",
+      "financialYear": "2024-25"
     },
     {
       "fromDate": 1522540801000,
