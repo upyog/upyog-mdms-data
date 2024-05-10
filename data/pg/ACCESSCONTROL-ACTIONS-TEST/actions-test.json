@@ -15863,7 +15863,7 @@
     {
       "id": 2613,
       "name": "Create Asset registration",
-      "url": "/asset-services/v1/asset/_create",
+      "url": "/asset-services/v1/assets/_create",
       "displayName": "Create Asset Registration",
       "orderNumber": 1,
       "enabled": false,
@@ -15874,7 +15874,7 @@
    {
       "id": 2614,
       "name": "Update Asset registration",
-      "url": "/asset-services/v1/asset/_update",
+      "url": "/asset-services/v1/assets/_update",
       "displayName": "Update Asset Application",
       "orderNumber": 1,
       "enabled": false,
@@ -15885,7 +15885,7 @@
    {
       "id": 2615,
       "name": "Search Assets",
-      "url": "/asset-services/v1/asset/_search",
+      "url": "/asset-services/v1/assets/_search",
       "displayName": "Search Assets",
       "orderNumber": 3,
       "enabled": false,
