@@ -151,6 +151,18 @@
           "required": false,
           "allow": true,
           "order": 24
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": false,
+          "order": 25
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": false,
+          "order": 26
         }
       ]
     },
