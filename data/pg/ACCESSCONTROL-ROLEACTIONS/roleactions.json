@@ -27828,6 +27828,24 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2613,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2614,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2615,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "ASSET_INITIATOR",
       "actionid": 2613,
       "actioncode": "",
@@ -27846,19 +27864,19 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "ASEET_VERIFIER",
+      "rolecode": "ASSET_VERIFIER",
       "actionid": 2613,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "ASEET_VERIFIER",
+      "rolecode": "ASSET_VERIFIER",
       "actionid": 2614,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "ASEET_VERIFIER",
+      "rolecode": "ASSET_VERIFIER",
       "actionid": 2615,
       "actioncode": "",
       "tenantId": "pg"
