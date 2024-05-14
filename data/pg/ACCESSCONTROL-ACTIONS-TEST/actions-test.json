@@ -15892,6 +15892,40 @@
       "serviceCode": "asset-services",
       "code": "null",
       "path": ""
+   },
+   {
+         "id": 2616,
+         "name": "AST_NEW_ASSET_HEADER",
+         "url": "card",
+         "displayName": "New Asset",
+         "orderNumber": 1,
+         "parentModule": "ASSET",
+         "enabled": true,
+         "serviceCode": "ASSET",
+         "code": "null",
+         "path": "",
+         "navigationURL": "/digit-ui/employee/asset/assetservice/new-asset",
+         "leftIcon": "OBPSIcon",
+         "rightIcon": "",
+         "queryParams": "",
+         "sidebar": "digit-ui-links"
+   },
+   {
+         "id": 2617,
+         "name": "AST_MY_ASSETS_HEADER",
+         "url": "card",
+         "displayName": "My Assets",
+         "orderNumber": 2,
+         "parentModule": "ASSET",
+         "enabled": true,
+         "serviceCode": "ASSET",
+         "code": "null",
+         "path": "",
+         "navigationURL": "/digit-ui/employee/asset/assetservice/my-asset",
+         "leftIcon": "OBPSIcon",
+         "rightIcon": "",
+         "queryParams": "",
+         "sidebar": "digit-ui-links"
    }
    ]
 }
