@@ -27864,6 +27864,18 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 2616,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 2617,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "ASSET_VERIFIER",
       "actionid": 2613,
       "actioncode": "",
@@ -27882,6 +27894,18 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "ASSET_VERIFIER",
+      "actionid": 2616,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_VERIFIER",
+      "actionid": 2617,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "ASSET_APPROVER",
       "actionid": 2613,
       "actioncode": "",
@@ -27896,6 +27920,18 @@
     {
       "rolecode": "ASSET_APPROVER",
       "actionid": 2615,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 2616,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 2617,
       "actioncode": "",
       "tenantId": "pg"
     }
