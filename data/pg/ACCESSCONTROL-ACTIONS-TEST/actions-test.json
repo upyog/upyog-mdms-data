@@ -15926,6 +15926,75 @@
          "rightIcon": "",
          "queryParams": "",
          "sidebar": "digit-ui-links"
+   },
+   {
+      "id": 2618,
+      "name": "CHB_SEARCH_HALL_HEADER",
+      "url": "digit-ui-card",
+      "displayName": "Search Hall",
+      "orderNumber": 1,
+      "parentModule": "CHB",
+      "enabled": true,
+      "serviceCode": "CHB",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/chb-common/searchHall",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/chb-home"
+    },
+    {
+      "id": 2619,
+      "name": "CHB_MY_APPLICATION_HEADER",
+      "url": "digit-ui-card",
+      "displayName": "My Applications",
+      "orderNumber": 2,
+      "parentModule": "CHB",
+      "enabled": true,
+      "serviceCode": "CHB",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/chb-citizen/myBookings",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/chb-home"
+    },
+    {
+      "id": 2620,
+      "name": "Create chb booking",
+      "url": "/chb-services/v1/chb/_create",
+      "displayName": "Create Community Hall Booking",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "chb-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2621,
+      "name": "Update chb booking",
+      "url": "/chb-services/v1/chb/_update",
+      "displayName": "Update Community Hall",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "chb-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2622,
+      "name": "Search Chb",
+      "url": "/chb-services/v1/chb/_search",
+      "displayName": "Search Community Hall",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "chb-services",
+      "code": "null",
+      "path": ""
    }
    ]
 }
