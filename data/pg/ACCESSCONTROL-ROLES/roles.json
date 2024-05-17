@@ -756,6 +756,11 @@
       "code": "CHB_VERIFIER",
       "name": "Hall Document Verifier",
       "description": "Hall Application Document Verifier"
+    },
+    {
+      "code": "EW_VENDOR",
+      "name": " Vendor",
+      "description": "Vendor Application Approver"
     }
   ]
 }
