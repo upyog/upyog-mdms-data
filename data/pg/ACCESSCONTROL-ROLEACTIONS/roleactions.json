@@ -27994,6 +27994,36 @@
       "actionid": 2622,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2625,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2626,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2627,
+      "actioncode": "",
+      "tenantId": "pg"
+    } ,
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 2626,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 2627,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

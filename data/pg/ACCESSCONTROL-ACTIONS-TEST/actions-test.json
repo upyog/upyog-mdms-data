@@ -15995,6 +15995,75 @@
       "serviceCode": "chb-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2623,
+      "name": "EW_CREATE_REQUEST_HEADER",
+      "url": "digit-ui-card",
+      "displayName": "Create Request",
+      "orderNumber": 1,
+      "parentModule": "EW",
+      "enabled": true,
+      "serviceCode": "EW",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew-common/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
+    },
+    {
+      "id": 2624,
+      "name": "EW_MY_APPLICATION_HEADER",
+      "url": "digit-ui-card",
+      "displayName": "My Applications",
+      "orderNumber": 2,
+      "parentModule": "EW",
+      "enabled": true,
+      "serviceCode": "EW",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew-citizen/myApplication",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
+    },
+    {
+      "id": 2625,
+      "name": "Create Ewaste application",
+      "url": "/ew-services/ew-application/_create",
+      "displayName": "Create Ewaste Application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ew-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2626,
+      "name": "Update Ewaste application",
+      "url": "/ew-services/ew-application/_update",
+      "displayName": "Update Ewaste Application",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ew-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2627,
+      "name": "Search Ewaste application",
+      "url": "/ew-services/ew-application/_search",
+      "displayName": "Search Ewaste Application",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "ew-services",
+      "code": "null",
+      "path": ""
    }
    ]
 }
