@@ -3,14 +3,268 @@
     "moduleName": "ASSET",
     "assetSubCategory": [
       {
-        "name": "subCategory1",
-        "code": "SUBCATEGORY1",
-        "active": true
+        "name": "Roads, streets, lanes",
+        "code": "ROADS_STREETS_LANES",
+        "active": true,
+        "assetCategory": "ROAD_INFRASTRUCTURE"
       },
       {
-        "name": "subCategory2",
-        "code": "SUBCATGORY2",
-        "active": true
+        "name": "Street Lighting, Smart Poles, Traffic lights",
+        "code": "STREET_LIGHTING_SMART_POLES_TRAFFIC_LIGHTS",
+        "active": true,
+        "assetCategory": "ROAD_INFRASTRUCTURE"
+      },
+      {
+        "name": "CCTV surveillance",
+        "code": "CCTV_SURVEILLANCE",
+        "active": true,
+        "assetCategory": "ROAD_INFRASTRUCTURE"
+      },
+      {
+        "name": "Bridges, culverts, flyovers, subway, causeway, Round-about",
+        "code": "BRIDGES_CULVERTS_FLYOVERS_SUBWAY_CAUSEWAY_ROUND_ABOUT",
+        "active": true,
+        "assetCategory": "ROAD_INFRASTRUCTURE"
+      },
+      {
+        "name": "Others (footpath, cycle track, etc.)",
+        "code": "OTHERS_FOOTPATH_CYCLE_TRACK_ETC",
+        "active": true,
+        "assetCategory": "ROAD_INFRASTRUCTURE"
+      },
+      {
+        "name": "Street Furnitures and Fixtures, Signages",
+        "code": "STREET_FURNITURES_AND_FIXTURES_SIGNAGES",
+        "active": true,
+        "assetCategory": "ROAD_INFRASTRUCTURE"
+      },
+      {
+        "name": "Advertisement",
+        "code": "ADVERTISEMENT",
+        "active": true,
+        "assetCategory": "ROAD_INFRASTRUCTURE"
+      },
+      {
+        "name": "Infrastructure (Source of Water)",
+        "code": "INFRASTRUCTURE_SOURCE_OF_WATER",
+        "active": true,
+        "assetCategory": "WATER_WORK_DISTRIBUTION"
+      },
+      {
+        "name": "Treatment",
+        "code": "TREATMENT",
+        "active": true,
+        "assetCategory": "WATER_WORK_DISTRIBUTION"
+      },
+      {
+        "name": "Storage Facility",
+        "code": "STORAGE_FACILITY",
+        "active": true,
+        "assetCategory": "WATER_WORK_DISTRIBUTION"
+      },
+      {
+        "name": "Pipeline",
+        "code": "PIPELINE",
+        "active": true,
+        "assetCategory": "WATER_WORK_DISTRIBUTION"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "WATER_WORK_DISTRIBUTION"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "ADMINISTRATION"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "ATHLETIC_FIELDS"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "BURIAL_GROUNDS"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "COMMERCIAL"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "CREMATION_GROUNDS"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "CULTURAL_TOURISM"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "DRAINS_INCLUDING_UNDERGROUND_DRAINS_DETAILS"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "EDUCATION"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "ELECTRICITY"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "HEALTH"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "INDUSTRIAL"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "IRRIGATION"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "LAKES_AND_PONDS"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "MARKET_YARDS_STRUCTURES"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "OFFICE_EQUIPMENTS"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "OPEN_SPACES"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "PARKS_AND_GARDENS"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "PLANTS_AND_MACHINERY"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "PUBLIC_FACILITIES"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "PUBLIC_LIGHTING_SYSTEM"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "RECREATION"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "RESIDENTIAL"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "ROAD_INFRASTRUCTURE"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "SERVICES"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "SOLID_WORK"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "STORAGE"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "VACANT_LAND"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "VEHICLES"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "WASTE_LANDFILL_SITES"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "WATER_WORK_DISTRIBUTION"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "OTHER_EQUIPMENTS"
       }
     ]
 }
