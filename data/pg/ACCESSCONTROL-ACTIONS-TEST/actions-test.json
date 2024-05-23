@@ -15860,6 +15860,24 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+       "id": 2605,
+       "name": "Firenoc Citizen Home",
+       "url": "digit-ui-card",
+       "displayName": "FireNoc Search",
+       "orderNumber": 1,
+       "parentModule": "FireNoc",
+       "enabled": true,
+       "serviceCode": "",
+       "code": "",
+       "path": "fire-noc",
+       "navigationURL": "/citizen/fire-noc/home",
+       "leftIcon": "FirenocIcon",
+       "rightIcon": "",
+       "queryParams": "",
+       "sidebar": "digit-ui-links",
+       "sidebarURL": "/citizen/fire-noc/home"
     }
    ]
 }
