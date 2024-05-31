@@ -15878,6 +15878,39 @@
        "queryParams": "",
        "sidebar": "digit-ui-links",
        "sidebarURL": "/citizen/fire-noc/home"
+    },
+    {
+      "id": 2606,
+      "name": "Create Property v2",
+      "url": "/pt-services-v2/property/_create",
+      "displayName": "Create property",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "pt-services-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2607,
+      "name": "Update Property v2",
+      "url": "/pt-services-v2/property/_update",
+      "displayName": "Update property",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "pt-services-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2608,
+      "name": "Search Property v2",
+      "url": "/pt-services-v2/property/_search",
+      "displayName": "Search property",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "pt-services-v2",
+      "code": "null",
+      "path": ""
     }
    ]
 }
