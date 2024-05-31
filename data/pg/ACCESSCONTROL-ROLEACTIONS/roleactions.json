@@ -27073,6 +27073,18 @@
       "actionid": 2605,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "NOC_CEMP",
+      "actionid": 2608,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2608,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
