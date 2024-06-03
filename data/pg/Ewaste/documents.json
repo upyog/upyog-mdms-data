@@ -1,0 +1,18 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Ewaste",
+    "DocumentType": [
+      {
+        "code": "EWASTE_PHOTO1",
+        "description": "Photo1",
+        "isActive": true
+      },
+      {
+        "code": "EWASTE_PHOTO2",
+        "description": "Photo2 ",
+        "isActive": true
+      }
+     
+    ]
+  }
+  
