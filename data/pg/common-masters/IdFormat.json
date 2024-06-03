@@ -729,6 +729,10 @@
         {
             "format": "PG-AST-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
             "idname": "egov.idgen.asset.applicationNum"
+        },
+        {
+            "format": "PG-EW-[cy:yyyy-MM-dd]-[SEQ_EG_EW_ID]",
+            "idname": "egov.idgen.ewaste.requestid"
         }
     ]
 }
