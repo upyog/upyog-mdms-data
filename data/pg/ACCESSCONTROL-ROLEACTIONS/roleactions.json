@@ -27936,24 +27936,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "CHB_CEMP",
-      "actionid": 2620,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CHB_CEMP",
-      "actionid": 2621,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CHB_CEMP",
-      "actionid": 2622,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 2620,
       "actioncode": "",
