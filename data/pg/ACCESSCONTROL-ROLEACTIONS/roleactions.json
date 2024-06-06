@@ -28024,6 +28024,24 @@
       "actionid": 2627,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+    {
+      "rolecode": "ASSET_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
   ]
 }
