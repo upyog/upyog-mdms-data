@@ -25,6 +25,18 @@
         "code": "OTHER",
         "active": true,
         "assetClassification": "MOVEABLE"
+      },
+      {
+        "name": "Vehicle",
+        "code": "VEHICLE",
+        "active": true,
+        "assetClassification": "MOVEABLE"
+      },
+      {
+        "name": "IT",
+        "code": "IT",
+        "active": true,
+        "assetClassification": "MOVEABLE"
       }
     ]
 }
