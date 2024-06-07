@@ -15966,7 +15966,7 @@
     {
       "id": 2620,
       "name": "Create chb booking",
-      "url": "/chb-services/v1/chb/_create",
+      "url": "/chb-services/booking/v1/_create",
       "displayName": "Create Community Hall Booking",
       "orderNumber": 1,
       "enabled": false,
@@ -15977,7 +15977,7 @@
    {
       "id": 2621,
       "name": "Update chb booking",
-      "url": "/chb-services/v1/chb/_update",
+      "url": "/chb-services/booking/v1/_update",
       "displayName": "Update Community Hall",
       "orderNumber": 2,
       "enabled": false,
@@ -15988,7 +15988,7 @@
    {
       "id": 2622,
       "name": "Search Chb",
-      "url": "/chb-services/v1/chb/_search",
+      "url": "/chb-services/booking/v1/_search",
       "displayName": "Search Community Hall",
       "orderNumber": 3,
       "enabled": false,
