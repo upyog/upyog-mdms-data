@@ -270,25 +270,25 @@
         "name": "Desktop computers",
         "code": "DESKTOP_COMPUTERS",
         "active": true,
-        "assetCategory": "COMPUTERS_AND_LAPTOP"
+        "assetCategory": "COMPUTERS_AND_LAPTOPS"
       },
       {
           "name": "Laptop computers",
           "code": "LAPTOP_COMPUTERS",
           "active": true,
-          "assetCategory": "COMPUTERS_AND_LAPTOP"
+          "assetCategory": "COMPUTERS_AND_LAPTOPS"
       },
       {
           "name": "Tablets",
           "code": "TABLETS",
           "active": true,
-          "assetCategory": "COMPUTERS_AND_LAPTOP"
+          "assetCategory": "COMPUTERS_AND_LAPTOPS"
       },
       {
           "name": "Workstations",
           "code": "WORKSTATIONS",
           "active": true,
-          "assetCategory": "COMPUTERS_AND_LAPTOP"
+          "assetCategory": "COMPUTERS_AND_LAPTOPS"
       },
       {
           "name": "Computer mouses",
