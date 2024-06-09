@@ -732,7 +732,7 @@
         },
         {
             "format": "PG-EW-[cy:yyyy-MM-dd]-[SEQ_EG_EW_ID]",
-            "idname": "egov.idgen.ewaste.requestid"
+            "idname": "egov.idgen.ewid.format"
         }
     ]
 }
