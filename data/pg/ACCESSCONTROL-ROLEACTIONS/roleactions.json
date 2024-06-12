@@ -28030,6 +28030,12 @@
       "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
