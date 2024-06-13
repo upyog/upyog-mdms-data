@@ -4,11 +4,11 @@
     "PaymentChannel":
     [
       {
-        "code": "DIGITAL",
+        "code": "Digital",
         "active": true
       },
       {
-        "code": "NON_DIGITAL",
+        "code": "Non Digital",
         "active": true
       }
     ]
