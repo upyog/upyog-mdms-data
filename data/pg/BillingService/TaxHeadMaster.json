@@ -1519,7 +1519,7 @@
       "order": "0",
       "isRequired": false
     },
-    {
+	{
       "category": "TAX",
       "service": "TB.Challan_Under_section_156",
       "name": "TB.Challan_Under_section_156_TAX",
@@ -5734,6 +5734,38 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
+      "isRequired": false
+    },
+    {
+        "category": "FEE",
+        "service": "pet-services",
+        "name": "Pet Registration Fee",
+        "code": "PET_REGISTRATION_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+	   {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water application road cutting charge",
+      "code": "WS_ROAD_CUTTING_CHARGE_BERMCUTTINGKATCHA",
+      "roadType":"BERMCUTTINGKATCHA",		    
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+	      {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water application road cutting charge",
+      "code": "WS_ROAD_CUTTING_CHARGE_BMPREMIXROAD",
+      "roadType":"BMPREMIXROAD",		    
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
       "isRequired": false
     }
   ]
