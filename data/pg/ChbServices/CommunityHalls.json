@@ -3,6 +3,7 @@
   "moduleName": "CHB",
   "CommunityHalls": [
     {
+      "bookingId":"1",
       "name": "Mehram Nagar Barat Ghar",
       "code": "MEHRAM NAGAR BARAT GHAR",
       "address": "Village Mehram Nagar, Delhi Cantt",
@@ -10,6 +11,7 @@
       "active": true
     },
     {
+      "bookingId":"2",
       "name": "Jharera Barat Ghar",
       "code": "JHARERA BARAT GHAR",
       "address": "Village Jharera, Delhi Cantt",
@@ -17,6 +19,7 @@
       "active": true
     },
     {
+      "bookingId":"3",
       "name": "Manglam Barat Ghar",
       "code": "MANGLAM BARAT GHAR",
       "address": "Village Old Nangal, Delhi Cantt",
@@ -24,6 +27,7 @@
       "active": true
     },
     {
+      "bookingId":"4",
       "name": "Ashoka Barat Ghar",
       "code": "ASHOKA BARAT GHAR",
       "address": "Shastri Bazar, Delhi Cantt",
@@ -31,6 +35,7 @@
       "active": true
     },
     {
+      "bookingId":"5",
       "name": "Alankar Barat Ghar",
       "code": "ALANKAR BARAT GHAR",
       "address": "Sadar Bazar, Delhi Cantt",
@@ -38,6 +43,7 @@
       "active": true
     },
     {
+      "bookingId":"6",
       "name": "Dussehra Ground Part I",
       "code": "DUSSEHRA GROUND PART I",
       "address": "Sadar Bazar, Delhi Cantt",
@@ -45,6 +51,7 @@
       "active":true
     },
     {
+      "bookingId":"7",
       "name": "Dussehra Ground Part II",
       "code": "DUSSEHRA GROUND PART II",
       "address": "Sadar Bazar, Delhi Cantt",
@@ -52,6 +59,7 @@
       "active":true
     },
     {
+      "bookingId":"8",
       "name": "DAV Ground",
       "code": "DAV GROUND",
       "address": "Sadar Bazar, Delhi Cantt",
@@ -59,6 +67,7 @@
       "active":true
     },
     {
+      "bookingId":"9",
       "name": "Jain Mandir",
       "code": "JAIN MANDIR",
       "address": "Sadar Bazar, Delhi Cantt",
@@ -66,6 +75,7 @@
       "active":true
     },
     {
+      "bookingId":"10",
       "name": "Masjid Ground",
       "code": "MASJID GROUND",
       "address": "Sadar Bazar, Delhi Cantt",
