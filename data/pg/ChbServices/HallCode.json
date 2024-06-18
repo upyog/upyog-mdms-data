@@ -3,53 +3,233 @@
     "moduleName": "CHB",
     "HallCode": [
         {
+            "communityHallId":"1",
             "hallId":"1",
             "HallCode": "1",
+            "timeSlots": [
+                {
+                  "id": "1",
+                  "from": "10:00",
+                  "duration": "23:59"
+                },
+                {
+                  "id": "2",
+                  "from": "10:00",
+                  "duration": "47:59"
+                },
+                {
+                  "id": "3",
+                  "from": "10:00",
+                  "duration": "71:59"
+                }
+              ],
             "active": true
         },
         {
+            "communityHallId":"2",
             "hallId":"2",
             "HallCode": "2",
+            "timeSlots": [
+                {
+                  "id": "1",
+                  "from": "10:00",
+                  "duration": "23:59"
+                },
+                {
+                  "id": "2",
+                  "from": "10:00",
+                  "duration": "47:59"
+                },
+                {
+                  "id": "3",
+                  "from": "10:00",
+                  "duration": "71:59"
+                }
+              ],
             "active": true
         },
         {
+            "communityHallId":"3",
             "hallId":"3",
             "HallCode": "3",
+            "timeSlots": [
+                {
+                  "id": "1",
+                  "from": "10:00",
+                  "duration": "23:59"
+                },
+                {
+                  "id": "2",
+                  "from": "10:00",
+                  "duration": "47:59"
+                },
+                {
+                  "id": "3",
+                  "from": "10:00",
+                  "duration": "71:59"
+                }
+              ],
             "active": true
         },
         {
+            "communityHallId":"4",
             "hallId":"4",
             "HallCode": "4",
+            "timeSlots": [
+                {
+                  "id": "1",
+                  "from": "10:00",
+                  "duration": "23:59"
+                },
+                {
+                  "id": "2",
+                  "from": "10:00",
+                  "duration": "47:59"
+                },
+                {
+                  "id": "3",
+                  "from": "10:00",
+                  "duration": "71:59"
+                }
+              ],
             "active": true
         },
         {
+            "communityHallId":"5",
             "hallId":"5",
             "HallCode": "5",
+            "timeSlots": [
+                {
+                  "id": "1",
+                  "from": "10:00",
+                  "duration": "23:59"
+                },
+                {
+                  "id": "2",
+                  "from": "10:00",
+                  "duration": "47:59"
+                },
+                {
+                  "id": "3",
+                  "from": "10:00",
+                  "duration": "71:59"
+                }
+              ],
             "active": true
         },
         {
+            "communityHallId":"6",
             "hallId":"6",
             "HallCode": "6",
+            "timeSlots": [
+                {
+                  "id": "1",
+                  "from": "10:00",
+                  "duration": "23:59"
+                },
+                {
+                  "id": "2",
+                  "from": "10:00",
+                  "duration": "47:59"
+                },
+                {
+                  "id": "3",
+                  "from": "10:00",
+                  "duration": "71:59"
+                }
+              ],
             "active": true
         },
         {
+            "communityHallId":"7",
             "hallId":"7",
             "HallCode": "7",
+            "timeSlots": [
+                {
+                  "id": "1",
+                  "from": "10:00",
+                  "duration": "23:59"
+                },
+                {
+                  "id": "2",
+                  "from": "10:00",
+                  "duration": "47:59"
+                },
+                {
+                  "id": "3",
+                  "from": "10:00",
+                  "duration": "71:59"
+                }
+              ],
             "active": true
         },
         {
+            "communityHallId":"8",
             "hallId":"8",
             "HallCode": "8",
+            "timeSlots": [
+                {
+                  "id": "1",
+                  "from": "10:00",
+                  "duration": "23:59"
+                },
+                {
+                  "id": "2",
+                  "from": "10:00",
+                  "duration": "47:59"
+                },
+                {
+                  "id": "3",
+                  "from": "10:00",
+                  "duration": "71:59"
+                }
+              ],
             "active": true
         },
         {
+            "communityHallId":"9",
             "hallId":"9",
             "HallCode": "9",
+            "timeSlots": [
+                {
+                  "id": "1",
+                  "from": "10:00",
+                  "duration": "23:59"
+                },
+                {
+                  "id": "2",
+                  "from": "10:00",
+                  "duration": "47:59"
+                },
+                {
+                  "id": "3",
+                  "from": "10:00",
+                  "duration": "71:59"
+                }
+              ],
             "active": true
         },
         {
+            "communityHallId":"10",
             "hallId":"10",
             "HallCode": "10",
+            "timeSlots": [
+                {
+                  "id": "1",
+                  "from": "10:00",
+                  "duration": "23:59"
+                },
+                {
+                  "id": "2",
+                  "from": "10:00",
+                  "duration": "47:59"
+                },
+                {
+                  "id": "3",
+                  "from": "10:00",
+                  "duration": "71:59"
+                }
+              ],
             "active": true
         }
     ]
