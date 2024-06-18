@@ -1,0 +1,24 @@
+{
+    "tenantId": "pg",
+    "moduleName": "CHB",
+    "timeSlots": [
+        {
+            "id": "1",
+            "from": "10:00",
+            "to": "23:59",
+            "active": true
+        },
+        {
+            "id": "2",
+            "from": "10:00",
+            "to": "47:59",
+            "active": true
+        },
+        {
+            "id": "3",
+            "from": "10:00",
+            "to": "71:59",
+            "active": true
+        }
+    ]
+}

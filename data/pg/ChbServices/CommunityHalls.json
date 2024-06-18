@@ -1,0 +1,76 @@
+{
+  "tenantId": "pg",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "name": "Mehram Nagar Barat Ghar",
+      "code": "MEHRAM NAGAR BARAT GHAR",
+      "address": "Village Mehram Nagar, Delhi Cantt",
+      "HallCode": "1",
+      "active": true
+    },
+    {
+      "name": "Jharera Barat Ghar",
+      "code": "JHARERA BARAT GHAR",
+      "address": "Village Jharera, Delhi Cantt",
+      "HallCode": "2",
+      "active": true
+    },
+    {
+      "name": "Manglam Barat Ghar",
+      "code": "MANGLAM BARAT GHAR",
+      "address": "Village Old Nangal, Delhi Cantt",
+      "HallCode": "3",
+      "active": true
+    },
+    {
+      "name": "Ashoka Barat Ghar",
+      "code": "ASHOKA BARAT GHAR",
+      "address": "Shastri Bazar, Delhi Cantt",
+      "HallCode": "4",
+      "active": true
+    },
+    {
+      "name": "Alankar Barat Ghar",
+      "code": "ALANKAR BARAT GHAR",
+      "address": "Sadar Bazar, Delhi Cantt",
+      "HallCode": "5",
+      "active": true
+    },
+    {
+      "name": "Dussehra Ground Part I",
+      "code": "DUSSEHRA GROUND PART I",
+      "address": "Sadar Bazar, Delhi Cantt",
+      "HallCode": "6",
+      "active":true
+    },
+    {
+      "name": "Dussehra Ground Part II",
+      "code": "DUSSEHRA GROUND PART II",
+      "address": "Sadar Bazar, Delhi Cantt",
+      "HallCode": "7",
+      "active":true
+    },
+    {
+      "name": "DAV Ground",
+      "code": "DAV GROUND",
+      "address": "Sadar Bazar, Delhi Cantt",
+      "HallCode": "8",
+      "active":true
+    },
+    {
+      "name": "Jain Mandir",
+      "code": "JAIN MANDIR",
+      "address": "Sadar Bazar, Delhi Cantt",
+      "HallCode": "9",
+      "active":true
+    },
+    {
+      "name": "Masjid Ground",
+      "code": "MASJID GROUND",
+      "address": "Sadar Bazar, Delhi Cantt",
+      "HallCode": "10",
+      "active":true
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+    "tenantId": "pg",
+    "moduleName": "CHB",
+    "HallCode": [
+        {
+            "hallId":"1",
+            "HallCode": "1",
+            "active": true
+        },
+        {
+            "hallId":"2",
+            "HallCode": "2",
+            "active": true
+        },
+        {
+            "hallId":"3",
+            "HallCode": "3",
+            "active": true
+        },
+        {
+            "hallId":"4",
+            "HallCode": "4",
+            "active": true
+        },
+        {
+            "hallId":"5",
+            "HallCode": "5",
+            "active": true
+        },
+        {
+            "hallId":"6",
+            "HallCode": "6",
+            "active": true
+        },
+        {
+            "hallId":"7",
+            "HallCode": "7",
+            "active": true
+        },
+        {
+            "hallId":"8",
+            "HallCode": "8",
+            "active": true
+        },
+        {
+            "hallId":"9",
+            "HallCode": "9",
+            "active": true
+        },
+        {
+            "hallId":"10",
+            "HallCode": "10",
+            "active": true
+        }
+    ]
+}
