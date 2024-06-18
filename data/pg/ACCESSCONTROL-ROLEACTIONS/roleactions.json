@@ -28006,6 +28006,42 @@
       "actionid": 2627,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
