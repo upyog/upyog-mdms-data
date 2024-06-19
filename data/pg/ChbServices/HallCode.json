@@ -53,8 +53,8 @@
             "active": true
         },
         {
-            "communityHallId":"3",
-            "hallId":"2",
+            "communityHallId":"2",
+            "hallId":"3",
             "name": "Manglam Barat Ghar",
             "code": "MANGLAM_BARAT_GHAR",
             "HallCode": "3",
@@ -78,8 +78,8 @@
             "active": true
         },
         {
-            "communityHallId":"4",
-            "hallId":"3",
+            "communityHallId":"3",
+            "hallId":"4",
             "name": "Ashoka Barat Ghar",
             "code": "ASHOKA_BARAT_GHAR",
             "HallCode": "4",
@@ -103,8 +103,8 @@
             "active": true
         },
         {
-            "communityHallId":"5",
-            "hallId":"3",
+            "communityHallId":"3",
+            "hallId":"5",
             "name": "Alankar Barat Ghar",
             "code": "ALANKAR_BARAT_GHAR",
             "HallCode": "5",
