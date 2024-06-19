@@ -54,10 +54,10 @@
         },
         {
             "communityHallId":"3",
-            "hallId":"3",
+            "hallId":"2",
             "name": "Manglam Barat Ghar",
             "code": "MANGLAM_BARAT_GHAR",
-            "HallCode": "2",
+            "HallCode": "3",
             "timeSlots": [
                 {
                   "id": "1",
@@ -79,10 +79,10 @@
         },
         {
             "communityHallId":"4",
-            "hallId":"4",
+            "hallId":"3",
             "name": "Ashoka Barat Ghar",
             "code": "ASHOKA_BARAT_GHAR",
-            "HallCode": "3",
+            "HallCode": "4",
             "timeSlots": [
                 {
                   "id": "1",
@@ -104,10 +104,10 @@
         },
         {
             "communityHallId":"5",
-            "hallId":"5",
+            "hallId":"3",
             "name": "Alankar Barat Ghar",
             "code": "ALANKAR_BARAT_GHAR",
-            "HallCode": "3",
+            "HallCode": "5",
             "timeSlots": [
                 {
                   "id": "1",
