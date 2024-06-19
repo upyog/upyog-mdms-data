@@ -1,0 +1,31 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "SourceFinance": [
+      {
+        "name": "Own Source",
+        "code": "OWN_SOURCE",
+        "active": true
+      },
+      {
+        "name": "Specific Grants",
+        "code": "SPECIFIC_GRANTS",
+        "active": true
+      },
+      {
+        "name": "Ear Marked Funds",
+        "code": "EAR_MARKED_FUNDS",
+        "active": true
+      },
+      {
+        "name": "Loans & Funds",
+        "code": "LOANS_&_FUNDS",
+        "active": true
+      },
+      {
+        "name": "General Grants",
+        "code": "GENERAL_GRANTS",
+        "active": true
+      }
+    ]
+  }
