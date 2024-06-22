@@ -1022,7 +1022,176 @@
       {
         "name": "Improvement Trust",
         "code": "IMPROVEMENT_TRUST",
-        "active": true
+        "active": true,
+        "Districts": "ABOHAR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "BARNALA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+       "Districts": "BATALA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "FARIDKOT"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "FAZILKA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "KAPURTHALA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "KARTARPUR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "KHANNA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "MALERKOTLA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "MOGA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "NABHA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "NANGAL"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "NAWANSHAHR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "PATHANKOT"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "PHAGWARA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "RAJPURA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "RUPNAGAR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "SAMANA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "TARN_TARAN"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "AMARGARH"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "KOTKAPURA"
       }
     ]
   }
