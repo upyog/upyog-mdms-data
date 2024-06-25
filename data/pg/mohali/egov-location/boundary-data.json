@@ -7,7 +7,8 @@
         "code": "ADMIN",
         "name": "ADMIN"
       },
-      "boundary": {
+      "boundary": 
+      {
         "id": 1,
         "boundaryNum": 1,
         "name": "Mohali",
@@ -46,6 +47,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "MLC13",
+                    "pincode": [160061],
                     "area": "",
                     "children": []
                   },
@@ -58,6 +60,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "MLC15",
+                    "pincode": [160062],
                     "area": "",
                     "children": []
                   },
@@ -70,6 +73,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "MLC16",
+                    "pincode": [160063],
                     "area": "",
                     "children": []
                   }
