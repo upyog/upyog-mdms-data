@@ -577,6 +577,30 @@
           "code": "ADOBE_CREATIVE_SUITE",
           "active": true,
           "assetCategory": "OFFICE_PRODUCTIVITY_SOFTWARE"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "LMV"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "MCWG"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "EV"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
+        "active": true,
+        "assetCategory": "HMV"
       }
     ]
 }

@@ -3,29 +3,54 @@
     "moduleName": "ASSET",
     "SourceFinance": [
       {
+        "name": "Municipal Funds",
+        "code": "MUNICIPAL_FUNDS",
+        "active": true
+      },
+      {
+        "name": "GMADA Funds",
+        "code": "GMADA",
+        "active": true
+      },
+      {
+        "name": "MPLAD Grants",
+        "code": "MPLAD",
+        "active": true
+      },
+      {
+        "name": "AMRUT Grants",
+        "code": "AMRUT",
+        "active": true
+      },
+      {
+        "name": "Other Funds / Grants",
+        "code": "OTHER_GRANTS",
+        "active": true
+      },
+      {
         "name": "Own Source",
         "code": "OWN_SOURCE",
-        "active": true
+        "active": false
       },
       {
         "name": "Specific Grants",
         "code": "SPECIFIC_GRANTS",
-        "active": true
+        "active": false
       },
       {
         "name": "Ear Marked Funds",
         "code": "EAR_MARKED_FUNDS",
-        "active": true
+        "active": false
       },
       {
         "name": "Loans & Funds",
         "code": "LOANS_&_FUNDS",
-        "active": true
+        "active": false
       },
       {
         "name": "General Grants",
         "code": "GENERAL_GRANTS",
-        "active": true
+        "active": false
       }
     ]
   }
