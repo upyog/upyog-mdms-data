@@ -16,19 +16,19 @@
         },
         {
           "code": "APPL.ADDRESSPROOF",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 2
         },
         {
           "code": "APPL.LTR",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 3
         },
         {
           "code": "APPL.TDP",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 4
         },
@@ -100,7 +100,7 @@
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
+          "required": true,
           "allow": true,
           "order": 16
         },
