@@ -5767,6 +5767,16 @@
       "isActualDemand": true,
       "order": "3",
       "isRequired": false
-    }
+    },
+    {
+        "category": "FEE",
+        "service": "chb-services",
+        "name": "CHB  booking Fee",
+        "code": "CHB_BOOKING_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      }
   ]
 }
