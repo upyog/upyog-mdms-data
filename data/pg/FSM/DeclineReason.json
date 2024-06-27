@@ -1,15 +1,30 @@
 {
     "tenantId": "pg",
-    "moduleName": "FSM",
-    "DeclineReason": [
+    "moduleName": "Vehicle",
+    "FSTPORejectionReason": [
         {
-            "name": "Vehicle is under repair",
-            "code": "VEHICLE_REPAIR",
+            "name": "Approach Road to FSTP is inaccessible",
+            "code": "FSTP_INACCESS",
             "active": true
         },
         {
-            "name": "Inaccessible road",
-            "code": "ROAD_INACCESS",
+            "name": "Over Utilization of the FSTP Capacity (>100% Capacity Utilization)",
+            "code": "OVER_UTILIZE",
+            "active": true
+        },
+        {
+            "name": "FSTP under maintenance",
+            "code": "UNDER_MAINTENANCE",
+            "active": true
+        },
+        {
+            "name": "Vehicle breakdown on the way to FSTP",
+            "code": "VEHICLE_BREAKDOWN",
+            "active": true
+        },
+        {
+            "name": "Others",
+            "code": "OTHERS",
             "active": true
         }
     ]
