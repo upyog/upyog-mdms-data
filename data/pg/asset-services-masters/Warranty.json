@@ -1,0 +1,21 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "Warranty": [
+      {
+        "name": "1-5 Years",
+        "code": "1_TO_5_YEARS",
+        "active": true
+      },
+      {
+        "name": "5-10 Years",
+        "code": "5_TO_10_YEARS",
+        "active": true
+      },
+      {
+        "name": "10-15 Years",
+        "code": "10_TO_15_YEARS",
+        "active": true
+      }
+    ]
+}

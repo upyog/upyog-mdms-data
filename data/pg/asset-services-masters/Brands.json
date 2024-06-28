@@ -1,0 +1,36 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "Brands": [
+      {
+        "name": "HP",
+        "code": "HP",
+        "active": true
+      },
+      {
+        "name": "DELL",
+        "code": "DELL",
+        "active": true
+      },
+      {
+        "name": "MSI",
+        "code": "MSI",
+        "active": true
+      },
+      {
+        "name": "MACBOOK",
+        "code": "MACBOOK",
+        "active": true
+      },
+      {
+        "name": "LENOVO",
+        "code": "LENOVO",
+        "active": true
+      },
+      {
+        "name": "ASUS",
+        "code": "ASUS",
+        "active": true
+      }
+    ]
+}
