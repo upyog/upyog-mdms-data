@@ -1,0 +1,61 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "Department": [
+      {
+        "name": "Property Branch",
+        "code": "PROPERTY_BRANCH",
+        "active": true
+      },
+      {
+        "name": "IT Branch",
+        "code": "IT_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Revenue Branch",
+        "code": "REVENUE_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Finance Branch",
+        "code": "FINANCE_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Admin Branch",
+        "code": "ADMIN_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Sanitation Branch",
+        "code": "SANITATION_BRANCH",
+        "active": true
+      },
+      {
+        "name": "SBM Branch",
+        "code": "SBM",
+        "active": true
+      },
+      {
+        "name": "Water Sewerage Branch",
+        "code": "WATER_SEWERAGE",
+        "active": true
+      },
+      {
+        "name": "Trade Branch",
+        "code": "TRADE_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Townplanning ",
+        "code": "TOWNPLANNING",
+        "active": true
+      },
+      {
+        "name": "Health Department",
+        "code": "HEALTH",
+        "active": true
+      }
+    ]
+}
