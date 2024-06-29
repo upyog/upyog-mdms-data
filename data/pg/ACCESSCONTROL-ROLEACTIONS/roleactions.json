@@ -27954,6 +27954,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2628,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "CHB_VERIFIER",
       "actionid": 2621,
       "actioncode": "",
