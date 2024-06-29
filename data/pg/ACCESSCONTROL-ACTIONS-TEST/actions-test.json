@@ -16064,6 +16064,17 @@
       "serviceCode": "ewaste-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2628,
+      "name": "Slot Search",
+      "url": "/chb-services/booking/v1/_slot-search",
+      "displayName": "Search Community Hall",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "chb-services",
+      "code": "null",
+      "path": ""
    }
    ]
 }
