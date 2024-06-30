@@ -21,8 +21,8 @@
         "assetClassification": "IMMOVEABLE"
       },
       {
-        "name": "Other",
-        "code": "OTHER",
+        "name": "IT",
+        "code": "IT",
         "active": true,
         "assetClassification": "MOVEABLE"
       },
@@ -33,10 +33,12 @@
         "assetClassification": "MOVEABLE"
       },
       {
-        "name": "IT",
-        "code": "IT",
+        "name": "Other",
+        "code": "OTHER",
         "active": true,
         "assetClassification": "MOVEABLE"
       }
+     
+      
     ]
 }

@@ -3,18 +3,78 @@
     "moduleName": "ASSET",
     "Warranty": [
       {
-        "name": "1-5 Years",
-        "code": "1_TO_5_YEARS",
+        "name": "1 Year",
+        "code": "1_YEAR",
         "active": true
       },
       {
-        "name": "5-10 Years",
-        "code": "5_TO_10_YEARS",
+        "name": "2 Year",
+        "code": "2_YEAR",
         "active": true
       },
       {
-        "name": "10-15 Years",
-        "code": "10_TO_15_YEARS",
+        "name": "3 Year",
+        "code": "3_YEAR",
+        "active": true
+      },
+      {
+        "name": "4 Year",
+        "code": "4_YEAR",
+        "active": true
+      },
+      {
+        "name": "5 Year",
+        "code": "5_YEAR",
+        "active": true
+      },
+      {
+        "name": "6 Year",
+        "code": "6_YEAR",
+        "active": true
+      },
+      {
+        "name": "7 Year",
+        "code": "7_YEAR",
+        "active": true
+      },
+      {
+        "name": "8 Year",
+        "code": "8_YEAR",
+        "active": true
+      },
+      {
+        "name": "9 Year",
+        "code": "9_YEAR",
+        "active": true
+      },
+      {
+        "name": "10 Year",
+        "code": "10_YEAR",
+        "active": true
+      },
+      {
+        "name": "11 Year",
+        "code": "11_YEAR",
+        "active": true
+      },
+      {
+        "name": "12 Year",
+        "code": "12_YEAR",
+        "active": true
+      },
+      {
+        "name": "13 Year",
+        "code": "13_YEAR",
+        "active": true
+      },
+      {
+        "name": "14 Year",
+        "code": "14_YEAR",
+        "active": true
+      },
+      {
+        "name": "15 Year",
+        "code": "15_YEAR",
         "active": true
       }
     ]
