@@ -15998,6 +15998,18 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": 2619,
+      "name": "OBPS Workflow Escalation SMS ",
+      "url": "/egov-workflow-v2/egov-wf/auto/BPA/_sms",
+      "parentModule": "",
+      "displayName": "OBPS Workflow Escalation SMS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
     }
   ]
 }
