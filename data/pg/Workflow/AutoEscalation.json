@@ -68,7 +68,7 @@
         "state": "PENDINGAPPROVAL,FIELDINSPECTION_PENDING",
         "action": "APPROVE",
         "active": "true",
-        "stateSLA": 2.0,
+        "stateSLA": 10.0,
         "businessSLA": null,
         "topic" : "bpa-auto-escalation"
       }
