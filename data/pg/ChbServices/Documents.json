@@ -66,10 +66,6 @@
         },
         "dropdownData": [
           {
-            "code": "APPLICANT.IDENTITYPROOF.AADHAAR",
-            "active": true
-          },
-          {
             "code": "APPLICANT.ADDRESSPROOF.ELECTRICITYBILL",
             "active": true
           },

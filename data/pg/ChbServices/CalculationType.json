@@ -5,43 +5,43 @@
       {
         "applicationType": "COMMUNITY_HALL_BOOKING",
         "serviceType": "NEW_BOOKING",
-        "feeType": "Rent",
+        "feeType": "RENT",
         "amount": 7500
       },
       {
         "applicationType": "COMMUNITY_HALL_BOOKING",
         "serviceType": "NEW_BOOKING",
-        "feeType": "CGST on Rent",
+        "feeType": "CGST_ON_RENT",
         "amount": 675
       },
       {
         "applicationType": "COMMUNITY_HALL_BOOKING",
         "serviceType": "NEW_BOOKING",
-        "feeType": "SGST on Rent",
+        "feeType": "SGST_ON_RENT",
         "amount": 675
       },
       {
         "applicationType": "COMMUNITY_HALL_BOOKING",
         "serviceType": "NEW_BOOKING",
-        "feeType": "Security Deposit",
+        "feeType": "SECURITY_DEPOSIT",
         "amount": 7500
       },
       {
         "applicationType": "COMMUNITY_HALL_BOOKING",
         "serviceType": "NEW_BOOKING",
-        "feeType": "Water Charges",
+        "feeType": "WATER_CHARGES",
         "amount": 0
       },
       {
         "applicationType": "COMMUNITY_HALL_BOOKING",
         "serviceType": "NEW_BOOKING",
-        "feeType": "Electricity Charges",
+        "feeType": "ELECTRICITY_CHARGES",
         "amount": 1500
       },
       {
         "applicationType": "COMMUNITY_HALL_BOOKING",
         "serviceType": "NEW_BOOKING",
-        "feeType": "Conservation Fee",
+        "feeType": "CONSERVATION_FEE",
         "amount": 1500
       }
     ]
