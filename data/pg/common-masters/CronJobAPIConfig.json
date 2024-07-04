@@ -78,7 +78,7 @@
       "jobName": "bpa-auto-escalation-job-scheduler",
       "active": "true",
       "method": "POST",
-      "url": "http://egov-workflow-v2:8080/egov-wf/auto/BPA/_escalate",
+      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/BPA/_escalate",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -90,7 +90,7 @@
       "jobName": "bpa-process-reminders-job",
       "active": "true",
       "method": "POST",
-      "url": "http://egov-workflow-v2/egov-wf/auto/BPA/_processReminders",
+      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/BPA/_processReminders",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
