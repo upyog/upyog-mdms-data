@@ -733,6 +733,10 @@
         {
             "format": "PG-EW-[cy:yyyy-MM-dd]-[SEQ_EG_EW_ID]",
             "idname": "egov.idgen.ewaste.applicationNum"
+        },
+        {
+            "format": "CHB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "chb-services.receipt.id"
         }
     ]
 }
