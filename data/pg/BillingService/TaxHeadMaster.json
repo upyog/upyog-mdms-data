@@ -5768,20 +5768,10 @@
       "order": "3",
       "isRequired": false
     },
-    {
-        "category": "FEE",
-        "service": "chb-services",
-        "name": "CHB  booking Fee",
-        "code": "CHB_BOOKING_FEE",
-        "isDebit": false,
-        "isActualDemand": true,
-        "order": "0",
-        "isRequired": false
-      },
       {
         "category": "FEE",
         "service": "chb-services",
-        "name": "CHB Booking Fee",
+        "name": "Rent",
         "code": "RENT",
         "isDebit": false,
         "isActualDemand": true,
@@ -5791,7 +5781,7 @@
       {
         "category": "TAX",
         "service": "chb-services",
-        "name": "CHB Booking Fee",
+        "name": "CGST",
         "code": "CGST",
         "isDebit": false,
         "isActualDemand": true,
@@ -5801,7 +5791,7 @@
       {
         "category": "TAX",
         "service": "chb-services",
-        "name": "CHB Booking Fee",
+        "name": "SGST",
         "code": "SGST",
         "isDebit": false,
         "isActualDemand": true,
@@ -5811,7 +5801,7 @@
       {
         "category": "CHARGES",
         "service": "chb-services",
-        "name": "CHB Booking Fee",
+        "name": "CHB Security Deposit",
         "code": "SECURITY_DEPOSIT",
         "isDebit": false,
         "isActualDemand": true,
@@ -5821,7 +5811,7 @@
       {
         "category": "CHARGES",
         "service": "chb-services",
-        "name": "CHB Booking Fee",
+        "name": "Water Charges",
         "code": "WATER_CHARGES",
         "isDebit": false,
         "isActualDemand": true,
@@ -5831,7 +5821,7 @@
       {
         "category": "CHARGES",
         "service": "chb-services",
-        "name": "CHB Booking Fee",
+        "name": "Electricity Charges",
         "code": "ELECTRICITY_CHARGES",
         "isDebit": false,
         "isActualDemand": true,
@@ -5841,7 +5831,7 @@
       {
         "category": "FEE",
         "service": "chb-services",
-        "name": "CHB Booking Fee",
+        "name": "Conservation Fee",
         "code": "CONSERVATION_FEE",
         "isDebit": false,
         "isActualDemand": true,
