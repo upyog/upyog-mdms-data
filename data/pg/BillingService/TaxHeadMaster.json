@@ -5777,6 +5777,76 @@
         "isActualDemand": true,
         "order": "0",
         "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "chb-services",
+        "name": "CHB Booking Fee",
+        "code": "RENT",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "chb-services",
+        "name": "CHB Booking Fee",
+        "code": "CGST",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "chb-services",
+        "name": "CHB Booking Fee",
+        "code": "SGST",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "CHARGES",
+        "service": "chb-services",
+        "name": "CHB Booking Fee",
+        "code": "SECURITY_DEPOSIT",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "CHARGES",
+        "service": "chb-services",
+        "name": "CHB Booking Fee",
+        "code": "WATER_CHARGES",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "CHARGES",
+        "service": "chb-services",
+        "name": "CHB Booking Fee",
+        "code": "ELECTRICITY_CHARGES",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "chb-services",
+        "name": "CHB Booking Fee",
+        "code": "CONSERVATION_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
       }
   ]
 }
