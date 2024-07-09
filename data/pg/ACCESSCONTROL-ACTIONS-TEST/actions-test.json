@@ -16075,6 +16075,18 @@
       "serviceCode": "chb-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2629,
+      "name": "CHB Payment search",
+      "url": "/collection-services/payments/chb-services/_search",
+      "displayName": "CHB Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
    }
    ]
 }
