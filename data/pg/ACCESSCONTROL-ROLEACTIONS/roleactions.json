@@ -28084,6 +28084,12 @@
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "pg"
-    }	  
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 695,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
