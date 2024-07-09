@@ -16087,6 +16087,45 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-   }
+   },
+   {
+      "id": 2630,
+      "name": "ObpsMISReport1",
+      "url": "url",
+      "displayName": "OBPS MIS Report 1",
+      "orderNumber": 2,
+      "parentModule": "rainmaker-obps",
+      "enabled": true,
+      "serviceCode": "OBPS",
+      "code": "null",
+      "path": "OBPS.Obps Reports.ObpsMISReport1",
+      "navigationURL": "report/rainmaker-obps/ObpsMISReport1",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2631,
+      "name": "ObpsMISReport1",
+      "url": "/report/rainmaker-obps/ObpsMISReport1/metadata/_get",
+      "displayName": "rainmaker-obps-ObpsMISReport1",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2632,
+      "name": "ObpsMISReport1",
+      "url": "/report/rainmaker-obps/ObpsMISReport1/_get",
+      "displayName": "rainmaker-obps-ObpsMISReport1",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    }
    ]
 }
