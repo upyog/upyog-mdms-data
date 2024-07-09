@@ -39,6 +39,12 @@
         "AssetSubCategory":"DESKTOP_COMPUTERS"
       },
       {
+        "name": "OTHER",
+        "code": "OTHER",
+        "active": true,
+        "AssetSubCategory":"DESKTOP_COMPUTERS"
+      },
+      {
         "name": "HP",
         "code": "HP",
         "active": true,
@@ -75,6 +81,12 @@
         "AssetSubCategory":"LAPTOP_COMPUTERS"
       },
       {
+        "name": "OTHER",
+        "code": "OTHER",
+        "active": true,
+        "AssetSubCategory":"LAPTOP_COMPUTERS"
+      },
+      {
         "name": "HP",
         "code": "HP",
         "active": true,
@@ -147,6 +159,12 @@
         "AssetSubCategory":"COMPUTER_MOUSES"
       },
       {
+        "name": "OTHER",
+        "code": "OTHER",
+        "active": true,
+        "AssetSubCategory":"COMPUTER_MOUSES"
+      },
+      {
         "name": "HP",
         "code": "HP",
         "active": true,
@@ -183,6 +201,12 @@
         "AssetSubCategory":"KEYBOARDS"
       },
       {
+        "name": "OTHER",
+        "code": "OTHER",
+        "active": true,
+        "AssetSubCategory":"KEYBOARDS"
+      },
+      {
         "name": "HP",
         "code": "HP",
         "active": true,
@@ -215,6 +239,12 @@
       {
         "name": "ASUS",
         "code": "ASUS",
+        "active": true,
+        "AssetSubCategory":"MONITORS"
+      },
+      {
+        "name": "OTHER",
+        "code": "OTHER",
         "active": true,
         "AssetSubCategory":"MONITORS"
       },
