@@ -441,6 +441,12 @@
           "assetCategory": "IT_CONSUMABLES"
       },
       {
+        "name": "Smart Phones",
+        "code": "SMART_PHONES",
+        "active": true,
+        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
+      },
+      {
           "name": "UPS (Uninterruptible Power Supply)",
           "code": "UPS_UNINTERRUPTIBLE_POWER_SUPPLY",
           "active": true,
@@ -519,28 +525,16 @@
           "assetCategory": "COMPUTER_ACCESSORIES"
       },
       {
-          "name": "Software License , Certificate",
-          "code": "SOFTWARE_LICENSE_CERTIFICATE",
-          "active": true,
-          "assetCategory": "SOFTWARE_SERVICE"
+        "name": "Data Recovery",
+        "code": "DATA_RECOVERY",
+        "active": true,
+        "assetCategory": "SOFTWARE_SERVICE"
       },
       {
-          "name": "Expiry date of License",
-          "code": "EXPIRY_DATE_OF_LICENSE",
-          "active": true,
-          "assetCategory": "SOFTWARE_SERVICE"
-      },
-      {
-          "name": "Software License , Certificate",
-          "code": "SOFTWARE_LICENSE_CERTIFICATE",
-          "active": true,
-          "assetCategory": "SOFTWARE_LICENSES"
-      },
-      {
-          "name": "Expiry date of License",
-          "code": "EXPIRY_DATE_OF_LICENSE",
-          "active": true,
-          "assetCategory": "SOFTWARE_LICENSES"
+        "name": "Windows Installation",
+        "code": "WINDOWS_INSTALLATION",
+        "active": true,
+        "assetCategory": "SOFTWARE_SERVICE"
       },
       {
           "name": "Antivirus Software",
@@ -560,6 +554,12 @@
           "active": true,
           "assetCategory": "SECURITY_SOFTWARE"
       },
+      {
+        "name": "Software License , Certificate",
+        "code": "SOFTWARE_LICENSE_CERTIFICATE",
+        "active": true,
+        "assetCategory": "SOFTWARE_LICENSES"
+    },
       {
           "name": "Microsoft Office Suite",
           "code": "MICROSOFT_OFFICE_SUITE",
