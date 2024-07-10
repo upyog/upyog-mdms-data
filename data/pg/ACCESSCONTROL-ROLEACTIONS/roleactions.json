@@ -28084,6 +28084,36 @@
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "pg"
-    }	  
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 695,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2629,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2630,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2631,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2632,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
