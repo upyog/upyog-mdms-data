@@ -4,12 +4,12 @@
     "assetClassification": [
       {
         "name": "Movable",
-        "code": "MOVEABLE",
+        "code": "MOVABLE",
         "active": true
       },
       {
         "name": "Immovable",
-        "code": "IMMOVEABLE",
+        "code": "IMMOVABLE",
         "active": true
       }
     ]
