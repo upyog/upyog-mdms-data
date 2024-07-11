@@ -15999,7 +15999,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 2619,
       "name": "OBPS Workflow Escalation SMS ",
       "url": "/egov-workflow-v2/egov-wf/auto/BPA/_processReminders",
@@ -16008,6 +16008,132 @@
       "orderNumber": 0,
       "enabled": true,
       "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 2620,
+      "name": "ObpsUlbWiseStatusReport",
+      "url": "url",
+      "displayName": "OBPS Ulbwise Status Report",
+      "orderNumber": 2,
+      "parentModule": "rainmaker-obps",
+      "enabled": true,
+      "serviceCode": "OBPS",
+      "code": "null",
+      "path": "OBPS.Obps Reports.ObpsUlbWiseStatusReport",
+      "navigationURL": "report/rainmaker-obps/ObpsUlbWiseStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+
+    {
+      "id": 2621,
+      "name": "ObpsUlbWiseStatusReport",
+      "url": "/report/rainmaker-obps/ObpsUlbWiseStatusReport/metadata/_get",
+      "displayName": "rainmaker-obps-ObpsUlbWiseStatusReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 2622,
+      "name": "ObpsUlbWiseStatusReport",
+      "url": "/report/rainmaker-obps/ObpsUlbWiseStatusReport/_get",
+      "displayName": "rainmaker-obps-ObpsUlbWiseStatusReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 2623,
+      "name": "ObpsApplicationAppovedAfterTimeframeReport",
+      "url": "url",
+      "displayName": "OBPS Applcation Approved After Timeframe Report",
+      "orderNumber": 2,
+      "parentModule": "rainmaker-obps",
+      "enabled": true,
+      "serviceCode": "OBPS",
+      "code": "null",
+      "path": "OBPS.Obps Reports.ObpsApplicationAppovedAfterTimeframeReport",
+      "navigationURL": "report/rainmaker-obps/ObpsApplicationAppovedAfterTimeframeReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+
+    {
+      "id": 2624,
+      "name": "ObpsApplicationAppovedAfterTimeframeReport",
+      "url": "/report/rainmaker-obps/ObpsApplicationAppovedAfterTimeframeReport/metadata/_get",
+      "displayName": "rainmaker-obps-ObpsApplicationAppovedAfterTimeframeReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 2625,
+      "name": "ObpsApplicationAppovedAfterTimeframeReport",
+      "url": "/report/rainmaker-obps/ObpsApplicationAppovedAfterTimeframeReport/_get",
+      "displayName": "rainmaker-obps-ObpsApplicationAppovedAfterTimeframeReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 2626,
+      "name": "ObpsBlockingCasesDetailsReport",
+      "url": "url",
+      "displayName": "OBPS Blocking Cases Details Report",
+      "orderNumber": 2,
+      "parentModule": "rainmaker-obps",
+      "enabled": true,
+      "serviceCode": "OBPS",
+      "code": "null",
+      "path": "OBPS.Obps Reports.ObpsBlockingCasesDetailsReport",
+      "navigationURL": "report/rainmaker-obps/ObpsBlockingCasesDetailsReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+
+    {
+      "id": 2627,
+      "name": "ObpsBlockingCasesDetailsReport",
+      "url": "/report/rainmaker-obps/ObpsBlockingCasesDetailsReport/metadata/_get",
+      "displayName": "rainmaker-obps-ObpsBlockingCasesDetailsReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 2628,
+      "name": "ObpsBlockingCasesDetailsReport",
+      "url": "/report/rainmaker-obps/ObpsBlockingCasesDetailsReport/_get",
+      "displayName": "rainmaker-obps-ObpsBlockingCasesDetailsReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
       "code": "null",
       "path": ""
     }

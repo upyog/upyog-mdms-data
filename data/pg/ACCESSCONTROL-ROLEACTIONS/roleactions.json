@@ -27823,9 +27823,71 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
+    {
       "rolecode": "AUTO_ESCALATE",
       "actionid": 2619,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2620,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2621,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2622,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2623,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2624,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2625,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2626,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2627,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2628,
       "actioncode": "",
       "tenantId": "pg"
     }
