@@ -1,0 +1,21 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "Action": [
+      {
+        "name": "Approved",
+        "code": "APPROVED",
+        "active": true
+      },
+      {
+        "name": "Verified",
+        "code": "VERIFIED",
+        "active": true
+      },
+      {
+        "name": "Initiated",
+        "code": "INITIATED",
+        "active": true
+      }
+    ]
+}
