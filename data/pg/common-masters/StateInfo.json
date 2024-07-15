@@ -77,6 +77,18 @@
         {
           "label": "rainmaker-fsm",
           "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-chb",
+          "value": "rainmaker-chb"
+        },
+        {
+          "label": "rainmaker-ew",
+          "value": "rainmaker-ew"
+        },
+        {
+          "label": "rainmaker-ptr",
+          "value": "rainmaker-ptr"
         }
       ]
     }
