@@ -85,6 +85,10 @@
         {
           "label": "rainmaker-ew",
           "value": "rainmaker-ew"
+        },
+        {
+          "label": "rainmaker-ptr",
+          "value": "rainmaker-ptr"
         }
       ]
     }
