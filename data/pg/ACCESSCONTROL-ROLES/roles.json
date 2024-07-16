@@ -761,6 +761,11 @@
       "code": "EW_VENDOR",
       "name": " Vendor",
       "description": "Vendor Application Approver"
+    },
+    {
+      "code": "ASSET_ALLOCATOR",
+      "name": "Asset Allocator",
+      "description": "Asset Application Approver"
     }
   ]
 }
