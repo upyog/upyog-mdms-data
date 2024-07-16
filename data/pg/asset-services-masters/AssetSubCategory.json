@@ -537,12 +537,6 @@
         "assetCategory": "MISCELLANEOUS_EQUIPMENT"
       },
       {
-        "name": "Power Supply Adapter",
-        "code": "POWER_SUPPLY_ADAPTER",
-        "active": true,
-        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
-      },
-      {
         "name": "HDMI Cable",
         "code": "HDMI_CABLE",
         "active": true,

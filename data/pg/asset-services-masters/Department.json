@@ -3,29 +3,84 @@
     "moduleName": "ASSET",
     "Department": [
       {
-        "name": "Property Branch",
+        "name": "Engineering Branch",
+        "code": "ENGINEERING_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Building Branch",
+        "code": "BUILDING_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Account Branch",
+        "code": "ACCOUNT_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Advertisement Branch",
+        "code": "ADVERTISEMENT_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Birth and Death Branch",
+        "code": "BIRTH_&_DEATH_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Tehbazri Branch",
+        "code": "TEHBAZRI",
+        "active": true
+      },
+      {
+        "name": "General Branch",
+        "code": "GENERAL_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Trade License Branch",
+        "code": "TRADE_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Establishment Branch",
+        "code": "ESTABLISHMENT",
+        "active": true
+      },
+      {
+        "name": "Fire Brigade Department",
+        "code": "FIRE_BRIGADE",
+        "active": true
+      },
+      {
+        "name": "Property Tax Branch",
         "code": "PROPERTY_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Legal Branch",
+        "code": "LEGAL_BRANCH",
         "active": true
       },
       {
         "name": "IT Branch",
         "code": "IT_BRANCH",
-        "active": true
+        "active": false
       },
       {
         "name": "Revenue Branch",
         "code": "REVENUE_BRANCH",
-        "active": true
+        "active": false
       },
       {
         "name": "Finance Branch",
         "code": "FINANCE_BRANCH",
-        "active": true
+        "active": false
       },
       {
         "name": "Admin Branch",
         "code": "ADMIN_BRANCH",
-        "active": true
+        "active": false
       },
       {
         "name": "Sanitation Branch",
@@ -35,27 +90,27 @@
       {
         "name": "SBM Branch",
         "code": "SBM",
-        "active": true
+        "active": false
       },
       {
         "name": "Water Sewerage Branch",
         "code": "WATER_SEWERAGE",
-        "active": true
+        "active": false
       },
       {
         "name": "Trade Branch",
         "code": "TRADE_BRANCH",
-        "active": true
+        "active": false
       },
       {
         "name": "Townplanning ",
         "code": "TOWNPLANNING",
-        "active": true
+        "active": false
       },
       {
         "name": "Health Department",
         "code": "HEALTH",
-        "active": true
+        "active": false
       }
     ]
 }
