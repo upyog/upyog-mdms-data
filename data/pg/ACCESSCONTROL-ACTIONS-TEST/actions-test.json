@@ -16126,6 +16126,28 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2633,
+      "name": "Create Asset registration",
+      "url": "/asset-services/v1/assets/assignment/_create",
+      "displayName": "Create Asset Registration",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "asset-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2634,
+      "name": "Update Asset registration",
+      "url": "/asset-services/v1/assets/assignment/_update",
+      "displayName": "Update Asset Application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "asset-services",
+      "code": "null",
+      "path": ""
+   }
    ]
 }
