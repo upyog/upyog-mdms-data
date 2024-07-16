@@ -28114,6 +28114,18 @@
       "actionid": 2632,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 2633,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 2634,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
