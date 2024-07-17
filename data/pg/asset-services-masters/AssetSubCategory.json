@@ -321,6 +321,12 @@
           "assetCategory": "PERIPHERALS"
       },
       {
+        "name": "CD/DVD",
+        "code": "CD/DVD",
+        "active": true,
+        "assetCategory": "PERIPHERALS"
+    },
+      {
           "name": "Scanners",
           "code": "SCANNERS",
           "active": true,
@@ -487,6 +493,60 @@
           "code": "MONITOR_STANDS",
           "active": true,
           "assetCategory": "MISCELLANEOUS_EQUIPMENT"
+      },
+      {
+        "name": "WIFI Dongle",
+        "code": "WIFI_DONGLE",
+        "active": true,
+        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
+      },
+      {
+        "name": "Attendance Device",
+        "code": "ATTENDANCE_DEVICE",
+        "active": true,
+        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
+      },
+      {
+        "name": "Fax Machine",
+        "code": "FAX_MACHINE",
+        "active": true,
+        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
+      },
+      {
+        "name": "Processor",
+        "code": "PROCESSOR",
+        "active": true,
+        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
+      },
+      {
+        "name": "Card Reader",
+        "code": "CARD_READER",
+        "active": true,
+        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
+      },
+      {
+        "name": "RAM",
+        "code": "RAM",
+        "active": true,
+        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
+      },
+      {
+        "name": "Power Supply Adapter",
+        "code": "POWER_SUPPLY_ADAPTER",
+        "active": true,
+        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
+      },
+      {
+        "name": "HDMI Cable",
+        "code": "HDMI_CABLE",
+        "active": true,
+        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
+      },
+      {
+        "name": "Ethernet Cable",
+        "code": "ETHERNET_CABLE",
+        "active": true,
+        "assetCategory": "MISCELLANEOUS_EQUIPMENT"
       },
       {
           "name": "USB drives",
