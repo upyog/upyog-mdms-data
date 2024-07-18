@@ -16056,7 +16056,7 @@
 
     {
       "id": 2623,
-      "name": "ObpsApplicationAppovedAfterTimeframeReport",
+      "name": "ObpsApplicationApprovedAfterTimeframeReport",
       "url": "url",
       "displayName": "OBPS Applcation Approved After Timeframe Report",
       "orderNumber": 2,
@@ -16072,7 +16072,7 @@
 
     {
       "id": 2624,
-      "name": "ObpsApplicationAppovedAfterTimeframeReport",
+      "name": "ObpsApplicationApprovedAfterTimeframeReport",
       "url": "/report/rainmaker-obps/ObpsApplicationAppovedAfterTimeframeReport/metadata/_get",
       "displayName": "rainmaker-obps-ObpsApplicationAppovedAfterTimeframeReport",
       "orderNumber": 1,
@@ -16085,7 +16085,7 @@
 
     {
       "id": 2625,
-      "name": "ObpsApplicationAppovedAfterTimeframeReport",
+      "name": "ObpsApplicationApprovedAfterTimeframeReport",
       "url": "/report/rainmaker-obps/ObpsApplicationAppovedAfterTimeframeReport/_get",
       "displayName": "rainmaker-obps-ObpsApplicationAppovedAfterTimeframeReport",
       "orderNumber": 1,
