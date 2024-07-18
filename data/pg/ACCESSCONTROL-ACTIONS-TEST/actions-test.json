@@ -16064,8 +16064,8 @@
       "enabled": true,
       "serviceCode": "OBPS",
       "code": "null",
-      "path": "OBPS.Obps Reports.ObpsApplicationAppovedAfterTimeframeReport",
-      "navigationURL": "report/rainmaker-obps/ObpsApplicationAppovedAfterTimeframeReport",
+      "path": "OBPS.Obps Reports.ObpsApplicationApprovedAfterTimeframeReport",
+      "navigationURL": "report/rainmaker-obps/ObpsApplicationApprovedAfterTimeframeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -16073,8 +16073,8 @@
     {
       "id": 2624,
       "name": "ObpsApplicationApprovedAfterTimeframeReport",
-      "url": "/report/rainmaker-obps/ObpsApplicationAppovedAfterTimeframeReport/metadata/_get",
-      "displayName": "rainmaker-obps-ObpsApplicationAppovedAfterTimeframeReport",
+      "url": "/report/rainmaker-obps/ObpsApplicationApprovedAfterTimeframeReport/metadata/_get",
+      "displayName": "rainmaker-obps-ObpsApplicationApprovedAfterTimeframeReport",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
@@ -16086,8 +16086,8 @@
     {
       "id": 2625,
       "name": "ObpsApplicationApprovedAfterTimeframeReport",
-      "url": "/report/rainmaker-obps/ObpsApplicationAppovedAfterTimeframeReport/_get",
-      "displayName": "rainmaker-obps-ObpsApplicationAppovedAfterTimeframeReport",
+      "url": "/report/rainmaker-obps/ObpsApplicationApprovedAfterTimeframeReport/_get",
+      "displayName": "rainmaker-obps-ObpsApplicationApprovedAfterTimeframeReport",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
