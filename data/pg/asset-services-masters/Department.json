@@ -63,6 +63,16 @@
         "active": true
       },
       {
+        "name": "Agenda Branch",
+        "code": "AGENDA_BRANCH",
+        "active": true
+      },
+      {
+        "name": "Caretaker Branch",
+        "code": "CARETAKER_BRANCH",
+        "active": true
+      },
+      {
         "name": "IT Branch",
         "code": "IT_BRANCH",
         "active": false
