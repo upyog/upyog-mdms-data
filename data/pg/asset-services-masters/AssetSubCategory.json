@@ -325,12 +325,42 @@
         "code": "CD/DVD",
         "active": true,
         "assetCategory": "PERIPHERALS"
-    },
+      },
       {
           "name": "Scanners",
           "code": "SCANNERS",
           "active": true,
           "assetCategory": "PERIPHERALS"
+      },
+      {
+        "name": "CCTV Camera",
+        "code": "CCTV_CAMERA",
+        "active": true,
+        "assetCategory": "PERIPHERALS"
+      },
+      {
+        "name": "CCTV DVR",
+        "code": "CCTV_DVR",
+        "active": true,
+        "assetCategory": "PERIPHERALS"
+      },
+      {
+        "name": "Smart Boards",
+        "code": "SMART_BOARDS",
+        "active": true,
+        "assetCategory": "PERIPHERALS"
+      },
+      {
+        "name": "POE Switch",
+        "code": "POE_SWITCH",
+        "active": true,
+        "assetCategory": "PERIPHERALS"
+      },
+      {
+        "name": "Photocopier",
+        "code": "PHOTOCOPIER",
+        "active": true,
+        "assetCategory": "PERIPHERALS"
       },
       {
           "name": "Switches",
