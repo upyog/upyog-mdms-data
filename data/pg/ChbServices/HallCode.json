@@ -1,256 +1,246 @@
 {
-    "tenantId": "pg",
-    "moduleName": "CHB",
-    "HallCode": [
-        {
-            "communityHallId":"1",
-            "hallId":"1",
-            "name": "Mehram Nagar Barat Ghar",
-            "code": "MEHRAM_NAGAR_BARAT_GHAR",
-            "HallCode": "1",
-            "timeSlots": [
-                {
+  "tenantId": "pg",
+  "moduleName": "CHB",
+  "HallCode": [
+      {
+          "communityHallId": "1",
+          "hallId": "1",
+          "HallCode": "1001",
+          "capacity": "100",
+          "timeSlots": [
+              {
                   "id": "1",
                   "from": "10:00",
                   "duration": "23:59"
-                },
-                {
+              },
+              {
                   "id": "2",
                   "from": "10:00",
                   "duration": "47:59"
-                },
-                {
+              },
+              {
                   "id": "3",
                   "from": "10:00",
                   "duration": "71:59"
-                }
-              ],
-            "active": true
-        },
-        {
-            "communityHallId":"2",
-            "hallId":"2",
-            "name": "Jharera Barat Ghar",
-            "code": "JHARERA_BARAT_GHAR",
-            "HallCode": "2",
-            "timeSlots": [
-                {
+              }
+          ],
+          "active": true
+      },
+      {
+          "communityHallId": "2",
+          "hallId": "2",
+          "HallCode": "1002",
+          "capacity": "150",
+          "timeSlots": [
+              {
                   "id": "1",
                   "from": "10:00",
                   "duration": "23:59"
-                },
-                {
+              },
+              {
                   "id": "2",
                   "from": "10:00",
                   "duration": "47:59"
-                },
-                {
+              },
+              {
                   "id": "3",
                   "from": "10:00",
                   "duration": "71:59"
-                }
-              ],
-            "active": true
-        },
-        {
-            "communityHallId":"2",
-            "hallId":"3",
-            "name": "Manglam Barat Ghar",
-            "code": "MANGLAM_BARAT_GHAR",
-            "HallCode": "3",
-            "timeSlots": [
-                {
+              }
+          ],
+          "active": true
+      },
+      {
+          "communityHallId": "2",
+          "hallId": "3",
+          "HallCode": "1003",
+          "capacity": "200",
+          "timeSlots": [
+              {
                   "id": "1",
                   "from": "10:00",
                   "duration": "23:59"
-                },
-                {
+              },
+              {
                   "id": "2",
                   "from": "10:00",
                   "duration": "47:59"
-                },
-                {
+              },
+              {
                   "id": "3",
                   "from": "10:00",
                   "duration": "71:59"
-                }
-              ],
-            "active": true
-        },
-        {
-            "communityHallId":"3",
-            "hallId":"4",
-            "name": "Ashoka Barat Ghar",
-            "code": "ASHOKA_BARAT_GHAR",
-            "HallCode": "4",
-            "timeSlots": [
-                {
+              }
+          ],
+          "active": true
+      },
+      {
+          "communityHallId": "2",
+          "hallId": "4",
+          "HallCode": "1004",
+          "capacity": "250",
+          "timeSlots": [
+              {
                   "id": "1",
                   "from": "10:00",
                   "duration": "23:59"
-                },
-                {
+              },
+              {
                   "id": "2",
                   "from": "10:00",
                   "duration": "47:59"
-                },
-                {
+              },
+              {
                   "id": "3",
                   "from": "10:00",
                   "duration": "71:59"
-                }
-              ],
-            "active": true
-        },
-        {
-            "communityHallId":"3",
-            "hallId":"5",
-            "name": "Alankar Barat Ghar",
-            "code": "ALANKAR_BARAT_GHAR",
-            "HallCode": "5",
-            "timeSlots": [
-                {
+              }
+          ],
+          "active": true
+      },
+      {
+          "communityHallId": "5",
+          "hallId": "5",
+          "HallCode": "1005",
+          "capacity": "300",
+          "timeSlots": [
+              {
                   "id": "1",
                   "from": "10:00",
                   "duration": "23:59"
-                },
-                {
+              },
+              {
                   "id": "2",
                   "from": "10:00",
                   "duration": "47:59"
-                },
-                {
+              },
+              {
                   "id": "3",
                   "from": "10:00",
                   "duration": "71:59"
-                }
-              ],
-            "active": true
-        },
-        {
-            "communityHallId":"6",
-            "hallId":"6",
-            "name": "Dussehra Ground Part I",
-            "code": "DUSSEHRA_GROUND_PART_I",
-            "HallCode": "6",
-            "timeSlots": [
-                {
+              }
+          ],
+          "active": true
+      },
+      {
+          "communityHallId": "6",
+          "hallId": "6",
+          "HallCode": "1006",
+          "capacity": "350",
+          "timeSlots": [
+              {
                   "id": "1",
                   "from": "10:00",
                   "duration": "23:59"
-                },
-                {
+              },
+              {
                   "id": "2",
                   "from": "10:00",
                   "duration": "47:59"
-                },
-                {
+              },
+              {
                   "id": "3",
                   "from": "10:00",
                   "duration": "71:59"
-                }
-              ],
-            "active": true
-        },
-        {
-            "communityHallId":"7",
-            "hallId":"7",
-            "name": "Dussehra Ground Part II",
-            "code": "DUSSEHRA_GROUND_PART_II",
-            "HallCode": "7",
-            "timeSlots": [
-                {
+              }
+          ],
+          "active": true
+      },
+      {
+          "communityHallId": "3",
+          "hallId": "7",
+          "HallCode": "1007",
+          "capacity": "400",
+          "timeSlots": [
+              {
                   "id": "1",
                   "from": "10:00",
                   "duration": "23:59"
-                },
-                {
+              },
+              {
                   "id": "2",
                   "from": "10:00",
                   "duration": "47:59"
-                },
-                {
+              },
+              {
                   "id": "3",
                   "from": "10:00",
                   "duration": "71:59"
-                }
-              ],
-            "active": true
-        },
-        {
-            "communityHallId":"8",
-            "hallId":"8",
-            "name": "DAV Ground",
-            "code": "DAV_GROUND",
-            "HallCode": "8",
-            "timeSlots": [
-                {
+              }
+          ],
+          "active": true
+      },
+      {
+          "communityHallId": "8",
+          "hallId": "8",
+          "HallCode": "1008",
+          "capacity": "450",
+          "timeSlots": [
+              {
                   "id": "1",
                   "from": "10:00",
                   "duration": "23:59"
-                },
-                {
+              },
+              {
                   "id": "2",
                   "from": "10:00",
                   "duration": "47:59"
-                },
-                {
+              },
+              {
                   "id": "3",
                   "from": "10:00",
                   "duration": "71:59"
-                }
-              ],
-            "active": true
-        },
-        {
-            "communityHallId":"9",
-            "hallId":"9",
-            "name": "Jain Mandir",
-            "code": "JAIN_MANDIR",
-            "HallCode": "9",
-            "timeSlots": [
-                {
+              }
+          ],
+          "active": true
+      },
+      {
+          "communityHallId": "9",
+          "hallId": "9",
+          "HallCode": "1009",
+          "capacity": "500",
+          "timeSlots": [
+              {
                   "id": "1",
                   "from": "10:00",
                   "duration": "23:59"
-                },
-                {
+              },
+              {
                   "id": "2",
                   "from": "10:00",
                   "duration": "47:59"
-                },
-                {
+              },
+              {
                   "id": "3",
                   "from": "10:00",
                   "duration": "71:59"
-                }
-              ],
-            "active": true
-        },
-        {
-            "communityHallId":"10",
-            "hallId":"10",
-            "name": "Masjid Ground",
-            "code": "MASJID_GROUND",
-            "HallCode": "10",
-            "timeSlots": [
-                {
+              }
+          ],
+          "active": true
+      },
+      {
+          "communityHallId": "10",
+          "hallId": "10",
+          "HallCode": "1010",
+          "capacity": "600",
+          "timeSlots": [
+              {
                   "id": "1",
                   "from": "10:00",
                   "duration": "23:59"
-                },
-                {
+              },
+              {
                   "id": "2",
                   "from": "10:00",
                   "duration": "47:59"
-                },
-                {
+              },
+              {
                   "id": "3",
                   "from": "10:00",
                   "duration": "71:59"
-                }
-              ],
-            "active": true
-        }
-    ]
+              }
+          ],
+          "active": true
+      }
+  ]
 }
