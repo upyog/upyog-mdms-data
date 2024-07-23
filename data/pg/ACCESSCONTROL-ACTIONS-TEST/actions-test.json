@@ -16148,6 +16148,17 @@
       "serviceCode": "asset-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2635,
+      "name": "Demand Estimation",
+      "url": "/chb-services/booking/v1/_estimate",
+      "displayName": "Demand Estimation",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "chb-services",
+      "code": "null",
+      "path": ""
    }
    ]
 }
