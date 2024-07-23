@@ -62,6 +62,16 @@
       "workingPopulation": "33.70",
       "literacyRate": "57.41",
       "languagesSpoken": ["HN", "PN", "EN"]
+    },
+    {
+      "code": "pg.dharamshala",
+      "districtCode": "DHARAMSHALA",
+      "population": "12510",
+      "malePopulation": "6815",
+      "femalePopultion": "5700",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "PN", "EN"]
     }
   ]
 }
