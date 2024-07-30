@@ -18245,6 +18245,30 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": 2814,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/StakeholderRegistraition.TradeTypetoRoleMapping",
+      "displayName": "Create StakeholderRegistraition.TradeTypetoRoleMapping ",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+{
+      "id": 2815,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/StakeholderRegistraition.TradeTypetoRoleMapping",
+      "displayName": "update StakeholderRegistraition.TradeTypetoRoleMapping",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
    ]
 }
