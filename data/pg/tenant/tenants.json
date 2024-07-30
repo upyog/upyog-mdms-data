@@ -264,6 +264,41 @@
             "contactNumber": "0189 222 2115"
         },
         {
+            "code": "pg.shimla",
+            "name": "Shimla",
+            "description": "Shimla",
+            "pincode": [
+                171001
+            ],
+            "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+            "imageId": null,
+            "domainUrl": "https://www.upyog.niua.org",
+            "type": "CITY",
+            "twitterUrl": null,
+            "facebookUrl": null,
+            "emailId": "complaints.mcj@gmail.com",
+            "OfficeTimings": {
+                "Mon - Fri": "9.00 AM - 6.00 PM"
+            },
+            "city": {
+                "name": "Shimla",
+                "localName": null,
+                "districtCode": "SHIMLA",
+                "districtName": null,
+                "districtTenantCode": "pg.shimla",
+                "regionName": null,
+                "ulbGrade": "Municipal Corporation",
+                "longitude": 75.5761840,
+                "latitude": 31.3260160,
+                "shapeFileLocation": null,
+                "captcha": null,
+                "code": "1510",
+                "ddrName": "Dharamshala Municipal Corporation"
+            },
+            "address": "2,Mall Rd, Ram Bazar,Shimla, Himachal Pradesh, 171001",
+            "contactNumber": "0177 280 2771"
+        },
+        {
             "code": "pg",
             "name": "State",
             "description": "State",
