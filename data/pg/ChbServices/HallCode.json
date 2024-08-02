@@ -5,7 +5,7 @@
       {
           "communityHallId": "1",
           "hallId": "1",
-          "HallCode": "1001",
+          "HallCode": "Hall Code-1001",
           "capacity": "100",
           "timeSlots": [
               {
@@ -29,7 +29,7 @@
       {
           "communityHallId": "2",
           "hallId": "2",
-          "HallCode": "1002",
+          "HallCode": "Hall Code-1002",
           "capacity": "150",
           "timeSlots": [
               {
@@ -53,7 +53,7 @@
       {
           "communityHallId": "2",
           "hallId": "3",
-          "HallCode": "1003",
+          "HallCode": "Hall Code-1003",
           "capacity": "200",
           "timeSlots": [
               {
@@ -77,7 +77,7 @@
       {
           "communityHallId": "2",
           "hallId": "4",
-          "HallCode": "1004",
+          "HallCode": "Hall Code-1004",
           "capacity": "250",
           "timeSlots": [
               {
@@ -101,7 +101,7 @@
       {
           "communityHallId": "5",
           "hallId": "5",
-          "HallCode": "1005",
+          "HallCode": "Hall Code-1005",
           "capacity": "300",
           "timeSlots": [
               {
@@ -125,7 +125,7 @@
       {
           "communityHallId": "6",
           "hallId": "6",
-          "HallCode": "1006",
+          "HallCode": "Hall Code-1006",
           "capacity": "350",
           "timeSlots": [
               {
@@ -149,7 +149,7 @@
       {
           "communityHallId": "3",
           "hallId": "7",
-          "HallCode": "1007",
+          "HallCode": "Hall Code-1007",
           "capacity": "400",
           "timeSlots": [
               {
@@ -173,7 +173,7 @@
       {
           "communityHallId": "8",
           "hallId": "8",
-          "HallCode": "1008",
+          "HallCode": "Hall Code-1008",
           "capacity": "450",
           "timeSlots": [
               {
@@ -197,7 +197,7 @@
       {
           "communityHallId": "9",
           "hallId": "9",
-          "HallCode": "1009",
+          "HallCode": "Hall Code-1009",
           "capacity": "500",
           "timeSlots": [
               {
@@ -221,7 +221,7 @@
       {
           "communityHallId": "10",
           "hallId": "10",
-          "HallCode": "1010",
+          "HallCode": "Hall Code-1010",
           "capacity": "600",
           "timeSlots": [
               {
