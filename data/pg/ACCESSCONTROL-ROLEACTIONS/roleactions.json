@@ -28134,7 +28134,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "ASSET_INITIATOR",
+      "rolecode": "CITIZEN",
       "actionid": 2636,
       "actioncode": "",
       "tenantId": "pg"
