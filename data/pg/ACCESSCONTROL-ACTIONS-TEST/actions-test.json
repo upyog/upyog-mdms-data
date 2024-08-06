@@ -16159,6 +16159,23 @@
       "serviceCode": "chb-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2636,
+      "name": "CM_SEARCH_VERIFY",
+      "url": "card",
+      "displayName": "Verify",
+      "orderNumber": 2,
+      "parentModule": "COMMONMODULE",
+      "enabled": true,
+      "serviceCode": "COMMONMODULE",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/common-module/verify",
+      "leftIcon": "OBPSIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links"
    }
    ]
 }
