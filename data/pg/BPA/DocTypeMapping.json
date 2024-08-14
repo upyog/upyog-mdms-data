@@ -359,6 +359,12 @@
           "required": false,
           "allow": true,
           "order": 25
+        },
+        {
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
+          "allow": true,
+          "order": 47
         }
       ]
     },
@@ -879,6 +885,12 @@
           "required": false,
           "allow": true,
           "order": 30
+        },
+        {
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
+          "allow": true,
+          "order": 31
         }
       ]
     },
@@ -971,6 +983,12 @@
           "required": false,
           "allow": true,
           "order": 46
+        },
+        {
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
+          "allow": true,
+          "order": 47
         }
       ]
     },
