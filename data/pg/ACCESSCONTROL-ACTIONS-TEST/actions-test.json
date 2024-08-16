@@ -16189,7 +16189,7 @@
       "serviceCode": "ASSET",
       "code": "null",
       "path": "Asset.Report",
-      "navigationURL": "asset/assetservice/report",
+      "navigationURL": "/digit-ui/employee/asset/assetservice/report",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     }
