@@ -27897,6 +27897,12 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+	 {
+      "rolecode": "SUPERUSER",
+      "actionid": 2629,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
 	{
       "rolecode": "AUTO_ESCALATE",
       "actionid": 2630,
