@@ -16184,6 +16184,32 @@
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": 2633,
+      "name": "TL ",
+      "url": "/requester-services-dx/eSign/process",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+	{
+      "id": 2634,
+      "name": "TL ",
+      "url": "/requester-services-dx/eSign/redirect",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
     }
   ]
 }

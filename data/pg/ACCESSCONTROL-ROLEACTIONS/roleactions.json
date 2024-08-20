@@ -27920,6 +27920,42 @@
       "actionid": 2632,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	{
+      "rolecode": "TL_CEMP",
+      "actionid": 2633,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "TL_CEMP",
+      "actionid": 2634,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "TL_APPROVER",
+      "actionid": 2633,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "TL_APPROVER",
+      "actionid": 2634,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2633,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2634,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
