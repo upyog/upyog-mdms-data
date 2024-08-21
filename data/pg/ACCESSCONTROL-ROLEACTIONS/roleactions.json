@@ -28132,6 +28132,18 @@
       "actionid": 2635,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2636,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 2637,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
