@@ -28144,6 +28144,26 @@
       "actionid": 2637,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2638,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2639,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2640,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
