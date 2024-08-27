@@ -16192,6 +16192,47 @@
       "navigationURL": "/digit-ui/employee/asset/assetservice/report",
       "leftIcon": "places:business-center",
       "rightIcon": ""
+    },
+    {
+      "id": 2638,
+      "name": "ObpsApplicationApprovedAfterTimeframeReport",
+      "url": "url",
+      "displayName": "OBPS Applcation Approved After Timeframe Report",
+      "orderNumber": 2,
+      "parentModule": "rainmaker-obps",
+      "enabled": true,
+      "serviceCode": "OBPS",
+      "code": "null",
+      "path": "OBPS.Obps Reports.ObpsApplicationApprovedAfterTimeframeReport",
+      "navigationURL": "report/rainmaker-obps/ObpsApplicationApprovedAfterTimeframeReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+
+    {
+      "id": 2639,
+      "name": "ObpsApplicationApprovedAfterTimeframeReport",
+      "url": "/report/rainmaker-obps/ObpsApplicationApprovedAfterTimeframeReport/metadata/_get",
+      "displayName": "rainmaker-obps-ObpsApplicationApprovedAfterTimeframeReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 2640,
+      "name": "ObpsApplicationApprovedAfterTimeframeReport",
+      "url": "/report/rainmaker-obps/ObpsApplicationApprovedAfterTimeframeReport/_get",
+      "displayName": "rainmaker-obps-ObpsApplicationApprovedAfterTimeframeReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
     }
    ]
 }
