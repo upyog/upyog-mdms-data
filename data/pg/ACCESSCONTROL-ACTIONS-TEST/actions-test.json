@@ -16210,6 +16210,18 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
-    }
+    },
+	{
+      "id": 2635,
+      "name": "Scheduler for assessment generation",
+      "url": "/sw-calculator/sewerageCalculator/_jobscheduler",
+      "displayName": "Assessment Job Scheduler",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
