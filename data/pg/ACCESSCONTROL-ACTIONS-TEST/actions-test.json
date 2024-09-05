@@ -18269,6 +18269,31 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+	    {
+      "id": 2816,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/common-masters.PaymentChannel",
+      "displayName": "Create common-masters.Department",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+	
+	 {
+      "id": 2817,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/tenant.propertyType",
+      "displayName": "create tenant.assessmentconfig",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
    ]
 }
