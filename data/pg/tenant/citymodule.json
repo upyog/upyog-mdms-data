@@ -680,7 +680,16 @@
         },
         {
           "code": "pg.citye"
-        }
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
       ]
     },
     {
