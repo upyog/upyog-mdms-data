@@ -167,7 +167,7 @@
     },
     {
       "code" : "OWNER.SIGN",
-      "active" : true
+      "active" : false
     },
     {
       "code": "SITEPHOTOGRAPH.ONE.ONE",
@@ -180,12 +180,12 @@
     },
     {
       "code": "OWNER.BUILDINGPLAN",
-      "active" : true
+      "active" : false
 
     },
     {
       "code": "OWNER.APPOINTMENTPROOF",
-      "active" : true
+      "active" : false
 
     },
     {
@@ -216,6 +216,18 @@
     },
     {
       "code": "ARCHITECT.UNDERTAKING",
+      "active" : true
+    },
+    {
+      "code": "BPA.ISN",
+      "active" : true
+    },
+    {
+      "code": "BPA.NHAI",
+      "active" : true
+    },
+    {
+      "code": "BPA.NFD",
       "active" : true
     }
   ]
