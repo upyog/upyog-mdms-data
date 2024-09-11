@@ -26,6 +26,11 @@
         "name": "Public Gathering",
         "code": "PUBLIC_GATHERING",
         "active": true
+      },
+      {
+        "name": "None",
+        "code": "NONE",
+        "active":true
       }
     ]
   }
