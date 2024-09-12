@@ -5837,6 +5837,16 @@
         "isActualDemand": true,
         "order": "0",
         "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "chb-services",
+        "name": "Booking Fees",
+        "code": "BOOKING_FEES",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
       }
   ]
 }
