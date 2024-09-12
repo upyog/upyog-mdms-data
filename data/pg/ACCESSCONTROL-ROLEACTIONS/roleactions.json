@@ -28140,7 +28140,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "ASSET_INITIATOR",
+      "rolecode": "ASSET_APPROVER",
       "actionid": 2637,
       "actioncode": "",
       "tenantId": "pg"
@@ -28158,10 +28158,21 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-
     {
       "rolecode": "OBPS_REPORT_VIEWER",
       "actionid": 2640,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2672,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2673,
       "actioncode": "",
       "tenantId": "pg"
     }

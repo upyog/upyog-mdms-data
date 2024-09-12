@@ -16496,6 +16496,42 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2672,
+      "name": "FNOC_APPLY",
+      "url": "digit-ui-card",
+      "displayName": "Apply",
+      "orderNumber": 1,
+      "parentModule": "FNOC",
+      "enabled": true,
+      "serviceCode": "FNOC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/fnoc/apply",
+      "leftIcon": "FirenocIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/fnoc-home"
+    },
+    {
+      "id": 2673,
+      "name": "FNOC_MY_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "My Applications",
+      "orderNumber": 1,
+      "parentModule": "FNOC",
+      "enabled": true,
+      "serviceCode": "FNOC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/fnoc/my-applications",
+      "leftIcon": "FirenocIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/fnoc-home"
     }
    ]
 }
