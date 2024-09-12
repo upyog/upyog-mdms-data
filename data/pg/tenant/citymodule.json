@@ -736,6 +736,29 @@
           "code": "pg.cityd"
         } 
       ]
+    },
+    {
+      "module": "FNOC",
+      "code": "FNOC",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
     }
   ]
 }
