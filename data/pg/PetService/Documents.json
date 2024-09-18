@@ -113,6 +113,33 @@
           }
       ],
       "description": "PET.PETPHOTO_DESCRIPTION"
+  },
+  {
+    "code": "PET.FITNESSCERTIFICATE",
+    "documentType": "PET",
+    "required": true,
+    "active": true,
+    "digit-citizen":true,
+    "hasDropdown": true,
+    "additionalDetails": {
+      "enabledActions": {
+        "update": {
+          "disableUpload": true,
+          "disableDropdown": true
+        },
+        "create": {
+          "disableUpload": false,
+          "disableDropdown": false
+        }
+      }
+    },
+    "dropdownData": [
+      {
+        "code": "PET.FITNESSCERTIFICATE.CERTIFICATE",
+        "active": true
+      }
+    ],
+    "description": "PET.FITNESSCERTIFICATE.CERTIFICATE_DESCRIPTION"
   }
     ]
   }
