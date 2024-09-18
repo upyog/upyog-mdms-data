@@ -737,6 +737,10 @@
         {
             "format": "CHB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "chb-services.receipt.id"
+        },
+        {
+            "format": "PG-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_TOKEN_ID]",
+            "idname": "ptr.tokennumber"
         }
     ]
 }
