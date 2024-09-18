@@ -1,4 +1,4 @@
-{
+	{
   "tenantId": "pg",
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
@@ -27769,6 +27769,12 @@
     {
       "rolecode": "WS_FIELD_INSPECTOR",
       "actionid": 2608,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2609,
       "actioncode": "",
       "tenantId": "pg"
     },
