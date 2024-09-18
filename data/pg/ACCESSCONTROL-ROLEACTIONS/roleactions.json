@@ -29124,6 +29124,18 @@
       "actionid": 2817,
       "actioncode": "",
       "tenantId": "pg"
+    },
+		{
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2819,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2818,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
