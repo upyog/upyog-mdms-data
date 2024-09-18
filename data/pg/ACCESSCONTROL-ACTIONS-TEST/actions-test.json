@@ -15920,6 +15920,21 @@
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
     },
+	{
+      "id": 2609,
+      "name": "WS Integrated Bill",
+      "url": "url",
+      "displayName": "WS Integrated Bill",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/ws/water/wns-search",
+      "path": "WS.Integrated-Bill",
+      "leftIcon": "custom:water-tap",
+      "rightIcon": ""
+    },
     {
       "id": 2613,
       "name": "PetReport",
