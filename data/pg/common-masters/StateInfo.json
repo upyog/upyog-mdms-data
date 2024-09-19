@@ -89,6 +89,10 @@
         {
           "label": "rainmaker-ptr",
           "value": "rainmaker-ptr"
+        },
+        {
+          "label": "rainmaker-asset",
+          "value": "rainmaker-asset"
         }
       ]
     }
