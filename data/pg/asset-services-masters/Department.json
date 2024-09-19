@@ -48,11 +48,6 @@
       "active": true
     },
     {
-      "name": "Others",
-      "code": "DEPT_10",
-      "active": true
-    },
-    {
       "name": "Project Branch",
       "code": "DEPT_11",
       "active": true
@@ -171,6 +166,11 @@
       "name": "Townplanning",
       "code": "TOWNPLANNING",
       "active": false
+    },
+    {
+      "name": "Others",
+      "code": "DEPT_10",
+      "active": true
     }
   ]
 }
