@@ -1,7 +1,7 @@
 {
     "tenantId": "pg",
     "moduleName": "PetService",
-    "PetType": [
+    "PetColor": [
       {
           "colourCode": 1,
           "colourName": "Tricolor or white",
