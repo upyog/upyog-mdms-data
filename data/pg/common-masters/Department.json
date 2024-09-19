@@ -53,8 +53,33 @@
       "active": true
     },
     {
+      "name": "Project Branch",
+      "code": "DEPT_11",
+      "active": true
+    },
+    {
+      "name": "Architect & Planning (A&P) Branch",
+      "code": "DEPT_12",
+      "active": true
+    },
+    {
       "name": "Tax Branch",
       "code": "DEPT_13",
+      "active": true
+    },
+    {
+      "name": "Law Branch",
+      "code": "DEPT_14",
+      "active": true
+    },
+    {
+      "name": "Veterinary public health office (V.P.H.O.)",
+      "code": "DEPT_15",
+      "active": true
+    },
+    {
+      "name": "Estate Branch",
+      "code": "DEPT_16",
       "active": true
     },
     {
@@ -66,6 +91,86 @@
       "name": "Works Branch",
       "code": "DEPT_35",
       "active": true
+    },
+    {
+      "name": "Engineering Branch",
+      "code": "ENGINEERING_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Advertisement Branch",
+      "code": "ADVERTISEMENT_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Birth and Death Branch",
+      "code": "BIRTH_&_DEATH_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Tehbazri Branch",
+      "code": "TEHBAZRI",
+      "active": true
+    },
+    {
+      "name": "General Branch",
+      "code": "GENERAL_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Trade License Branch",
+      "code": "TRADE_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Establishment Branch",
+      "code": "ESTABLISHMENT",
+      "active": true
+    },
+    {
+      "name": "Fire Brigade Department",
+      "code": "FIRE_BRIGADE",
+      "active": true
+    },
+    {
+      "name": "Property Tax Branch",
+      "code": "PROPERTY_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Legal Branch",
+      "code": "LEGAL_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Agenda Branch",
+      "code": "AGENDA_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Caretaker Branch",
+      "code": "CARETAKER_BRANCH",
+      "active": true
+    },
+    {
+      "name": "IT Branch",
+      "code": "IT_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Revenue Branch",
+      "code": "REVENUE_BRANCH",
+      "active": false
+    },
+    {
+      "name": "Sanitation Branch",
+      "code": "SANITATION_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Townplanning",
+      "code": "TOWNPLANNING",
+      "active": false
     }
   ]
 }
