@@ -4,7 +4,7 @@
     "Documents": [
       {
         "code": "OWNER.IDENTITYPROOF",
-        "documentType": "OWNER",
+        "documentType": "OWNER.IDENTITYPROOF",
         "required": true,
         "active": true,
         "digit-citizen":true,
@@ -42,6 +42,7 @@
         "documentType": "OWNER.OWNERPHOTO",
         "required": true,
         "active": true,
+        "hasDropdown": false,
         "additionalDetails": {
           "enabledActions": {
             "update": {
@@ -64,11 +65,11 @@
     },
       {
         "code": "PET.VACCINATIONCERTIFICATE",
-        "documentType": "PET",
+        "documentType": "PET.VACCINATIONCERTIFICATE",
         "required": true,
         "active": true,
         "digit-citizen":true,
-        "hasDropdown": true,
+        "hasDropdown": false,
         "additionalDetails": {
           "enabledActions": {
             "update": {
@@ -94,6 +95,7 @@
       "documentType": "PET.PETPHOTO",
       "required": true,
       "active": true,
+      "hasDropdown": false,
       "additionalDetails": {
         "enabledActions": {
           "update": {
@@ -116,11 +118,11 @@
   },
   {
     "code": "PET.FITNESSCERTIFICATE",
-    "documentType": "PET",
+    "documentType": "PET.FITNESSCERTIFICATE",
     "required": true,
     "active": true,
     "digit-citizen":true,
-    "hasDropdown": true,
+    "hasDropdown": false,
     "additionalDetails": {
       "enabledActions": {
         "update": {
