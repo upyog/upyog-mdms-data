@@ -1376,7 +1376,7 @@
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
