@@ -13,11 +13,6 @@
       "active": true
     },
     {
-      "name": "Health & Sanitation",
-      "code": "DEPT_3",
-      "active": true
-    },
-    {
       "name": "Operation & Maintenance",
       "code": "DEPT_4",
       "active": true
@@ -43,8 +38,13 @@
       "active": true
     },
     {
-      "name": "Executive Branch",
+      "name": "Secretary/General Administration Branch",
       "code": "DEPT_9",
+      "active": true
+    },
+    {
+      "name": "Help Desk",
+      "code": "DEPT_10",
       "active": true
     },
     {
@@ -53,7 +53,7 @@
       "active": true
     },
     {
-      "name": "Architect & Planning (A&P) Branch",
+      "name": "Birth and Death Branch",
       "code": "DEPT_12",
       "active": true
     },
@@ -63,18 +63,43 @@
       "active": true
     },
     {
-      "name": "Law Branch",
+      "name": "Civil",
       "code": "DEPT_14",
       "active": true
     },
     {
-      "name": "Veterinary public health office (V.P.H.O.)",
+      "name": "Engineering Branch (O&M - W&S)",
       "code": "DEPT_15",
       "active": true
     },
     {
-      "name": "Estate Branch",
+      "name": "Health Branch",
       "code": "DEPT_16",
+      "active": true
+    },
+    {
+      "name": "Tehbazri Branch",
+      "code": "DEPT_17",
+      "active": true
+    },
+    {
+      "name": "Engineering Branch",
+      "code": "DEPT_18",
+      "active": true
+    },
+    {
+      "name": "Advertisement Branch",
+      "code": "DEPT_19",
+      "active": true
+    },
+    {
+      "name": "Sanitation Branch",
+      "code": "DEPT_21",
+      "active": true
+    },
+    {
+      "name": "Fire Brigade Department",
+      "code": "DEPT_24",
       "active": true
     },
     {
@@ -83,33 +108,43 @@
       "active": true
     },
     {
+      "name": "Property Tax Branch",
+      "code": "DEPT_33",
+      "active": true
+    },
+    {
+      "name": "Establishment Branch",
+      "code": "DEPT_34",
+      "active": true
+    },
+    {
       "name": "Works Branch",
       "code": "DEPT_35",
       "active": true
     },
     {
-      "name": "Engineering Branch",
-      "code": "ENGINEERING_BRANCH",
-      "active": true
-    },
-    {
-      "name": "Advertisement Branch",
-      "code": "ADVERTISEMENT_BRANCH",
-      "active": true
-    },
-    {
-      "name": "Birth and Death Branch",
-      "code": "BIRTH_&_DEATH_BRANCH",
-      "active": true
-    },
-    {
-      "name": "Tehbazri Branch",
-      "code": "TEHBAZRI",
-      "active": true
-    },
-    {
       "name": "General Branch",
-      "code": "GENERAL_BRANCH",
+      "code": "DEPT_38",
+      "active": true
+    },
+    {
+      "name": "Architect & Planning (A&P) Branch DEPT",
+      "code": "DEPT_53",
+      "active": true
+    },
+    {
+      "name": "Estate Branch",
+      "code": "DEPT_54",
+      "active": true
+    },
+    {
+      "name": "Veterinary public health office (V.P.H.O.)",
+      "code": "DEPT_55",
+      "active": true
+    },
+    {
+      "name": "Law Branch",
+      "code": "DEPT_56",
       "active": true
     },
     {
@@ -118,23 +153,8 @@
       "active": true
     },
     {
-      "name": "Establishment Branch",
-      "code": "ESTABLISHMENT",
-      "active": true
-    },
-    {
-      "name": "Fire Brigade Department",
-      "code": "FIRE_BRIGADE",
-      "active": true
-    },
-    {
-      "name": "Property Tax Branch",
-      "code": "PROPERTY_BRANCH",
-      "active": true
-    },
-    {
       "name": "Legal Branch",
-      "code": "LEGAL_BRANCH",
+      "code": "DEPT_LG",
       "active": true
     },
     {
@@ -158,18 +178,8 @@
       "active": false
     },
     {
-      "name": "Sanitation Branch",
-      "code": "SANITATION_BRANCH",
-      "active": true
-    },
-    {
       "name": "Townplanning",
-      "code": "TOWNPLANNING",
-      "active": false
-    },
-    {
-      "name": "Others",
-      "code": "DEPT_10",
+      "code": "DEPT_TP",
       "active": true
     }
   ]
