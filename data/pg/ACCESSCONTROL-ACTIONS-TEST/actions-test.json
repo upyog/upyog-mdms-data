@@ -19023,6 +19023,58 @@
       "enabled": 0,
       "serviceCode": "PQM",
       "code": "null"
-     }
+     },
+	{
+	   "id": 2886,
+	   "name": "TQM",
+	   "url": "url",
+	   "displayName": "TQM",
+	   "orderNumber": 1,
+	   "parentModule": "tqm",
+	   "enabled": true,
+	   "serviceCode": "tqm",
+	   "code": "null",
+	   "path": "TQM",
+	   "navigationURL": "/digit-ui/employee/",
+	   "leftIcon": "dynamic:MuktaHomeIcon",
+	   "rightIcon": ""
+	},
+	{
+	   "id": 2887,
+	   "name": "TQMTest",
+	   "url": "url",
+	   "displayName": "TQM Test Report",
+	   "orderNumber": 3,
+	   "parentModule": "",
+	   "enabled": true,
+	   "serviceCode": "",
+	   "code": "null",
+	   "path": "FSM.Reports.TQMTest",
+	   "navigationURL": "report/fsm/TQMTest",
+	   "leftIcon": "action:description",
+	   "rightIcon": ""
+	},
+	{
+	   "id": 2888,
+	   "name": "TQMTest-Metadata",
+	   "url": "/report/fsm/TQMTest/metadata/_get",
+	   "displayName": "TQM Metadata Report",
+	   "orderNumber": 1,
+	   "enabled": true,
+	   "serviceCode": "TQMTEST_METADATA",
+	   "code": "null",
+	   "path": "TQM Report"
+	},
+	{
+	   "id": 2889,
+	   "name": "TQMTest",
+	   "url": "/report/fsm/TQMTest/_get",
+	   "displayName": "TQM Report",
+	   "orderNumber": 0,
+	   "enabled": true,
+	   "serviceCode": "TQMTEST_METADATA",
+	   "code": "null",
+	   "path": "TQM Report"
+	}
    ]
 }
