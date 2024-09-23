@@ -29754,6 +29754,54 @@
       "actionid": 2831,
       "actioncode": "",
       "tenantId": "pg"
-  }
+  },
+ {
+      "rolecode": "PQM_TP_OPERATOR",
+      "actionid": 2886,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PQM_ADMIN",
+      "actionid": 2886,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_REPORT_VIEWER",
+      "actionid": 2887,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PQM_TP_OPERATOR",
+      "actionid": 2887,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_REPORT_VIEWER",
+      "actionid": 2888,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+   {
+      "rolecode": "PQM_TP_OPERATOR",
+      "actionid": 2888,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+   {
+      "rolecode": "FSM_REPORT_VIEWER",
+      "actionid": 2888,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+   {
+      "rolecode": "PQM_TP_OPERATOR",
+      "actionid": 2888,
+      "actioncode": "",
+      "tenantId": "od"
+    }
   ]
 }
