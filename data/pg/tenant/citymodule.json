@@ -641,8 +641,8 @@
       ]
     },
     {
-      "module": "TQM",
-      "code": "TQM",
+      "module": "Tqm",
+      "code": "Tqm",
       "active": true,
       "order": 14,
       "additionalComponent": "TqmAdminNotification",
