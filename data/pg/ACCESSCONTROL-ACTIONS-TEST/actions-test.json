@@ -16532,6 +16532,45 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/fnoc-home"
+    },
+     {
+         "id": 2674,
+         "name": "Asset Report",
+         "url": "url",
+         "displayName": "Asset Application Report",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "null",
+         "path": "ASSET.asset Reports.AssetapplicationReport",
+         "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+      "id": 2475,
+      "name": "AssetapplicationReport",
+      "url": "/report/rainmaker-asset/AssetapplicationReport/metadata/_get",
+      "displayName": "rainmaker-asset-AssetapplicationReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2476,
+      "name": "AssetapplicationReport",
+      "url": "/report/rainmaker-asset/AssetapplicationReport/_get",
+      "displayName": "rainmaker-asset-AssetapplicationReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
     }
    ]
 }
