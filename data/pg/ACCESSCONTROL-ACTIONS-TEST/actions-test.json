@@ -16539,9 +16539,9 @@
          "url": "url",
          "displayName": "Asset Application Report",
          "orderNumber": 2,
-         "parentModule": "",
+         "parentModule": "rainmaker-asset",
          "enabled": true,
-         "serviceCode": "",
+         "serviceCode": "asset",
          "code": "null",
          "path": "ASSET.asset Reports.AssetapplicationReport",
          "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
@@ -16559,7 +16559,7 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
-    },
+    }
     {
       "id": 2476,
       "name": "AssetapplicationReport",
