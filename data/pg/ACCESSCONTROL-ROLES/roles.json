@@ -766,6 +766,11 @@
       "code": "ASSET_ALLOCATOR",
       "name": "Asset Allocator",
       "description": "Asset Application Approver"
-    }
+    },
+    {
+      "code": "ASSET_REPORT_VIEWER",
+      "name": "Asset Report Viewer",
+      "description": "Who Can View Asset Reports"
+     }  	  
   ]
 }

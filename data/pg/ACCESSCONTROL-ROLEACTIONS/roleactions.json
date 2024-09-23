@@ -28175,6 +28175,25 @@
       "actionid": 2673,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_REPORT_VIEWER",
+      "actionid": 2674,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+    {
+      "rolecode": "ASSET_REPORT_VIEWER",
+      "actionid": 2675,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_REPORT_VIEWER",
+      "actionid": 2676,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
