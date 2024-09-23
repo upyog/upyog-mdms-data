@@ -16538,7 +16538,7 @@
          "name": "Asset Report",
          "url": "url",
          "displayName": "Asset Application Report",
-         "orderNumber": 1,
+         "orderNumber": 2,
          "parentModule": "",
          "enabled": true,
          "serviceCode": "",
