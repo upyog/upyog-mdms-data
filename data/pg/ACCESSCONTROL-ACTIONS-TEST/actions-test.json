@@ -16549,7 +16549,7 @@
          "rightIcon": ""
       },
       {
-      "id": 2475,
+      "id": 2675,
       "name": "AssetapplicationReport",
       "url": "/report/rainmaker-asset/AssetapplicationReport/metadata/_get",
       "displayName": "rainmaker-asset-AssetapplicationReport",
@@ -16561,7 +16561,7 @@
       "path": ""
     },
     {
-      "id": 2476,
+      "id": 2676,
       "name": "AssetapplicationReport",
       "url": "/report/rainmaker-asset/AssetapplicationReport/_get",
       "displayName": "rainmaker-asset-AssetapplicationReport",
