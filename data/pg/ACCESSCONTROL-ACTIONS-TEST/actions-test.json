@@ -16543,7 +16543,7 @@
          "enabled": true,
          "serviceCode": "ASSET",
          "code": "null",
-         "path": "ASSET.asset Reports.AssetapplicationReport",
+         "path": "OBPS.Obps Reports.AssetapplicationReport",
          "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
