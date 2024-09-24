@@ -16541,7 +16541,7 @@
          "orderNumber": 2,
          "parentModule": "rainmaker-asset",
          "enabled": true,
-         "serviceCode": "asset",
+         "serviceCode": "ASSET",
          "code": "null",
          "path": "ASSET.asset Reports.AssetapplicationReport",
          "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
