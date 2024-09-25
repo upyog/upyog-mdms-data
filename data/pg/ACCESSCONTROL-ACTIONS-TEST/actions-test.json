@@ -16543,7 +16543,7 @@
          "enabled": true,
          "serviceCode": "ASSET",
          "code": "null",
-         "path": "FIRE-NOC.Reports.AssetapplicationReport",
+         "path": "ASSET.Asset Reports.AssetapplicationReport",
          "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
@@ -16573,7 +16573,7 @@
       "path": ""
     },
     {
-    "id": 2674,
+    "id": 2677,
     "name": "Financial Expense Bill Approve",
     "navigationURL": "services/EGF/inbox",
     "url": "url",
