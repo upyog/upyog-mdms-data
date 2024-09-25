@@ -725,6 +725,14 @@
         {
             "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "pet-services.receipt.id"
+        },
+	 {
+      	    "idname": "pqm.aplnumber",
+            "format": "[CITY.CODE]-PQM-[cy:yyyy-MM-dd]-[SEQ_EGOV_PQM]"
+        },
+	{
+      	    "format": "IND-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_IND]",
+            "idname": "individual.id"
         }
     ]
 }
