@@ -28183,20 +28183,20 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "FIRENOC_REPORT_VIEWER",
+      "rolecode": "ASSET_REPORT_VIEWER",
       "actionid": 2674,
       "actioncode": "",
       "tenantId": "pg"
     },
 
     {
-      "rolecode": "FIRENOC_REPORT_VIEWER",
+      "rolecode": "ASSET_REPORT_VIEWER",
       "actionid": 2675,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
-      "rolecode": "FIRENOC_REPORT_VIEWER",
+      "rolecode": "ASSET_REPORT_VIEWER",
       "actionid": 2676,
       "actioncode": "",
       "tenantId": "pg"
