@@ -29759,49 +29759,61 @@
       "rolecode": "PQM_TP_OPERATOR",
       "actionid": 2886,
       "actioncode": "",
-      "tenantId": "od"
+      "tenantId": "pg"
     },
     {
       "rolecode": "PQM_ADMIN",
       "actionid": 2886,
       "actioncode": "",
-      "tenantId": "od"
+      "tenantId": "pg"
     },
     {
       "rolecode": "FSM_REPORT_VIEWER",
       "actionid": 2887,
       "actioncode": "",
-      "tenantId": "od"
+      "tenantId": "pg"
     },
     {
       "rolecode": "PQM_TP_OPERATOR",
       "actionid": 2887,
       "actioncode": "",
-      "tenantId": "od"
+      "tenantId": "pg"
     },
     {
       "rolecode": "FSM_REPORT_VIEWER",
       "actionid": 2888,
       "actioncode": "",
-      "tenantId": "od"
+      "tenantId": "pg"
     },
    {
       "rolecode": "PQM_TP_OPERATOR",
       "actionid": 2888,
       "actioncode": "",
-      "tenantId": "od"
+      "tenantId": "pg"
     },
    {
       "rolecode": "FSM_REPORT_VIEWER",
       "actionid": 2888,
       "actioncode": "",
-      "tenantId": "od"
+      "tenantId": "pg"
     },
    {
       "rolecode": "PQM_TP_OPERATOR",
       "actionid": 2888,
       "actioncode": "",
-      "tenantId": "od"
-    }
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PQM_TP_OPERATOR",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PQM_ADMIN",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+  }
   ]
 }
