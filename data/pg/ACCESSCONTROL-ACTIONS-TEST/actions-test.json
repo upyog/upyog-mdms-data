@@ -16543,7 +16543,7 @@
          "enabled": true,
          "serviceCode": "ASSET",
          "code": "null",
-         "path": "OBPS.Obps Reports.AssetapplicationReport",
+         "path": "FIRE-NOC.Reports.AssetapplicationReport",
          "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
