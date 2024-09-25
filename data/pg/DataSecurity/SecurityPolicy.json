@@ -1151,6 +1151,305 @@
         "roleBasedDecryptionPolicy": [
   
         ]
+      },
+      {
+        "model": "IndividualEncrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "mobileNumber",
+            "jsonPath": "mobileNumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "aadhaarNumber",
+            "jsonPath": "identifiers/*/identifierId",
+            "patternId": "001",
+            "defaultVisibility": "MASKED"
+          }
+        ],
+        "roleBasedDecryptionPolicy": [
+          {
+            "roles": ["MUKTA_ADMIN"],
+            "attributeAccessList": [
+              {
+                "attribute": "aadhaarNumber",
+                "firstLevelVisibility": "PLAIN",
+                "secondLevelVisibility": "PLAIN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "IndividualSearchEncrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "mobileNumber",
+            "jsonPath": "mobileNumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "aadhaarNumber",
+            "jsonPath": "identifier/identifierId",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
+      },
+      {
+        "model": "IndividualSearchIdentifierEncrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "aadhaarNumber",
+            "jsonPath": "identifier/identifierId",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
+      },
+      {
+        "model": "IndividualSearchMobileNumberEncrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "mobileNumber",
+            "jsonPath": "mobileNumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
+      },
+      {
+        "model": "IndividualDecrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "mobileNumber",
+            "jsonPath": "mobileNumber",
+            "patternId": null,
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "aadhaarNumber",
+            "jsonPath": "identifiers/*/identifierId",
+            "patternId": "001",
+            "defaultVisibility": "MASKED"
+          }
+        ],
+        "roleBasedDecryptionPolicy": [
+      ]
+      },
+      {
+        "model": "BankAccountEncrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "accountHolderName",
+            "jsonPath": "accountHolderName",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "accountNumber",
+            "jsonPath": "accountNumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
+      },
+      {
+        "model": "BankAccountDecrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "accountHolderName",
+            "jsonPath": "accountHolderName",
+            "patternId": "001",
+            "defaultVisibility": "MASKED"
+          },
+          {
+            "name": "accountNumber",
+            "jsonPath": "accountNumber",
+            "patternId": "001",
+            "defaultVisibility": "MASKED"
+          }
+        ],
+        "roleBasedDecryptionPolicy": [
+        {
+          
+            "roles": ["BILL_ACCOUNTANT", "MUKTA_ADMIN"],
+            "attributeAccessList": [
+              {
+                "attribute": "accountHolderName",
+                "firstLevelVisibility": "PLAIN",
+                "secondLevelVisibility": "PLAIN"
+              },
+              {
+                "attribute": "accountNumber",
+                "firstLevelVisibility": "PLAIN",
+                "secondLevelVisibility": "PLAIN"
+              }
+            ]
+          }
+       ]
+     },
+    {
+        "model": "BankAccountHolderNameEncrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "accountHolderName",
+            "jsonPath": "accountHolderName",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
+      },
+      {
+        "model": "BankAccountNumberEncrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "accountNumber",
+            "jsonPath": "accountNumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
+      },
+      {
+        "model": "Organisation",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "contactName",
+            "jsonPath": "contactName",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "contactMobileNumber",
+            "jsonPath": "contactMobileNumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "contactEmail",
+            "jsonPath": "contactEmail",
+            "patternId": "004",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
+      },
+      {
+        "model": "DisbursementEncrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "individualName",
+            "jsonPath": "disbursements/*/individual/name",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "individualPhone",
+            "jsonPath": "disbursements/*/individual/phone",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "individualGender",
+            "jsonPath": "disbursements/*/individual/gender",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "individualPin",
+            "jsonPath": "disbursements/*/individual/pin",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "individualAddress",
+            "jsonPath": "disbursements/*/individual/address",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "individualEmail",
+            "jsonPath": "disbursements/*/individual/email",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "accountCode",
+            "jsonPath": "disbursements/*/account_code",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
+      },
+      {
+        "model": "PaymentInstruction",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "bankAccountId",
+            "jsonPath": "beneficiaryDetails/*/bankAccountId",
+            "patternId": "002",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
       }
     ]
   }
