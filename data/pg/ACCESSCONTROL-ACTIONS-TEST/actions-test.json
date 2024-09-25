@@ -16571,6 +16571,20 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
+    },
+    {
+    "id": 2674,
+    "name": "Financial Expense Bill Approve",
+    "navigationURL": "services/EGF/inbox",
+    "url": "url",
+    "parentModule": "EGF",
+    "displayName": "Expense Bills Approve",
+    "orderNumber": 5,
+    "enabled": true,
+    "serviceCode": "FinanceBill",
+    "code": "null",
+    "leftIcon": "editor:insert-chart",
+    "path": "Finance.Transactions.Bills Accounting.Expense Bills Approve"
     }
-   ]
+  ]
 }
