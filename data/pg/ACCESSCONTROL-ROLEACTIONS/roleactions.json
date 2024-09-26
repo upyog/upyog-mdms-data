@@ -28152,6 +28152,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "ASSET_REPORT_VIEWER",
+      "actionid": 2637,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "OBPS_REPORT_VIEWER",
       "actionid": 2638,
       "actioncode": "",
