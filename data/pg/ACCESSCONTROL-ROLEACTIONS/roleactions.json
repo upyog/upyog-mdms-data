@@ -28202,12 +28202,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "ASSET_REPORT_VIEWER",
-      "actionid": 2676,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "EMPLOYEE",
       "actionid": 2620,
       "actioncode": "",
@@ -28305,13 +28299,7 @@
     },
     {
       "rolecode": "EGF_BILL_APPROVER",
-      "actionid": 2677,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "ASSET_REPORT_VIEWER",
-      "actionid": 2678,
+      "actionid": 2676,
       "actioncode": "",
       "tenantId": "pg"
     }
