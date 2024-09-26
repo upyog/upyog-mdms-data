@@ -16585,6 +16585,21 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Bills Accounting.Expense Bills Approve"
-    }
+    },
+    {
+      "id": 2678,
+      "name": "Asset Report",
+      "url": "url",
+      "displayName": "Asset Reports",
+      "orderNumber": 2,
+      "parentModule": "asset-services-masters",
+      "enabled": true,
+      "serviceCode": "ASSET",
+      "code": "null",
+      "path": "Asset.Asset Reports.AssetapplicationReport",
+      "navigationURL": "ASSET.Asset Reports.AssetapplicationReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
   ]
 }

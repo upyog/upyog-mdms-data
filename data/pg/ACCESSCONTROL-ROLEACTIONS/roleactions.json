@@ -28302,6 +28302,12 @@
       "actionid": 2677,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_REPORT_VIEWER",
+      "actionid": 2678,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
