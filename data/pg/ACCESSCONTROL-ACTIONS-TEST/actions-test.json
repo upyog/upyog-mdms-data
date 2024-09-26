@@ -16534,7 +16534,7 @@
       "sidebarURL": "/digit-ui/citizen/fnoc-home"
     },
     {
-        "id": 2675,
+        "id": 2674,
         "name": "AssetapplicationReport",
         "url": "/report/rainmaker-asset/AssetapplicationReport/metadata/_get",
         "displayName": "rainmaker-asset-AssetapplicationReport",
@@ -16546,7 +16546,7 @@
         "path": ""
     },
     {
-        "id": 2674,
+        "id": 2675,
         "name": "AssetapplicationReport",
         "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
         "url": "url",
