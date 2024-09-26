@@ -1,7 +1,7 @@
 {
     "tenantId": "pg",
     "moduleName": "FireNoc",
-    "Document": [
+    "microDocument": [
       {
         "code": "OWNER.IDENTITYPROOF",
         "documentType": "OWNER",
