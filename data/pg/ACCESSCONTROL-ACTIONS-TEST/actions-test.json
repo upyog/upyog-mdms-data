@@ -16188,8 +16188,8 @@
       "enabled": true,
       "serviceCode": "ASSET",
       "code": "null",
-      "path": "Asset.Report",
-      "navigationURL": "/digit-ui/employee/asset/assetservice/report",
+      "path": "ASSET.Asset Reports.AssetapplicationReport",
+      "navigationURL": "ASSET.Asset Reports.AssetapplicationReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
