@@ -16188,8 +16188,8 @@
       "enabled": true,
       "serviceCode": "ASSET",
       "code": "null",
-      "path": "ASSET.Asset Reports.AssetapplicationReport",
-      "navigationURL": "ASSET.Asset Reports.AssetapplicationReport",
+      "path": "FIRE-NOC.Reports.AssetapplicationReport",
+      "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
