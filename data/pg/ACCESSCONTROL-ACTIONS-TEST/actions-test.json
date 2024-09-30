@@ -16188,8 +16188,8 @@
       "enabled": true,
       "serviceCode": "ASSET",
       "code": "null",
-      "path": "Asset.Report",
-      "navigationURL": "/digit-ui/employee/asset/assetservice/report",
+      "path": "Asset.Reports.AssetapplicationReport",
+      "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -16548,21 +16548,6 @@
     {
         "id": 2675,
         "name": "AssetapplicationReport",
-        "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
-        "url": "url",
-        "displayName": "Asset Application Report",
-        "orderNumber": 2,
-        "parentModule": "",
-        "enabled": true,
-        "serviceCode": "",
-        "code": "null",
-        "path": "ASSET.Asset Reports.AssetapplicationReport",
-        "leftIcon": "action:assignment",
-        "rightIcon": ""
-    },
-    {
-        "id": 2676,
-        "name": "AssetapplicationReport",
         "url": "/report/rainmaker-asset/AssetapplicationReport/_get",
         "displayName": "rainmaker-asset-AssetapplicationReport",
         "orderNumber": 1,
@@ -16573,7 +16558,7 @@
         "path": ""
     },
     {
-        "id": 2677,
+        "id": 2676,
         "name": "Financial Expense Bill Approve",
         "navigationURL": "services/EGF/inbox",
         "url": "url",
@@ -16585,21 +16570,6 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Bills Accounting.Expense Bills Approve"
-    },
-    {
-      "id": 2678,
-      "name": "Asset Report",
-      "url": "url",
-      "displayName": "Asset Reports",
-      "orderNumber": 2,
-      "parentModule": "asset-services-masters",
-      "enabled": true,
-      "serviceCode": "ASSET",
-      "code": "null",
-      "path": "Asset.Asset Reports.AssetapplicationReport",
-      "navigationURL": "ASSET.Asset Reports.AssetapplicationReport",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
     }
   ]
 }
