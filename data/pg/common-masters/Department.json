@@ -181,6 +181,11 @@
       "name": "Townplanning",
       "code": "DEPT_TP",
       "active": true
+    },
+    {
+      "name": "Tender Cell",
+      "code": "DEPT_57",
+      "active": true
     }
   ]
 }
