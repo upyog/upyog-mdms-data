@@ -27943,54 +27943,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 2620,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2621,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2622,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2628,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CHB_VERIFIER",
-      "actionid": 2621,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CHB_VERIFIER",
-      "actionid": 2622,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CHB_APPROVER",
-      "actionid": 2621,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CHB_APPROVER",
-      "actionid": 2622,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 2625,
       "actioncode": "",
       "tenantId": "pg"
@@ -28098,12 +28050,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 2629,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "OBPS_REPORT_VIEWER",
       "actionid": 2630,
       "actioncode": "",
@@ -28130,12 +28076,6 @@
     {
       "rolecode": "ASSET_ALLOCATOR",
       "actionid": 2634,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2635,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -28202,6 +28142,42 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2620,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2621,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2622,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2628,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2629,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2635,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2620,
       "actioncode": "",
@@ -28221,13 +28197,13 @@
     },
     {
       "rolecode": "EMPLOYEE",
-      "actionid": 2635,
+      "actionid": 2628,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
       "rolecode": "EMPLOYEE",
-      "actionid": 2628,
+      "actionid": 2635,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -28257,6 +28233,12 @@
     },
     {
       "rolecode": "CHB_CEMP",
+      "actionid": 2629,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_CEMP",
       "actionid": 2635,
       "actioncode": "",
       "tenantId": "pg"
@@ -28269,13 +28251,31 @@
     },
     {
       "rolecode": "CHB_VERIFIER",
-      "actionid": 2635,
+      "actionid": 2621,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_VERIFIER",
+      "actionid": 2622,
       "actioncode": "",
       "tenantId": "pg"
     },
     {
       "rolecode": "CHB_VERIFIER",
       "actionid": 2628,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_VERIFIER",
+      "actionid": 2629,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_VERIFIER",
+      "actionid": 2635,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -28287,7 +28287,25 @@
     },
     {
       "rolecode": "CHB_APPROVER",
+      "actionid": 2621,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
+      "actionid": 2622,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
       "actionid": 2628,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
+      "actionid": 2629,
       "actioncode": "",
       "tenantId": "pg"
     },
