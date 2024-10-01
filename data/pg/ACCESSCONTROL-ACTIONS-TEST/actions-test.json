@@ -16569,7 +16569,7 @@
         "serviceCode": "FinanceBill",
         "code": "null",
         "leftIcon": "editor:insert-chart",
-        "path": "Finance.Transactions.Bills Accounting.Expense Bills Approve"
+        "path": ""
     }
   ]
 }
