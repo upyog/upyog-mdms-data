@@ -16564,12 +16564,12 @@
         "url": "url",
         "parentModule": "EGF",
         "displayName": "Expense Bills Approve",
-        "orderNumber": 5,
+        "orderNumber": 6,
         "enabled": true,
         "serviceCode": "FinanceBill",
         "code": "null",
         "leftIcon": "editor:insert-chart",
-        "path": ""
+        "path": "Finance.Transactions.Bills Accounting.Expense Bill Approve"
     }
   ]
 }
