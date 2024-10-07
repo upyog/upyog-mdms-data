@@ -759,6 +759,29 @@
           "code": "pg.citye"
         }
       ]
+    },
+    {
+      "module": "SV",
+      "code": "SV",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
     }
   ]
 }
