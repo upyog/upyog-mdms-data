@@ -16606,6 +16606,42 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/sv-home"
+    },
+    {
+      "id": 2679,
+      "name": "ADS_BOOK",
+      "url": "digit-ui-card",
+      "displayName": "Book",
+      "orderNumber": 1,
+      "parentModule": "ADS",
+      "enabled": true,
+      "serviceCode": "ADS",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ads/bookad",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ads-home"
+    },
+    {
+      "id": 2680,
+      "name": "ADS_MY_BOOKINGS",
+      "url": "digit-ui-card",
+      "displayName": "My Bookings",
+      "orderNumber": 1,
+      "parentModule": "ADS",
+      "enabled": true,
+      "serviceCode": "ADS",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ads/mybookings",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ads-home"
     }
   ]
 }
