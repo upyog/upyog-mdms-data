@@ -14364,17 +14364,6 @@
             ]
           },
           {
-            "id": 8,
-            "boundaryNum": 1,
-            "name": "Other",
-            "localname": "Other",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "OTH2",
-            "children": []
-          },
-          {
             "id": 1,
             "boundaryNum": 1,
             "name": "GP 1",
