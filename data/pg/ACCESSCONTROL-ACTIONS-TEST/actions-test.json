@@ -16570,6 +16570,18 @@
         "code": "null",
         "leftIcon": "editor:insert-chart",
         "path": "Finance.Transactions.Bills Accounting.Expense Bill Approve"
-    }
+    },
+    {
+         "id": 2677,
+         "name": "Scheduler for expiring pet applications",
+         "url": "/pet-registration/ptr/Expiry/_batch",
+         "displayName": "Pet Service Job Scheduler",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "ptr",
+         "code": "null",
+         "path": ""
+      }
   ]
 }
