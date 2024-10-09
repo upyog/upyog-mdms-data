@@ -23,6 +23,10 @@
         {
           "label": "हिंदी",
           "value": "hi_IN"
+        },
+        {
+          "label": "ਪੰਜਾਬੀ",
+          "value": "pn_IN"
         }
       ],
       "localizationModules": [
