@@ -16642,6 +16642,18 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ads-home"
-    }
+    },
+    {
+         "id": 2681,
+         "name": "Scheduler for expiring pet applications",
+         "url": "/pet-registration/ptr/Expiry/_batch",
+         "displayName": "Pet Service Job Scheduler",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "ptr",
+         "code": "null",
+         "path": ""
+      }
   ]
 }
