@@ -16630,7 +16630,7 @@
       "name": "ADS_MY_BOOKINGS",
       "url": "digit-ui-card",
       "displayName": "My Bookings",
-      "orderNumber": 1,
+      "orderNumber": 2,
       "parentModule": "ADS",
       "enabled": true,
       "serviceCode": "ADS",
