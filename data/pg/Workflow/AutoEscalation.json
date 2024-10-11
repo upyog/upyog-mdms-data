@@ -231,6 +231,46 @@
         "stateSLA": 2.0,
         "businessSLA": null,
         "topic" : "fsm-auto-escalation"
+      },
+	  {
+        "businessService": "FIRENOC",
+        "module": "firenoc-services",
+        "state": "INITIATED",
+        "action": "APPLY ",
+        "active": "true",
+        "stateSLA": 2.0,
+        "businessSLA": null,
+        "topic" : "firenoc-auto-escalation"
+      },
+	  {
+        "businessService": "FIRENOC",
+        "module": "firenoc-services",
+        "state": "DOCUMENTVERIFY",
+        "action": "FORWARD ",
+        "active": "true",
+        "stateSLA": 2.0,
+        "businessSLA": null,
+        "topic" : "firenoc-auto-escalation"
+      },
+	  {
+        "businessService": "FIRENOC",
+        "module": "firenoc-services",
+        "state": "FIELDINSPECTION",
+        "action": "FORWARD ",
+        "active": "true",
+        "stateSLA": 3.0,
+        "businessSLA": null,
+        "topic" : "firenoc-auto-escalation"
+      },
+	  {
+        "businessService": "FIRENOC",
+        "module": "firenoc-services",
+        "state": "PENDINGAPPROVAL",
+        "action": "APPROVE ",
+        "active": "true",
+        "stateSLA": 2.0,
+        "businessSLA": null,
+        "topic" : "firenoc-auto-escalation"
       }
     ]
   }
