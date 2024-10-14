@@ -279,7 +279,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Telecom tower fees",
