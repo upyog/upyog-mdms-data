@@ -68,11 +68,6 @@
       "description": "Financial Administrator"
     },
     {
-      "code": "AssetReportViewer",
-      "name": "AssetReportViewer",
-      "description": "AssetReportViewer"
-    },
-    {
       "code": "AssetCreator",
       "name": "AssetCreator",
       "description": "AssetCreator"
