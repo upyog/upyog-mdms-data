@@ -28092,7 +28092,7 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "ASSET_REPORT_VIEWER",
+      "rolecode": "ASSET_APPROVER",
       "actionid": 2637,
       "actioncode": "",
       "tenantId": "pg"
@@ -28129,14 +28129,14 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "ASSET_REPORT_VIEWER",
+      "rolecode": "ASSET_APPROVER",
       "actionid": 2674,
       "actioncode": "",
       "tenantId": "pg"
     },
 
     {
-      "rolecode": "ASSET_REPORT_VIEWER",
+      "rolecode": "ASSET_APPROVER",
       "actionid": 2675,
       "actioncode": "",
       "tenantId": "pg"
