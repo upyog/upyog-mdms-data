@@ -28368,8 +28368,18 @@
       "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2682,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2683,
+      "actioncode": "",
+      "tenantId": "pg"
     }
-
-
   ]
 }
