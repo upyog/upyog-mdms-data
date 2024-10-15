@@ -1,10 +1,10 @@
 {
     "tenantId": "pg",
-    "moduleName": "PetService",
+    "moduleName": "StreetVending",
     "Documents": [
       {
-        "code": "OWNER.IDENTITYPROOF",
-        "documentType": "OWNER.IDENTITYPROOF",
+        "code": "IDENTITYPROOF",
+        "documentType": "IDENTITYPROOF",
         "required": true,
         "active": true,
         "digit-citizen":true,
@@ -23,26 +23,22 @@
         },
         "dropdownData": [
           {
-            "code": "OWNER.IDENTITYPROOF.AADHAAR",
+            "code": "IDENTITYPROOF.AADHAAR",
             "active": true
           },
           {
-            "code": "OWNER.IDENTITYPROOF.PAN",
-            "active": true
-          },
-          {
-            "code": "OWNER.IDENTITYPROOF.PASSPORT",
+            "code": "IDENTITYPROOF.PAN",
             "active": true
           }
         ],
-        "description": "OWNER.IDENTITYPROOF.IDENTITYPROOF_DESCRIPTION"
+        "description": "IDENTITYPROOF.IDENTITYPROOF_DESCRIPTION"
       },
       {
-        "code": "OWNER.OWNERPHOTO",
-        "documentType": "OWNER.OWNERPHOTO",
+        "code": "PHOTOGRAPH.VENDINGSETUP",
+        "documentType": "PHOTOGRAPH.VENDINGSETUP",
         "required": true,
         "active": true,
-        "hasDropdown": false,
+        "hasDropdown": true,
         "additionalDetails": {
           "enabledActions": {
             "update": {
@@ -56,17 +52,20 @@
           }
         },
         "dropdownData": [
-            
+            {
+                "code": "PHOTOGRAPH.VENDINGSETUP.PHOTO",
+                "active": true
+            }
         ],
-        "description": "OWNER.OWNERPHOTO_DESCRIPTION"
+        "description": "PHOTOGRAPH.VENDINGSETUP_DESCRIPTION"
     },
       {
-        "code": "PET.VACCINATIONCERTIFICATE",
-        "documentType": "PET.VACCINATIONCERTIFICATE",
+        "code": "PROOF.RESIDENCE",
+        "documentType": "PROOF.RESIDENCE",
         "required": true,
         "active": true,
         "digit-citizen":true,
-        "hasDropdown": false,
+        "hasDropdown": true,
         "additionalDetails": {
           "enabledActions": {
             "update": {
@@ -80,16 +79,23 @@
           }
         },
         "dropdownData": [
-            
+          {
+            "code": "PROOF.RESIDENCE.VOTERID",
+            "active": true
+          },
+          {
+            "code": "PROOF.RESIDENCE.OTHER",
+            "active": true
+          }
         ],
-        "description": "PET.VACCINATIONCERTIFICATE.CERTIFICATE_DESCRIPTION"
+        "description": "PROOF.RESIDENCE_DESCRIPTION"
       }, 
     {
-      "code": "PET.PETPHOTO",
-      "documentType": "PET.PETPHOTO",
-      "required": true,
+      "code": "FAMILY.PHOTO",
+      "documentType": "FAMILY.PHOTO",
+      "required": false,
       "active": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "additionalDetails": {
         "enabledActions": {
           "update": {
@@ -103,33 +109,12 @@
         }
       },
       "dropdownData": [
-            
-        ],
-      "description": "PET.PETPHOTO_DESCRIPTION"
-  },
-  {
-    "code": "PET.FITNESSCERTIFICATE",
-    "documentType": "PET.FITNESSCERTIFICATE",
-    "required": true,
-    "active": true,
-    "digit-citizen":true,
-    "hasDropdown": false,
-    "additionalDetails": {
-      "enabledActions": {
-        "update": {
-          "disableUpload": true,
-          "disableDropdown": true
-        },
-        "create": {
-          "disableUpload": false,
-          "disableDropdown": false
-        }
-      }
-    },
-    "dropdownData": [
-            
-        ],
-    "description": "PET.FITNESSCERTIFICATE.CERTIFICATE_DESCRIPTION"
+          {
+              "code": "FAMILY.PHOTO.PHOTOGRAPH",
+              "active": true
+          }
+      ],
+      "description": "FAMILY.PHOTO_DESCRIPTION"
   }
     ]
   }
