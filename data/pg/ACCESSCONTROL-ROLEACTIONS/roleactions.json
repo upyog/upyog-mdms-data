@@ -27922,13 +27922,31 @@
       "tenantId": "pg"
     },
 	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2630,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
       "rolecode": "AUTO_ESCALATE",
       "actionid": 2631,
       "actioncode": "",
       "tenantId": "pg"
     },
 	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2631,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
       "rolecode": "AUTO_ESCALATE",
+      "actionid": 2632,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "SUPERUSER",
       "actionid": 2632,
       "actioncode": "",
       "tenantId": "pg"
@@ -27968,6 +27986,42 @@
       "actionid": 2634,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+	{
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2636,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2637,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 2638,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+	  "rolecode":"SUPERUSER",
+	  "actionid":5548,
+	  "actioncode":"",
+	  "tenantId":"pg"
+	},
+	{
+	  "rolecode":"SUPERUSER",
+	  "actionid":5632,
+	  "actioncode":"",
+	  "tenantId":"pg"
+	},
+	{
+	  "rolecode":"SUPERUSER",
+	  "actionid":10092,
+	  "actioncode":"",
+	  "tenantId":"pg"
+	}
   ]
 }

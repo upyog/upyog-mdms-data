@@ -1,0 +1,304 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "EdcrRulesFeatures": [
+        {
+            "FAR": [
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 0,
+                    "toPlotArea": 100,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 2.0
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 100,
+                    "toPlotArea": 150,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.90
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 150,
+                    "toPlotArea": 200,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.75
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 200,
+                    "toPlotArea": 300,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.65
+                },
+                {
+                    "fromPlotArea": 300,
+                    "tenantId": "pg",
+                    "toPlotArea": 1000,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.50
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 1000,
+                    "toPlotArea": 999999,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.25
+                }
+            ],
+            "Coverage": [
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 0,
+                    "toPlotArea": 150,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 90
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 150,
+                    "toPlotArea": 200,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 70
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 200,
+                    "toPlotArea": 300,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 65
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 300,
+                    "toPlotArea": 500,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 60
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 500,
+                    "toPlotArea": 1000,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 50
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 1000,
+                    "toPlotArea": 999999,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 40
+                }
+            ],
+            "FrontSetBack": [
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 0,
+                    "toPlotArea": 100,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.54
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 100,
+                    "toPlotArea": 150,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.8
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 150,
+                    "toPlotArea": 200,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 2.16
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 200,
+                    "toPlotArea": 999999,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 3.0
+                }
+            ],
+            "RearSetBack": [
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 200,
+                    "toPlotArea": 999999,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 3.0
+                }
+            ],
+            "Parking": [
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 100,
+                    "toPlotArea": 150,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "isOpenParking": true,
+                    "noOfParking": 1,
+                    "permissible": 26.5
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 150,
+                    "toPlotArea": 200,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "isOpenParking": true,
+                    "noOfParking": 2,
+                    "permissible": 26.5
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 200,
+                    "toPlotArea": 500,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "isStiltParking": true,
+                    "noOfParking": 3,
+                    "permissible": 32.5
+                },
+                {
+                    "tenantId": "pg",
+                    "fromPlotArea": 500,
+                    "toPlotArea": 999999,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "isBasementParking": true,
+                    "noOfParking": 3,
+                    "permissible": 38.5
+                }
+            ],
+            "RequiredWidth": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 0.76
+                }
+            ],
+            "RequiredTread": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 0.25
+                }
+            ],
+            "NoOfRiser": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 12
+                }
+            ],
+            "RiserHeight": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 0.19
+                }
+            ],
+            "landing": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 1
+                }
+            ],
+            "doors": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 1
+                }
+            ],
+            "roomWiseDoorArea": [
+                {
+                    "occupancy": "residential",
+                    "minDoorWidth": 1,
+                    "minDoorHeight": 2
+                }
+            ],
+            "nonHabitationalDoors": [
+                {
+                    "occupancy": "residential",
+                    "minDoorWidth": 0.75,
+                    "minDoorHeight": 2
+                }
+            ],
+            "roomWiseVentilation": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 20
+                }
+            ],
+            "lift": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 1
+                }
+            ],
+            "plinthHeight": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 0.45
+                }
+            ],
+            "toilet": [
+                {
+                    "occupancy": "residential",
+                    "minToiletArea": 1.8,
+                    "minToiletWidth": 1.2,
+                    "minToiletVentilation": 0.3
+                }
+            ],
+            "plantation": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 0.05,
+                    "percent": 5
+                }
+            ],
+            "balcony": [
+                {
+                    "occupancy": "residential",
+                    "permissible": 0.91
+                }
+            ],
+            "kitchen": [
+                {
+                    "occupancy": "residential",
+                    "kitchenHeight": 2.75,
+                    "kitchenArea": 5,
+                    "kitchenWidth": 1.8,
+                    "kitchenStoreArea": 4.5,
+                    "kitchenStoreWidth": 1.8,
+                    "kitchenDiningWidth": 2.1,
+                    "kitchenDiningArea": 7.5
+                }
+            ],
+            "roomArea": [
+                {
+                    "occupancy": "residential",
+                    "roomArea2": 9.2,
+                    "roomArea1": 7.5,
+                    "roomWidth2": 2.4,
+                    "roomWidth1": 2.1
+                }
+            ]
+        }
+    ]
+}
