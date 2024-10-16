@@ -27922,13 +27922,31 @@
       "tenantId": "pg"
     },
 	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2630,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
       "rolecode": "AUTO_ESCALATE",
       "actionid": 2631,
       "actioncode": "",
       "tenantId": "pg"
     },
 	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2631,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
       "rolecode": "AUTO_ESCALATE",
+      "actionid": 2632,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "SUPERUSER",
       "actionid": 2632,
       "actioncode": "",
       "tenantId": "pg"
