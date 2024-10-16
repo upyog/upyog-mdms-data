@@ -28004,6 +28004,24 @@
       "actionid": 2638,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+	{
+	  "rolecode":"SUPERUSER",
+	  "actionid":5548,
+	  "actioncode":"",
+	  "tenantId":"pg"
+	},
+	{
+	  "rolecode":"SUPERUSER",
+	  "actionid":5632,
+	  "actioncode":"",
+	  "tenantId":"pg"
+	},
+	{
+	  "rolecode":"SUPERUSER",
+	  "actionid":10092,
+	  "actioncode":"",
+	  "tenantId":"pg"
+	}
   ]
 }
