@@ -16690,6 +16690,18 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/lm-home"
-    }
+    },
+    {
+      "id": 2684,
+      "name": "Search Employee Dashboard",
+      "url": "/employee-dashboard/_search",
+      "displayName": "Search Employee Dashboard",
+      "orderNumber": 0,
+      "queryParams": "",
+      "enabled": true,
+      "serviceCode": "employee-dashboard",
+      "code": "null",
+      "path": ""
+   }
   ]
 }
