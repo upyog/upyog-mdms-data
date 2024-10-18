@@ -18825,6 +18825,54 @@
       "name": "rj.wazirpurnagarpalika",
       "active": true,
       "module": "NationalDashboard"
+    },
+     {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.bababakalasahib",
+      "name": "pb.bababakalasahib",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.gharuan",
+      "name": "pb.gharuan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.devigarh",
+      "name": "pb.devigarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+     {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.itpatiala",
+      "name": "pb.itpatiala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.dirbapwssb",
+      "name": "pb.dirbapwssb",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Punjab",
+      "stateName": "Punjab",
+      "code": "pb.ferozepurpwssb",
+      "name": "pb.ferozepurpwssb",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }
