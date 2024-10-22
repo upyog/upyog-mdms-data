@@ -16705,11 +16705,11 @@
    {
       "id": 2685,
       "name": "Create ads booking",
-      "url": "/ads-services/booking/v1/_create",
+      "url": "/adv-services/booking/v1/_create",
       "displayName": "Create Advertisement Booking",
       "orderNumber": 1,
       "enabled": false,
-      "serviceCode": "ads-services",
+      "serviceCode": "adv-services",
       "code": "null",
       "path": ""
    }
