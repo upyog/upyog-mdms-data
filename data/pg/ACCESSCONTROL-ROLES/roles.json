@@ -753,6 +753,11 @@
       "description": "Hall Application Document Verifier"
     },
     {
+      "code": "ADS_CEMP",
+      "name": "Hall Counter Employee",
+      "description": "Counter Employee in Hall Application who files application on behalf of the citizen"
+    },
+    {
       "code": "EW_VENDOR",
       "name": "Vendor",
       "description": "Vendor Application Approver"
