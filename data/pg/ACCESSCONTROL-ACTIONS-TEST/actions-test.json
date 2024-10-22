@@ -16712,6 +16712,28 @@
       "serviceCode": "adv-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2686,
+      "name": "Update Ads booking",
+      "url": "/adv-services/booking/v1/_update",
+      "displayName": "Update Advertisement Booking",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "adv-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2687,
+      "name": "Search Ads",
+      "url": "/adv-services/booking/v1/_search",
+      "displayName": "Search Advertisement Booking",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "adv-services",
+      "code": "null",
+      "path": ""
    }
   ]
 }
