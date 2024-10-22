@@ -129,12 +129,6 @@
         "assetCategory": "ELECTRICITY"
       },
       {
-        "name": "NA",
-        "code": "NA",
-        "active": true,
-        "assetCategory": "FURNITURES_AND_FIXTURES"
-      },
-      {
         "name": "Wall Fan",
         "code": "WALL_FAN",
         "active": true,
@@ -155,6 +149,12 @@
       {
         "name": "Office Desk",
         "code": "OFFICE_DESK",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
+        "name": "NA",
+        "code": "NA",
         "active": true,
         "assetCategory": "FURNITURES_AND_FIXTURES"
       },
