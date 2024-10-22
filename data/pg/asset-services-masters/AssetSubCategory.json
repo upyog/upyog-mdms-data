@@ -135,6 +135,30 @@
         "assetCategory": "FURNITURES_AND_FIXTURES"
       },
       {
+        "name": "Wall Fan",
+        "code": "WALL_FAN",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
+        "name": "Ceiling Light",
+        "code": "CEILING_LIGHT",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
+        "name": "Office Chair",
+        "code": "OFFICE_CHAIR",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
+        "name": "Office Desk",
+        "code": "OFFICE_DESK",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
         "name": "NA",
         "code": "NA",
         "active": true,
