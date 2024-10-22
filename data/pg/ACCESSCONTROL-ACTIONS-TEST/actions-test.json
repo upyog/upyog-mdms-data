@@ -16734,6 +16734,17 @@
       "serviceCode": "adv-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2688,
+      "name": "Create street vending application",
+      "url": "/sv-services/street-vending/_create",
+      "displayName": "Create street vending Application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "sv-services",
+      "code": "null",
+      "path": ""
    }
   ]
 }

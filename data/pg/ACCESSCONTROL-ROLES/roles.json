@@ -771,6 +771,21 @@
       "code": "ASSET_REPORT_VIEWER",
       "name": "Asset Report Viewer",
       "description": "Who Can View Asset Reports"
-     }  	  
+    },
+    {
+      "code": "SVCEMP",
+      "name": "SV CEMP ",
+      "description": "Street Vending Counter Employee"
+    },
+    {
+      "code": "TVC_EMPLOYEE",
+      "name": "TVC Employee",
+      "description": "Town Vending Commitee Employee"
+    },
+    {
+      "code": "INSPECTION_OFFICER",
+      "name": "Inspection Officer",
+      "description": "Inspection Officer who will visit"
+     }   	  
   ]
 }
