@@ -93,7 +93,7 @@
     {
       "code": "FAMILY.PHOTO",
       "documentType": "FAMILY.PHOTO",
-      "required": false,
+      "required": true,
       "active": true,
       "hasDropdown": true,
       "additionalDetails": {
@@ -112,6 +112,10 @@
           {
               "code": "FAMILY.PHOTO.PHOTOGRAPH",
               "active": true
+          },
+          {
+            "code": "FAMILY.PHOTO.PEHCHANPATRA",
+            "active": true
           }
       ],
       "description": "FAMILY.PHOTO_DESCRIPTION"
