@@ -56,7 +56,10 @@
           }
         },
         "dropdownData": [
-            
+            {
+              "code": "OWNER.OWNERPHOTO",
+              "active": true
+            }
         ],
         "description": "OWNER.OWNERPHOTO_DESCRIPTION"
     },
@@ -80,7 +83,10 @@
           }
         },
         "dropdownData": [
-            
+          {
+            "code": "PET.VACCINATIONCERTIFICATE",
+            "active": true
+          }
         ],
         "description": "PET.VACCINATIONCERTIFICATE.CERTIFICATE_DESCRIPTION"
       }, 
@@ -103,7 +109,10 @@
         }
       },
       "dropdownData": [
-            
+        {
+          "code": "PET.PETPHOTO",
+          "active": true
+        }
         ],
       "description": "PET.PETPHOTO_DESCRIPTION"
   },
@@ -127,7 +136,10 @@
       }
     },
     "dropdownData": [
-            
+      {
+        "code": "PET.FITNESSCERTIFICATE",
+        "active": true
+      }
         ],
     "description": "PET.FITNESSCERTIFICATE.CERTIFICATE_DESCRIPTION"
   }
