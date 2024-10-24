@@ -3,40 +3,89 @@
   "moduleName": "tenant",
   "nationalInfoUser": [
     {
-      "stateCode": "Punjab"
+      "stateCode": "Punjab",
+      "emailId": "manvi.raheja@pwc.com",
+      "active": true
     },
- {
-      "stateCode": "Chandigarh"
+    {
+      "stateCode": "Chandigarh",
+      "emailId": "manvi.raheja@pwc.com",
+      "active": true
     },
- {
-      "stateCode": "Uttarakhand"
+    {
+      "stateCode": "Uttarakhand",
+      "emailId": "manvi.raheja@pwc.com",
+      "active": true
     },
- {
-      "stateCode": "Karnataka"
+    {
+      "stateCode": "Karnataka",
+      "emailId": "swayanshu.m.mohapatra@pwc.com",
+      "active": true
     },
- {
-      "stateCode": "Maharashtra"
+    {
+      "stateCode": "Kerala",
+      "emailId": "swayanshu.m.mohapatra@pwc.com",
+      "active": true
     },
- {
-      "stateCode": "Telangana"
+    {
+      "stateCode": "Maharashtra",
+      "emailId": "swayanshu.m.mohapatra@pwc.com",
+      "active": true
     },
-{
-      "stateCode": "Tamil Nadu"
+    {
+      "stateCode": "Telangana",
+      "emailId": "swayanshu.m.mohapatra@pwc.com",
+      "active": true
     },
-{
-      "stateCode": "Madhya Pradesh"
+    {
+      "stateCode": "Tamil Nadu",
+      "emailId": "swayanshu.m.mohapatra@pwc.com",
+      "active": true
     },
-{
-      "stateCode": "Andra Pradesh"
+    {
+      "stateCode": "Madhya Pradesh",
+      "emailId": "swayanshu.m.mohapatra@pwc.com",
+      "active": true
     },
-{
-      "stateCode": "Chattisgarh"
+    {
+      "stateCode": "Andhra Pradesh",
+      "emailId": "manvi.raheja@pwc.com",
+      "active": true
     },
-{
-      "stateCode": "Goa"
+    {
+      "stateCode": "Chattisgarh",
+      "emailId": "manvi.raheja@pwc.com",
+      "active": true
     },
-{
-      "stateCode": "Rajasthan"
+    {
+      "stateCode": "Goa",
+      "emailId": "manvi.raheja@pwc.com",
+      "active": true
+    },
+    {
+      "stateCode": "Rajasthan",
+      "emailId": "manvi.raheja@pwc.com",
+      "active": true
+    },
+    {
+      "stateCode": "Odisha",
+      "emailId": "manvi.raheja@pwc.com",
+      "active": true
+    },
+    {
+      "stateCode": "Jharkhand",
+      "emailId": "manvi.raheja@pwc.com",
+      "active": true
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "emailId": "manvi.raheja@pwc.com",
+      "active": true
+    },
+    {
+      "stateCode": "Tripura",
+      "emailId": "swayanshu.m.mohapatra@pwc.com",
+      "active": true
     }
-]
+  ]
 }
