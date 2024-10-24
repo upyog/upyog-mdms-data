@@ -727,7 +727,7 @@
             "idname": "pet-services.receipt.id"
         },
 	{
-            "format": "PG-[cy:yyyy_MM_dd]-[SEQ_EG_PG_TXN]",
+            "format": "PG-[cy:yyyy-MM-dd]-[SEQ_EG_PG_TXN]",
             "idname": "esign.txnid"
         }
     ]
