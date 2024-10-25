@@ -889,7 +889,41 @@
         "onChange": "setcostafterdepriciation",
         "active": true,
         "assetParentCategory": "SERVICE"
-      }
+      },
+      {
+        "name": "totalCost",
+        "value": "totalCost",
+        "code": "Total Cost",
+        "localizationKey": "AST_TOTAL_COST",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setRoadWidth",
+        "active": true,
+        "assetParentCategory": "OTHER"
+      },
+      {
+        "name": "bookValue",
+        "value": "bookValue",
+        "code": "Acquisition Cost",
+        "localizationKey": "AST_ACQUISTION_COST_BOOK_VALUE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setbookValue",
+        "active": true,
+        "assetParentCategory": "OTHER"
+    },
+    {
+       "name": "costAfterDepreciation",
+       "value": "costAfterDepreciation",
+       "code": "Asset Cost After Depreciation",
+       "localizationKey": "AST_COST_AFTER_DEPRICIAT",
+       "type": "text",
+       "isMandatory": false,
+       "onChange": "setcostafterdepriciation",
+       "active": true,
+       "assetParentCategory": "OTHER"
+     }
+
     ]
   }  
     
