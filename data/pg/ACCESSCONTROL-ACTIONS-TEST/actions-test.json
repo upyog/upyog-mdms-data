@@ -16745,6 +16745,17 @@
       "serviceCode": "sv-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2689,
+      "name": "Search Ads Slot",
+      "url": "/adv-services/booking/v1/_slot-search",
+      "displayName": "Search Advertisement Slot",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "adv-services",
+      "code": "null",
+      "path": ""
    }
   ]
 }
