@@ -16756,6 +16756,17 @@
       "serviceCode": "adv-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2690,
+      "name": "Search street vending application",
+      "url": "/sv-services/street-vending/_search",
+      "displayName": "Search street vending Application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "sv-services",
+      "code": "null",
+      "path": ""
    }
   ]
 }

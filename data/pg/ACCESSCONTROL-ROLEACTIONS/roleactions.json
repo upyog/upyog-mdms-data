@@ -28470,6 +28470,18 @@
       "actionid": 2689,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "SVCEMP",
+      "actionid": 2690,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2690,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
