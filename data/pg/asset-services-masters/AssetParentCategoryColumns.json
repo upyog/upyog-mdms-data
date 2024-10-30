@@ -11,7 +11,8 @@
         "isMandatory": false,
         "onChange": "setBrand",
         "active": true,
-        "assetParentCategory": "IT"
+        "assetParentCategory": "IT",
+        "columnType": "text"
       },
       {
         "name": "invoiceDate",
@@ -33,7 +34,9 @@
         "isMandatory": false,
         "onChange": "selectmanufacturer",
         "active": true,
-        "assetParentCategory": "IT"
+        "assetParentCategory": "IT",
+        "columnType": "text"
+        
       },
       {
         "name": "purchaseCost",
@@ -44,7 +47,8 @@
         "isMandatory": false,
         "onChange": "selectpurchasecost",
         "active": true,
-        "assetParentCategory": "IT"
+        "assetParentCategory": "IT",
+        "columnType": "number"
       },
       {
         "name": "purchaseOrderNumber",
@@ -55,7 +59,8 @@
         "isMandatory": false,
         "onChange": "selectpurchaseorder",
         "active": true,
-        "assetParentCategory": "IT"
+        "assetParentCategory": "IT",
+        "columnType": "text"
       },
       {
         "name": "purchaseDate",
@@ -78,7 +83,8 @@
         "onChange": "selectcurrentlocation",
         "active": true,
         "addCurrentLocationButton": true,
-        "assetParentCategory": "IT"
+        "assetParentCategory": "IT",
+        "columnType": "number"
       },
       {
         "name": "assetAge",
@@ -88,7 +94,8 @@
         "type": "text",
         "isMandatory": false,
         "active": true,
-        "assetParentCategory": "IT"
+        "assetParentCategory": "IT",
+        "columnType": "text"
       },
       {
         "name": "warranty",
@@ -201,7 +208,8 @@
         "isMandatory": false,
         "onChange": "setRegistrationNumber",
         "active": true,
-        "assetParentCategory": "VEHICLE"
+        "assetParentCategory": "VEHICLE",
+        "columnType": "text"
       },
       {
         "name": "engineNumber",
@@ -212,7 +220,8 @@
         "isMandatory": false,
         "onChange": "setEngineNumber",
         "active": true,
-        "assetParentCategory": "VEHICLE"
+        "assetParentCategory": "VEHICLE",
+        "columnType": "text"
       },
       {
         "name": "chasisNumber",
@@ -223,7 +232,8 @@
         "isMandatory": false,
         "onChange": "setChasisNumber",
         "active": true,
-        "assetParentCategory": "VEHICLE"
+        "assetParentCategory": "VEHICLE",
+        "columnType": "text"
       },
       {
         "name": "parkingLocation",
@@ -234,7 +244,8 @@
         "isMandatory": false,
         "onChange": "setParkingLocation",
         "active": true,
-        "assetParentCategory": "VEHICLE"
+        "assetParentCategory": "VEHICLE",
+        "columnType": "text"
       },
       {
         "name": "acquisitionDate",
@@ -256,7 +267,8 @@
         "isMandatory": false,
         "onChange": "setAcquiredFrom",
         "active": true,
-        "assetParentCategory": "VEHICLE"
+        "assetParentCategory": "VEHICLE",
+        "columnType": "text"
       },
       {
         "name": "improvementCost",
@@ -267,7 +279,8 @@
         "isMandatory": false,
         "onChange": "setImprovementCost",
         "active": true,
-        "assetParentCategory": "VEHICLE"
+        "assetParentCategory": "VEHICLE",
+        "columnType": "number"
       },
       {
         "name": "bookValue",
@@ -278,7 +291,8 @@
         "isMandatory": false,
         "onChange": "setbookValue",
         "active": true,
-        "assetParentCategory": "VEHICLE"
+        "assetParentCategory": "VEHICLE",
+        "columnType": "number"
       },
       {
         "name": "currentAssetValue",
@@ -289,7 +303,8 @@
         "isMandatory": false,
         "onChange": "setcurrentassetvalue",
         "active": true,
-        "assetParentCategory": "VEHICLE"
+        "assetParentCategory": "VEHICLE",
+        "columnType": "number"
       },
       {
         "name": "totalCost",
@@ -300,7 +315,8 @@
         "isMandatory": false,
         "onChange": "settotalcost",
         "active": true,
-        "assetParentCategory": "VEHICLE"
+        "assetParentCategory": "VEHICLE",
+        "columnType": "number"
       },
      
       {
@@ -312,7 +328,9 @@
         "isMandatory": false,
         "onChange": "setLandType",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+         "columnType": "text"
+
       },
       {
         "name": "area",
@@ -323,7 +341,8 @@
         "isMandatory": false,
         "onChange": "setarea",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+         "columnType": "text"
       },
       {
         "name": "bookValue",
@@ -334,14 +353,15 @@
         "isMandatory": false,
         "onChange": "setbookValue",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "number"
       },
       {
         "name": "dateOfDeedExecution",
         "value": "dateOfDeedExecution",
         "code": "Date and Deed Execution",
         "localizationKey": "AST_DATE_DEED_EXECUTION",
-        "type": "text",
+        "type": "date",
         "isMandatory": false,
         "onChange": "setdateofDeedExecution",
         "active": true,
@@ -352,7 +372,7 @@
         "value": "dateOfPossession",
         "code": "Date of Possession",
         "localizationKey": "AST_DATE_POSSESION",
-        "type": "text",
+        "type": "date",
         "isMandatory": false,
         "onChange": "setdateofPossesion",
         "active": true,
@@ -367,7 +387,8 @@
         "isMandatory": false,
         "onChange": "setfromWhomDeedTaken",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "text"
       },
       {
         "name": "governmentOrderNumber",   
@@ -378,7 +399,8 @@
         "isMandatory": false,
         "onChange": "setgovernmentorderNumber",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "text"
       },
       {
         "name": "collectorOrderNumber",
@@ -389,7 +411,8 @@
         "isMandatory": false,
         "onChange": "setcollectororderNumber",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "text"
       },
       {
         "name": "councilResolutionNumber",
@@ -400,7 +423,8 @@
         "isMandatory": false,
         "onChange": "setcouncilResolutionNumber",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "text"
       },
       {
         "name": "awardNumber",
@@ -411,7 +435,8 @@
         "isMandatory": false,
         "onChange": "setawardNumber",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "text"
       },
       {
         "name": "oAndMCOI",
@@ -422,7 +447,8 @@
         "isMandatory": false,
         "onChange": "setoandMCOI",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "text"
       },
       {
         "name": "oAndMTaskDetail",
@@ -433,7 +459,8 @@
         "isMandatory": false,
         "onChange": "setoandMTaskDetail",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "text"
       },
       {
         "name": "totalCost",
@@ -444,7 +471,8 @@
         "isMandatory": false,
         "onChange": "settotalcost",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "number"
       },
       {
         "name": "depreciationRate",
@@ -455,7 +483,8 @@
         "isMandatory": false,
         "onChange": "setdepriciationRate",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "number"
       },
       {
         "name": "costAfterDepreciation",
@@ -466,7 +495,8 @@
         "isMandatory": false,
         "onChange": "setcostafterdepriciation",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "number"
       },
       {
         "name": "currentAssetValue",
@@ -477,7 +507,8 @@
         "isMandatory": false,
         "onChange": "setcurrentassetvalue",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "number"
       },
       {
         "name": "revenueGeneratedByAsset",
@@ -488,7 +519,8 @@
         "isMandatory": false,
         "onChange": "setrevenuegeneratedbyasset",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "number"
       },
       {
         "name": "osrLand",
@@ -499,7 +531,8 @@
         "isMandatory": false,
         "onChange": "setoSRLand",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "text"
       },
       {
         "name": "howAssetBeingUsed",
@@ -510,7 +543,8 @@
         "isMandatory": false,
         "onChange": "setHowassetbeingused",
         "active": true,
-        "assetParentCategory": "LAND"
+        "assetParentCategory": "LAND",
+        "columnType": "text"
       },
       {
         "name": "isitFenced",
@@ -568,7 +602,8 @@
         "isMandatory": false,
         "onChange": "setbuildingsNo",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "text"
       },
       {
         "name": "bookValue",
@@ -579,7 +614,8 @@
         "isMandatory": false,
         "onChange": "setbookValue",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "number"
       },
       {
         "name": "plotArea",
@@ -590,7 +626,8 @@
         "isMandatory": false,
         "onChange": "setPlotArea",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "text"
       },
       {
         "name": "plinthArea",
@@ -601,7 +638,8 @@
         "isMandatory": false,
         "onChange": "setPlinthArea",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "text"
       },
       {
         "name": "floorNo",
@@ -612,7 +650,8 @@
         "isMandatory": false,
         "onChange": "setFloorNo",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "number"
       },
       {
         "name": "dimensions",
@@ -623,7 +662,8 @@
         "isMandatory": false,
         "onChange": "setDimensions",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "text"
       },
       {
         "name": "floorArea",
@@ -634,7 +674,8 @@
         "isMandatory": false,
         "onChange": "setFloorArea",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "text"
       },
       {
         "name": "totalCost",
@@ -645,7 +686,8 @@
         "isMandatory": false,
         "onChange": "settotalcost",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "number"
       },
       {
         "name": "depreciationRate",
@@ -656,7 +698,8 @@
         "isMandatory": false,
         "onChange": "setdepriciationRate",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "number"
       },
       {
         "name": "costAfterDepreciation",
@@ -667,7 +710,8 @@
         "isMandatory": false,
         "onChange": "setcostafterdepriciation",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "number"
       },
       {
         "name": "currentAssetValue",
@@ -678,7 +722,8 @@
         "isMandatory": false,
         "onChange": "setcurrentassetvalue",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "number"
       },
       {
         "name": "revenueGeneratedByAsset",
@@ -689,7 +734,8 @@
         "isMandatory": false,
         "onChange": "setrevenuegeneratedbyasset",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "number"
       },
       {
         "name": "howAssetBeingUsed",
@@ -700,7 +746,8 @@
         "isMandatory": false,
         "onChange": "setHowassetbeingused",
         "active": true,
-        "assetParentCategory": "BUILDING"
+        "assetParentCategory": "BUILDING",
+        "columnType": "text"
       },
     
       {
@@ -712,7 +759,8 @@
         "isMandatory": false,
         "onChange": "setRoadType",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+        "columnType": "text"
       },
       {
         "name": "totalLength",
@@ -723,7 +771,8 @@
         "isMandatory": false,
         "onChange": "setTotalLength",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "text"
       },
       {
         "name": "totalCost",
@@ -734,7 +783,8 @@
         "isMandatory": false,
         "onChange": "setRoadWidth",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "number"
       },
       {
         "name": "surfaceType",
@@ -745,7 +795,8 @@
         "isMandatory": false,
         "onChange": "setSurfaceType",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "text"
       },
       {
         "name": "protectionLength",
@@ -756,7 +807,8 @@
         "isMandatory": false,
         "onChange": "setProtectionLength",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "text"
       },
       {
         "name": "drainageLength",
@@ -767,7 +819,8 @@
         "isMandatory": false,
         "onChange": "setDrainageLength",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "text"
       },
       {
         "name": "numOfFootpath",
@@ -778,7 +831,8 @@
         "isMandatory": false,
         "onChange": "setNumOfFootpath",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "number"
       },
       {
         "name": "numOfPedastrianCross",
@@ -789,7 +843,8 @@
         "isMandatory": false,
         "onChange": "setNumOfPedastrianCross",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "text"
       },
       {
         "name": "numOfBusStop",
@@ -800,7 +855,8 @@
         "isMandatory": false,
         "onChange": "setNumOfBusStop",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "number"
       },
       {
         "name": "numOfMetroStation",
@@ -811,7 +867,8 @@
         "isMandatory": false,
         "onChange": "setNumOfMetroStation",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "number"
       },
       {
         "name": "lengthOfCycletrack",
@@ -822,7 +879,8 @@
         "isMandatory": false,
         "onChange": "setLengthOfCycletrack",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "text"
       },
       {
         "name": "lastMaintainence",
@@ -855,7 +913,8 @@
         "isMandatory": false,
         "onChange": "setbookValue",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "number"
       },
       {
         "name": "totalCost",
@@ -866,7 +925,8 @@
         "isMandatory": false,
         "onChange": "settotalcost",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "number"
       },
       {
         "name": "depreciationRate",
@@ -877,7 +937,8 @@
         "isMandatory": false,
         "onChange": "setdepriciationRate",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+         "columnType": "number"
       },
       {
         "name": "costAfterDepreciation",
@@ -888,7 +949,8 @@
         "isMandatory": false,
         "onChange": "setcostafterdepriciation",
         "active": true,
-        "assetParentCategory": "SERVICE"
+        "assetParentCategory": "SERVICE",
+        "columnType": "number"
       },
       {
         "name": "totalCost",
@@ -899,7 +961,8 @@
         "isMandatory": false,
         "onChange": "setRoadWidth",
         "active": true,
-        "assetParentCategory": "OTHER"
+        "assetParentCategory": "OTHER",
+        "columnType": "number"
       },
       {
         "name": "bookValue",
@@ -910,7 +973,8 @@
         "isMandatory": false,
         "onChange": "setbookValue",
         "active": true,
-        "assetParentCategory": "OTHER"
+        "assetParentCategory": "OTHER",
+        "columnType": "number"
     },
     {
        "name": "costAfterDepreciation",
@@ -921,7 +985,8 @@
        "isMandatory": false,
        "onChange": "setcostafterdepriciation",
        "active": true,
-       "assetParentCategory": "OTHER"
+       "assetParentCategory": "OTHER",
+       "columnType": "number"
      }
 
     ]
