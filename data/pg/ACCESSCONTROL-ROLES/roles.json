@@ -778,12 +778,12 @@
       "description": "Street Vending Counter Employee"
     },
     {
-      "code": "TVC_EMPLOYEE",
+      "code": "TVCEMPLOYEE",
       "name": "TVC Employee",
       "description": "Town Vending Commitee Employee"
     },
     {
-      "code": "INSPECTION_OFFICER",
+      "code": "INSPECTIONOFFICER",
       "name": "Inspection Officer",
       "description": "Inspection Officer who will visit"
      }   	  
