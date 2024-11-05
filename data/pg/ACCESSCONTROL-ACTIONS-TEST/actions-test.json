@@ -16778,6 +16778,28 @@
       "serviceCode": "sv-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 2692,
+      "name": "Update Advertisement booking",
+      "url": "/adv-services/booking/v1/_update",
+      "displayName": "Update Advertisement booking",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "adv-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2693,
+      "name": "Demand Estimation",
+      "url": "/adv-services/booking/v1/_estimate",
+      "displayName": "Demand Estimation",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "adv-services",
+      "code": "null",
+      "path": ""
    }
   ]
 }
