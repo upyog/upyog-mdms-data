@@ -1,0 +1,53 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Advertisement",
+  "CalculationType": [{
+     "CalculationType_Unipole_12_X_8":[
+    {
+      "applicationType": "ADVERTISEMENT_BOOKING",
+      "serviceType": "NEW_BOOKING",
+      "feeType": "ADV_BOOKING_FEES",
+      "amount": 1500,
+      "taxApplicable": true
+    },
+    {
+      "applicationType": "ADVERTISEMENT_BOOKING",
+      "serviceType": "NEW_BOOKING",
+      "feeType": "CGST",
+      "amount": 9,
+      "taxApplicable": false
+    },
+    {
+      "applicationType": "ADVERTISEMENT_BOOKING",
+      "serviceType": "NEW_BOOKING",
+      "feeType": "SGST",
+      "amount": 9,
+      "taxApplicable": false
+    }
+  ],
+  "CalculationType_Unipole_18_X_8":[
+    {
+      "applicationType": "ADVERTISEMENT_BOOKING",
+      "serviceType": "NEW_BOOKING",
+      "feeType": "ADV_BOOKING_FEES",
+      "amount": 1000,
+      "taxApplicable": true
+    },
+    {
+      "applicationType": "ADVERTISEMENT_BOOKING",
+      "serviceType": "NEW_BOOKING",
+      "feeType": "CGST",
+      "amount": 9,
+      "taxApplicable": false
+    },
+    {
+      "applicationType": "ADVERTISEMENT_BOOKING",
+      "serviceType": "NEW_BOOKING",
+      "feeType": "SGST",
+      "amount": 9,
+      "taxApplicable": false
+    }
+  ]
+}
+  ]
+}
