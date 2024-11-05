@@ -5847,6 +5847,15 @@
         "isActualDemand": true,
         "order": "0",
         "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "sv-services",
+        "name": "Street Vending registration fee",
+        "code": "SV_STREET_VENDING_REGISTRATION_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "isRequired": false
       }
   ]
 }

@@ -1641,6 +1641,14 @@
       "service": "chb-services",
       "code": "CHB10YRS2024",
       "financialYear": "2024-34"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "ANNUAL",
+      "service": "sv-services",
+      "code": "SV_REGISTRATION_FEE",
+      "financialYear": "2024-25"
     }
   ]
 }

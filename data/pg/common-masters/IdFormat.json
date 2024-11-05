@@ -741,6 +741,10 @@
         {
             "format": "PG-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_TOKEN_ID]",
             "idname": "ptr.tokennumber"
+        },
+        {
+            "format": "SV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "sv-services.receipt.id"
         }
     ]
 }
