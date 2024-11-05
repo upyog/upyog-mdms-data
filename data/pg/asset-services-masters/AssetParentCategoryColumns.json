@@ -84,7 +84,7 @@
         "active": true,
         "addCurrentLocationButton": true,
         "assetParentCategory": "IT",
-        "columnType": "number"
+        "columnType": "text"
       },
       {
         "name": "assetAge",
