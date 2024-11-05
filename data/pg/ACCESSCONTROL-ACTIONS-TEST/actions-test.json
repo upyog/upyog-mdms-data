@@ -19075,6 +19075,17 @@
 	   "serviceCode": "TQMTEST_METADATA",
 	   "code": "null",
 	   "path": "TQM Report"
-	}
+	},
+	{
+	   "id": 2890,
+	   "name": "Download Pdf for PQM Application",
+	   "url": "/pqm-service/v1/_downloadPdf",
+	   "displayName": "Download Pdf for PQM Application",
+	   "orderNumber": 0,
+	   "enabled": false,
+	   "serviceCode": "PQM",
+	   "code": "null",
+	   "path": ""
+	 }
    ]
 }
