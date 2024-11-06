@@ -16780,6 +16780,18 @@
       "navigationURL": "/workbench-ui/employee",
       "path": "Workbench",
       "leftIcon": "image:collections-bookmark"
+    },
+    {
+      "id": 2695,
+      "name": "ADV Payment search",
+      "url": "/collection-services/payments/adv-services/_search",
+      "displayName": "ADV Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }
