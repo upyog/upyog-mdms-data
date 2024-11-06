@@ -145,36 +145,6 @@
 	  {
         "businessService": "FSM_ADVANCE_PAY_SERVICE_V1",
         "module": "fsm-services",
-        "state": "CREATED",
-        "action": "SUBMIT",
-        "active": "true",
-        "stateSLA": 2.0,
-        "businessSLA": null,
-        "topic" : "fsm-auto-escalation"
-      },
-	  {
-        "businessService": "FSM_ADVANCE_PAY_SERVICE_V1",
-        "module": "fsm-services",
-        "state": "ASSING_DSO",
-        "action": "ASSIGN",
-        "active": "true",
-        "stateSLA": 2.0,
-        "businessSLA": null,
-        "topic" : "fsm-auto-escalation"
-      },
-	  {
-        "businessService": "FSM_ADVANCE_PAY_SERVICE_V1",
-        "module": "fsm-services",
-        "state": "DSO_REJECTED",
-        "action": "REASSING",
-        "active": "true",
-        "stateSLA": 2.0,
-        "businessSLA": null,
-        "topic" : "fsm-auto-escalation"
-      },
-	  {
-        "businessService": "FSM_ADVANCE_PAY_SERVICE_V1",
-        "module": "fsm-services",
         "state": "DSO_INPROGRESS",
         "action": "REASSING",
         "active": "true",
@@ -185,38 +155,8 @@
 	  {
         "businessService": "FSM_ADVANCE_PAY_SERVICE_V1",
         "module": "fsm-services",
-        "state": "DSO_INPROGRESS",
-        "action": "COMPLETED",
-        "active": "true",
-        "stateSLA": 2.0,
-        "businessSLA": null,
-        "topic" : "fsm-auto-escalation"
-      },
-	  {
-        "businessService": "FSM_ADVANCE_PAY_SERVICE_V1",
-        "module": "fsm-services",
-        "state": "PENDING_DSO_APPROVAL",
-        "action": "DSO_ACCEPT",
-        "active": "true",
-        "stateSLA": 2.0,
-        "businessSLA": null,
-        "topic" : "fsm-auto-escalation"
-      },
-	  {
-        "businessService": "FSM_ADVANCE_PAY_SERVICE_V1",
-        "module": "fsm-services",
         "state": "PENDING_DSO_APPROVAL",
         "action": "REASSING",
-        "active": "true",
-        "stateSLA": 2.0,
-        "businessSLA": null,
-        "topic" : "fsm-auto-escalation"
-      },
-	  {
-        "businessService": "FSM_ADVANCE_PAY_SERVICE_V1",
-        "module": "fsm-services",
-        "state": "DSO_INPROGRESS_POST_PAY",
-        "action": "COMPLETED",
         "active": "true",
         "stateSLA": 2.0,
         "businessSLA": null,
