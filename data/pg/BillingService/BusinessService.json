@@ -2035,6 +2035,17 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
+    },
+    {
+      "businessService": "adv-services",
+      "code": "adv-services",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }

@@ -1649,6 +1649,14 @@
       "service": "sv-services",
       "code": "SV_REGISTRATION_FEE",
       "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "ANNUAL",
+      "service": "adv-services",
+      "code": "ADV_REGISTRATION_FEE",
+      "financialYear": "2024-25"
     }
   ]
 }
