@@ -5870,8 +5870,8 @@
       {
         "category": "TAX",
         "service": "adv-services",
-        "name": "CGST",
-        "code": "CGST",
+        "name": "ADV CGST",
+        "code": "ADV_CGST",
         "isDebit": false,
         "isActualDemand": true,
         "order": "0",
@@ -5880,8 +5880,8 @@
       {
         "category": "TAX",
         "service": "adv-services",
-        "name": "SGST",
-        "code": "SGST",
+        "name": "ADV SGST",
+        "code": "ADV_SGST",
         "isDebit": false,
         "isActualDemand": true,
         "order": "0",
