@@ -747,8 +747,8 @@
             "idname": "sv-services.receipt.id"
         },
         {
-            "format": "ADV-[CITY.CODE]-[seq_adv_booking_id]",
-            "idname": "advertisement.booking.id"
+            "format": "ADV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "adv-services.receipt.id"
         }
     ]
 }
