@@ -18324,6 +18324,17 @@
       "path": "WS.Integrated-Bill",
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
+    },
+	    {
+      "id": 2820,
+      "name": "National Dashboard: Send Email",
+      "url": "/national-dashboard/email/_sendEmail",
+      "displayName": "Dashboard Missing Data Send Email",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NDSS",
+      "code": "null",
+      "path": ""
     }
    ]
 }

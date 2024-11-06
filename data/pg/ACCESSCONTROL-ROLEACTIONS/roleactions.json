@@ -29136,6 +29136,18 @@
       "actionid": 2818,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	{
+      "rolecode": "NATADMIN",
+      "actionid": 2820,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
