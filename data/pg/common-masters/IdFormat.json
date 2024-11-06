@@ -745,6 +745,10 @@
         {
             "format": "SV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "sv-services.receipt.id"
+        },
+        {
+            "format": "ADV-[CITY.CODE]-[seq_adv_booking_id]",
+            "idname": "advertisement.booking.id"
         }
     ]
 }
