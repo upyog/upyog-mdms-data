@@ -814,6 +814,39 @@
           "code": "pg.shimla"
         }
       ]
+    },
+    ,
+    {
+      "module": "Workbench",
+      "code": "Workbench",
+      "active": true,
+      "order": 13,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        }
+      ]
     }
 	 
   ]
