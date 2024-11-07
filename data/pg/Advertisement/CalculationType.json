@@ -14,14 +14,14 @@
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
           "serviceType": "NEW_BOOKING",
-          "feeType": "CGST",
+          "feeType": "ADV_CGST",
           "amount": 9,
           "taxApplicable": false
         },
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
           "serviceType": "NEW_BOOKING",
-          "feeType": "SGST",
+          "feeType": "ADV_CGST",
           "amount": 9,
           "taxApplicable": false
         }
@@ -37,14 +37,14 @@
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
           "serviceType": "NEW_BOOKING",
-          "feeType": "CGST",
+          "feeType": "ADV_CGST",
           "amount": 9,
           "taxApplicable": false
         },
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
           "serviceType": "NEW_BOOKING",
-          "feeType": "SGST",
+          "feeType": "ADV_CGST",
           "amount": 9,
           "taxApplicable": false
         }
