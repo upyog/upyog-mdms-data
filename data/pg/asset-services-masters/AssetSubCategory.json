@@ -153,6 +153,12 @@
         "assetCategory": "FURNITURES_AND_FIXTURES"
       },
       {
+        "name": "Visitor Chair",
+        "code": "VISITOR_CHAIR",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
         "name": "NA",
         "code": "NA",
         "active": true,
