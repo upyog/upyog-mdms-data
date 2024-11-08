@@ -1,19 +1,18 @@
 {
-    "tenantId": "pg",
-    "moduleName": "PetService",
-    "CalculationType": [
-      {
-        "applicationType": "PTR.APPLICATION_FEE",
-        "serviceType": "PET_REGISTRATION",
-        "feeType": "PTR_APPLICATION_FEE",
-        "amount": 500
-      },
-      {
-        "applicationType": "PTR.RENEW_APPLICATION_FEE",
-        "serviceType": "PET_REGISTRATION",
-        "feeType": "PTR_RENEW_APPLICATION_FEE",
-        "amount": 300
-      }
-    ]
-  }
-  
+  "tenantId": "pg",
+  "moduleName": "PetService",
+  "CalculationType": [
+    {
+      "applicationType": "NEWAPPLICATION",
+      "serviceType": "PET_REGISTRATION",
+      "feeType": "PET_REGISTRATION_FEE",
+      "amount": 500
+    },
+    {
+      "applicationType": "RENEWAPPLICATION",
+      "serviceType": "PET_REGISTRATION",
+      "feeType": "PET_RENEWAL_FEE",
+      "amount": 300
+    }
+  ]
+}
