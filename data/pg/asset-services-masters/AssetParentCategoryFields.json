@@ -94,8 +94,8 @@
             "columnType": "number"
           },
           {
-            "name": "Acquisition Cost",
-            "value": "Acquisition Cost",
+            "name": "acquisitionCost",
+            "value": "acquisitionCost",
             "code": "AST_ACQUISTION_COST",
             "localizationKey": "AST_ACQUISITION_COST",
             "type": "text",
@@ -113,7 +113,8 @@
             "isMandatory": false,
             "onChange": "setbookValue",
             "active": true,
-            "columnType": "number"
+            "columnType": "number",
+            "isReadOnly": true
           }
         ]
       },
