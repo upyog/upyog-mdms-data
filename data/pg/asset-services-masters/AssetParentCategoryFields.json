@@ -165,16 +165,6 @@
             "columnType": "text"
           },
           {
-            "name": "invoiceDate",
-            "value": "invoiceDate",
-            "code": "Invoice Date",
-            "localizationKey": "AST_INVOICE_DATE",
-            "type": "date",
-            "isMandatory": false,
-            "onChange": "setInvoiceDate",
-            "active": true
-          },
-          {
             "name": "manufacturer",
             "value": "manufacturer",
             "code": "Manufacturer",
@@ -184,57 +174,6 @@
             "onChange": "selectmanufacturer",
             "active": true,
             "columnType": "text"
-          },
-          {
-            "name": "purchaseOrderNumber",
-            "value": "purchaseOrderNumber",
-            "code": "Purchase Order Number",
-            "localizationKey": "AST_PURCHASE_ORDER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "selectpurchaseorder",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "warranty",
-            "code": "Warranty Period",
-            "localizationKey": "AST_WARRANTY",
-            "type": "dropdown",
-            "isMandatory": false,
-            "active": true,
-            "options": [
-              {
-                "name": "warranty",
-                "i18nKey": "1 Year",
-                "code": "1_YEAR",
-                "value": "1 Year"
-              },
-              {
-                "name": "warranty",
-                "i18nKey": "2 Years",
-                "code": "2_YEAR",
-                "value": "2 Years"
-              },
-              {
-                "name": "warranty",
-                "i18nKey": "3 Years",
-                "code": "3_YEAR",
-                "value": "3 Years"
-              },
-              {
-                "name": "warranty",
-                "i18nKey": "4 Years",
-                "code": "4_YEAR",
-                "value": "4 Years"
-              },
-              {
-                "name": "warranty",
-                "i18nKey": "5 Years",
-                "code": "5_YEAR",
-                "value": "5 Years"
-              }
-            ]
           }
         ]
       },
