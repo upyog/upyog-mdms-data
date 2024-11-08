@@ -57,6 +57,30 @@
                 "i18nKey": "2 Years",
                 "code": "2_YEAR",
                 "value": "2 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "3 Years",
+                "code": "3_YEAR",
+                "value": "3 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "4 Years",
+                "code": "4_YEAR",
+                "value": "4 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "5 Years",
+                "code": "5_YEAR",
+                "value": "5 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "NA",
+                "code": "NA",
+                "value": "NA"
               }
             ]
           },
@@ -79,7 +103,6 @@
             "isMandatory": false,
             "onChange": "setLocation",
             "active": true,
-            "addCurrentLocationButton": true,
             "columnType": "text"
           },
           {
@@ -480,35 +503,24 @@
         "depreciationRate": "5",
         "fields": [
           {
-            "name": "buildingSno",
-            "value": "buildingSno",
-            "code": "Building No",
-            "localizationKey": "AST_BUILDING_NO",
+            "name": "buildingName",
+            "value": "buildingName",
+            "code": "Building Name",
+            "localizationKey": "AST_BUILDING_NAME",
             "type": "text",
             "isMandatory": false,
-            "onChange": "setbuildingsNo",
+            "onChange": "setBuildingName",
             "active": true,
             "columnType": "text"
           },
           {
-            "name": "floorNo",
-            "value": "floorNo",
-            "code": "Floor Numbers",
-            "localizationKey": "AST_FLOORS_NO",
+            "name": "typeOfProperty",
+            "value": "typeOfProperty",
+            "code": "Type of Property",
+            "localizationKey": "AST_TYPE_OF_PROPERTY",
             "type": "text",
             "isMandatory": false,
-            "onChange": "setFloorNo",
-            "active": true,
-            "columnType": "number"
-          },
-          {
-            "name": "dimensions",
-            "value": "dimensions",
-            "code": "Dimensions",
-            "localizationKey": "AST_DIMENSIONS",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setDimensions",
+            "onChange": "setTypeOfProperty",
             "active": true,
             "columnType": "text"
           },
@@ -524,15 +536,50 @@
             "columnType": "text"
           },
           {
-            "name": "plinthArea",
-            "value": "plinthArea",
-            "code": "Plinth Area",
-            "localizationKey": "AST_PLINTH_AREA",
+            "name": "descriptionOfProperty",
+            "value": "descriptionOfProperty",
+            "code": "Description of Property",
+            "localizationKey": "AST_DESCRIPTION_OF_PROPERTY",
             "type": "text",
             "isMandatory": false,
-            "onChange": "setPlinthArea",
+            "onChange": "setDescriptionOfProperty",
             "active": true,
             "columnType": "text"
+          },
+          {
+            "name": "eitherGivenOnLease",
+            "value": "eitherGivenOnLease",
+            "code": "Either Given on Lease/Rent",
+            "localizationKey": "AST_EITHER_GIVEN_ON_LEASE",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setEitherGivenOnLease",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "eitherUnderLitigation",
+            "value": "eitherUnderLitigation",
+            "code": "Either Under any Litigation (Yes/No)",
+            "localizationKey": "AST_EITHER_UNDER_LITIGATION",
+            "type": "dropdown",
+            "isMandatory": false,
+            "onChange": "setEitherUnderLitigation",
+            "active": true,
+            "options": [
+              {
+                "name": "litigationDetails",
+                "code": "YES",
+                "i18nKey": "YES",
+                "value": "YES"
+              },
+              {
+                "name": "litigationDetails",
+                "code": "NO",
+                "i18nKey": "NO",
+                "value": "NO"
+              }
+            ]
           },
           {
             "name": "howAssetBeingUsed",
