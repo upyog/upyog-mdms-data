@@ -29766,6 +29766,12 @@
       "actionid": 2889,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2889,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
