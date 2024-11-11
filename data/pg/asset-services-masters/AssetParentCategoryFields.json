@@ -8,6 +8,76 @@
         "assetParentCategory": "COMMON",
         "fields": [
           {
+            "name": "modeOfPossessionOrAcquisition",
+            "code": "Mode of Possession / Acquisition",
+            "localizationKey": "AST_modeOfPossessionOrAcquisition",
+            "type": "dropdown",
+            "isMandatory": false,
+            "active": true,
+            "options": [
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Purchase",
+                "code": "AST_PURCHASE",
+                "value": "Purchase"
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Donated",
+                "code": "AST_DONATED",
+                "value": "Donated "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Inherited",
+                "code": "AST_INHERITED",
+                "value": "Inherited "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Leased",
+                "code": "AST_LEASED",
+                "value": "Leased "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Gifted",
+                "code": "AST_GIFTED",
+                "value": "Gifted "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Constructed",
+                "code": "AST_CONSTRUCTED",
+                "value": "Constructed "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Acquired through exchange",
+                "code": "AST_ACQUIRED THROUGH EXCHANGE",
+                "value": "Acquired through exchange "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Transferred",
+                "code": "AST_TRANSFERRED",
+                "value": "Transferred"
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Government grant",
+                "code": "AST_GOVERNMENT_GRANT",
+                "value": "Government grant"
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Other",
+                "code": "AST_OTHER",
+                "value": "Other"
+              }
+            ]
+          },
+          {
             "name": "invoiceDate",
             "value": "invoiceDate",
             "code": "Invoice Date",
@@ -98,7 +168,7 @@
             "name": "location",
             "value": "location",
             "code": "Location",
-            "localizationKey": "AST_LOCATION",
+            "localizationKey": "AST_LOCATION_DETAILS",
             "type": "text",
             "isMandatory": false,
             "onChange": "setLocation",
