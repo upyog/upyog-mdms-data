@@ -19096,6 +19096,31 @@
         "serviceCode": "MDMS",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 2888,
+        "name": "Street Vending Payment search",
+        "url": "/collection-services/payments/sv-services/_search",
+        "displayName": "Street Vending Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+    },
+    {
+      "id": 2889,
+      "name": "Pet Payment search",
+      "url": "/collection-services/payments/pet-services/_search",
+      "displayName": "Pet Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
+
   ]
 }

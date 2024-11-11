@@ -8,76 +8,6 @@
         "assetParentCategory": "COMMON",
         "fields": [
           {
-            "name": "modeOfPossessionOrAcquisition",
-            "code": "Mode of Possession / Acquisition",
-            "localizationKey": "AST_modeOfPossessionOrAcquisition",
-            "type": "dropdown",
-            "isMandatory": false,
-            "active": true,
-            "options": [
-              {
-                "name": "modeOfPossessionOrAcquisition",
-                "i18nKey": "Purchase",
-                "code": "AST_PURCHASE",
-                "value": "Purchase"
-              },
-              {
-                "name": "modeOfPossessionOrAcquisition",
-                "i18nKey": "Donated",
-                "code": "AST_DONATED",
-                "value": "Donated "
-              },
-              {
-                "name": "modeOfPossessionOrAcquisition",
-                "i18nKey": "Inherited",
-                "code": "AST_INHERITED",
-                "value": "Inherited "
-              },
-              {
-                "name": "modeOfPossessionOrAcquisition",
-                "i18nKey": "Leased",
-                "code": "AST_LEASED",
-                "value": "Leased "
-              },
-              {
-                "name": "modeOfPossessionOrAcquisition",
-                "i18nKey": "Gifted",
-                "code": "AST_GIFTED",
-                "value": "Gifted "
-              },
-              {
-                "name": "modeOfPossessionOrAcquisition",
-                "i18nKey": "Constructed",
-                "code": "AST_CONSTRUCTED",
-                "value": "Constructed "
-              },
-              {
-                "name": "modeOfPossessionOrAcquisition",
-                "i18nKey": "Acquired through exchange",
-                "code": "AST_ACQUIRED THROUGH EXCHANGE",
-                "value": "Acquired through exchange "
-              },
-              {
-                "name": "modeOfPossessionOrAcquisition",
-                "i18nKey": "Transferred",
-                "code": "AST_TRANSFERRED",
-                "value": "Transferred"
-              },
-              {
-                "name": "modeOfPossessionOrAcquisition",
-                "i18nKey": "Government grant",
-                "code": "AST_GOVERNMENT_GRANT",
-                "value": "Government grant"
-              },
-              {
-                "name": "modeOfPossessionOrAcquisition",
-                "i18nKey": "Other",
-                "code": "AST_OTHER",
-                "value": "Other"
-              }
-            ]
-          },
-          {
             "name": "invoiceDate",
             "value": "invoiceDate",
             "code": "Invoice Date",
@@ -168,12 +98,11 @@
             "name": "location",
             "value": "location",
             "code": "Location",
-            "localizationKey": "AST_LOCATION_DETAILS",
+            "localizationKey": "AST_LOCATION",
             "type": "text",
             "isMandatory": false,
             "onChange": "setLocation",
             "active": true,
-            "addCurrentLocationButton": true,
             "columnType": "text"
           },
           {
@@ -188,8 +117,8 @@
             "columnType": "number"
           },
           {
-            "name": "acquisitionCost",
-            "value": "acquisitionCost",
+            "name": "Acquisition Cost",
+            "value": "Acquisition Cost",
             "code": "AST_ACQUISTION_COST",
             "localizationKey": "AST_ACQUISITION_COST",
             "type": "text",
@@ -207,8 +136,7 @@
             "isMandatory": false,
             "onChange": "setbookValue",
             "active": true,
-            "columnType": "number",
-            "isReadOnly": true
+            "columnType": "number"
           }
         ]
       },
@@ -235,6 +163,16 @@
             "columnType": "text"
           },
           {
+            "name": "invoiceDate",
+            "value": "invoiceDate",
+            "code": "Invoice Date",
+            "localizationKey": "AST_INVOICE_DATE",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setInvoiceDate",
+            "active": true
+          },
+          {
             "name": "manufacturer",
             "value": "manufacturer",
             "code": "Manufacturer",
@@ -244,6 +182,57 @@
             "onChange": "selectmanufacturer",
             "active": true,
             "columnType": "text"
+          },
+          {
+            "name": "purchaseOrderNumber",
+            "value": "purchaseOrderNumber",
+            "code": "Purchase Order Number",
+            "localizationKey": "AST_PURCHASE_ORDER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "selectpurchaseorder",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "warranty",
+            "code": "Warranty Period",
+            "localizationKey": "AST_WARRANTY",
+            "type": "dropdown",
+            "isMandatory": false,
+            "active": true,
+            "options": [
+              {
+                "name": "warranty",
+                "i18nKey": "1 Year",
+                "code": "1_YEAR",
+                "value": "1 Year"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "2 Years",
+                "code": "2_YEAR",
+                "value": "2 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "3 Years",
+                "code": "3_YEAR",
+                "value": "3 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "4 Years",
+                "code": "4_YEAR",
+                "value": "4 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "5 Years",
+                "code": "5_YEAR",
+                "value": "5 Years"
+              }
+            ]
           }
         ]
       },
@@ -514,35 +503,24 @@
         "depreciationRate": "5",
         "fields": [
           {
-            "name": "buildingSno",
-            "value": "buildingSno",
-            "code": "Building No",
-            "localizationKey": "AST_BUILDING_NO",
+            "name": "buildingName",
+            "value": "buildingName",
+            "code": "Building Name",
+            "localizationKey": "AST_BUILDING_NAME",
             "type": "text",
             "isMandatory": false,
-            "onChange": "setbuildingsNo",
+            "onChange": "setBuildingName",
             "active": true,
             "columnType": "text"
           },
           {
-            "name": "floorNo",
-            "value": "floorNo",
-            "code": "Floor Numbers",
-            "localizationKey": "AST_FLOORS_NO",
+            "name": "typeOfProperty",
+            "value": "typeOfProperty",
+            "code": "Type of Property",
+            "localizationKey": "AST_TYPE_OF_PROPERTY",
             "type": "text",
             "isMandatory": false,
-            "onChange": "setFloorNo",
-            "active": true,
-            "columnType": "number"
-          },
-          {
-            "name": "dimensions",
-            "value": "dimensions",
-            "code": "Dimensions",
-            "localizationKey": "AST_DIMENSIONS",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setDimensions",
+            "onChange": "setTypeOfProperty",
             "active": true,
             "columnType": "text"
           },
@@ -558,15 +536,50 @@
             "columnType": "text"
           },
           {
-            "name": "plinthArea",
-            "value": "plinthArea",
-            "code": "Plinth Area",
-            "localizationKey": "AST_PLINTH_AREA",
+            "name": "descriptionOfProperty",
+            "value": "descriptionOfProperty",
+            "code": "Description of Property",
+            "localizationKey": "AST_DESCRIPTION_OF_PROPERTY",
             "type": "text",
             "isMandatory": false,
-            "onChange": "setPlinthArea",
+            "onChange": "setDescriptionOfProperty",
             "active": true,
             "columnType": "text"
+          },
+          {
+            "name": "eitherGivenOnLease",
+            "value": "eitherGivenOnLease",
+            "code": "Either Given on Lease/Rent",
+            "localizationKey": "AST_EITHER_GIVEN_ON_LEASE",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setEitherGivenOnLease",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "eitherUnderLitigation",
+            "value": "eitherUnderLitigation",
+            "code": "Either Under any Litigation (Yes/No)",
+            "localizationKey": "AST_EITHER_UNDER_LITIGATION",
+            "type": "dropdown",
+            "isMandatory": false,
+            "onChange": "setEitherUnderLitigation",
+            "active": true,
+            "options": [
+              {
+                "name": "litigationDetails",
+                "code": "YES",
+                "i18nKey": "YES",
+                "value": "YES"
+              },
+              {
+                "name": "litigationDetails",
+                "code": "NO",
+                "i18nKey": "NO",
+                "value": "NO"
+              }
+            ]
           },
           {
             "name": "howAssetBeingUsed",
