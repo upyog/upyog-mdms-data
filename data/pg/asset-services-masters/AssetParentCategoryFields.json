@@ -10,7 +10,7 @@
           {
             "name": "modeOfPossessionOrAcquisition",
             "code": "Mode of Possession / Acquisition",
-            "localizationKey": "AST_modeOfPossessionOrAcquisition",
+            "localizationKey": "AST_MODE_OF_POSSESSION_OR_ACQUISITION",
             "type": "dropdown",
             "isMandatory": false,
             "active": true,
