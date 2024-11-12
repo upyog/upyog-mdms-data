@@ -18335,6 +18335,54 @@
       "serviceCode": "NDSS",
       "code": "null",
       "path": ""
+    },
+	{
+      "id":2821,
+      "name": "PT Workflow Escalation Update",
+      "url": "/egov-workflow-v2/egov-wf/auto/PT.CREATE/_escalate",
+      "parentModule": "",
+      "displayName": "PT Workflow Escalation Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 2822,
+      "name": "WS Workflow Escalation Update",
+      "url": "/egov-workflow-v2/egov-wf/auto/NewWS1/_escalate",
+      "parentModule": "",
+      "displayName": "WS Workflow Escalation Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id":2823,
+      "name": "FSM Workflow Escalation Update",
+      "url": "/egov-workflow-v2/egov-wf/auto/FSM_ADVANCE_PAY_SERVICE_V1/_escalate",
+      "parentModule": "",
+      "displayName": "FSM Workflow Escalation Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id":2824,
+      "name": " FIRENOC Workflow Escalation Update",
+      "url": "/egov-workflow-v2/egov-wf/auto/FIRENOC/_escalate",
+      "parentModule": "",
+      "displayName": " FIRENOC Workflow Escalation Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
     }
    ]
 }
