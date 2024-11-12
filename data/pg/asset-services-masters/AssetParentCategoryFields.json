@@ -88,6 +88,17 @@
             "active": true
           },
           {
+            "name": "invoiceNumber",
+            "value": "invoiceNumber",
+            "code": "Inovice Number",
+            "localizationKey": "AST_INVOICE_NUMBER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setInvoiceNumber",
+            "active": true,
+            "columnType": "text"
+          },
+          {
             "name": "purchaseDate",
             "value": "purchaseDate",
             "code": "Purchase Date",
