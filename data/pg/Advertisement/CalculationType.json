@@ -4,7 +4,7 @@
   "CalculationType": [
     {
       "location": "Green park",
-      "CalculationType_Unipole_12_X_8": [
+      "CalculationType_UNIPOLE_12_X_8": [
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
           "serviceType": "NEW_BOOKING",
@@ -13,7 +13,7 @@
           "taxApplicable": true
         }
       ],
-      "CalculationType_Unipole_18_X_8": [
+      "CalculationType_UNIPOLE_18_X_8": [
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
           "serviceType": "NEW_BOOKING",
@@ -25,7 +25,7 @@
     },
     {
       "location": "Hauz Khan",
-      "CalculationType_Unipole_12_X_8": [
+      "CalculationType_UNIPOLE_12_X_8": [
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
           "serviceType": "NEW_BOOKING",
@@ -34,7 +34,7 @@
           "taxApplicable": true
         }
       ],
-      "CalculationType_Unipole_18_X_8": [
+      "CalculationType_UNIPOLE_18_X_8": [
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
           "serviceType": "NEW_BOOKING",

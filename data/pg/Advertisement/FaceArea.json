@@ -4,22 +4,22 @@
     "FaceArea": [
       {
         "name": "Unipole 12 X 8",
-        "code": "UNIPOLE_12_8",
+        "code": "UNIPOLE_12_X_8",
         "active": true
       },
       {
         "name": "Unipole 18 X 8",
-        "code": "UNIPOLE_18_8",
+        "code": "UNIPOLE_18_X_8",
         "active": true
       },
       {
         "name": "Unipole 20 X 10",
-        "code": "UNIPOLE_20_10",
+        "code": "UNIPOLE_20_X_10",
         "active": true
       },
       {
         "name": "Direction Board 20 X 6",
-        "code": "DIRECTION_BOARD_20_6",
+        "code": "DIRECTION_BOARD_20_X_6",
         "active": true
       },
       {
