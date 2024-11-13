@@ -6,15 +6,13 @@
         "applicationType": "ADVERTISEMENT_BOOKING",
         "serviceType": "NEW_BOOKING",
         "feeType": "ADV_CGST",
-        "amount": 9,
-        "taxApplicable": false
+        "rate": 9
       },
       {
         "applicationType": "ADVERTISEMENT_BOOKING",
         "serviceType": "NEW_BOOKING",
         "feeType": "ADV_SGST",
-        "amount": 9,
-        "taxApplicable": false
+        "rate": 9
       }
   ]
 }
