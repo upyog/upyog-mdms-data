@@ -3,7 +3,8 @@
   "moduleName": "Advertisement",
   "CalculationType": [
     {
-      "CalculationType_Unipole_12_X_8": [
+      "location": "Green park",
+      "CalculationType_UNIPOLE_12_X_8": [
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
           "serviceType": "NEW_BOOKING",
@@ -12,12 +13,33 @@
           "taxApplicable": true
         }
       ],
-      "CalculationType_Unipole_18_X_8": [
+      "CalculationType_UNIPOLE_18_X_8": [
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "ADV_BOOKING_FEES",
           "amount": 1000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "location": "Hauz Khas",
+      "CalculationType_UNIPOLE_12_X_8": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 2000,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_UNIPOLE_18_X_8": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 2500,
           "taxApplicable": true
         }
       ]
