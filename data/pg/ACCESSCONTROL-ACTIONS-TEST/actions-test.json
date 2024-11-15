@@ -16132,6 +16132,18 @@
       "leftIcon": "image:collections-bookmark"
     },
     {
+      "id": 2635,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.ServiceDefs",
+      "displayName": "Create RAINMAKER-PGR.ServiceDefs",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 2636,
       "name": "MDMS",
       "url":"/mdms-v2/v2/_update/common-masters.StructureType",
@@ -16216,6 +16228,18 @@
       "path": ""
     },
     {
+      "id": 2643,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/PropertyTax.UsageCategorySubMinor",
+      "displayName": "update PropertyTax.UsageCategorySubMinor",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 2644,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PropertyTax.ConstructionSubType",
@@ -16265,6 +16289,18 @@
     },
     {
       "id": 2648,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/PropertyTax.UsageCategorySubMinor",
+      "displayName": "create PropertyTax.UsageCategorySubMinor",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2649,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PropertyTax.UsageCategorySubMinor",
       "displayName": "create PropertyTax.UsageCategorySubMinor",
@@ -19087,5 +19123,7 @@
 	   "code": "null",
 	   "path": ""
 	 }
+	
+
    ]
 }

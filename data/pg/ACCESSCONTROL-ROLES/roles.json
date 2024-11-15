@@ -738,16 +738,6 @@
       "description": "LOC_ADMIN"
     },
     {
-      "code": "MDMS_ADMIN",
-      "name": "MDMS Admin",
-      "description": "Mdms admin"
-    },
-    {
-      "code": "LOC_ADMIN",
-      "name": "Localisation admin",
-      "description": "LOC_ADMIN"
-    },
-    {
       "code": "PQM_ADMIN",
       "name": "PQM Admin",
       "description": "Pqm Admin"
@@ -771,6 +761,7 @@
       "code": "PQM_CRONJOB_SCHEDULER",
       "name": "PQM CRONJOB SCHEDULER",
       "description": "Pqm Cronjob Scheduler"
+
     }
   ]
 }
