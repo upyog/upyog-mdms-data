@@ -18466,7 +18466,7 @@
       "active": true,
       "module": "NationalDashboard"
     },
-      {
+    {
       "stateCode": "Jharkhand",
       "stateName": "Jharkhand",
       "code": "jh.ranchimunicipalcorporation",
@@ -18823,6 +18823,270 @@
       "stateName": "Rajasthan",
       "code": "rj.wazirpurnagarpalika",
       "name": "rj.wazirpurnagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.kufri",
+      "name": "hp.kufri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.shogi",
+      "name": "hp.shogi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.ghannahatti",
+      "name": "hp.ghannahatti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.jabli",
+      "name": "hp.jabli",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.trilokpur",
+      "name": "hp.trilokpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.chamundanandikeshwardham",
+      "name": "hp.chamundanandikeshwardham",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.pongdam",
+      "name": "hp.pongdam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.garlipragpur",
+      "name": "hp.garlipragpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.birbilling",
+      "name": "hp.birbilling",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.hatkoti",
+      "name": "hp.hatkoti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.manikaran",
+      "name": "hp.manikaran",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.naggar",
+      "name": "hp.naggar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.paontasahib",
+      "name": "hp.paontasahib",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.chintpurni",
+      "name": "hp.chintpurni",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.sarahan",
+      "name": "hp.sarahan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.harat",
+      "name": "hp.harat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.chail",
+      "name": "hp.chail",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.kandaghat",
+      "name": "hp.kandaghat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.barog",
+      "name": "hp.barog",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.bababalaknathji",
+      "name": "hp.bababalaknathji",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.khajjiar",
+      "name": "hp.khajjiar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.bharmour",
+      "name": "hp.bharmour",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.pangikillar",
+      "name": "hp.pangikillar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.chamera",
+      "name": "hp.chamera",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.reckongpeo",
+      "name": "hp.reckongpeo",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.kaza",
+      "name": "hp.kaza",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.keylong",
+      "name": "hp.keylong",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.tabo",
+      "name": "hp.tabo",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.udaipur",
+      "name": "hp.udaipur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.una",
+      "name": "hp.una",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.hatkoti",
+      "name": "hp.hatkoti",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.jabli",
+      "name": "hp.jabli",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.solangrotang",
+      "name": "hp.solangrotang",
       "active": true,
       "module": "NationalDashboard"
     }
