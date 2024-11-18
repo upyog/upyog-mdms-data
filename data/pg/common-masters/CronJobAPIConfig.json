@@ -74,7 +74,7 @@
       }
 	  },
 	  {
-        "jobName": "daily",
+        "jobName": "Dashboard Email Scheduler",
         "active": "true",
         "method": "POST",
         "url": "http://national-dashboard.egov:8080/national-dashboard/email/_sendEmail",
