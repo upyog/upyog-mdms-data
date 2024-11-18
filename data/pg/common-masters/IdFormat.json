@@ -749,6 +749,10 @@
         {
             "format": "ADV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "adv-services.receipt.id"
+        },
+        {
+            "format": "SV-CT-[seq_street_vending_certificate_no]",
+            "idname": "street-vending.certificate.no"
         }
     ]
 }
