@@ -8,7 +8,7 @@
         "state": "PENDINGAPPROVAL",
         "action": "APPROVE",
         "active": "true",
-        "stateSLA": 2.0,
+        "stateSLA": 1.0,
         "businessSLA": null,
         "topic" : "tl-auto-escalation"
       },
@@ -18,7 +18,7 @@
         "state": "APPLIED",
         "action": "FORWARD",
         "active": "true",
-        "stateSLA": 2.0,
+        "stateSLA": 1.0,
         "businessSLA": null,
         "topic" : "tl-auto-escalation"
       },
@@ -28,7 +28,7 @@
         "state": "FIELDINSPECTION",
         "action": "FORWARD",
         "active": "true",
-        "stateSLA": 3.0,
+        "stateSLA": 1.0,
         "businessSLA": null,
         "topic" : "tl-auto-escalation"
       },
