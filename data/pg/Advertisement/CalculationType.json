@@ -3,7 +3,7 @@
   "moduleName": "Advertisement",
   "CalculationType": [
     {
-      "location": "Green park",
+      "location": "Green Park",
       "CalculationType_UNIPOLE_12_X_8": [
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
