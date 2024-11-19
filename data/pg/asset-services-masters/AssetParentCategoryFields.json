@@ -9,8 +9,7 @@
         "fields": [
           {
             "name": "modeOfPossessionOrAcquisition",
-            "code": "Mode of Possession / Acquisition",
-            "localizationKey": "AST_MODE_OF_POSSESSION_OR_ACQUISITION",
+            "code": "AST_MODE_OF_POSSESSION_OR_ACQUISITION",
             "type": "dropdown",
             "isMandatory": false,
             "active": true,
@@ -80,8 +79,7 @@
           {
             "name": "invoiceDate",
             "value": "invoiceDate",
-            "code": "Invoice Date",
-            "localizationKey": "AST_INVOICE_DATE",
+            "code": "AST_INVOICE_DATE",
             "type": "date",
             "isMandatory": false,
             "onChange": "setInvoiceDate",
@@ -90,8 +88,7 @@
           {
             "name": "invoiceNumber",
             "value": "invoiceNumber",
-            "code": "Inovice Number",
-            "localizationKey": "AST_INVOICE_NUMBER",
+            "code": "AST_INVOICE_NUMBER",
             "type": "text",
             "isMandatory": false,
             "onChange": "setInvoiceNumber",
@@ -101,8 +98,7 @@
           {
             "name": "purchaseDate",
             "value": "purchaseDate",
-            "code": "Purchase Date",
-            "localizationKey": "AST_PURCHASE_DATE",
+            "code": "AST_PURCHASE_DATE",
             "type": "date",
             "isMandatory": false,
             "onChange": "setPurchaseDate",
@@ -111,8 +107,7 @@
           {
             "name": "purchaseOrderNumber",
             "value": "purchaseOrderNumber",
-            "code": "Purchase Order Number",
-            "localizationKey": "AST_PURCHASE_ORDER",
+            "code": "AST_PURCHASE_ORDER",
             "type": "text",
             "isMandatory": false,
             "onChange": "setPurchaseOrder",
@@ -121,8 +116,7 @@
           },
           {
             "name": "warranty",
-            "code": "Warranty Period",
-            "localizationKey": "AST_WARRANTY",
+            "code": "AST_WARRANTY",
             "type": "dropdown",
             "isMandatory": false,
             "active": true,
@@ -168,8 +162,7 @@
           {
             "name": "assetAge",
             "value": "assetAge",
-            "code": "Asset Age",
-            "localizationKey": "AST_ASSET_AGE",
+            "code": "AST_ASSET_AGE",
             "type": "text",
             "isMandatory": false,
             "active": true,
@@ -178,8 +171,7 @@
           {
             "name": "location",
             "value": "location",
-            "code": "Location",
-            "localizationKey": "AST_LOCATION_DETAILS",
+            "code": "AST_LOCATION_DETAILS",
             "type": "text",
             "isMandatory": false,
             "onChange": "setLocation",
@@ -191,7 +183,6 @@
             "name": "purchaseCost",
             "value": "purchaseCost",
             "code": "AST_PURCHASE_COST",
-            "localizationKey": "AST_PURCHASE_COST",
             "type": "text",
             "isMandatory": false,
             "onChange": "setPurchaseCost",
@@ -201,8 +192,7 @@
           {
             "name": "acquisitionCost",
             "value": "acquisitionCost",
-            "code": "AST_ACQUISTION_COST",
-            "localizationKey": "AST_ACQUISITION_COST",
+            "code": "AST_ACQUISITION_COST",
             "type": "text",
             "isMandatory": false,
             "onChange": "setAcquisitionCost",
@@ -213,7 +203,6 @@
             "name": "bookValue",
             "value": "bookValue",
             "code": "AST_BOOK_VALUE",
-            "localizationKey": "AST_BOOK_VALUE",
             "type": "text",
             "isMandatory": false,
             "onChange": "setbookValue",
@@ -237,8 +226,7 @@
           {
             "name": "brand",
             "value": "brand",
-            "code": "BRAND",
-            "localizationKey": "AST_BRAND",
+            "code": "AST_BRAND",
             "type": "text",
             "isMandatory": false,
             "onChange": "setBrand",
@@ -248,8 +236,7 @@
           {
             "name": "manufacturer",
             "value": "manufacturer",
-            "code": "Manufacturer",
-            "localizationKey": "AST_MANUFACTURER",
+            "code": "AST_MANUFACTURER",
             "type": "text",
             "isMandatory": false,
             "onChange": "selectmanufacturer",
@@ -272,8 +259,7 @@
           {
             "name": "registrationNumber",
             "value": "registrationNumber",
-            "code": "Registration Number",
-            "localizationKey": "AST_REGISTRATION_NUMBER",
+            "code": "AST_REGISTRATION_NUMBER",
             "type": "text",
             "isMandatory": false,
             "onChange": "setRegistrationNumber",
@@ -283,8 +269,7 @@
           {
             "name": "engineNumber",
             "value": "engineNumber",
-            "code": "Engine Number",
-            "localizationKey": "AST_ENGINE_NUMBER",
+            "code": "AST_ENGINE_NUMBER",
             "type": "text",
             "isMandatory": false,
             "onChange": "setEngineNumber",
@@ -294,8 +279,7 @@
           {
             "name": "chasisNumber",
             "value": "chasisNumber",
-            "code": "Chasis Number",
-            "localizationKey": "AST_CHASIS_NUMBER",
+            "code": "AST_CHASIS_NUMBER",
             "type": "text",
             "isMandatory": false,
             "onChange": "setChasisNumber",
@@ -305,8 +289,7 @@
           {
             "name": "parkingLocation",
             "value": "parkingLocation",
-            "code": "Parking Location",
-            "localizationKey": "AST_PARKING_LOCATION",
+            "code": "AST_PARKING_LOCATION",
             "type": "text",
             "isMandatory": false,
             "onChange": "setParkingLocation",
@@ -329,8 +312,7 @@
           {
             "name": "landType",
             "value": "landType",
-            "code": "Land Type",
-            "localizationKey": "AST_LAND_TYPE",
+            "code": "AST_LAND_TYPE",
             "type": "text",
             "isMandatory": false,
             "onChange": "setLandType",
@@ -340,8 +322,7 @@
           {
             "name": "area",
             "value": "area",
-            "code": "Land Area / Size",
-            "localizationKey": "AST_LAND_AREA",
+            "code": "AST_LAND_AREA",
             "type": "text",
             "isMandatory": false,
             "onChange": "setArea",
@@ -351,8 +332,7 @@
           {
             "name": "dateOfDeedExecution",
             "value": "dateOfDeedExecution",
-            "code": "Date and Deed Execution",
-            "localizationKey": "AST_DATE_DEED_EXECUTION",
+            "code": "AST_DATE_DEED_EXECUTION",
             "type": "date",
             "isMandatory": false,
             "onChange": "setdateofDeedExecution",
@@ -361,8 +341,7 @@
           {
             "name": "dateOfPossession",
             "value": "dateOfPossession",
-            "code": "Date of Possession",
-            "localizationKey": "AST_DATE_POSSESION",
+            "code": "AST_DATE_POSSESION",
             "type": "date",
             "isMandatory": false,
             "onChange": "setdateofPossesion",
@@ -371,8 +350,7 @@
           {
             "name": "fromWhomDeedTaken",
             "value": "fromWhomDeedTaken",
-            "code": "From Whom Deed is Taken",
-            "localizationKey": "AST_FROM_DEED_TAKEN",
+            "code": "AST_FROM_DEED_TAKEN",
             "type": "text",
             "isMandatory": false,
             "onChange": "setfromWhomDeedTaken",
@@ -382,8 +360,7 @@
           {
             "name": "governmentOrderNumber",
             "value": "governmentOrderNumber",
-            "code": "Govt. Order Number",
-            "localizationKey": "AST_GOVT_ORDER_NUM",
+            "code": "AST_GOVT_ORDER_NUM",
             "type": "text",
             "isMandatory": false,
             "onChange": "setgovernmentorderNumber",
@@ -393,8 +370,7 @@
           {
             "name": "councilResolutionNumber",
             "value": "councilResolutionNumber",
-            "code": "Council Resolution Number",
-            "localizationKey": "AST_COUNCIL_RES_NUM",
+            "code": "AST_COUNCIL_RES_NUM",
             "type": "text",
             "isMandatory": false,
             "onChange": "setcouncilResolutionNumber",
@@ -404,8 +380,7 @@
           {
             "name": "awardNumber",
             "value": "awardNumber",
-            "code": "Award Number",
-            "localizationKey": "AST_AWARD_NUMBER",
+            "code": "AST_AWARD_NUMBER",
             "type": "text",
             "isMandatory": false,
             "onChange": "setawardNumber",
@@ -415,8 +390,7 @@
           {
             "name": "oAndMCOI",
             "value": "oAndMCOI",
-            "code": "Asset COI",
-            "localizationKey": "AST_COI",
+            "code": "AST_COI",
             "type": "text",
             "isMandatory": false,
             "onChange": "setoandMCOI",
@@ -426,8 +400,7 @@
           {
             "name": "oAndMTaskDetail",
             "value": "oAndMTaskDetail",
-            "code": "O&M / Task Details",
-            "localizationKey": "AST_OM_TASK",
+            "code": "AST_OM_TASK",
             "type": "text",
             "isMandatory": false,
             "onChange": "setoandMTaskDetail",
@@ -437,8 +410,7 @@
           {
             "name": "osrLand",
             "value": "osrLand",
-            "code": "Asset OSR Land",
-            "localizationKey": "AST_OSR_LAND",
+            "code": "AST_OSR_LAND",
             "type": "text",
             "isMandatory": false,
             "onChange": "setoSRLand",
@@ -448,8 +420,7 @@
           {
             "name": "howAssetBeingUsed",
             "value": "howAssetBeingUsed",
-            "code": "How Asset is Being Used",
-            "localizationKey": "AST_HOW_ASSET_USE",
+            "code": "AST_HOW_ASSET_USE",
             "type": "text",
             "isMandatory": false,
             "onChange": "setHowassetbeingused",
@@ -459,7 +430,6 @@
           {
             "name": "isitFenced",
             "code": "Is it Fenced",
-            "localizationKey": "AST_FENCED",
             "type": "dropdown",
             "isMandatory": false,
             "active": true,
@@ -480,8 +450,7 @@
           },
           {
             "name": "anyBuiltup",
-            "code": "Any Type of Built Up",
-            "localizationKey": "AST_ANY_BUILTUP",
+            "code": "AST_ANY_BUILTUP",
             "type": "dropdown",
             "isMandatory": false,
             "active": true,
@@ -503,8 +472,7 @@
           {
             "name": "howAssetBeingUsed",
             "value": "howAssetBeingUsed",
-            "code": "How Asset is Being Used",
-            "localizationKey": "AST_HOW_ASSET_USE",
+            "code": "AST_HOW_ASSET_USE",
             "type": "text",
             "isMandatory": false,
             "onChange": "setHowassetbeingused",
@@ -527,8 +495,7 @@
           {
             "name": "buildingSno",
             "value": "buildingSno",
-            "code": "Building No",
-            "localizationKey": "AST_BUILDING_NO",
+            "code": "AST_BUILDING_NO",
             "type": "text",
             "isMandatory": false,
             "onChange": "setbuildingsNo",
@@ -538,8 +505,7 @@
           {
             "name": "floorNo",
             "value": "floorNo",
-            "code": "Floor Numbers",
-            "localizationKey": "AST_FLOORS_NO",
+            "code": "AST_FLOORS_NO",
             "type": "text",
             "isMandatory": false,
             "onChange": "setFloorNo",
@@ -549,8 +515,7 @@
           {
             "name": "dimensions",
             "value": "dimensions",
-            "code": "Dimensions",
-            "localizationKey": "AST_DIMENSIONS",
+            "code": "AST_DIMENSIONS",
             "type": "text",
             "isMandatory": false,
             "onChange": "setDimensions",
@@ -560,8 +525,7 @@
           {
             "name": "plotArea",
             "value": "plotArea",
-            "code": "Plot Area",
-            "localizationKey": "AST_PLOT_AREA",
+            "code": "AST_PLOT_AREA",
             "type": "text",
             "isMandatory": false,
             "onChange": "setPlotArea",
@@ -571,8 +535,7 @@
           {
             "name": "plinthArea",
             "value": "plinthArea",
-            "code": "Plinth Area",
-            "localizationKey": "AST_PLINTH_AREA",
+            "code": "AST_PLINTH_AREA",
             "type": "text",
             "isMandatory": false,
             "onChange": "setPlinthArea",
@@ -582,8 +545,7 @@
           {
             "name": "howAssetBeingUsed",
             "value": "howAssetBeingUsed",
-            "code": "How Asset is Being Used",
-            "localizationKey": "AST_HOW_ASSET_USE",
+            "code": "AST_HOW_ASSET_USE",
             "type": "text",
             "isMandatory": false,
             "onChange": "setHowassetbeingused",
@@ -606,8 +568,7 @@
           {
             "name": "roadType",
             "value": "roadType",
-            "code": "Road Type",
-            "localizationKey": "AST_ROAD_TYPE",
+            "code": "AST_ROAD_TYPE",
             "type": "text",
             "isMandatory": false,
             "onChange": "setRoadType",
@@ -617,8 +578,7 @@
           {
             "name": "totalLength",
             "value": "totalLength",
-            "code": "Total Length",
-            "localizationKey": "AST_TOTAL_LENGTH",
+            "code": "AST_TOTAL_LENGTH",
             "type": "text",
             "isMandatory": false,
             "onChange": "setTotalLength",
@@ -628,8 +588,7 @@
           {
             "name": "lastMaintainence",
             "value": "lastMaintainence",
-            "code": "Last Maintainence Date",
-            "localizationKey": "AST_LAST_MAINTAINENCE",
+            "code": "AST_LAST_MAINTAINENCE",
             "type": "date",
             "isMandatory": false,
             "onChange": "setLastMaintainence",
@@ -638,8 +597,7 @@
           {
             "name": "surfaceType",
             "value": "surfaceType",
-            "code": "Surface Type",
-            "localizationKey": "AST_SURFACE_TYPE",
+            "code": "AST_SURFACE_TYPE",
             "type": "text",
             "isMandatory": false,
             "onChange": "setSurfaceType",
@@ -649,8 +607,7 @@
           {
             "name": "protectionLength",
             "value": "protectionLength",
-            "code": "Protection Length ( Divider / Railings )",
-            "localizationKey": "AST_PROTECTION_LENGTH",
+            "code": "AST_PROTECTION_LENGTH",
             "type": "text",
             "isMandatory": false,
             "onChange": "setProtectionLength",
@@ -660,8 +617,7 @@
           {
             "name": "drainageLength",
             "value": "drainageLength",
-            "code": "Drainage Channel Length",
-            "localizationKey": "AST_DRAINAGE_CHANNEL_LENGTH",
+            "code": "AST_DRAINAGE_CHANNEL_LENGTH",
             "type": "text",
             "isMandatory": false,
             "onChange": "setDrainageLength",
@@ -671,8 +627,7 @@
           {
             "name": "numOfFootpath",
             "value": "numOfFootpath",
-            "code": "No. of Footpath",
-            "localizationKey": "AST_FOOTPATH_NUMBER",
+            "code": "AST_FOOTPATH_NUMBER",
             "type": "text",
             "isMandatory": false,
             "onChange": "setNumOfFootpath",
@@ -682,8 +637,7 @@
           {
             "name": "numOfPedastrianCross",
             "value": "numOfPedastrianCross",
-            "code": "No. of Pedestrian Cross",
-            "localizationKey": "AST_PEDASTRIAN_CROSSING_NUMBER",
+            "code": "AST_PEDASTRIAN_CROSSING_NUMBER",
             "type": "text",
             "isMandatory": false,
             "onChange": "setNumOfPedastrianCross",
@@ -693,8 +647,7 @@
           {
             "name": "numOfBusStop",
             "value": "numOfBusStop",
-            "code": "No. of Bus Stop",
-            "localizationKey": "AST_BUSSTOP_NUMBER",
+            "code": "AST_BUSSTOP_NUMBER",
             "type": "text",
             "isMandatory": false,
             "onChange": "setNumOfBusStop",
@@ -704,8 +657,7 @@
           {
             "name": "numOfMetroStation",
             "value": "numOfMetroStation",
-            "code": "No. of Metro Station",
-            "localizationKey": "AST_METROSTATION_NUMBER",
+            "code": "AST_METROSTATION_NUMBER",
             "type": "text",
             "isMandatory": false,
             "onChange": "setNumOfMetroStation",
@@ -715,8 +667,7 @@
           {
             "name": "lengthOfCycletrack",
             "value": "lengthOfCycletrack",
-            "code": "Length of Cycle Track",
-            "localizationKey": "AST_CYCLETRACK_LENGTH",
+            "code": "AST_CYCLETRACK_LENGTH",
             "type": "text",
             "isMandatory": false,
             "onChange": "setLengthOfCycletrack",
@@ -726,8 +677,7 @@
           {
             "name": "lastMaintainence",
             "value": "lastMaintainence",
-            "code": "Last Maintenance Date",
-            "localizationKey": "AST_LAST_MAINTAINENCE",
+            "code": "AST_LAST_MAINTAINENCE",
             "type": "date",
             "isMandatory": false,
             "onChange": "setLastMaintainence",
@@ -736,8 +686,7 @@
           {
             "name": "nextMaintainence",
             "value": "nextMaintainence",
-            "code": "Next Maintenance Date",
-            "localizationKey": "AST_NEXT_MAINTAINENCE",
+            "code": "AST_NEXT_MAINTAINENCE",
             "type": "date",
             "isMandatory": false,
             "onChange": "setNextMaintainence",
