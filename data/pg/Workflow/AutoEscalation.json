@@ -143,6 +143,46 @@
         "topic" : "ws-auto-escalation"
       },
 	  {
+        "businessService": "NewSW1",
+        "module": "sw-services",
+        "state": "INITIATED",
+        "action": "SUBMIT_APPLICATION",
+        "active": "true",
+        "stateSLA": 2.0,
+        "businessSLA": null,
+        "topic" : "sw-auto-escalation"
+      },
+	  {
+        "businessService": "NewSW1",
+        "module": "sw-services",
+        "state": "PENDING_FOR_DOCUMENT_VERIFICATION",
+        "action": "VERIFY_AND_FORWARD",
+        "active": "true",
+        "stateSLA": 2.0,
+        "businessSLA": null,
+        "topic" : "sw-auto-escalation"
+      },
+	  {
+        "businessService": "NewSW1",
+        "module": "sw-services",
+        "state": "PENDING_FOR_FIELD_INSPECTION",
+        "action": "VERIFY_AND_FORWARD",
+        "active": "true",
+        "stateSLA": 3.0,
+        "businessSLA": null,
+        "topic" : "sw-auto-escalation"
+      },
+	  {
+        "businessService": "NewSW1",
+        "module": "sw-services",
+        "state": "PENDING_APPROVAL_FOR_CONNECTION",
+        "action": "APPROVE_FOR_CONNECTION",
+        "active": "true",
+        "stateSLA": 2.0,
+        "businessSLA": null,
+        "topic" : "sw-auto-escalation"
+      },
+	  {
         "businessService": "FSM_ADVANCE_PAY_SERVICE_V1",
         "module": "fsm-services",
         "state": "DSO_INPROGRESS",
