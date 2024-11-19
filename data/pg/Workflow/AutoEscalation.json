@@ -65,7 +65,17 @@
 	  {
         "businessService": "BPA",
         "module": "bpa-services",
-        "state": "PENDINGAPPROVAL,FIELDINSPECTION_PENDING",
+        "state": "PENDINGAPPROVAL",
+        "action": "APPROVE",
+        "active": "true",
+        "stateSLA": 3.0,
+        "businessSLA": null,
+        "topic" : "bpa-auto-escalation"
+      },
+	  {
+        "businessService": "BPA",
+        "module": "bpa-services",
+        "state": "FIELDINSPECTION_PENDING",
         "action": "APPROVE",
         "active": "true",
         "stateSLA": 3.0,
