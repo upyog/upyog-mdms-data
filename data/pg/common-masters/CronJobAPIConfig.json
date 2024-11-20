@@ -109,6 +109,90 @@
         "header": {
           "Content-Type": "application/json"
         }
+    },
+	  {
+      "jobName": "tl-auto-escalation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/NewTL/_escalate",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+	  {
+      "jobName": "pgr-auto-escalation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/PGR/_escalate",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+	  {
+      "jobName": "pt-auto-escalation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/PT.CREATE/_escalate",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+	  {
+      "jobName": "ws-auto-escalation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/NewWS1/_escalate",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+	  {
+      "jobName": "sw-auto-escalation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/NewSW1/_escalate",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+	  {
+      "jobName": "fsm-auto-escalation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/FSM_ADVANCE_PAY_SERVICE_V1/_escalate",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+	  {
+      "jobName": "firenoc-auto-escalation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/FIRENOC/_escalate",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
     }
     ]
   }
