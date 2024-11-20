@@ -29784,6 +29784,12 @@
         "actionid": 2890,
         "actioncode": "",
         "tenantId": "pg"
+    },
+    {
+        "rolecode": "MDMS_ADMIN",
+        "actionid": 2891,
+        "actioncode": "",
+        "tenantId": "pg"
     }
   ]
 }
