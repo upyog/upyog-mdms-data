@@ -19120,6 +19120,18 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+        "id": 2890,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/ASSET.AssetParentCategoryFields",
+        "displayName": "update ASSET.AssetParentCategoryFields",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     }
 
   ]
