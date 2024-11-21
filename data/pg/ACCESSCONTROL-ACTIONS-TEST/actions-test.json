@@ -19204,7 +19204,7 @@
       "serviceCode": "SV",
       "code": "null",
       "path": "StreetVending.Reports.StreetVendingReport",
-      "navigationURL": "/report/sv-report/StreetVendingReport/",
+      "navigationURL": "report/sv-report/StreetVendingReport/",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     }
