@@ -19192,6 +19192,21 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2896,
+      "name": "StreetVendingReport",
+      "url": "url",
+      "displayName": "Street Vending Report",
+      "orderNumber": 2,
+      "parentModule": "StreetVending",
+      "enabled": true,
+      "serviceCode": "SV",
+      "code": "null",
+      "path": "StreetVending.Reports.StreetVendingReport",
+      "navigationURL": "/report/sv-report/StreetVendingReport/",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     }
   ]
 }
