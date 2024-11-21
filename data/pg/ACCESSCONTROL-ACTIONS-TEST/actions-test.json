@@ -19144,6 +19144,30 @@
         "serviceCode": "MDMS",
         "code": "null",
         "path": ""
+    },
+    {
+        "id": 2892,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_create/ASSET.AssetParentCategoryFields",
+        "displayName": "update ASSET.AssetParentCategoryFields",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 2893,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_create/ASSET.AssetParentCategory",
+        "displayName": "update ASSET.AssetParentCategory",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     }
   ]
 }
