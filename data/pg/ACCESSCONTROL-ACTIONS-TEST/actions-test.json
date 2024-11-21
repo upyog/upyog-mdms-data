@@ -19168,6 +19168,30 @@
         "serviceCode": "MDMS",
         "code": "null",
         "path": ""
+    },
+    {
+      "id": 2894,
+      "name": "StreetVendingReport",
+      "url": "/report/sv-report/StreetVendingReport/metadata/_get",
+      "displayName": "Street Vending Report",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2895,
+      "name": "StreetVendingReport",
+      "url": "/report/sv-report/StreetVendingReport/_get",
+      "displayName": "Street Vending Report",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
     }
   ]
 }
