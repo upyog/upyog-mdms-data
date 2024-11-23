@@ -19149,7 +19149,7 @@
         "id": 2892,
         "name": "MDMS",
         "url": "/mdms-v2/v2/_create/ASSET.AssetParentCategoryFields",
-        "displayName": "update ASSET.AssetParentCategoryFields",
+        "displayName": "Create ASSET.AssetParentCategoryFields",
         "orderNumber": "1",
         "parentModule": "",
         "enabled": "true",
@@ -19161,7 +19161,7 @@
         "id": 2893,
         "name": "MDMS",
         "url": "/mdms-v2/v2/_create/ASSET.AssetParentCategory",
-        "displayName": "update ASSET.AssetParentCategory",
+        "displayName": "Create ASSET.AssetParentCategory",
         "orderNumber": "1",
         "parentModule": "",
         "enabled": "true",
@@ -19207,6 +19207,30 @@
       "navigationURL": "report/sv-report/StreetVendingReport/",
       "leftIcon": "places:business-center",
       "rightIcon": ""
+    },
+    {
+        "id": 2897,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/WORKFLOW.BusinessServices",
+        "displayName": "Update WORKFLOW.BusinessServices",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 2898,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_create/WORKFLOW.BusinessServices",
+        "displayName": "Create WORKFLOW.BusinessServices",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     }
   ]
 }
