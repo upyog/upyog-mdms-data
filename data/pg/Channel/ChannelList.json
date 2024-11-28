@@ -1411,6 +1411,46 @@
         "EMAIL",
         "EVENT"
       ]
+    },
+    {
+      "businessService": "ADV.BOOKING_CREATED",
+      "module": "ADV",
+      "action": "BOOKING_CREATED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "ADV.BOOKED",
+      "module": "ADV",
+      "action": "BOOKED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "ADV.CANCELLATION_REQUESTED",
+      "module": "ADV",
+      "action": "CANCELLATION_REQUESTED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "ADV.CANCELLED",
+      "module": "ADV",
+      "action": "CANCELLED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     }
   ]
 }
