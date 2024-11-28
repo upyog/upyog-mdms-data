@@ -1413,8 +1413,8 @@
       ]
     },
     {
-      "businessService": "ADV.BOOKING_CREATED",
-      "module": "ADV",
+      "businessService": "Advertisement.BOOKING_CREATED",
+      "module": "Advertisement",
       "action": "BOOKING_CREATED",
       "channelNames": [
         "SMS",
@@ -1423,8 +1423,8 @@
       ]
     },
     {
-      "businessService": "ADV.BOOKED",
-      "module": "ADV",
+      "businessService": "Advertisement.BOOKED",
+      "module": "Advertisement",
       "action": "BOOKED",
       "channelNames": [
         "SMS",
@@ -1433,8 +1433,8 @@
       ]
     },
     {
-      "businessService": "ADV.CANCELLATION_REQUESTED",
-      "module": "ADV",
+      "businessService": "Advertisement.CANCELLATION_REQUESTED",
+      "module": "Advertisement",
       "action": "CANCELLATION_REQUESTED",
       "channelNames": [
         "SMS",
@@ -1443,8 +1443,8 @@
       ]
     },
     {
-      "businessService": "ADV.CANCELLED",
-      "module": "ADV",
+      "businessService": "Advertisement.CANCELLED",
+      "module": "Advertisement",
       "action": "CANCELLED",
       "channelNames": [
         "SMS",
