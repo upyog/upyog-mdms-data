@@ -1223,6 +1223,103 @@
           "attributeAccessList": []
         }
       ]
+    },
+    {
+      "model": "ADVApplicantDetail",
+      "uniqueIdentifier": {
+        "name": "applicantDetailId",
+        "jsonPath": "applicantDetailId"
+      },
+      "attributes": [
+        {
+          "name": "applicantName",
+          "jsonPath": "applicantName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantMobileNo",
+          "jsonPath": "applicantMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantAlternateMobileNo",
+          "jsonPath": "applicantAlternateMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantEmailId",
+          "jsonPath": "applicantEmailId",
+          "patternId": "004",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]
+    },
+    {
+      "model": "ADVApplicantDetailDecrypDisabled",
+      "uniqueIdentifier": {
+        "name": "applicantDetailId",
+        "jsonPath": "applicantDetailId"
+      },
+      "attributes": [
+        {
+          "name": "applicantName",
+          "jsonPath": "applicantName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantMobileNo",
+          "jsonPath": "applicantMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantAlternateMobileNo",
+          "jsonPath": "applicantAlternateMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantEmailId",
+          "jsonPath": "applicantEmailId",
+          "patternId": "004",
+          "defaultVisibility": "PLAIN"
+        }
+
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]
     }
   ]
 }
