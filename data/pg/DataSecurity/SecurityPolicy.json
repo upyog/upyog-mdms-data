@@ -1320,6 +1320,91 @@
           "attributeAccessList": []
         }
       ]
+    },
+    {
+      "model": "SVApplicantDetail",
+      "uniqueIdentifier": {
+        "name": "vendorId",
+        "jsonPath": "vendorId"
+      },
+      "attributes": [
+        {
+          "name": "name",
+          "jsonPath": "name",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "mobileNo",
+          "jsonPath": "mobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "emailId",
+          "jsonPath": "emailId",
+          "patternId": "004",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]
+    },
+    {
+      "model": "SVApplicantDetailDecrypDisabled",
+      "uniqueIdentifier": {
+        "name": "vendorId",
+        "jsonPath": "vendorId"
+      },
+      "attributes": [
+        {
+          "name": "name",
+          "jsonPath": "name",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "mobileNo",
+          "jsonPath": "mobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "emailId",
+          "jsonPath": "emailId",
+          "patternId": "004",
+          "defaultVisibility": "PLAIN"
+        }
+
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]
     }
   ]
 }
