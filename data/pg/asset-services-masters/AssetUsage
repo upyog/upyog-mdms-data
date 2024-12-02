@@ -1,7 +1,7 @@
 {
     "tenantId": "pg",
     "moduleName": "ASSET",
-    "assetUsage": [
+    "AssetUsage": [
        {
       "code": "In-use",
       "i18nKey": "In-use",
