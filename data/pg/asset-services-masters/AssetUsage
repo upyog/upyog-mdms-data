@@ -1,1 +1,21 @@
-
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "assetUsage": [
+       {
+      "code": "In-use",
+      "i18nKey": "In-use",
+     "active": true
+    },
+    {
+      "code": "In-store",
+      "i18nKey": "In-store",
+     "active": true
+    },
+    {
+      "code": "Disposed",
+      "i18nKey": "Disposed",
+       "active": true
+    }
+    ]
+}
