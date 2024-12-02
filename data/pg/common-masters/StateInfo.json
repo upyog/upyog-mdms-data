@@ -97,6 +97,10 @@
         {
           "label": "rainmaker-asset",
           "value": "rainmaker-asset"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
         }
       ]
     }
