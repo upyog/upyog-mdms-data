@@ -4,13 +4,18 @@
     "moduleName": "ASSET",
     "AssetType": [
      {
-      "code": "Fixed Asset",
-      "i18nKey": "Fixed Asset",
+      "code": "FIXED_ASSET",
+      "name": "Fixed Asset",
       "active": true
     },
     {
-      "code": "Infrastructure Asset",
-      "i18nKey": "Infrastructure Asset",
+      "code": "INFRASTRUCTURE_ASSET",
+      "name": "Infrastructure Asset",
+      "active": true
+    },
+    {
+      "code": "NA",
+      "name": "NA",
       "active": true
     }
     ]
