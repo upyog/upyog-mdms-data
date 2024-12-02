@@ -1,1 +1,17 @@
 
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "assetType": [
+     {
+      "code": "Fixed Asset",
+      "i18nKey": "Fixed Asset",
+      "active": true
+    },
+    {
+      "code": "Infrastructure Asset",
+      "i18nKey": "Infrastructure Asset",
+      "active": true
+    }
+    ]
+}
