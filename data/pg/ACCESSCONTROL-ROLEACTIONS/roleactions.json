@@ -30126,6 +30126,30 @@
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "pg"
-    }	  
+    },
+    {
+      "rolecode": "SVCEMP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TVCEMPLOYEE",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "INSPECTIONOFFICER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
