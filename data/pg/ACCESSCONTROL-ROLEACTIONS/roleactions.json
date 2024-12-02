@@ -30150,30 +30150,6 @@
       "actionid": 1752,
       "actioncode": "",
       "tenantId": "pg"
-    },
-    {
-      "rolecode": "CHB_CEMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CHB_VERIFIER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CHB_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "pg"
-    },	  
-    {
-      "rolecode": "ADS_CEMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "pg"
     }
   ]
 }
