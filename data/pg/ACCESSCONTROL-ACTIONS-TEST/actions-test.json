@@ -19231,6 +19231,45 @@
         "serviceCode": "MDMS",
         "code": "null",
         "path": ""
+    },
+     {
+      "id": 2899,
+      "name": "Asset Report",
+      "url": "url",
+      "displayName": "Asset Reports",
+      "orderNumber": 2,
+      "parentModule": "asset-services-masters",
+      "enabled": true,
+      "serviceCode": "ASSET",
+      "code": "null",
+      "path": "Asset.Reports.AssetapplicationReportULBwise",
+      "navigationURL": "report/rainmaker-asset/AssetapplicationReportULBwise",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2900,
+      "name": "AssetapplicationReportULBwise",
+      "url": "/report/rainmaker-asset/AssetapplicationReportULBwise/metadata/_get",
+      "displayName": "rainmaker-asset-AssetapplicationReportULBwise",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2901,
+      "name": "AssetapplicationReportULBwise",
+      "url": "/report/rainmaker-asset/AssetapplicationReportULBwise/_get",
+      "displayName": "rainmaker-asset-AssetapplicationReportULBwise",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
     }
   ]
 }
