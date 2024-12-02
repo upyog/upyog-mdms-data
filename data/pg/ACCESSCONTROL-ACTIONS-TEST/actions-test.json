@@ -16184,7 +16184,7 @@
       "id": 2637,
       "name": "Asset Report",
       "url": "url",
-      "displayName": "Asset Reports",
+      "displayName": "Asset Application Report",
       "orderNumber": 2,
       "parentModule": "asset-services-masters",
       "enabled": true,
