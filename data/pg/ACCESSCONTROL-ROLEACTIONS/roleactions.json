@@ -30150,6 +30150,12 @@
       "actionid": 1752,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "DASHBOARD_EMPLOYEE",
+      "actionid": 2684,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

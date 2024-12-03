@@ -796,6 +796,11 @@
       "code": "LOC_ADMIN",
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
+    },
+    {
+      "code": "DASHBOARD_EMPLOYEE",
+      "name": "Dashboard Employee",
+      "description": "Dashboard Employee which can view vity specific dashboard"
     }
   ]
 }
