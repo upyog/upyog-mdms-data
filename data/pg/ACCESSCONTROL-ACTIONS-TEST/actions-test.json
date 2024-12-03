@@ -16661,7 +16661,7 @@
       "id": 2684,
       "name": "Search Employee Dashboard",
       "url": "/employee-dashboard/_search",
-      "displayName": "Search Employee dashboard",
+      "displayName": "Employee City Dashboard",
       "orderNumber": 3,
       "enabled": false,
       "serviceCode": "employee-dashboard",
