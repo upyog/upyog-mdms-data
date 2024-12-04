@@ -30180,6 +30180,30 @@
       "actionid": 2901,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "SVCEMP",
+      "actionid": 2903,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TVCEMPLOYEE",
+      "actionid": 2903,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "INSPECTIONOFFICER",
+      "actionid": 2903,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2903,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

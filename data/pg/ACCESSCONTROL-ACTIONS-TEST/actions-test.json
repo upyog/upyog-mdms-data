@@ -19281,6 +19281,17 @@
         "serviceCode": "apply-workflow",
         "code": "null",
         "path": ""
+    },
+    {
+      "id": 2903,
+      "name": "Delete street vending Draft Application",
+      "url": "/sv-services/street-vending/_deletedraft",
+      "displayName": "Delete street vending Draft Application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "sv-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
