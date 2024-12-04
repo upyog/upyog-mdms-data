@@ -30156,6 +30156,24 @@
       "actionid": 2684,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+     {
+      "rolecode": "STADMIN",
+      "actionid": 2899,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 2900,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 2901,
+      "actioncode": "",
+      "tenantId": "pg"
+    }	  
   ]
 }
