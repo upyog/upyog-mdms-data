@@ -19270,6 +19270,17 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
+    },
+    {
+        "id": 2902,
+        "name": "Create or Update Workflow Using Apply Workflow Service",
+        "url": "/apply-workflow/api/v1/_process",
+        "displayName": "Process Workflow",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "apply-workflow",
+        "code": "null",
+        "path": ""
     }
   ]
 }
