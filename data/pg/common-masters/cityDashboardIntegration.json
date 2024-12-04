@@ -1,8 +1,8 @@
 {
     "tenantId": "pg",
     "moduleName": "common-masters",
-    "cityDashboardIntegration": {
+    "cityDashboardIntegration": [{
         "isActive": true
-    }
+    }]
   }
   
