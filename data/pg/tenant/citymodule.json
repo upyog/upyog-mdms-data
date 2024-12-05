@@ -618,11 +618,10 @@
       ]
     },
     {
-      "module": "ASSET",
-      "code": "ASSET",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "module": "Workbench",
+      "code": "Workbench",
       "active": true,
-      "order":1,
+      "order": 13,
       "tenants": [
         {
           "code": "pg.citya"

@@ -728,19 +728,14 @@
       "description": "Pet Application Document Verifier"
     },
     {
-      "code": "ASSET_INITIATOR",
-      "name": "Asset Initiator Employee",
-      "description": "Employee in Asset Application who files asset Registration"
+      "code": "MDMS_ADMIN",
+      "name": "MDMS ADMIN",
+      "description": "MDMS User that can create and search schema"
     },
     {
-      "code": "ASSET_VERIFIER",
-      "name": "Asset Document Verifier",
-      "description": "Asset Registration Information/Document Verifier"
-    },
-    {
-      "code": "ASSET_APPROVER",
-      "name": "Asset Approver",
-      "description": "Asset Application Approver"
+      "code": "LOC_ADMIN",
+      "name": "Localisation admin",
+      "description": "LOC_ADMIN"
     }
   ]
 }

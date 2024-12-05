@@ -974,7 +974,7 @@
     },
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
       ]

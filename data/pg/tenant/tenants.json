@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenants": [{
       "code": "pg.citya",
-      "name": "City A",
+      "name": "New Delhi",
       "description": "City A",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -16,6 +16,7 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "isPopular": true,
       "city": {
         "name": "City A",
         "localName": null,
@@ -36,7 +37,7 @@
     },
     {
       "code": "pg.cityb",
-      "name": "City B",
+      "name": "Kolkata",
       "description": null,
       "pincode": [143006,143007,143008,143009,143010],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -50,6 +51,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
+      "isPopular": true,
       "city": {
         "name": "City B",
         "localName": null,

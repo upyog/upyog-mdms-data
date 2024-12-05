@@ -175,6 +175,12 @@
       "description": "Commissioner",
       "code": "COMM",
       "active": true
+    },
+    {
+      "name": "FSM Executive",
+      "description": "FSM Executive",
+      "code": "DESIG_200",
+      "active": true
     }
   ]
 }
