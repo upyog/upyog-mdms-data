@@ -3,6 +3,7 @@
     "moduleName": "CHB",
     "TaxRates": [
           {
+            "id": "1",  
             "applicationType": "COMMUNITY_HALL_BOOKING",
             "serviceType": "NEW_BOOKING",
             "feeType": "CGST",
@@ -10,6 +11,7 @@
             "taxApplicable": false
           },
           {
+            "id": "2",  
             "applicationType": "COMMUNITY_HALL_BOOKING",
             "serviceType": "NEW_BOOKING",
             "feeType": "SGST",
