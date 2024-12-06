@@ -30246,6 +30246,78 @@
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "pg"
-    }	  
+    },
+    {
+      "rolecode": "PTR_CEMP",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_VERIFIER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_CEMP",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_VERIFIER",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_CEMP",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_VERIFIER",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_CEMP",
+      "actionid": 1866,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 1866,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_VERIFIER",
+      "actionid": 1866,
+      "actioncode": "",
+      "tenantId": "pg"
+    }		 	   
   ]
 }
