@@ -1,0 +1,84 @@
+{
+    "tenantId": "pg",
+    "moduleName": "CommonModule",
+    "CertificateType": [
+      {
+        "code": "Advertisement",
+        "i18nKey": "Advertisement",
+        "crtNo": 16,
+        "active": true
+      },
+      {
+        "code": "Building Plan Approval",
+        "i18nKey": "Building Plan Approval",
+        "crtNo": 10,
+        "active": true
+      },
+      {
+        "code": "Community Hall Booking",
+        "i18nKey": "Community Hall Booking",
+        "crtNo": 2,
+        "active": true
+      },
+      {
+        "code": "Deslugging Service",
+        "i18nKey": "Deslugging Service",
+        "crtNo": 8,
+        "active": true
+      },
+      {
+        "code": "E-Waste Certificate",
+        "i18nKey": "E-Waste Certificate",
+        "crtNo": 1,
+        "active": true
+      },
+      {
+        "code": "Fire NOC Certificate",
+        "i18nKey": "Fire NOC Certificate",
+        "crtNo": 9,
+        "active": true
+      },
+      {
+        "code": "Pet Certificate",
+        "i18nKey": "Pet Certificate",
+        "crtNo": 11,
+        "active": true
+      },
+      {
+        "code": "Public Grievance Redressal",
+        "i18nKey": "Public Grievance Redressal",
+        "crtNo": 7,
+        "active": true
+      },
+      {
+        "code": "Property Tax",
+        "i18nKey": "Property Tax",
+        "crtNo": 3,
+        "active": true
+      },
+      {
+        "code": "Sewerage Certificate",
+        "i18nKey": "Sewerage Certificate",
+        "crtNo": 5,
+        "active": true
+      },
+      {
+        "code": "Street Vending",
+        "i18nKey": "Street Vending",
+        "crtNo": 15,
+        "active": true
+      },
+      {
+        "code": "Trade License",
+        "i18nKey": "Trade License",
+        "crtNo": 6,
+        "active": true
+      },
+      {
+        "code": "Water Certificate",
+        "i18nKey": "Water Certificate",
+        "crtNo": 4,
+        "active": true
+      }
+    ]
+  }

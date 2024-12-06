@@ -11517,6 +11517,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EGF_BILL_APPROVER",
+      "actionid": 1777,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "TL_CEMP",
       "actionid": 1778,
       "actioncode": "",

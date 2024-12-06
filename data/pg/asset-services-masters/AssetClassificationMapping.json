@@ -4,7 +4,7 @@
     "AssetClassificationMapping": [
       {
         "name": "Moveable",
-        "code": "MOVEABLE",
+        "code": "MOVABLE",
         "active": true,
         "assetParentCategory": [
           {
@@ -42,7 +42,7 @@
       },
       {
         "name": "Immoveable",
-        "code": "IMMOVEABLE",
+        "code": "IMMOVABLE",
         "active": true,
         "assetParentCategory": [
           {
