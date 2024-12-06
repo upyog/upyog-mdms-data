@@ -18743,6 +18743,24 @@
       "serviceCode": "ewaste-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2852,
+      "name": "CM_SEARCH_VERIFY",
+      "url": "digit-ui-card",
+      "displayName": "Verify",
+      "orderNumber": 1,
+      "parentModule": "COMMONMODULE",
+      "enabled": true,
+      "serviceCode": "COMMONMODULE",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/commonmodule/cmservice/verify",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/commonmodule-home"
     }
   ]
 }
