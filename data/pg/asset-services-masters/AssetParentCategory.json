@@ -6,25 +6,37 @@
         "name": "Land",
         "code": "LAND",
         "active": true,
-        "assetClassification": "IMMOVEABLE"
+        "assetClassification": "IMMOVABLE"
       },
       {
         "name": "Building",
         "code": "BUILDING",
         "active": true,
-        "assetClassification": "IMMOVEABLE"
+        "assetClassification": "IMMOVABLE"
       },
       {
         "name": "Service",
         "code": "SERVICE",
         "active": true,
-        "assetClassification": "IMMOVEABLE"
+        "assetClassification": "IMMOVABLE"
+      },
+      {
+        "name": "IT",
+        "code": "IT",
+        "active": true,
+        "assetClassification": "MOVABLE"
+      },
+      {
+        "name": "Vehicle",
+        "code": "VEHICLE",
+        "active": true,
+        "assetClassification": "MOVABLE"
       },
       {
         "name": "Other",
         "code": "OTHER",
         "active": true,
-        "assetClassification": "MOVEABLE"
+        "assetClassification": "MOVABLE"
       }
     ]
 }
