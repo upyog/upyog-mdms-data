@@ -3,13 +3,13 @@
     "moduleName": "ASSET",
     "assetClassification": [
       {
-        "name": "Moveable",
-        "code": "MOVEABLE",
+        "name": "Movable",
+        "code": "MOVABLE",
         "active": true
       },
       {
-        "name": "Immoveable",
-        "code": "IMMOVEABLE",
+        "name": "Immovable",
+        "code": "IMMOVABLE",
         "active": true
       }
     ]

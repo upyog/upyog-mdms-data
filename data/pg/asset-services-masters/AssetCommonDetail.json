@@ -1,6 +1,6 @@
 {
   "tenantId": "pg",
-  "moduleName": "AssetService",
+  "moduleName": "ASSET",
   "AssetCommonDetail": [
     {
       "name": "Private",

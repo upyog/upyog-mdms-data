@@ -171,10 +171,94 @@
         "assetParentCategory": "SERVICE"
       },
       {
-        "name": "Vehicles",
-        "code": "VEHICLES",
+        "name": "LMV",
+        "code": "LMV",
         "active": true,
-        "assetParentCategory": "OTHER"
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "MCWG",
+        "code": "MCWG",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "EV",
+        "code": "EV",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "HMV",
+        "code": "HMV",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "Computers and Laptops",
+        "code": "COMPUTERS_AND_LAPTOPS",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Peripherals",
+        "code": "PERIPHERALS",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Networking Equipment",
+        "code": "NETWORKING_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Storage Devices",
+        "code": "STORAGE_DEVICES",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Servers",
+        "code": "SERVERS",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Software Licenses",
+        "code": "SOFTWARE_LICENSES",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Computer Accessories",
+        "code": "COMPUTER_ACCESSORIES",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "IT Consumables",
+        "code": "IT_CONSUMABLES",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Software-Service",
+        "code": "SOFTWARE_SERVICE",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Office Productivity Software",
+        "code": "OFFICE_PRODUCTIVITY_SOFTWARE",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Miscellaneous Equipment",
+        "code": "MISCELLANEOUS_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "IT"
       },
       {
         "name": "Furnitures and Fixtures",

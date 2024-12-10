@@ -1,6 +1,6 @@
 {
   "tenantId": "pg",
-  "moduleName": "AssetService",
+  "moduleName": "ASSET",
   "Documents": [
     {
       "code": "OWNER.RECIEPTPHOTO",
@@ -55,7 +55,7 @@
     {
       "code": "OWNER.ANYSUPPORTINGDOCUMENT",
       "documentType": "OWNER.ANYSUPPORTINGDOCUMENT",
-      "required": true,
+      "required": false,
       "active": true,
       "additionalDetails": {
         "enabledActions": {
