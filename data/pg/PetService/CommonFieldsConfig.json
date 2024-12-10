@@ -4,7 +4,6 @@
     "CommonFieldsConfig": [
         {
             "head": "ES_TITILE_OWNER_DETAILS",
-            "head": "ES_TITILE_OWNER_DETAILS",
             "body": [
                 {
                     "route":"info",
@@ -91,24 +90,15 @@
         },
         {
             "head": "ES_TITILE_DOCUMENT_DETAILS",
-            "head": "ES_TITILE_DOCUMENT_DETAILS",
             "body": [
                 {
                     "route": "documents",
                     "component": "PTRSelectProofIdentity",
                     "withoutLabel": true,
                     "key": "documents",
-                    "route": "documents",
-                    "component": "PTRSelectProofIdentity",
-                    "withoutLabel": true,
-                    "key": "documents",
                     "type": "component",
                     "nextStep":null,
-                    "nextStep":null,
                     "texts": {
-                        "submitBarLabel": "PTR_COMMON_NEXT"
-                    }
-                    
                         "submitBarLabel": "PTR_COMMON_NEXT"
                     }
                     
