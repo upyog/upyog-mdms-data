@@ -18969,6 +18969,45 @@
   "serviceCode": "",
   "code": "null",
   "path": ""
-}
+},
+   {
+      "id": 2870,
+      "name": "Asset Report",
+      "url": "url",
+      "displayName": "Asset Assignment Report",
+      "orderNumber": 1,
+      "parentModule": "asset-services-masters",
+      "enabled": true,
+      "serviceCode": "ASSET",
+      "code": "null",
+      "path": "Asset.Reports.AssetAssignmentReport",
+      "navigationURL": "report/rainmaker-asset/AssetAssignmentReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2871,
+      "name": "AssetAssignmentReport",
+      "url": "/report/rainmaker-asset/AssetAssignmentReport/metadata/_get",
+      "displayName": "rainmaker-asset-AssetAssignmentReport",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2972,
+      "name": "AssetAssignmentReport",
+      "url": "/report/rainmaker-asset/AssetAssignmentReport/_get",
+      "displayName": "rainmaker-asset-AssetAssignmentReport",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
