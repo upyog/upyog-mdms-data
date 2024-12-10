@@ -30270,6 +30270,66 @@
       "actionid": 1863,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1866,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_CEMP",
+      "actionid": 2889,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 2889,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTR_VERIFIER",
+      "actionid": 2889,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2889,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
