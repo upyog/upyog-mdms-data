@@ -30188,6 +30188,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2889,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "SVCEMP",
       "actionid": 2155,
       "actioncode": "",
@@ -30226,6 +30232,42 @@
     {
       "rolecode": "EW_VENDOR",
       "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SVCEMP",
+      "actionid": 2888,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TVCEMPLOYEE",
+      "actionid": 2888,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "INSPECTIONOFFICER",
+      "actionid": 2888,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2888,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EW_VENDOR",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1863,
       "actioncode": "",
       "tenantId": "pg"
     }
