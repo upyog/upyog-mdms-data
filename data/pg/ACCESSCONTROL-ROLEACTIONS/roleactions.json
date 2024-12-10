@@ -30308,30 +30308,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "PTR_CEMP",
-      "actionid": 2869,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PTR_APPROVER",
-      "actionid": 2869,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PTR_VERIFIER",
-      "actionid": 2869,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2869,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "ASSET_APPROVER",
       "actionid": 2870,
       "actioncode": "",
