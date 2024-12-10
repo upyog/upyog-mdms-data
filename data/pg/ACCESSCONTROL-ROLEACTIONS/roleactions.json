@@ -29844,6 +29844,192 @@
       "actionid": 2852,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 2853,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_INITIATOR",
+        "actionid": 2853,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_VERIFIER",
+        "actionid": 2853,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 2854,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_INITIATOR",
+        "actionid": 2854,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_VERIFIER",
+        "actionid": 2854,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 2855,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_INITIATOR",
+        "actionid": 2855,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_VERIFIER",
+        "actionid": 2855,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 2856,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_INITIATOR",
+        "actionid": 2856,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_VERIFIER",
+        "actionid": 2856,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 2857,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_INITIATOR",
+        "actionid": 2857,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_VERIFIER",
+        "actionid": 2857,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_ALLOCATOR",
+        "actionid": 2862,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_ALLOCATOR",
+        "actionid": 2863,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 2864,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 2865,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 2866,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 2867,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "MDMS_ADMIN",
+        "actionid": 2858,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "MDMS_ADMIN",
+        "actionid": 2859,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "MDMS_ADMIN",
+        "actionid": 2860,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "MDMS_ADMIN",
+        "actionid": 2861,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 1730,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_INITIATOR",
+        "actionid": 1730,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_VERIFIER",
+        "actionid": 1730,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 1743,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_INITIATOR",
+        "actionid": 1743,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_VERIFIER",
+        "actionid": 1743,
+        "actioncode": "",
+        "tenantId": "pg"
     }
   ]
 }
