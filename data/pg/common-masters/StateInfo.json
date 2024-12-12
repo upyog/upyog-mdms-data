@@ -83,6 +83,18 @@
           "value": "rainmaker-fsm"
         },
         {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
           "label": "rainmaker-chb",
           "value": "rainmaker-chb"
         },
@@ -99,8 +111,8 @@
           "value": "rainmaker-asset"
         },
         {
-          "label": "rainmaker-workbench",
-          "value": "rainmaker-workbench"
+          "label": "rainmaker-ads",
+          "value": "rainmaker-ads"
         }
       ]
     }

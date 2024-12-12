@@ -1150,7 +1150,7 @@
       "model": "CHBApplicantDetailDecrypDisabled",
       "uniqueIdentifier": {
         "name": "applicantDetailId",
-        "jsonPath": "applicantDetailId"
+        "jsonPath": "/applicantDetailId"
       },
       "attributes": [
         {
@@ -1276,7 +1276,7 @@
       "model": "ADVApplicantDetailDecrypDisabled",
       "uniqueIdentifier": {
         "name": "applicantDetailId",
-        "jsonPath": "applicantDetailId"
+        "jsonPath": "/applicantDetailId"
       },
       "attributes": [
         {
@@ -1324,8 +1324,8 @@
     {
       "model": "SVApplicantDetail",
       "uniqueIdentifier": {
-        "name": "vendorId",
-        "jsonPath": "vendorId"
+        "name": "id",
+        "jsonPath": "id"
       },
       "attributes": [
         {
@@ -1402,8 +1402,8 @@
     {
       "model": "SVApplicantDetailDecrypDisabled",
       "uniqueIdentifier": {
-        "name": "vendorId",
-        "jsonPath": "vendorId"
+        "name": "id",
+        "jsonPath": "/id"
       },
       "attributes": [
         {
