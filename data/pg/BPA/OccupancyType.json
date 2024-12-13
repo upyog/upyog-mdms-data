@@ -3,7 +3,7 @@
    "moduleName":"BPA",
    "OccupancyType":[
       {
-         "name":"Residential2",
+         "name":"Residential",
          "code":"A",
          "active":true,
          "maxCoverage":65.0,
