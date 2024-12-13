@@ -19008,6 +19008,30 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
+    },
+    {
+        "id": 2873,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/WORKFLOW.BusinessServices",
+        "displayName": "Update WORKFLOW.BusinessServices",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 2874,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_create/WORKFLOW.BusinessServices",
+        "displayName": "Create WORKFLOW.BusinessServices",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     }
   ]
 }
