@@ -19056,6 +19056,17 @@
         "serviceCode": "MDMS",
         "code": "null",
         "path": ""
+    },
+    {
+      "id": 2877,
+      "name": "Commonmodule Search",
+      "url": "/common-module/validity/_search",
+      "displayName": "Commonmodule Search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "COMMONMODULE",
+      "code": "null",
+      "path": ""
     }
-  ]
+    ]
 }
