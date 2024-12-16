@@ -1371,6 +1371,86 @@
         "EMAIL",
         "EVENT"
       ]
+    },
+    {
+      "businessService": "CHB.BOOKING_CREATED",
+      "module": "CHB",
+      "action": "BOOKING_CREATED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "CHB.BOOKED",
+      "module": "CHB",
+      "action": "BOOKED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "CHB.CANCELLATION_REQUESTED",
+      "module": "CHB",
+      "action": "CANCELLATION_REQUESTED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "CHB.CANCELLED",
+      "module": "CHB",
+      "action": "CANCELLED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "Advertisement.BOOKING_CREATED",
+      "module": "Advertisement",
+      "action": "BOOKING_CREATED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "Advertisement.BOOKED",
+      "module": "Advertisement",
+      "action": "BOOKED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "Advertisement.CANCELLATION_REQUESTED",
+      "module": "Advertisement",
+      "action": "CANCELLATION_REQUESTED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "Advertisement.CANCELLED",
+      "module": "Advertisement",
+      "action": "CANCELLED",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     }
   ]
 }

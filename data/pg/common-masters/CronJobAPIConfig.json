@@ -72,6 +72,18 @@
       "header": {
         "Content-Type": "application/json"
       }
-	  }
+	  },
+    {
+      "jobName": "daily",
+      "active": "true",
+      "method": "POST",
+      "url": "http://pet-services.egov:8080/pet-registration/ptr/Expiry/_batch",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    }
     ]
   }

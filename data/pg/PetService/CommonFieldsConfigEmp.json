@@ -13,7 +13,6 @@
                 }
             ]
         },
-    
         {
             "head": "ES_TITILE_PET_DETAILS",
             "body": [
@@ -25,12 +24,9 @@
                 }
             ]
         },
-        
-    
         {
             "head": "PTR_LOCATION_DETAILS",
-            "body": [
-               
+            "body": [ 
                 {
                     "route": "pincode",
                     "component": "PTRSelectPincode",
@@ -85,6 +81,5 @@
                 }
             ]
         }
-    
     ]
 }
