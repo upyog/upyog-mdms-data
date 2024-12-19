@@ -1,0 +1,54 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Coverage": [
+    {
+        "tenantId": "pg",
+        "fromPlotArea": 0,
+        "toPlotArea": 150,
+        "occupancy": "residential",
+        "riskType": "low",
+        "permissible": 90
+    },
+    {
+        "tenantId": "pg",
+        "fromPlotArea": 150,
+        "toPlotArea": 200,
+        "occupancy": "residential",
+        "riskType": "low",
+        "permissible": 70
+    },
+    {
+        "tenantId": "pg",
+        "fromPlotArea": 200,
+        "toPlotArea": 300,
+        "occupancy": "residential",
+        "riskType": "low",
+        "permissible": 65
+    },
+    {
+        "tenantId": "pg",
+        "fromPlotArea": 300,
+        "toPlotArea": 500,
+        "occupancy": "residential",
+        "riskType": "low",
+        "permissible": 60
+    },
+    {
+        "tenantId": "pg",
+        "fromPlotArea": 500,
+        "toPlotArea": 1000,
+        "occupancy": "residential",
+        "riskType": "low",
+        "permissible": 50
+    },
+    {
+        "tenantId": "pg",
+        "fromPlotArea": 1000,
+        "toPlotArea": 999999,
+        "occupancy": "residential",
+        "riskType": "low",
+        "permissible": 40
+    }
+]
+}

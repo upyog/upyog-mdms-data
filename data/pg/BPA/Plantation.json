@@ -1,0 +1,11 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Plantation": [
+        {
+            "occupancy": "residential",
+            "permissible": 0.05,
+            "percent": 5
+        }
+    ]
+}
