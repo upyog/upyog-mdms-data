@@ -1,0 +1,10 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "RoomWiseVentilation": [
+        {
+            "occupancy": "residential",
+            "permissible": 20
+        }
+    ]
+}

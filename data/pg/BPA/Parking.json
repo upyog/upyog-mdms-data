@@ -1,0 +1,46 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Parking": [
+        {
+            "tenantId": "pg",
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "residential",
+            "riskType": "low",
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissible": 26.5
+        },
+        {
+            "tenantId": "pg",
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "residential",
+            "riskType": "low",
+            "isOpenParking": true,
+            "noOfParking": 2,
+            "permissible": 26.5
+        },
+        {
+            "tenantId": "pg",
+            "fromPlotArea": 200,
+            "toPlotArea": 500,
+            "occupancy": "residential",
+            "riskType": "low",
+            "isStiltParking": true,
+            "noOfParking": 3,
+            "permissible": 32.5
+        },
+        {
+            "tenantId": "pg",
+            "fromPlotArea": 500,
+            "toPlotArea": 999999,
+            "occupancy": "residential",
+            "riskType": "low",
+            "isBasementParking": true,
+            "noOfParking": 3,
+            "permissible": 38.5
+        }
+    ]
+}

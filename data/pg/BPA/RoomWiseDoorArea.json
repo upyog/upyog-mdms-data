@@ -1,0 +1,11 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "RoomWiseDoorArea": [
+        {
+            "occupancy": "residential",
+            "minDoorWidth": 1,
+            "minDoorHeight": 2
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "PlinthHeight": [
+        {
+            "occupancy": "residential",
+            "permissible": 0.45
+        }
+    ]
+}

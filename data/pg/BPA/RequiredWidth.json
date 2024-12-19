@@ -1,0 +1,10 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "RequiredWidth": [
+        {
+            "occupancy": "residential",
+            "permissible": 0.76
+        }
+    ]
+}

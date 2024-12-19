@@ -1,0 +1,38 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "FrontSetBack": [
+        {
+            "tenantId": "pg",
+            "fromPlotArea": 0,
+            "toPlotArea": 100,
+            "occupancy": "residential",
+            "riskType": "low",
+            "permissible": 1.54
+        },
+        {
+            "tenantId": "pg",
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "residential",
+            "riskType": "low",
+            "permissible": 1.8
+        },
+        {
+            "tenantId": "pg",
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "residential",
+            "riskType": "low",
+            "permissible": 2.16
+        },
+        {
+            "tenantId": "pg",
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "residential",
+            "riskType": "low",
+            "permissible": 3.0
+        }
+    ]
+}
