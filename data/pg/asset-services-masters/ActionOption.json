@@ -1,0 +1,28 @@
+
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "ActionOption": [
+      {
+        "name": "Asset Return",
+        "code": "AST_RETURN",
+        "active": true
+      },
+      {
+        "name": "Asset Assign",
+        "code": "AST_ASSIGN",
+        "active": true
+      },
+      {
+        "name": "Asset Dispose",
+        "code": "AST_DISPOSE",
+        "active": true
+      },
+       {
+        "name": "Asset Depreciation",
+        "code": "AST_DEPRECIATION",
+        "active": true
+      }
+    ]
+}
+
