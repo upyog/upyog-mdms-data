@@ -19067,6 +19067,30 @@
       "serviceCode": "COMMONMODULE",
       "code": "null",
       "path": ""
+    },
+    {
+        "id": 2878,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_create/ASSET.DepreciationRates",
+        "displayName": "create ASSET.DepreciationRates",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 2879,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/ASSET.DepreciationRates",
+        "displayName": "update ASSET.DepreciationRates",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     }
     ]
 }
