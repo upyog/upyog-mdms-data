@@ -3,8 +3,10 @@
     "moduleName": "BPA",
     "RiserHeight": [
         {
+            "id": 1,
             "occupancy": "residential",
-            "permissible": 0.19
+            "permissible": 0.19,
+            "active": true
         }
     ]
 }

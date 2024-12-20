@@ -3,6 +3,7 @@
     "moduleName": "BPA",
     "Kitchen": [
         {
+            "id": 1,
             "occupancy": "residential",
             "kitchenHeight": 2.75,
             "kitchenArea": 5,
@@ -10,7 +11,8 @@
             "kitchenStoreArea": 4.5,
             "kitchenStoreWidth": 1.8,
             "kitchenDiningWidth": 2.1,
-            "kitchenDiningArea": 7.5
+            "kitchenDiningArea": 7.5,
+            "active": true
         }
     ]
 }

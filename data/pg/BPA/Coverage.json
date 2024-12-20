@@ -3,52 +3,58 @@
     "moduleName": "BPA",
     "Coverage": [
     {
-        "tenantId": "pg",
+        "id": 1,
         "fromPlotArea": 0,
         "toPlotArea": 150,
         "occupancy": "residential",
         "riskType": "low",
-        "permissible": 90
+        "permissible": 90,
+        "active": true
     },
     {
-        "tenantId": "pg",
+        "id": 2,
         "fromPlotArea": 150,
         "toPlotArea": 200,
         "occupancy": "residential",
         "riskType": "low",
-        "permissible": 70
+        "permissible": 70,
+        "active": true
     },
     {
-        "tenantId": "pg",
+        "id": 3,
         "fromPlotArea": 200,
         "toPlotArea": 300,
         "occupancy": "residential",
         "riskType": "low",
-        "permissible": 65
+        "permissible": 65,
+        "active": true
     },
     {
-        "tenantId": "pg",
+        "id": 4,
         "fromPlotArea": 300,
         "toPlotArea": 500,
         "occupancy": "residential",
         "riskType": "low",
-        "permissible": 60
+        "permissible": 60,
+        "active": true
     },
     {
-        "tenantId": "pg",
+        "id": 5,
         "fromPlotArea": 500,
         "toPlotArea": 1000,
         "occupancy": "residential",
         "riskType": "low",
-        "permissible": 50
+        "permissible": 50,
+        "active": true
     },
     {
-        "tenantId": "pg",
+        "id": 6,
         "fromPlotArea": 1000,
         "toPlotArea": 999999,
         "occupancy": "residential",
         "riskType": "low",
-        "permissible": 40
+        "permissible": 40,
+        "active": true
     }
 ]
 }

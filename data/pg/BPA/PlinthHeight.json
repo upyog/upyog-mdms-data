@@ -3,8 +3,10 @@
     "moduleName": "BPA",
     "PlinthHeight": [
         {
+            "id": 1,
             "occupancy": "residential",
-            "permissible": 0.45
+            "permissible": 0.45,
+            "active": true
         }
     ]
 }
