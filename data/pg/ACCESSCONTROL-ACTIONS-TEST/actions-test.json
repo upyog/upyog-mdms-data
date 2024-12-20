@@ -18395,6 +18395,17 @@
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
-    }
+    },
+	{
+         "id": 2826,
+         "name": "Digilocker User Create",
+         "url": "user/auth/_digilocker",
+         "displayName": "Digilocker Profile Create",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "ADMIN",
+         "code": "null",
+         "path": "Administration.DigiLocker User Create"
+      },
    ]
 }
