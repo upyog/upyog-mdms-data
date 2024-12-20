@@ -3,81 +3,68 @@
     "moduleName": "CommonModule",
     "CertificateType": [
       {
-        "code": "Advertisement",
+        "code": "advertisement",
         "i18nKey": "Advertisement",
-        "crtNo": 16,
         "active": true
       },
       {
-        "code": "Building Plan Approval",
+        "code": "bpa",
         "i18nKey": "Building Plan Approval",
-        "crtNo": 10,
         "active": true
       },
       {
-        "code": "Community Hall Booking",
+        "code": "community-hall",
         "i18nKey": "Community Hall Booking",
-        "crtNo": 2,
         "active": true
       },
       {
-        "code": "Deslugging Service",
+        "code": "deslugging",
         "i18nKey": "Deslugging Service",
-        "crtNo": 8,
         "active": true
       },
       {
-        "code": "E-Waste Certificate",
+        "code": "e-waste",
         "i18nKey": "E-Waste Certificate",
-        "crtNo": 1,
         "active": true
       },
       {
-        "code": "Fire NOC Certificate",
+        "code": "fire-NOC",
         "i18nKey": "Fire NOC Certificate",
-        "crtNo": 9,
         "active": true
       },
       {
-        "code": "Pet Certificate",
+        "code": "pet",
         "i18nKey": "Pet Certificate",
-        "crtNo": 11,
         "active": true
       },
       {
-        "code": "Public Grievance Redressal",
+        "code": "public-grievance",
         "i18nKey": "Public Grievance Redressal",
-        "crtNo": 7,
         "active": true
       },
       {
-        "code": "Property Tax",
+        "code": "property-tax",
         "i18nKey": "Property Tax",
-        "crtNo": 3,
         "active": true
       },
       {
-        "code": "Sewerage Certificate",
+        "code": "sewerage",
         "i18nKey": "Sewerage Certificate",
-        "crtNo": 5,
         "active": true
       },
       {
-        "code": "Street Vending",
+        "code": "street-vending",
         "i18nKey": "Street Vending",
-        "crtNo": 15,
         "active": true
       },
       {
-        "code": "Trade License",
+        "code": "trade-license",
         "i18nKey": "Trade License",
-        "crtNo": 6,
         "active": true
       },
       {
-        "code": "Water Certificate",
+        "code": "water",
         "i18nKey": "Water Certificate",
-        "crtNo": 4,
         "active": true
       }
     ]
