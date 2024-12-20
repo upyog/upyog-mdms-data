@@ -3,8 +3,10 @@
     "moduleName": "BPA",
     "Doors": [
         {
+            "id" : 1,
             "occupancy": "residential",
-            "permissible": 1
+            "permissible": 1,
+            "active": true
         }
     ]
 }
