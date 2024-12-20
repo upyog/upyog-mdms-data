@@ -3,8 +3,10 @@
     "moduleName": "BPA",
     "RequiredTread": [
         {
+            "id": 1,
             "occupancy": "residential",
-            "permissible": 0.25
+            "permissible": 0.25,
+            "active": true
         }
     ]
 }
