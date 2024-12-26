@@ -26,6 +26,12 @@
         "code": "AST_DEPRECIATION",
         "url" : "/digit-ui/employee/asset/assetservice/depreciate-assets/",
         "active": true
+      },
+     {
+        "name": "Asset Certificate",
+        "code": "AST_CERTIFICATE",
+        "url" : "/digit-ui/employee/asset/assetservice/certificate-assets/",
+        "active": true
       }
     ]
 }
