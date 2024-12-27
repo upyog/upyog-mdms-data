@@ -19091,6 +19091,54 @@
         "serviceCode": "MDMS",
         "code": "null",
         "path": ""
+    },
+    {
+      "id": 2880,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/ASSET.FinancialYear",
+      "displayName": "create ASSET.FinancialYear",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2881,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/ASSET.FinancialYear",
+      "displayName": "update ASSET.FinancialYear",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2882,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/ASSET.AssetSubCategory",
+      "displayName": "create ASSET.AssetSubCategory",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2883,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/ASSET.AssetSubCategory",
+      "displayName": "update ASSET.AssetSubCategory",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
     ]
 }
