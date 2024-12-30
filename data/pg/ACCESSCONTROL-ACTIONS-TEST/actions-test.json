@@ -5952,7 +5952,7 @@
       "url": "url",
       "displayName": "Trade License",
       "orderNumber": 13,
-      "parentModule": "",
+      "parentModule": "".
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
@@ -6051,8 +6051,8 @@
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "",
-      "code": "",
+      "serviceCode": "TradeLicense",
+      "code": "null",
       "path": "",
       "navigationURL": "/digit-ui/citizen/",
       "leftIcon": "custom:trade-license",
@@ -15282,7 +15282,7 @@
       "orderNumber": 3,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "wns",
+      "serviceCode": "
       "code": "null",
       "path": "Water & Sewerage.Water & Sewerage Reports.DemandCollectionBalancedRegister",
       "navigationURL": "report/rainmaker-ws/DemandCollectionBalancedRegister",
@@ -15491,7 +15491,7 @@
       "enabled": false,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "PGR Report"
     },
     {
       "id": 2582,
@@ -15632,7 +15632,7 @@
       "path": "",
       "navigationURL": ""
     },
-
+    
     {
       "id": 2595,
       "name": "CitizenGrievanceFeedback",
@@ -15871,7 +15871,7 @@
       "enabled": true,
       "serviceCode": "service-request",
       "code": "null",
-      "path": ""
+      "path": "Employee Report"
     },
     {
       "id": 2614,
@@ -18297,7 +18297,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 2818,
       "name": "WS Bulk Bill",
       "url": "url",
@@ -18662,7 +18662,13 @@
       "enabled": false,
       "serviceCode": "sv-services",
       "code": "null",
-      "path": ""
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/sv/apply",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/sv-home"
     },
     {
       "id": 2846,
@@ -18673,7 +18679,13 @@
       "enabled": false,
       "serviceCode": "employee-dashboard",
       "code": "null",
-      "path": ""
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/sv/my-applications",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/sv-home"
     },
     {
       "id": 2847,
@@ -19007,7 +19019,13 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
     },
     {
         "id": 2873,
@@ -19098,9 +19116,8 @@
       "url": "/mdms-v2/v2/_create/ASSET.FinancialYear",
       "displayName": "create ASSET.FinancialYear",
       "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
+      "enabled": false,
+      "serviceCode": "ewaste-services",
       "code": "null",
       "path": ""
     },
@@ -19134,10 +19151,9 @@
       "url": "/mdms-v2/v2/_update/ASSET.AssetSubCategory",
       "displayName": "update ASSET.AssetSubCategory",
       "orderNumber": 1,
-      "parentModule": "",
+      "parentModule": "COMMONMODULE",
       "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
+      "serviceCode": "COMMONMODULE",
       "path": ""
     }
     ]
