@@ -159,6 +159,30 @@
         "assetCategory": "FURNITURES_AND_FIXTURES"
       },
       {
+        "name": "Revolving Chair",
+        "code": "REVOLVING_CHAIR",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
+        "name": "Table",
+        "code": "TABLE",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
+        "name": "Sofa",
+        "code": "SOFA",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
+        "name": "Almirah",
+        "code": "ALMIRAH",
+        "active": true,
+        "assetCategory": "FURNITURES_AND_FIXTURES"
+      },
+      {
         "name": "NA",
         "code": "NA",
         "active": true,
