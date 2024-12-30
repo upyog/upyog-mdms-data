@@ -5952,7 +5952,7 @@
       "url": "url",
       "displayName": "Trade License",
       "orderNumber": 13,
-      "parentModule": "".
+      "parentModule": "",
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
@@ -6051,8 +6051,8 @@
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "TradeLicense",
-      "code": "null",
+      "serviceCode": "",
+      "code": "",
       "path": "",
       "navigationURL": "/digit-ui/citizen/",
       "leftIcon": "custom:trade-license",
@@ -15282,7 +15282,7 @@
       "orderNumber": 3,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "
+      "serviceCode": "wns",
       "code": "null",
       "path": "Water & Sewerage.Water & Sewerage Reports.DemandCollectionBalancedRegister",
       "navigationURL": "report/rainmaker-ws/DemandCollectionBalancedRegister",
@@ -15491,7 +15491,7 @@
       "enabled": false,
       "serviceCode": "report",
       "code": "null",
-      "path": "PGR Report"
+      "path": ""
     },
     {
       "id": 2582,
@@ -15871,7 +15871,7 @@
       "enabled": true,
       "serviceCode": "service-request",
       "code": "null",
-      "path": "Employee Report"
+      "path": ""
     },
     {
       "id": 2614,
