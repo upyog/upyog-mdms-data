@@ -15632,7 +15632,7 @@
       "path": "",
       "navigationURL": ""
     },
-
+    
     {
       "id": 2595,
       "name": "CitizenGrievanceFeedback",
@@ -18297,7 +18297,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 2818,
       "name": "WS Bulk Bill",
       "url": "url",
@@ -18662,7 +18662,13 @@
       "enabled": false,
       "serviceCode": "sv-services",
       "code": "null",
-      "path": ""
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/sv/apply",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/sv-home"
     },
     {
       "id": 2846,
@@ -18673,7 +18679,13 @@
       "enabled": false,
       "serviceCode": "employee-dashboard",
       "code": "null",
-      "path": ""
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/sv/my-applications",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/sv-home"
     },
     {
       "id": 2847,
@@ -19007,7 +19019,142 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
+    },
+    {
+        "id": 2873,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/WORKFLOW.BusinessServices",
+        "displayName": "Update WORKFLOW.BusinessServices",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 2874,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_create/WORKFLOW.BusinessServices",
+        "displayName": "Create WORKFLOW.BusinessServices",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 2875,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/ASSET.AssetParentCategoryFields",
+        "displayName": "update ASSET.AssetParentCategoryFields",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 2876,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/ASSET.AssetParentCategory",
+        "displayName": "update ASSET.AssetParentCategory",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+    {
+      "id": 2877,
+      "name": "Commonmodule Search",
+      "url": "/common-module/validity/_search",
+      "displayName": "Commonmodule Search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "COMMONMODULE",
+      "code": "null",
+      "path": ""
+    },
+    {
+        "id": 2878,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_create/ASSET.DepreciationRates",
+        "displayName": "create ASSET.DepreciationRates",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+    {
+        "id": 2879,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/ASSET.DepreciationRates",
+        "displayName": "update ASSET.DepreciationRates",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
+    },
+    {
+      "id": 2880,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/ASSET.FinancialYear",
+      "displayName": "create ASSET.FinancialYear",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ewaste-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2881,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/ASSET.FinancialYear",
+      "displayName": "update ASSET.FinancialYear",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2882,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/ASSET.AssetSubCategory",
+      "displayName": "create ASSET.AssetSubCategory",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2883,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/ASSET.AssetSubCategory",
+      "displayName": "update ASSET.AssetSubCategory",
+      "orderNumber": 1,
+      "parentModule": "COMMONMODULE",
+      "enabled": true,
+      "serviceCode": "COMMONMODULE",
       "path": ""
     }
-  ]
+    ]
 }
