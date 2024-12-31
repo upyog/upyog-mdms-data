@@ -1,6 +1,6 @@
 {
     "tenantId": "pg",
-    "moduleName": "CommonModule",
+    "moduleName": "VerificationSearch",
     "CertificateType": [
       {
         "code": "advertisement",
@@ -15,11 +15,6 @@
       {
         "code": "community-hall",
         "i18nKey": "Community Hall Booking",
-        "active": true
-      },
-      {
-        "code": "deslugging",
-        "i18nKey": "Deslugging Service",
         "active": true
       },
       {
@@ -48,11 +43,6 @@
         "active": true
       },
       {
-        "code": "sewerage",
-        "i18nKey": "Sewerage Certificate",
-        "active": true
-      },
-      {
         "code": "street-vending",
         "i18nKey": "Street Vending",
         "active": true
@@ -60,11 +50,6 @@
       {
         "code": "trade-license",
         "i18nKey": "Trade License",
-        "active": true
-      },
-      {
-        "code": "water",
-        "i18nKey": "Water Certificate",
         "active": true
       }
     ]
