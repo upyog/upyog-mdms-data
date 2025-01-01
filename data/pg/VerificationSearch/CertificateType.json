@@ -4,52 +4,47 @@
     "CertificateType": [
       {
         "code": "advertisement",
-        "i18nKey": "Advertisement",
+        "name": "Advertisement",
         "active": true
       },
       {
         "code": "bpa",
-        "i18nKey": "Building Plan Approval",
+        "name": "Building Plan Approval",
         "active": true
       },
       {
-        "code": "community-hall",
-        "i18nKey": "Community Hall Booking",
+        "code": "communityhall",
+        "name": "Community Hall Booking",
         "active": true
       },
       {
-        "code": "e-waste",
-        "i18nKey": "E-Waste Certificate",
+        "code": "ewaste",
+        "name": "E-Waste Certificate",
         "active": true
       },
       {
-        "code": "fire-NOC",
-        "i18nKey": "Fire NOC Certificate",
+        "code": "firenoc",
+        "name": "Fire NOC Certificate",
         "active": true
       },
       {
         "code": "pet",
-        "i18nKey": "Pet Certificate",
+        "name": "Pet Certificate",
         "active": true
       },
       {
-        "code": "public-grievance",
-        "i18nKey": "Public Grievance Redressal",
+        "code": "property",
+        "name": "Property Tax",
         "active": true
       },
       {
-        "code": "property-tax",
-        "i18nKey": "Property Tax",
+        "code": "streetvending",
+        "name": "Street Vending",
         "active": true
       },
       {
-        "code": "street-vending",
-        "i18nKey": "Street Vending",
-        "active": true
-      },
-      {
-        "code": "trade-license",
-        "i18nKey": "Trade License",
+        "code": "tradelicense",
+        "name": "Trade License",
         "active": true
       }
     ]
