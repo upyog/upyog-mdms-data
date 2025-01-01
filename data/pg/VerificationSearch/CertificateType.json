@@ -13,17 +13,17 @@
         "active": true
       },
       {
-        "code": "community-hall",
+        "code": "communityhall",
         "i18nKey": "Community Hall Booking",
         "active": true
       },
       {
-        "code": "e-waste",
+        "code": "ewaste",
         "i18nKey": "E-Waste Certificate",
         "active": true
       },
       {
-        "code": "fire-NOC",
+        "code": "firenoc",
         "i18nKey": "Fire NOC Certificate",
         "active": true
       },
@@ -33,22 +33,17 @@
         "active": true
       },
       {
-        "code": "public-grievance",
-        "i18nKey": "Public Grievance Redressal",
-        "active": true
-      },
-      {
-        "code": "property-tax",
+        "code": "property",
         "i18nKey": "Property Tax",
         "active": true
       },
       {
-        "code": "street-vending",
+        "code": "streetvending",
         "i18nKey": "Street Vending",
         "active": true
       },
       {
-        "code": "trade-license",
+        "code": "tradelicense",
         "i18nKey": "Trade License",
         "active": true
       }
