@@ -952,7 +952,14 @@
           "defaultVisibility": "PLAIN"
         }
       ],
-      "roleBasedDecryptionPolicy": []
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "SVCEMP"
+          ],
+          "attributeAccessList": []
+        }
+      ]
     },
     {
       "model": "TLApplicationStatusReport",
