@@ -30404,7 +30404,19 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "CHB_CEMP_001",
+      "rolecode": "CHB_CEMP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
       "actionid": 2155,
       "actioncode": "",
       "tenantId": "pg"
