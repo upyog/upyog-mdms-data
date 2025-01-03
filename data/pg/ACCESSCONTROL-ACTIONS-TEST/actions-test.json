@@ -19178,6 +19178,30 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2886,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/ASSET.Action",
+      "displayName": "Create Action",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2887,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/ASSET.Action",
+      "displayName": "Update Action",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
