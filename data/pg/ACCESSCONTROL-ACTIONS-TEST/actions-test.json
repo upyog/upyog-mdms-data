@@ -19154,6 +19154,30 @@
       "enabled": true,
       "serviceCode": "COMMONMODULE",
       "path": ""
+    },
+    {
+      "id": 2884,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/ASSET.ActionOption",
+      "displayName": "Create Action Option",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2885,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_update/ASSET.ActionOption",
+      "displayName": "Update Action Option",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
-    ]
+  ]
 }
