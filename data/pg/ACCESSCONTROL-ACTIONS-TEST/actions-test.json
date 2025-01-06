@@ -19202,6 +19202,28 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+    "id": 2888,
+    "name": "Process Asset Depriciation",
+    "url": "/asset-services/v1/assets/depriciation/_process",
+    "displayName": "Process Asset Depriciation",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+    },
+    {
+    "id": 2889,
+    "name": "Fetch Asset Depriciation List",
+    "url": "/asset-services/v1/assets/depriciation/list",
+    "displayName": "Fetch Asset Depriciation",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     }
   ]
 }
