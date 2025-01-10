@@ -19224,6 +19224,72 @@
     "serviceCode": "asset-services",
     "code": "null",
     "path": ""
+    },
+    {
+    "id": 2890,
+    "name": "Asset Disposal Create",
+    "url": "/asset-services/v1/disposal/_create",
+    "displayName": "Asset Disposal Create",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+    },
+    {
+    "id": 2891,
+    "name": "Asset Disposal Update",
+    "url": "/asset-services/v1/disposal/_update",
+    "displayName": "Asset Disposal Update",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+    },
+    {
+    "id": 2892,
+    "name": "Fetch Asset Disposal List",
+    "url": "/asset-services/v1/disposal/_search",
+    "displayName": "Fetch Asset Disposal List",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+    },
+    {
+    "id": 2893,
+    "name": "Asset maintenance Create",
+    "url": "/asset-services/v1/maintenance/_create",
+    "displayName": "Asset maintenance Create",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+    },
+    {
+    "id": 2894,
+    "name": "Asset maintenance Update",
+    "url": "/asset-services/v1/maintenance/_update",
+    "displayName": "Asset maintenance Update",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+    },
+    {
+    "id": 2895,
+    "name": "Fetch Asset maintenance List",
+    "url": "/asset-services/v1/maintenance/_search",
+    "displayName": "Fetch Asset maintenance List",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     }
   ]
 }
