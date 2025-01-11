@@ -21,6 +21,42 @@
           "amount": 1000,
           "taxApplicable": true
         }
+      ],
+      "CalculationType_DIRECTION_BOARD_20_X_6": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 2000,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_KIOSK_POLES": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 1500,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_DECORATIVE_KIOSK": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 2000,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_PUBLIC_UTILITY": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 2000,
+          "taxApplicable": true
+        }
       ]
     },
     {
@@ -40,6 +76,99 @@
           "serviceType": "NEW_BOOKING",
           "feeType": "ADV_BOOKING_FEES",
           "amount": 2500,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_DIRECTION_BOARD_20_X_6": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 3000,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_KIOSK_POLES": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 3500,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_DECORATIVE_KIOSK": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 2000,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_PUBLIC_UTILITY": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 1500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "location": "Jor Bagh",
+      "CalculationType_UNIPOLE_12_X_8": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 2000,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_UNIPOLE_18_X_8": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 2500,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_DIRECTION_BOARD_20_X_6": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 3000,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_KIOSK_POLES": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 3500,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_DECORATIVE_KIOSK": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 2000,
+          "taxApplicable": true
+        }
+      ],
+      "CalculationType_PUBLIC_UTILITY": [
+        {
+          "applicationType": "ADVERTISEMENT_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "ADV_BOOKING_FEES",
+          "amount": 1500,
           "taxApplicable": true
         }
       ]
