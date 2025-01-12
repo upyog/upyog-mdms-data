@@ -7,7 +7,6 @@
         "documentType": "OWNER.IDENTITYPROOF",
         "required": true,
         "active": true,
-        "digit-citizen":true,
         "hasDropdown": true,
         "additionalDetails": {
           "enabledActions": {
@@ -68,7 +67,6 @@
         "documentType": "PET.VACCINATIONCERTIFICATE",
         "required": true,
         "active": true,
-        "digit-citizen":true,
         "hasDropdown": false,
         "additionalDetails": {
           "enabledActions": {
@@ -121,7 +119,6 @@
     "documentType": "PET.FITNESSCERTIFICATE",
     "required": true,
     "active": true,
-    "digit-citizen":true,
     "hasDropdown": false,
     "additionalDetails": {
       "enabledActions": {
