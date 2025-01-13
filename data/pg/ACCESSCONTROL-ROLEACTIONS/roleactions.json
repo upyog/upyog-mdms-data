@@ -3056,6 +3056,12 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+	  {
+      "rolecode": "CITIZEN",
+      "actionid": 605,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 604,
