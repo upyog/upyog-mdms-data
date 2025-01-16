@@ -1,0 +1,12 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "NoOfRiser": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "permissible": 12,
+            "active": true
+        }
+    ]
+}

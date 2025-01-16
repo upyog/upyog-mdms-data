@@ -53,8 +53,58 @@
       "active": true
     },
     {
+      "name": "Project Branch",
+      "code": "DEPT_11",
+      "active": true
+    },
+    {
+      "name": "Birth and Death Branch",
+      "code": "DEPT_12",
+      "active": true
+    },
+    {
       "name": "Tax Branch",
       "code": "DEPT_13",
+      "active": true
+    },
+    {
+      "name": "Civil",
+      "code": "DEPT_14",
+      "active": true
+    },
+    {
+      "name": "Engineering Branch (O&M - W&S)",
+      "code": "DEPT_15",
+      "active": true
+    },
+    {
+      "name": "Health Branch",
+      "code": "DEPT_16",
+      "active": true
+    },
+    {
+      "name": "Tehbazri Branch",
+      "code": "DEPT_17",
+      "active": true
+    },
+    {
+      "name": "Engineering Branch",
+      "code": "DEPT_18",
+      "active": true
+    },
+    {
+      "name": "Advertisement Branch",
+      "code": "DEPT_19",
+      "active": true
+    },
+    {
+      "name": "Sanitation Branch",
+      "code": "DEPT_21",
+      "active": true
+    },
+    {
+      "name": "Fire Brigade Department",
+      "code": "DEPT_24",
       "active": true
     },
     {
@@ -63,8 +113,83 @@
       "active": true
     },
     {
+      "name": "Property Tax Branch",
+      "code": "DEPT_33",
+      "active": true
+    },
+    {
+      "name": "Establishment Branch",
+      "code": "DEPT_34",
+      "active": true
+    },
+    {
       "name": "Works Branch",
       "code": "DEPT_35",
+      "active": true
+    },
+    {
+      "name": "General Branch",
+      "code": "DEPT_38",
+      "active": true
+    },
+    {
+      "name": "Architect & Planning (A&P) Branch DEPT",
+      "code": "DEPT_53",
+      "active": true
+    },
+    {
+      "name": "Estate Branch",
+      "code": "DEPT_54",
+      "active": true
+    },
+    {
+      "name": "Veterinary public health office (V.P.H.O.)",
+      "code": "DEPT_55",
+      "active": true
+    },
+    {
+      "name": "Law Branch",
+      "code": "DEPT_56",
+      "active": true
+    },
+    {
+      "name": "Trade License Branch",
+      "code": "TRADE_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Legal Branch",
+      "code": "DEPT_LG",
+      "active": true
+    },
+    {
+      "name": "Agenda Branch",
+      "code": "AGENDA_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Caretaker Branch",
+      "code": "CARETAKER_BRANCH",
+      "active": true
+    },
+    {
+      "name": "IT Branch",
+      "code": "IT_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Revenue Branch",
+      "code": "REVENUE_BRANCH",
+      "active": false
+    },
+    {
+      "name": "Townplanning",
+      "code": "DEPT_TP",
+      "active": true
+    },
+    {
+      "name": "Tender Cell",
+      "code": "DEPT_57",
       "active": true
     }
   ]

@@ -5767,6 +5767,125 @@
       "isActualDemand": true,
       "order": "3",
       "isRequired": false
-    }
+    },
+      {
+        "category": "FEE",
+        "service": "chb-services",
+        "name": "Rent",
+        "code": "RENT",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "chb-services",
+        "name": "CGST",
+        "code": "CGST",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "chb-services",
+        "name": "SGST",
+        "code": "SGST",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "CHARGES",
+        "service": "chb-services",
+        "name": "CHB Security Deposit",
+        "code": "SECURITY_DEPOSIT",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "CHARGES",
+        "service": "chb-services",
+        "name": "Water Charges",
+        "code": "WATER_CHARGES",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "CHARGES",
+        "service": "chb-services",
+        "name": "Electricity Charges",
+        "code": "ELECTRICITY_CHARGES",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "chb-services",
+        "name": "Conservation Fee",
+        "code": "CONSERVATION_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "chb-services",
+        "name": "Booking Fees",
+        "code": "BOOKING_FEES",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "sv-services",
+        "name": "Street Vending registration fee",
+        "code": "SV_STREET_VENDING_REGISTRATION_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "adv-services",
+        "name": "Advertisement Booking Fees",
+        "code": "ADV_BOOKING_FEES",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "adv-services",
+        "name": "ADV CGST",
+        "code": "ADV_CGST",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "adv-services",
+        "name": "ADV SGST",
+        "code": "ADV_SGST",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      }
   ]
 }

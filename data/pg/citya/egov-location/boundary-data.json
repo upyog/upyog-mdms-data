@@ -14363,7 +14363,7 @@
               }
             ]
           },
-          {
+           {
             "id": 8,
             "boundaryNum": 1,
             "name": "Other",
@@ -14372,6 +14372,7 @@
             "latitude": null,
             "label": "Locality",
             "code": "OTH2",
+            "area": "Area1",
             "children": []
           },
           {

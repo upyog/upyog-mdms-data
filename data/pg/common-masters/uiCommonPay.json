@@ -56,7 +56,7 @@
     {
       "code": "PT.MUTATION",
       "headerBandLabel": "PTM_COMMON_TABLE_COL_PT_ID",
-      "receiptKey": "property-receipt",
+      "receiptKey": "pt-receipt",
       "billKey": "property-bill",
       "pdfModule":"PT",
       "cancelReceipt": false,

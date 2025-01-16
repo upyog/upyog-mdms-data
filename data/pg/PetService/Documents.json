@@ -4,10 +4,9 @@
     "Documents": [
       {
         "code": "OWNER.IDENTITYPROOF",
-        "documentType": "OWNER",
+        "documentType": "OWNER.IDENTITYPROOF",
         "required": true,
         "active": true,
-        "digit-citizen":true,
         "hasDropdown": true,
         "additionalDetails": {
           "enabledActions": {
@@ -42,6 +41,7 @@
         "documentType": "OWNER.OWNERPHOTO",
         "required": true,
         "active": true,
+        "hasDropdown": false,
         "additionalDetails": {
           "enabledActions": {
             "update": {
@@ -56,19 +56,18 @@
         },
         "dropdownData": [
             {
-                "code": "OWNER.OWNERPHOTO",
-                "active": true
+              "code": "OWNER.OWNERPHOTO",
+              "active": true
             }
         ],
         "description": "OWNER.OWNERPHOTO_DESCRIPTION"
     },
       {
         "code": "PET.VACCINATIONCERTIFICATE",
-        "documentType": "PET",
+        "documentType": "PET.VACCINATIONCERTIFICATE",
         "required": true,
         "active": true,
-        "digit-citizen":true,
-        "hasDropdown": true,
+        "hasDropdown": false,
         "additionalDetails": {
           "enabledActions": {
             "update": {
@@ -83,7 +82,7 @@
         },
         "dropdownData": [
           {
-            "code": "PET.VACCINATIONCERTIFICATE.CERTIFICATE",
+            "code": "PET.VACCINATIONCERTIFICATE",
             "active": true
           }
         ],
@@ -94,6 +93,7 @@
       "documentType": "PET.PETPHOTO",
       "required": true,
       "active": true,
+      "hasDropdown": false,
       "additionalDetails": {
         "enabledActions": {
           "update": {
@@ -107,12 +107,38 @@
         }
       },
       "dropdownData": [
-          {
-              "code": "PET.PETPHOTO",
-              "active": true
-          }
-      ],
+        {
+          "code": "PET.PETPHOTO",
+          "active": true
+        }
+        ],
       "description": "PET.PETPHOTO_DESCRIPTION"
+  },
+  {
+    "code": "PET.FITNESSCERTIFICATE",
+    "documentType": "PET.FITNESSCERTIFICATE",
+    "required": true,
+    "active": true,
+    "hasDropdown": false,
+    "additionalDetails": {
+      "enabledActions": {
+        "update": {
+          "disableUpload": true,
+          "disableDropdown": true
+        },
+        "create": {
+          "disableUpload": false,
+          "disableDropdown": false
+        }
+      }
+    },
+    "dropdownData": [
+      {
+        "code": "PET.FITNESSCERTIFICATE",
+        "active": true
+      }
+        ],
+    "description": "PET.FITNESSCERTIFICATE.CERTIFICATE_DESCRIPTION"
   }
     ]
   }

@@ -23,6 +23,10 @@
         {
           "label": "हिंदी",
           "value": "hi_IN"
+        },
+        {
+          "label": "ਪੰਜਾਬੀ",
+          "value": "pn_IN"
         }
       ],
       "localizationModules": [
@@ -89,6 +93,26 @@
         {
           "label": "rainmaker-mdms",
           "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-chb",
+          "value": "rainmaker-chb"
+        },
+        {
+          "label": "rainmaker-ew",
+          "value": "rainmaker-ew"
+        },
+        {
+          "label": "rainmaker-ptr",
+          "value": "rainmaker-ptr"
+        },
+        {
+          "label": "rainmaker-asset",
+          "value": "rainmaker-asset"
+        },
+        {
+          "label": "rainmaker-ads",
+          "value": "rainmaker-ads"
         }
       ]
     }

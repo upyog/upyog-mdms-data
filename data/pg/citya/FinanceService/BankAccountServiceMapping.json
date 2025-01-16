@@ -29,6 +29,13 @@
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
-    } 
+    },
+    {
+      "businessDetails": "chb-services",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
+      "tenantId": "pg.citya"
+    }  
   ]
 }
