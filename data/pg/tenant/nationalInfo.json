@@ -18466,7 +18466,7 @@
       "active": true,
       "module": "NationalDashboard"
     },
-      {
+    {
       "stateCode": "Jharkhand",
       "stateName": "Jharkhand",
       "code": "jh.ranchimunicipalcorporation",
@@ -18826,7 +18826,7 @@
       "active": true,
       "module": "NationalDashboard"
     },
-     {
+    {
       "stateCode": "Punjab",
       "stateName": "Punjab",
       "code": "pb.bababakalasahib",
@@ -18850,7 +18850,7 @@
       "active": true,
       "module": "NationalDashboard"
     },
-     {
+    {
       "stateCode": "Punjab",
       "stateName": "Punjab",
       "code": "pb.itpatiala",
@@ -18871,6 +18871,494 @@
       "stateName": "Punjab",
       "code": "pb.ferozepurpwssb",
       "name": "pb.ferozepurpwssb",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+	{
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcorporationshimla",
+      "name": "hp.municipalcorporationshimla",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilrohroo",
+      "name": "hp.municipalcouncilrohroo",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilrampur",
+      "name": "hp.municipalcouncilrampur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcounciltheog",
+      "name": "hp.municipalcounciltheog",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatnarkanda",
+      "name": "hp.nagarpanchayatnarkanda",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatchopal",
+      "name": "hp.nagarpanchayatchopal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatkotkhai",
+      "name": "hp.nagarpanchayatkotkhai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatjubbal",
+      "name": "hp.nagarpanchayatjubbal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatsunni",
+      "name": "hp.nagarpanchayatsunni",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatchirgaon",
+      "name": "hp.nagarpanchayatchirgaon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatnerwa",
+      "name": "hp.nagarpanchayatnerwa",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcorporationsolan",
+      "name": "hp.municipalcorporationsolan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilnalagarh",
+      "name": "hp.municipalcouncilnalagarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilparwanoo",
+      "name": "hp.municipalcouncilparwanoo",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilbaddi",
+      "name": "hp.municipalcouncilbaddi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatkandaghat",
+      "name": "hp.nagarpanchayatkandaghat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatarki",
+      "name": "hp.nagarpanchayatarki",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilnahan",
+      "name": "hp.municipalcouncilnahan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilpaonta",
+      "name": "hp.municipalcouncilpaonta",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatrajgarh",
+      "name": "hp.nagarpanchayatrajgarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilhamirpur",
+      "name": "hp.municipalcouncilhamirpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatnadaun",
+      "name": "hp.nagarpanchayatnadaun",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilsujanpur-tihra",
+      "name": "hp.municipalcouncilsujanpur-tihra",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatbhotta",
+      "name": "hp.nagarpanchayatbhotta",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcorporationdharamshala",
+      "name": "hp.municipalcorporationdharamshala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcorporationpalampur",
+      "name": "hp.municipalcorporationpalampur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilkangra",
+      "name": "hp.municipalcouncilkangra",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilnurpur",
+      "name": "hp.municipalcouncilnurpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilnagrota-bagwan",
+      "name": "hp.municipalcouncilnagrota-bagwan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcounciljawalamkuhi",
+      "name": "hp.municipalcounciljawalamkuhi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncildehra",
+      "name": "hp.municipalcouncildehra",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatbaijnath-paprola",
+      "name": "hp.nagarpanchayatbaijnath-paprola",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatjawali",
+      "name": "hp.nagarpanchayatjawali",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatshahpur",
+      "name": "hp.nagarpanchayatshahpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilbilaspur",
+      "name": "hp.municipalcouncilbilaspur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilnainadeviji",
+      "name": "hp.municipalcouncilnainadeviji",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilghumarwin",
+      "name": "hp.municipalcouncilghumarwin",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayattalai",
+      "name": "hp.nagarpanchayattalai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilchamba",
+      "name": "hp.municipalcouncilchamba",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncildalhousie",
+      "name": "hp.municipalcouncildalhousie",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatchowari",
+      "name": "hp.nagarpanchayatchowari",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcorporationmandi",
+      "name": "hp.municipalcorporationmandi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilsundernagar",
+      "name": "hp.municipalcouncilsundernagar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilnerchowk",
+      "name": "hp.municipalcouncilnerchowk",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcounciljogindernagar",
+      "name": "hp.municipalcounciljogindernagar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilsarkaghat",
+      "name": "hp.municipalcouncilsarkaghat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatrewalsar",
+      "name": "hp.nagarpanchayatrewalsar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatkarsog",
+      "name": "hp.nagarpanchayatkarsog",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilkullu",
+      "name": "hp.municipalcouncilkullu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilmanali",
+      "name": "hp.municipalcouncilmanali",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatbhunter",
+      "name": "hp.nagarpanchayatbhunter",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatbanjar",
+      "name": "hp.nagarpanchayatbanjar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatanni",
+      "name": "hp.nagarpanchayatanni",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatnirmand",
+      "name": "hp.nagarpanchayatnirmand",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcounciluna",
+      "name": "hp.municipalcounciluna",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilsantokhgarh",
+      "name": "hp.municipalcouncilsantokhgarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.municipalcouncilmehatpurbasdehra",
+      "name": "hp.municipalcouncilmehatpurbasdehra",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatdaulatpurchowk",
+      "name": "hp.nagarpanchayatdaulatpurchowk",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatgagret",
+      "name": "hp.nagarpanchayatgagret",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayattahliwal",
+      "name": "hp.nagarpanchayattahliwal",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "stateName": "Himachal Pradesh",
+      "code": "hp.nagarpanchayatamb",
+      "name": "hp.nagarpanchayatamb",
       "active": true,
       "module": "NationalDashboard"
     }
