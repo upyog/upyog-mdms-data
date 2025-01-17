@@ -19335,6 +19335,42 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    } 	  	  
+    },
+    {
+      "id": 2899,
+      "name": "WT_REQUEST_SERVICE",
+      "url": "digit-ui-card",
+      "displayName": "Request Service",
+      "orderNumber": 1,
+      "parentModule": "WT",
+      "enabled": true,
+      "serviceCode": "WT",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/wt/request-service",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/wt-home"
+    },
+    {
+      "id": 2900,
+      "name": "WT_VIEW_STATUS",
+      "url": "digit-ui-card",
+      "displayName": "View Status",
+      "orderNumber": 2,
+      "parentModule": "WT",
+      "enabled": true,
+      "serviceCode": "WT",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/wt/status",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/wt-home"
+    }	  	    	  
   ]
 }
