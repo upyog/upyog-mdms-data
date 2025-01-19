@@ -19261,7 +19261,7 @@
     {
     "id": 2893,
     "name": "Asset maintenance Create",
-    "url": "/asset-services/v1/maintenance/_create",
+    "url": "/asset-services/maintenance/v1/_create",
     "displayName": "Asset maintenance Create",
     "orderNumber": 1,
     "enabled": false,
@@ -19272,7 +19272,7 @@
     {
     "id": 2894,
     "name": "Asset maintenance Update",
-    "url": "/asset-services/v1/maintenance/_update",
+    "url": "/asset-services/maintenance/v1/_update",
     "displayName": "Asset maintenance Update",
     "orderNumber": 1,
     "enabled": false,
@@ -19283,7 +19283,7 @@
     {
     "id": 2895,
     "name": "Fetch Asset maintenance List",
-    "url": "/asset-services/v1/maintenance/_search",
+    "url": "/asset-services/maintenance/v1/_search",
     "displayName": "Fetch Asset maintenance List",
     "orderNumber": 1,
     "enabled": false,
