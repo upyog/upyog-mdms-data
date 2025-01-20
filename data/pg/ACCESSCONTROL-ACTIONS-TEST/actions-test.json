@@ -18406,6 +18406,19 @@
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.DigiLocker User Create"
-      }
+      },
+	   {
+      "id": 2827,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/Workflow.AutoEscalation",
+      "displayName": "Create Workflow AutoEscalation",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    }
+
    ]
 }
