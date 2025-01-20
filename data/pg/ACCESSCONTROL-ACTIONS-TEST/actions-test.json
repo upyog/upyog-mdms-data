@@ -18324,6 +18324,20 @@
       "path": "WS.Integrated-Bill",
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
+    },
+    {
+      "id": 2820,
+      "name": "Inbox",
+      "url": "/services/EGF/inbox",
+      "parentModule": "",
+      "displayName": "Inbox",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceGeneral",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Transactions.Inbox",
+      "navigationURL": "services/EGF/inbox"
     }
    ]
 }
