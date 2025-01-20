@@ -19416,6 +19416,17 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    }	  	    	  
+    },
+    {
+      "id": 2904,
+      "name": "Create Water Tanker application",
+      "url": "/request-service/v1/_create",
+      "displayName": "Create Water Tanker application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    }
   ]
 }

@@ -806,6 +806,11 @@
       "code": "VENDOR",
       "name": "VENDOR",
       "description": "Vendor Employee"
+    },
+    {
+      "code": "WT_CEMP",
+      "name": "Water Tanker Counter Employee",
+      "description": "Water Tanker Counter Employee"
     }
   ]
 }
