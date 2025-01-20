@@ -19420,7 +19420,7 @@
     {
       "id": 2904,
       "name": "Create Water Tanker application",
-      "url": "/request-service/v1/_create",
+      "url": "/request-service/water-tanker/v1/_create",
       "displayName": "Create Water Tanker application",
       "orderNumber": 1,
       "enabled": false,
