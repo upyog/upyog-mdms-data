@@ -19371,6 +19371,51 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/wt-home"
+    },
+    {
+      "id": 2901,
+      "name": "Asset Report",
+      "url": "url",
+      "displayName": "Asset Maintenance Report",
+      "orderNumber": 1,
+      "parentModule": "asset-services-masters",
+      "enabled": true,
+      "serviceCode": "ASSET",
+      "code": "null",
+      "path": "Asset.Reports.AssetMaintenanceReport",
+      "navigationURL": "report/rainmaker-asset/AssetMaintenanceReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2902,
+      "name": "AssetMaintenanceReport",
+      "url": "/report/rainmaker-asset/AssetMaintenanceReport/metadata/_get",
+      "displayName": "rainmaker-asset-AssetMaintenanceReport",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2903,
+      "name": "AssetMaintenanceReport",
+      "url": "/report/rainmaker-asset/AssetMaintenanceReport/_get",
+      "displayName": "rainmaker-asset-AssetMaintenanceReport",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
     }	  	    	  
   ]
 }
