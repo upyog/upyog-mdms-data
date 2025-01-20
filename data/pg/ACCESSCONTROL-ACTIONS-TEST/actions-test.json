@@ -18399,7 +18399,7 @@
 	{
          "id": 2826,
          "name": "Digilocker User Create",
-         "url": "user/auth/_digilocker",
+         "url": "user/digilocker/oauth/token",
          "displayName": "Digilocker Profile Create",
          "orderNumber": 1,
          "enabled": false,
@@ -18419,5 +18419,6 @@
       "code": "null",
       "path": ""
     }
+
    ]
 }
