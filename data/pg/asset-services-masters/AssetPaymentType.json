@@ -1,0 +1,24 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "AssetPaymentType": [
+        {
+            "id": 1,
+            "name": "Preventive",
+            "code": "PREVENTIVE",
+            "active": true
+        },
+        {
+            "id": 2,
+            "name": "Corrective",
+            "code": "CORRECTIVE",
+            "active": true
+        },
+        {
+            "id": 3,
+            "name": "To Be Paid",
+            "code": "TO_BE_PAID",
+            "active": true
+        }
+    ]
+}
