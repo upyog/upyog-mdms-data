@@ -1,0 +1,14 @@
+{
+    "tenantId": "pg",
+    "moduleName": "common-masters",
+    "CommonSwitch": [
+        {
+            "name": "mdmsV2Toggle",
+            "isActive": true
+        },
+        {
+            "name": "cityDashboardIntegration",
+            "isActive": true
+        }
+    ]
+}
