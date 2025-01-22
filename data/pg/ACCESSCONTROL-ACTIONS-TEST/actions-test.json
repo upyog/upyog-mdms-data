@@ -19335,6 +19335,20 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    } 	  	  
-  ]
+    },
+     {
+      "id": 2899
+      "name": "Inbox",
+      "url": "/services/EGF/inbox",
+      "parentModule": "",
+      "displayName": "Inbox",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceGeneral",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Transactions.Inbox",
+      "navigationURL": "services/EGF/inbox"
+    }
+    ]
 }
