@@ -19337,7 +19337,7 @@
       "sidebarURL": "/digit-ui/citizen/ew-home"
     },
      {
-      "id": 2899
+      "id": 2899,
       "name": "Inbox",
       "url": "/services/EGF/inbox",
       "parentModule": "",
