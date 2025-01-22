@@ -11,8 +11,6 @@
                     "nextStep": "owners",
                     "key": "Documents"
                 },
-
-                
                 {
                 "route": "owners",
                 "component": "PTRCitizenDetails",
@@ -88,8 +86,6 @@
             },
             "nextStep": "documents"
             }
-
-            
         ]
         },
         {

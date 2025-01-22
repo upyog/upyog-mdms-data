@@ -725,6 +725,34 @@
         {
             "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "pet-services.receipt.id"
+        },
+        {
+            "format": "PG-AST-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
+            "idname": "egov.idgen.asset.applicationNum"
+        },
+        {
+            "format": "PG-EW-[cy:yyyy-MM-dd]-[SEQ_EG_EW_ID]",
+            "idname": "egov.idgen.ewaste.applicationNum"
+        },
+        {
+            "format": "CHB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "chb-services.receipt.id"
+        },
+        {
+            "format": "PG-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_TOKEN_ID]",
+            "idname": "ptr.tokennumber"
+        },
+        {
+            "format": "SV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "sv-services.receipt.id"
+        },
+        {
+            "format": "ADV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "adv-services.receipt.id"
+        },
+        {
+            "format": "SV-CT-[seq_street_vending_certificate_no]",
+            "idname": "street-vending.certificate.no"
         }
     ]
 }

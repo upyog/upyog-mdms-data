@@ -426,6 +426,15 @@
         },
         {
           "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
         }
       ]
     },
@@ -618,6 +627,195 @@
       ]
     },
     {
+      "module": "ASSET",
+      "code": "ASSET",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "CHB",
+      "code": "CHB",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "EW",
+      "code": "EW",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "VERIFICATIONSEARCH",
+      "code": "VERIFICATIONSEARCH",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        } 
+      ]
+    },
+    {
+      "module": "FNOC",
+      "code": "FNOC",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "SV",
+      "code": "SV",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "ADS",
+      "code": "ADS",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }, 
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        }
+      ]
+    },
+    {
       "module": "Workbench",
       "code": "Workbench",
       "active": true,
@@ -637,8 +835,40 @@
         },
         {
           "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
         }
       ]
-    }
+    } ,
+    {
+      "module": "VENDOR",
+      "code": "VENDOR",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    } 
   ]
 }

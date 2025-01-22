@@ -18466,7 +18466,7 @@
       "active": true,
       "module": "NationalDashboard"
     },
-      {
+    {
       "stateCode": "Jharkhand",
       "stateName": "Jharkhand",
       "code": "jh.ranchimunicipalcorporation",
@@ -18826,7 +18826,7 @@
       "active": true,
       "module": "NationalDashboard"
     },
-     {
+    {
       "stateCode": "Punjab",
       "stateName": "Punjab",
       "code": "pb.bababakalasahib",
@@ -18850,7 +18850,7 @@
       "active": true,
       "module": "NationalDashboard"
     },
-     {
+    {
       "stateCode": "Punjab",
       "stateName": "Punjab",
       "code": "pb.itpatiala",
