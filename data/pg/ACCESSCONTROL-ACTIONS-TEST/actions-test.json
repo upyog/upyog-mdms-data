@@ -19427,6 +19427,51 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2905,
+      "name": "CHB Report",
+      "url": "url",
+      "displayName": "CHB Daily Register Report",
+      "orderNumber": 1,
+      "parentModule": "ChbServices",
+      "enabled": true,
+      "serviceCode": "CHB",
+      "code": "null",
+      "path": "CHB.Reports.CHBDailyRegisterReport",
+      "navigationURL": "report/rainmaker-CHB/CHBDailyRegisterReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2906,
+      "name": "CHBDailyRegisterReport",
+      "url": "/report/rainmaker-CHB/CHBDailyRegisterReport/metadata/_get",
+      "displayName": "rainmaker-CHB-CHBDailyRegisterReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2907,
+      "name": "CHBDailyRegisterReport",
+      "url": "/report/rainmaker-CHB/CHBDailyRegisterReport/_get",
+      "displayName": "rainmaker-CHB-CHBDailyRegisterReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
+    }	  
   ]
 }
