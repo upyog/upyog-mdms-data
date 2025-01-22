@@ -30612,6 +30612,42 @@
       "actionid": 2904,
       "actioncode": "",
       "tenantId": "pg"
-    }		  
+    },
+    {
+      "rolecode": "CHB_CEMP",
+      "actionid": 2905,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_CEMP",
+      "actionid": 2906,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_CEMP",
+      "actionid": 2907,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+        "rolecode": "CHB_APPROVER",
+        "actionid": 2905,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
+      "actionid": 2906,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
+      "actionid": 2907,
+      "actioncode": "",
+      "tenantId": "pg"
+    }	  	  
   ]
 }
