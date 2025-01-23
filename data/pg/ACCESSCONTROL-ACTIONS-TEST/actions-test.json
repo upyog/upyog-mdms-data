@@ -19472,6 +19472,51 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    }	  
+    },
+    {
+      "id": 2908,
+      "name": "CHB Report",
+      "url": "url",
+      "displayName": "CHB Refund Report",
+      "orderNumber": 1,
+      "parentModule": "ChbServices",
+      "enabled": true,
+      "serviceCode": "CHB",
+      "code": "null",
+      "path": "CHB.Reports.CHBRefundReport",
+      "navigationURL": "report/rainmaker-CHB/CHBRefundReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2909,
+      "name": "CHBRefundReport",
+      "url": "/report/rainmaker-CHB/CHBRefundReport/metadata/_get",
+      "displayName": "rainmaker-CHB-CHBRefundReport",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2910,
+      "name": "CHBRefundReport",
+      "url": "/report/rainmaker-CHB/CHBRefundReport/_get",
+      "displayName": "rainmaker-CHB-CHBRefundReport",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
+    }	  	  
   ]
-}
+}	  
