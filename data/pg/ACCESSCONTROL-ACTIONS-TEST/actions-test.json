@@ -19517,6 +19517,18 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    }	  	  
+    },
+    {
+      "id": 2911,
+      "name": "vendor additional details",
+      "url": "/vendor-management/api/v1/_create",
+      "displayName": "Vendor additional details",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    }
   ]
 }	  
