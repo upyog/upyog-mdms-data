@@ -19529,6 +19529,17 @@
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2912,
+      "name": "Search Water Tanker application",
+      "url": "/request-service/water-tanker/v1/_search",
+      "displayName": "Search Water Tanker application",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
