@@ -15555,7 +15555,7 @@
       {
          "id": 2587,
          "name": "Get Authorization URL",
-         "url": "/requester-services-dx/user/authorization/url",
+         "url": "/requester-services-dx/digilocker/authorization/url",
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
@@ -15568,7 +15568,7 @@
       {
          "id": 2588,
          "name": "Get Access Token",
-         "url": "/requester-services-dx/user/token",
+         "url": "/requester-services-dx/digilocker/token",
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
@@ -15581,7 +15581,7 @@
       {
          "id": 2589,
          "name": "Get User Details",
-         "url": "/requester-services-dx/user/details",
+         "url": "/requester-services-dx/digilocker/details",
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
@@ -15594,7 +15594,7 @@
       {
          "id": 2590,
          "name": "Get Issued Files",
-         "url": "/requester-services-dx/user/issuedfiles",
+         "url": "/requester-services-dx/digilocker/issuedfiles",
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
@@ -15607,7 +15607,7 @@
       {
          "id": 2591,
          "name": "Get File",
-         "url": "/requester-services-dx/user/file",
+         "url": "/requester-services-dx/digilocker/file",
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
@@ -15620,7 +15620,7 @@
       {
          "id": 2592,
          "name": "Get Authorization URL",
-         "url": "/requester-services-dx/user/authorization/url",
+         "url": "/requester-services-dx/digilocker/authorization/url",
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
