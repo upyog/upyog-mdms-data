@@ -19551,6 +19551,30 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2914,
+      "name": "MDMS v2 Doors Update",
+      "url":"/mdms-v2/v2/_update/BPA.Doors",
+      "displayName": "Update BPA-master Doors",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2915,
+      "name": "MDMS v2 Doors Create",
+      "url":"/mdms-v2/v2/_create/BPA.Doors",
+      "displayName": "Create BPA-master Doors",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS v2",
+      "code": "null",
+      "path": ""
+    }	  
   ]
 }	  
