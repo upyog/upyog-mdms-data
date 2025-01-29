@@ -19540,6 +19540,17 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2913,
+      "name": "Update Water Tanker application",
+      "url": "/request-service/water-tanker/v1/_update",
+      "displayName": "Update Water Tanker application",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
