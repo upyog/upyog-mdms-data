@@ -19560,7 +19560,7 @@
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "MDMS v2",
+      "serviceCode": "MDMS",
       "code": "null",
       "path": ""
     },
@@ -19572,7 +19572,7 @@
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "MDMS v2",
+      "serviceCode": "MDMS",
       "code": "null",
       "path": ""
     }	  
