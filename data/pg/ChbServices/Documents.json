@@ -7,7 +7,6 @@
         "documentType": "APPLICANT.IDENTITYPROOF",
         "required": true,
         "active": true,
-        "digit-citizen":true,
         "hasDropdown": true,
         "additionalDetails": {
           "enabledActions": {
@@ -50,7 +49,6 @@
         "documentType": "APPLICANT.ADDRESSPROOF",
         "required": true,
         "active": true,
-        "digit-citizen":true,
         "hasDropdown": true,
         "additionalDetails": {
           "enabledActions": {
@@ -93,7 +91,6 @@
         "documentType": "APPLICANT.BANKACCOUNTPROOF",
         "required": true,
         "active": true,
-        "digit-citizen":true,
         "hasDropdown": true,
         "additionalDetails": {
           "enabledActions": {

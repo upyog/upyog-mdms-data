@@ -717,8 +717,8 @@
       ]
     },
     {
-      "module": "COMMONMODULE",
-      "code": "COMMONMODULE",
+      "module": "VERIFICATIONSEARCH",
+      "code": "VERIFICATIONSEARCH",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
       "order":1,
@@ -846,13 +846,14 @@
           "code": "pg.shimla"
         }
       ]
-    } ,
+    },
     {
-      "module": "VENDOR",
-      "code": "VENDOR",
+      "module": "Tqm",
+      "code": "Tqm",
       "active": true,
-      "order":1,
-      "tenants": [
+      "order": 14,
+      "additionalComponent": "TqmAdminNotification",
+      "tenants":  [
         {
           "code": "pg.citya"
         },
@@ -869,6 +870,7 @@
           "code": "pg.citye"
         }
       ]
-    } 
+    }
+    
   ]
 }
