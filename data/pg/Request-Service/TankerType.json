@@ -1,0 +1,30 @@
+{
+    "tenantId": "pg",
+    "moduleName": "WT",
+    "TankerType": [
+        {
+            "type" : "tanker",
+            "code" : "TANKER_1000",
+            "capacity": 1000,
+            "active": true
+        },
+        {
+            "type" : "tanker",
+            "code" : "TANKER_2000",
+            "capacity": 2000,
+            "active": true
+        },
+        {
+            "type" : "tanker",
+            "code" : "TANKER_5000",
+            "capacity": 5000,
+            "active": true
+        },
+        {
+            "type" : "tanker",
+            "code" : "TANKER_10000",
+            "capacity": 10000,
+            "active": true
+        }
+    ]
+}
