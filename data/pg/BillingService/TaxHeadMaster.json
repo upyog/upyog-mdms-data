@@ -5886,6 +5886,16 @@
         "isActualDemand": true,
         "order": "0",
         "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "request-service",
+        "name": "Water Tanker Fee",
+        "code": "WATER_TANKER_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
       }
   ]
 }

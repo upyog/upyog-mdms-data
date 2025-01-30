@@ -2048,6 +2048,17 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
+    },
+    {
+      "businessService": "request-service",
+      "code": "request-service",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }

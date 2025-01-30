@@ -1,0 +1,12 @@
+{
+    "tenantId": "pg",
+    "moduleName": "WT",
+    "TankerDeliveryTimeCalculationType": [
+        {
+            "deliveryTimeName": "Within 24 Hours",
+            "deliveryHours": 24,
+            "amount": 300,
+            "active": true
+        }
+    ]
+}
