@@ -204,6 +204,120 @@
       },
       "address": "State Municipal Corporation",
       "contactNumber": "0978-7645345"
+    },
+    {
+      "code": "pg.mohali",
+      "name": "Mohali",
+      "description": "Mohali",
+      "pincode": [
+          160055,
+          160059,
+          160061,
+          160062,
+          160063,
+          160064,
+          160065,
+          160066,
+          160068,
+          160071
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+          "name": "Mohali",
+          "localName": null,
+          "districtCode": "MOHALI",
+          "districtName": null,
+          "districtTenantCode": "pg.mohali",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761830,
+          "latitude": 31.3260155,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1508",
+          "ddrName": "Mohali MC"
+      },
+      "address": "Sector 68, Sahibzada Ajit Singh Nagar, Punjab 160062",
+      "contactNumber": "0172-5044907"
+  },
+  {
+      "code": "pg.dharamshala",
+      "name": "Dharamshala",
+      "description": "Dharamshala",
+      "pincode": [
+          176215
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+          "name": "Dharamshala",
+          "localName": null,
+          "districtCode": "DHARAMSHALA",
+          "districtName": null,
+          "districtTenantCode": "pg.dharamshala",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761835,
+          "latitude": 31.3260159,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1509",
+          "ddrName": "Dharamshala Municipal Corporation"
+      },
+      "address": "Near Fire Station, Sudher, Dharamshala, Himachal Pradesh, 176215",
+      "contactNumber": "0189 222 2115"
+  },
+  {
+      "code": "pg.shimla",
+      "name": "Shimla",
+      "description": "Shimla",
+      "pincode": [
+          171001
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+          "name": "Shimla",
+          "localName": null,
+          "districtCode": "SHIMLA",
+          "districtName": null,
+          "districtTenantCode": "pg.shimla",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1510",
+          "ddrName": "Shimla Municipal Corporation"
+      },
+      "address": "2,Mall Rd, Ram Bazar,Shimla, Himachal Pradesh, 171001",
+      "contactNumber": "0177 280 2771"
     }
    ]
 }
