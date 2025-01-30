@@ -3,46 +3,106 @@
   "moduleName": "tenant",
   "nationalInfoUser": [
     {
-      "stateCode": "Punjab"
+      "stateCode": "Punjab",
+      "emailId": "sriranjan.ds97@gmail.com",
+	  "NodalOfficerName": "Sriranjan Srivastava",
+      "active": true
     },
-	 {
-      "stateCode": "Uttarakhand"
+    {
+      "stateCode": "Chandigarh",
+      "emailId": "mohsway30@gmail.com",
+	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "active": true
     },
-	{
-      "stateCode": "Rajasthan"
+    {
+      "stateCode": "Uttarakhand",
+      "emailId": "mohsway30@gmail.com",
+	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "active": true
     },
-	{
-      "stateCode": "Chandigarh"
+    {
+      "stateCode": "Karnataka",
+      "emailId": "sriranjan.steyn@gmail.com",
+	  "NodalOfficerName": "Manvi Raheja",
+      "active": true
     },
-	{
-      "stateCode": "Karnataka"
+    {
+      "stateCode": "Kerala",
+      "emailId": "Manviraheja97@gmail.com",
+	  "NodalOfficerName": "Manvi Raheja",
+      "active": true
     },
-	{
-      "stateCode": "Goa"
+    {
+      "stateCode": "Maharashtra",
+      "emailId": "rsharma@niua.org",
+	  "NodalOfficerName": "Rahul Sharma",
+      "active": true
     },
-	{
-      "stateCode": "Andhra Pradesh"
+    {
+      "stateCode": "Telangana",
+      "emailId": "mohsway30@gmail.com",
+	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "active": true
     },
-	{
-      "stateCode": "Madhya Pradesh"
+    {
+      "stateCode": "Tamil Nadu",
+      "emailId": "Manviraheja97@gmail.com",
+	  "NodalOfficerName": "Manvi Raheja",
+      "active": true
     },
-	{
-      "stateCode": "Tamil Nadu"
+    {
+      "stateCode": "Madhya Pradesh",
+      "emailId": "Manviraheja97@gmail.com",
+	  "NodalOfficerName": "Manvi Raheja",
+      "active": true
     },
-	{
-      "stateCode": "Telangana"
+    {
+      "stateCode": "Andhra Pradesh",
+      "emailId": "mohsway30@gmail.com",
+	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "active": true
     },
-	{
-      "stateCode": "Chattisgarh"
+    {
+      "stateCode": "Chhattisgarh",
+      "emailId": "mohsway30@gmail.com",
+	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "active": true
     },
-	{
-      "stateCode": "Maharashtra"
+    {
+      "stateCode": "Goa",
+      "emailId": "mohsway30@gmail.com",
+	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "active": true
     },
-	{
-      "stateCode": "Jharkhand"
+    {
+      "stateCode": "Rajasthan",
+      "emailId": "Manviraheja97@gmail.com",
+	  "NodalOfficerName": "Manvi Raheja",
+      "active": true
     },
-	{
-      "stateCode": "Tripura"
+    {
+      "stateCode": "Odisha",
+      "emailId": "mohsway30@gmail.com",
+	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "active": true
+    },
+    {
+      "stateCode": "Jharkhand",
+      "emailId": "Manviraheja97@gmail.com",
+	  "NodalOfficerName": "Manvi Raheja",
+      "active": true
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "emailId": "mohsway30@gmail.com",
+	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "active": true
+    },
+    {
+      "stateCode": "Tripura",
+      "emailId": "mohsway30@gmail.com",
+	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "active": true
     }
 ]
 }
