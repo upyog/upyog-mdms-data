@@ -1,0 +1,12 @@
+{
+    "tenantId": "pg",
+    "moduleName": "WT",
+    "TankerType": [
+        {
+            "capacityName": "1000 L",
+            "capacity": 1000,
+            "amount": 500,
+            "active": true
+        }
+    ]
+}
