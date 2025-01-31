@@ -19575,6 +19575,66 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
-    }	  
+    },
+    {
+      "id": 2916,
+      "name": "MDMS v2 Ewaste create productName",
+      "url":"/mdms-v2/v2/_create/Ewaste.ProductName",
+      "displayName": "MDMS V2 Ewaste create productName",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2917,
+      "name": "MDMS v2 Advertisement Adtype",
+      "url":"/mdms-v2/v2/_create/Advertisement.AdType",
+      "displayName": "MDMS V2 Advertisement Adtype",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2918,
+      "name": "MDMS v2 PetService BreedType",
+      "url":"/mdms-v2/v2/_create/PetService.BreedType",
+      "displayName": "MDMS V2 PetService BreedType",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2919,
+      "name": "MDMS v2 StreetVending VendingZones",
+      "url":"/mdms-v2/v2/_create/StreetVending.VendingZones",
+      "displayName": "MDMS V2 StreetVending VendingZones",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2920,
+      "name": "MDMS v2 CHB CommunityHalls",
+      "url":"/mdms-v2/v2/_create/CHB.CommunityHalls",
+      "displayName": "MDMS V2 CHB CommunityHalls",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    } 
   ]
 }	  
