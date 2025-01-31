@@ -9,6 +9,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 7500,
+      "securityDeposit": 10000,
       "taxApplicable": true
     },
     {
@@ -18,6 +19,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 10500,
+      "securityDeposit": 10000,
       "taxApplicable": true
     },
     {
@@ -27,6 +29,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 10500,
+      "securityDeposit": 10000,
       "taxApplicable": true
     },
     {
@@ -36,6 +39,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 7500,
+      "securityDeposit": 10000,
       "taxApplicable": true
     },
     {
@@ -45,6 +49,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 10500,
+      "securityDeposit": 10000,
       "taxApplicable": true
     },
     {
@@ -54,6 +59,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 10500,
+      "securityDeposit": 10000,
       "taxApplicable": true
     },
     {
@@ -63,6 +69,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 10500,
+      "securityDeposit": 10000,
       "taxApplicable": true
     },
     {
@@ -72,6 +79,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 7500,
+      "securityDeposit": 10000,
       "taxApplicable": true
     }
   ]
