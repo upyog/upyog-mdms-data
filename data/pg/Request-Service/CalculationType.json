@@ -1,6 +1,6 @@
 {
   "tenantId": "pg",
-  "moduleName": "WT",
+  "moduleName": "request-service",
   "CalculationType": [
     {
       "id": "1",
