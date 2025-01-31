@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
-  "moduleName": "WT",
-  "CalculationType": [
+  "moduleName": "request-service",
+  "WaterTankerCalculationType": [
     {
       "id": "1",
       "code": "TANKER_1000",
