@@ -9,7 +9,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 7500,
-      "taxApplicable": false
+      "taxApplicable": true
     },
     {
       "id":"2",
@@ -27,7 +27,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 10500,
-      "taxApplicable": false
+      "taxApplicable": true
     },
     {
       "id":"4",
@@ -45,7 +45,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 10500,
-      "taxApplicable": false
+      "taxApplicable": true
     },
     {
       "id":"6",
@@ -63,7 +63,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 7500,
-      "taxApplicable": false
+      "taxApplicable": true
     },
     {
       "id":"8",
@@ -81,7 +81,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 10500,
-      "taxApplicable": false
+      "taxApplicable": true
     },
     {
       "id":"10",
@@ -99,7 +99,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 10500,
-      "taxApplicable": false
+      "taxApplicable": true
     },
     {
       "id":"12",
@@ -117,7 +117,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 10500,
-      "taxApplicable": false
+      "taxApplicable": true
     },
     {
       "id":"14",
@@ -135,7 +135,7 @@
       "serviceType": "NEW_BOOKING",
       "feeType": "BOOKING_FEES",
       "amount": 7500,
-      "taxApplicable": false
+      "taxApplicable": true
     },
     {
       "id":"16",
