@@ -19713,6 +19713,30 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/wt-home"
-    } 
+    },
+    {
+      "id": 2927,
+      "name": "MDMS v2 CHB CalculationType create",
+      "url":"/mdms-v2/v2/_create/CHB.CalculationType",
+      "displayName": "MDMS V2 CHB CalculationType create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2928,
+      "name": "MDMS v2 CHB CalculationType update",
+      "url":"/mdms-v2/v2/_update/CHB.CalculationType",
+      "displayName": "MDMS V2 CHB CalculationType update",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    }
   ]
 }	  
