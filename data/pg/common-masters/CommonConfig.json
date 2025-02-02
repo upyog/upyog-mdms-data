@@ -4,7 +4,7 @@
     "CommonConfig": [
         {
             "name": "mdmsV2Enabled",
-            "isActive": false
+            "isActive": true
         },
         {
             "name": "cityDashboardEnabled",
