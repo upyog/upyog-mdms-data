@@ -5855,6 +5855,7 @@
         "code": "SV_STREET_VENDING_REGISTRATION_FEE",
         "isDebit": false,
         "isActualDemand": true,
+        "order": "0",
         "isRequired": false
       },
       {
