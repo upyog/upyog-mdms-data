@@ -811,6 +811,11 @@
       "code": "WT_CEMP",
       "name": "Water Tanker Counter Employee",
       "description": "Water Tanker Counter Employee"
+    },
+    {
+      "code": "WT_VENDOR",
+      "name": "Water Tanker Vendor",
+      "description": "Water Tanker Vendor From Citizen Login"
     }
   ]
 }
