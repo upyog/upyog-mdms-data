@@ -4,104 +4,104 @@
   "nationalInfoUser": [
     {
       "stateCode": "Punjab",
-      "emailId": "sriranjan.ds97@gmail.com",
-	  "NodalOfficerName": "Sriranjan Srivastava",
+      "emailId": "itspl.pmidc@punjab.gov.in",
+	  "NodalOfficerName": "Simarjeet Kaur",
       "active": true
     },
     {
       "stateCode": "Chandigarh",
-      "emailId": "mohsway30@gmail.com",
-	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "emailId": "keshav.k.verma@pwc.com",
+	  "NodalOfficerName": "Keshav Verma",
       "active": true
     },
     {
       "stateCode": "Uttarakhand",
-      "emailId": "mohsway30@gmail.com",
-	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "emailId": "enagarsewauk@gmail.com",
+	  "NodalOfficerName": "Dr Lalit Narayan Mishra",
       "active": true
     },
     {
       "stateCode": "Karnataka",
-      "emailId": "sriranjan.steyn@gmail.com",
-	  "NodalOfficerName": "Manvi Raheja",
+      "emailId": "jdr@mrc.gov.in",
+	  "NodalOfficerName": "Dr. Muralidhar",
       "active": true
     },
     {
       "stateCode": "Kerala",
-      "emailId": "Manviraheja97@gmail.com",
-	  "NodalOfficerName": "Manvi Raheja",
-      "active": true
-    },
-    {
-      "stateCode": "Maharashtra",
       "emailId": "rsharma@niua.org",
 	  "NodalOfficerName": "Rahul Sharma",
       "active": true
     },
     {
+      "stateCode": "Maharashtra",
+      "emailId": "shankar.gore68@mah.gov.in",
+	  "NodalOfficerName": "Pratik Innowave",
+      "active": true
+    },
+    {
       "stateCode": "Telangana",
-      "emailId": "mohsway30@gmail.com",
-	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "emailId": "dydr1-cdma@telangana.gov.in",
+	  "NodalOfficerName": "Surya Kumar / Ravi",
       "active": true
     },
     {
       "stateCode": "Tamil Nadu",
-      "emailId": "Manviraheja97@gmail.com",
-	  "NodalOfficerName": "Manvi Raheja",
+      "emailId": "dma.tncma@gmail.com",
+	  "NodalOfficerName": "Arun(CMA)",
       "active": true
     },
     {
       "stateCode": "Madhya Pradesh",
-      "emailId": "Manviraheja97@gmail.com",
-	  "NodalOfficerName": "Manvi Raheja",
+      "emailId": "vyas2@mpurban.gov.in",
+	  "NodalOfficerName": "Mr Devendra Vyas",
       "active": true
     },
     {
       "stateCode": "Andhra Pradesh",
-      "emailId": "mohsway30@gmail.com",
-	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "emailId": "adptb@cdma.gov.in",
+	  "NodalOfficerName": "Jawahar",
       "active": true
     },
     {
       "stateCode": "Chhattisgarh",
-      "emailId": "mohsway30@gmail.com",
-	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "emailId": "suda.mission@gmail.com",
+	  "NodalOfficerName": "Ramesh Singh",
       "active": true
     },
     {
       "stateCode": "Goa",
-      "emailId": "mohsway30@gmail.com",
-	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "emailId": "aswd@rediffmail.com",
+	  "NodalOfficerName": "Alex Kurien/Puja",
       "active": true
     },
     {
       "stateCode": "Rajasthan",
-      "emailId": "Manviraheja97@gmail.com",
-	  "NodalOfficerName": "Manvi Raheja",
+      "emailId": "ASHOKMEENA88.DOIT@rajasthan.gov.in",
+	  "NodalOfficerName": "Ashok Meena",
       "active": true
     },
     {
       "stateCode": "Odisha",
-      "emailId": "mohsway30@gmail.com",
-	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "emailId": "rsharma@niua.org",
+	  "NodalOfficerName": "Rahul Sharma",
       "active": true
     },
     {
       "stateCode": "Jharkhand",
-      "emailId": "Manviraheja97@gmail.com",
-	  "NodalOfficerName": "Manvi Raheja",
+      "emailId": "suda.goj@gmail.com",
+	  "NodalOfficerName": "Sumit",
       "active": true
     },
     {
       "stateCode": "Uttar Pradesh",
-      "emailId": "mohsway30@gmail.com",
-	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "emailId": "rsharma@niua.org",
+	  "NodalOfficerName": "Rahul Sharma",
       "active": true
     },
     {
       "stateCode": "Tripura",
-      "emailId": "mohsway30@gmail.com",
-	  "NodalOfficerName": "Swayanshu Mohapatra",
+      "emailId": "directorurbantripura@gmail.com",
+	  "NodalOfficerName": "Chandan",
       "active": true
     }
 ]
