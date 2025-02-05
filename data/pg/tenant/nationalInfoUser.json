@@ -3,46 +3,106 @@
   "moduleName": "tenant",
   "nationalInfoUser": [
     {
-      "stateCode": "Punjab"
+      "stateCode": "Punjab",
+      "emailId": "itspl.pmidc@punjab.gov.in",
+	  "NodalOfficerName": "Simarjeet Kaur",
+      "active": true
     },
-	 {
-      "stateCode": "Uttarakhand"
+    {
+      "stateCode": "Chandigarh",
+      "emailId": "keshav.k.verma@pwc.com",
+	  "NodalOfficerName": "Keshav Verma",
+      "active": true
     },
-	{
-      "stateCode": "Rajasthan"
+    {
+      "stateCode": "Uttarakhand",
+      "emailId": "enagarsewauk@gmail.com",
+	  "NodalOfficerName": "Dr Lalit Narayan Mishra",
+      "active": true
     },
-	{
-      "stateCode": "Chandigarh"
+    {
+      "stateCode": "Karnataka",
+      "emailId": "jdr@mrc.gov.in",
+	  "NodalOfficerName": "Dr. Muralidhar",
+      "active": true
     },
-	{
-      "stateCode": "Karnataka"
+    {
+      "stateCode": "Kerala",
+      "emailId": "rsharma@niua.org",
+	  "NodalOfficerName": "Rahul Sharma",
+      "active": true
     },
-	{
-      "stateCode": "Goa"
+    {
+      "stateCode": "Maharashtra",
+      "emailId": "shankar.gore68@mah.gov.in",
+	  "NodalOfficerName": "Pratik Innowave",
+      "active": true
     },
-	{
-      "stateCode": "Andhra Pradesh"
+    {
+      "stateCode": "Telangana",
+      "emailId": "dydr1-cdma@telangana.gov.in",
+	  "NodalOfficerName": "Surya Kumar / Ravi",
+      "active": true
     },
-	{
-      "stateCode": "Madhya Pradesh"
+    {
+      "stateCode": "Tamil Nadu",
+      "emailId": "dma.tncma@gmail.com",
+	  "NodalOfficerName": "Arun(CMA)",
+      "active": true
     },
-	{
-      "stateCode": "Tamil Nadu"
+    {
+      "stateCode": "Madhya Pradesh",
+      "emailId": "vyas2@mpurban.gov.in",
+	  "NodalOfficerName": "Mr Devendra Vyas",
+      "active": true
     },
-	{
-      "stateCode": "Telangana"
+    {
+      "stateCode": "Andhra Pradesh",
+      "emailId": "adptb@cdma.gov.in",
+	  "NodalOfficerName": "Jawahar",
+      "active": true
     },
-	{
-      "stateCode": "Chattisgarh"
+    {
+      "stateCode": "Chhattisgarh",
+      "emailId": "suda.mission@gmail.com",
+	  "NodalOfficerName": "Ramesh Singh",
+      "active": true
     },
-	{
-      "stateCode": "Maharashtra"
+    {
+      "stateCode": "Goa",
+      "emailId": "aswd@rediffmail.com",
+	  "NodalOfficerName": "Alex Kurien/Puja",
+      "active": true
     },
-	{
-      "stateCode": "Jharkhand"
+    {
+      "stateCode": "Rajasthan",
+      "emailId": "ASHOKMEENA88.DOIT@rajasthan.gov.in",
+	  "NodalOfficerName": "Ashok Meena",
+      "active": true
     },
-	{
-      "stateCode": "Tripura"
+    {
+      "stateCode": "Odisha",
+      "emailId": "rsharma@niua.org",
+	  "NodalOfficerName": "Rahul Sharma",
+      "active": true
+    },
+    {
+      "stateCode": "Jharkhand",
+      "emailId": "suda.goj@gmail.com",
+	  "NodalOfficerName": "Sumit",
+      "active": true
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "emailId": "rsharma@niua.org",
+	  "NodalOfficerName": "Rahul Sharma",
+      "active": true
+    },
+    {
+      "stateCode": "Tripura",
+      "emailId": "directorurbantripura@gmail.com",
+	  "NodalOfficerName": "Chandan",
+      "active": true
     }
 ]
 }
