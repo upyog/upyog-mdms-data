@@ -19748,6 +19748,18 @@
       "serviceCode": "sv-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2930,
+      "name": "Water Tanker Payment search",
+      "url": "/collection-services/payments/request-service/_search",
+      "displayName": "Water Tanker Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
