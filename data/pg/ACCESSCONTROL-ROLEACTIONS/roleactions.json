@@ -30686,6 +30686,12 @@
       "tenantId": "pg"
     }, 
     {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2411,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
       "rolecode": "CHB_CEMP",
       "actionid": 2905,
       "actioncode": "",
