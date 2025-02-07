@@ -19443,6 +19443,17 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+	   {
+      "id": 2908,
+      "name": "Sewerage Reconnection Payment Search",
+      "url": "/collection-services/payments/SWReconnection/_search",
+      "displayName": "collectionservices search",
+      "orderNumber": 11,
+      "enabled": false,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
     }
     ]
 }
