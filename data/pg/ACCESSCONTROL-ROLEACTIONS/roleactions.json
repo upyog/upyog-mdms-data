@@ -30634,6 +30634,30 @@
       "actionid": 2907,
       "actioncode": "",
       "tenantId": "pg"
-    }	  
+    },
+	  {
+      "rolecode": "WS_CEMP",
+      "actionid": 2908,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2908,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2908,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2908,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
