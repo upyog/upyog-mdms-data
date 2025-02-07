@@ -1,0 +1,18 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Vendor",
+    "ModuleVendorRoleMapping": [
+       {
+        "moduleName": "WT",
+        "roleName": "Water Tanker Vendor",
+        "roleCode": "WT_VENDOR",
+        "active": true
+      },
+      {
+        "moduleName": "FSM",
+        "roleName": "DSO",
+        "roleCode": "FSM_DSO",
+        "active": true
+      }
+    ]
+}
