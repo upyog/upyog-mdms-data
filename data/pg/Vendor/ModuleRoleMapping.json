@@ -1,0 +1,30 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Vendor",
+    "ModuleRoleMapping": [
+       {
+        "moduleName": "WT",
+        "moduleRoleName": "WT_VENDOR",
+        "moduleRoleCode": "WT_VENDOR",
+        "active": true
+      },
+      {
+        "moduleName": "FSM",
+        "moduleRoleName": "FSM_DSO",
+        "moduleRoleCode": "FSM_DSO",
+        "active": true
+      },
+      {
+        "moduleName": "FSM",
+        "driverRoleName": "DSO_DRIVER_ROLE",
+        "driverRoleCode": "FSM_DRIVER",
+        "active": true
+      },
+      {
+        "moduleName": "WT",
+        "driverRoleName": "WT_DRIVER_ROLE",
+        "driverRoleCode": "WT_DRIVER",
+        "active": true
+      }
+    ]
+}
