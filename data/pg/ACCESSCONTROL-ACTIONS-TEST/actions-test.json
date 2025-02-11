@@ -19444,7 +19444,7 @@
       "code": "null",
       "path": ""
     },
-	   {
+	 {
       "id": 2908,
       "name": "Sewerage Reconnection Payment Search",
       "url": "/collection-services/payments/SWReconnection/_search",
@@ -19454,6 +19454,32 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
-    }
+    },
+	{
+      "id": 2909,
+      "name": "TL ",
+      "url": "/requester-services-dx/eSign/redirect",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 2910,
+      "name": "TL ",
+      "url": "/requester-services-dx/eSign/process",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    }   	
     ]
 }
