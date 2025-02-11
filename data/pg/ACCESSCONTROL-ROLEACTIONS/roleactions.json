@@ -29224,6 +29224,13 @@
       "actionid": 2827,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2828,
+      "actioncode": "",
+      "tenantId": "pg"
     }
+
   ]
 }

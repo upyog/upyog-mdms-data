@@ -18418,7 +18418,24 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2828,
+      "name": "BPA_CITIZEN_HOME_APPLY_FOR_PRE_APPROVED_PLAN",
+      "url": "digit-ui-card",
+      "displayName": "Apply for Pre-approved Plan",
+      "orderNumber": 3,
+      "parentModule": "OBPS",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/bpastakeholder-citizen/preApprovedPlanDetails",
+      "leftIcon": "OBPSIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/obps-home"
     }
-
    ]
 }
