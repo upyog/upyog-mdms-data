@@ -18436,6 +18436,32 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
+    },
+	   {
+      "id": 2829,
+      "name": "TL ",
+      "url": "/requester-services-dx/eSign/redirect",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    	{
+      "id": 2830,
+      "name": "TL ",
+      "url": "/requester-services-dx/eSign/process",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
     }
    ]
 }
