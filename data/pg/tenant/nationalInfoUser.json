@@ -26,12 +26,7 @@
 	  "NodalOfficerName": "Dr. Muralidhar",
       "active": true
     },
-    {
-      "stateCode": "Kerala",
-      "emailId": "rsharma@niua.org",
-	  "NodalOfficerName": "Rahul Sharma",
-      "active": true
-    },
+
     {
       "stateCode": "Maharashtra",
       "emailId": "shankar.gore68@mah.gov.in",
@@ -81,23 +76,12 @@
       "active": true
     },
     {
-      "stateCode": "Odisha",
-      "emailId": "rsharma@niua.org",
-	  "NodalOfficerName": "Rahul Sharma",
-      "active": true
-    },
-    {
       "stateCode": "Jharkhand",
       "emailId": "suda.goj@gmail.com",
 	  "NodalOfficerName": "Sumit",
       "active": true
     },
-    {
-      "stateCode": "Uttar Pradesh",
-      "emailId": "manviraheja97@gmail.com",
-	  "NodalOfficerName": "Rahul Sharma",
-      "active": true
-    },
+   
     {
       "stateCode": "Tripura",
       "emailId": "directorurbantripura@gmail.com",
