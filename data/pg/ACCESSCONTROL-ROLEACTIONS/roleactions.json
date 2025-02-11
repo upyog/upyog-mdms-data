@@ -30561,7 +30561,7 @@
     },
     {
       "rolecode": "NATADMIN",
-      "actionid": 29000,
+      "actionid": 2900,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -30635,8 +30635,26 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
-      "rolecode": "TL_CEMP",
+	  {
+      "rolecode": "WS_CEMP",
+      "actionid": 2908,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	 {
+      "rolecode": "SUPERUSER",
+      "actionid": 2908,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2908,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WS_CLERK",
       "actionid": 2908,
       "actioncode": "",
       "tenantId": "pg"
@@ -30644,18 +30662,24 @@
 	{
       "rolecode": "TL_CEMP",
       "actionid": 2909,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "TL_CEMP",
+      "actionid": 2910,
       "actioncode": "",
       "tenantId": "pg"
     },
      {
      "rolecode": "TL_APPROVER",
-      "actionid": 2908,
+      "actionid": 2909,
       "actioncode": "",
       "tenantId": "pg"
     },
 	{
       "rolecode": "TL_APPROVER",
-      "actionid": 2909,
+      "actionid": 2910,
       "actioncode": "",
       "tenantId": "pg"
     }
