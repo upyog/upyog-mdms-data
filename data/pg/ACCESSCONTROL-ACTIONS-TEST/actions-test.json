@@ -18283,7 +18283,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2817,
       "name": "MDMS",
@@ -19418,8 +19417,8 @@
       "enabled": 0,
       "serviceCode": "PQM",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2907,
       "name": "Create Plant User Mapping",
       "url": "/pqm-service/plant/user/v1/_create",
@@ -19428,8 +19427,8 @@
       "enabled": 0,
       "serviceCode": "PQM",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2908,
       "name": "Update Plant User Mapping",
       "url": "/pqm-service/plant/user/v1/_update",
@@ -19438,8 +19437,8 @@
       "enabled": 0,
       "serviceCode": "PQM",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2909,
       "name": "Search Plant User Mapping",
       "url": "/pqm-service/plant/user/v1/_search",
@@ -19448,8 +19447,8 @@
       "enabled": 0,
       "serviceCode": "PQM",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2910,
       "name": "Schedule PQM Application",
       "url": "/pqm-service/v1/_scheduler",
@@ -19458,8 +19457,8 @@
       "enabled": 0,
       "serviceCode": "PQM",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2911,
       "name": "DSS Dashboard Config PQM",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/pqm",
@@ -19468,8 +19467,8 @@
       "enabled": 0,
       "serviceCode": "DSS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2912,
       "name": "Search PQM Application",
       "url": "/inbox/v2/_search",
@@ -19478,8 +19477,8 @@
       "enabled": 0,
       "serviceCode": "PQM",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2913,
       "name": "schema Create",
       "url": "/mdms-v2/schema/v1/_create",
@@ -19487,8 +19486,8 @@
       "orderNumber": 0,
       "enabled": 0,
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2914,
       "name": "Search  PQM Application",
       "url": "/mdms-v2/schema/v1/_search",
@@ -19497,8 +19496,8 @@
       "enabled": 0,
       "serviceCode": "PQM",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2915,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.SourceType",
@@ -19506,8 +19505,8 @@
       "orderNumber": 0,
       "enabled": 0,
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2916,
       "name": "MDMS",
       "url": "url",
@@ -19519,8 +19518,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=QualityTestLab",
       "path": "9MDMS.PQM.QualityTestLab",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2917,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.QualityTestLab",
@@ -19529,8 +19528,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2918,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.QualityTestLab",
@@ -19539,8 +19538,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2919,
       "name": "MDMS",
       "url": "url",
@@ -19552,8 +19551,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=BenchmarkRule",
       "path": "9MDMS.PQM.BenchmarkRule",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2920,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.BenchmarkRule",
@@ -19562,8 +19561,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2921,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.BenchmarkRule",
@@ -19572,8 +19571,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2922,
       "name": "MDMS",
       "url": "url",
@@ -19585,8 +19584,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Material",
       "path": "9MDMS.PQM.Material",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2923,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.Material",
@@ -19595,8 +19594,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2924,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.Material",
@@ -19605,8 +19604,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2925,
       "name": "MDMS",
       "url": "url",
@@ -19618,8 +19617,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Unit",
       "path": "9MDMS.PQM.Unit",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2926,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.Unit",
@@ -19628,8 +19627,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2927,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.Unit",
@@ -19638,8 +19637,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2928,
       "name": "MDMS",
       "url": "url",
@@ -19651,8 +19650,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=TestType",
       "path": "9MDMS.PQM.TestType",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2929,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.TestType",
@@ -19661,8 +19660,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2930,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.TestType",
@@ -19671,8 +19670,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2931,
       "name": "MDMS",
       "url": "url",
@@ -19684,8 +19683,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Plant",
       "path": "9MDMS.PQM.Plant",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2932,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.Plant",
@@ -19694,8 +19693,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2933,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.Plant",
@@ -19704,8 +19703,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2934,
       "name": "MDMS",
       "url": "url",
@@ -19717,8 +19716,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=PlantType",
       "path": "9MDMS.PQM.PlantType",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2935,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.PlantType",
@@ -19727,8 +19726,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2936,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.PlantType",
@@ -19737,8 +19736,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2937,
       "name": "MDMS",
       "url": "url",
@@ -19750,8 +19749,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Stage",
       "path": "9MDMS.PQM.Stage",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2938,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.Stage",
@@ -19760,8 +19759,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2939,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.Stage",
@@ -19770,8 +19769,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2940,
       "name": "MDMS",
       "url": "url",
@@ -19783,8 +19782,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=TestStandard",
       "path": "9MDMS.PQM.TestStandard",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2941,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.TestStandard",
@@ -19793,8 +19792,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2942,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.TestStandard",
@@ -19803,8 +19802,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2943,
       "name": "MDMS",
       "url": "url",
@@ -19816,8 +19815,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=QualityCriteria",
       "path": "9MDMS.PQM.QualityCriteria",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2944,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.QualityCriteria",
@@ -19826,8 +19825,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2945,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.QualityCriteria",
@@ -19836,8 +19835,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2946,
       "name": "MDMS",
       "url": "url",
@@ -19849,8 +19848,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Parameter",
       "path": "9MDMS.PQM.Parameter",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2947,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.Parameter",
@@ -19859,8 +19858,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2948,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.Parameter",
@@ -19869,8 +19868,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2949,
       "name": "MDMS",
       "url": "url",
@@ -19882,8 +19881,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=ProcessType",
       "path": "9MDMS.PQM.ProcessType",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2950,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.ProcessType",
@@ -19892,8 +19891,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2951,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.ProcessType",
@@ -19902,8 +19901,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2952,
       "name": "MDMS",
       "url": "url",
@@ -19915,8 +19914,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=ProcessSubType",
       "path": "9MDMS.PQM.ProcessSubType",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2953,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.ProcessSubType",
@@ -19925,8 +19924,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2954,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.ProcessSubType",
@@ -19935,8 +19934,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2955,
       "name": "MDMS",
       "url": "url",
@@ -19948,8 +19947,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Process",
       "path": "9MDMS.PQM.Process",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2956,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.Process",
@@ -19958,8 +19957,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2957,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.Process",
@@ -19968,8 +19967,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2958,
       "name": "MDMS",
       "url": "url",
@@ -19981,8 +19980,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=PlantConfig",
       "path": "9MDMS.PQM.PlantConfig",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2959,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.PlantConfig",
@@ -19991,8 +19990,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2960,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.PlantConfig",
@@ -20001,8 +20000,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2961,
       "name": "MDMS",
       "url": "url",
@@ -20014,8 +20013,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=PlantAddress",
       "path": "9MDMS.PQM.PlantAddress",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2962,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.PlantAddress",
@@ -20024,8 +20023,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2963,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.PlantAddress",
@@ -20034,8 +20033,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2964,
       "name": "MDMS",
       "url": "url",
@@ -20047,8 +20046,8 @@
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=WasteType",
       "path": "9MDMS.PQM.WasteType",
       "leftIcon": "dynamic:ContractIcon"
-    },
-    {
+     },
+     {
       "id": 2965,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/PQM.WasteType",
@@ -20057,8 +20056,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2966,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/PQM.WasteType",
@@ -20067,8 +20066,8 @@
       "enabled": 1,
       "serviceCode": "MDMS",
       "code": "null"
-    },
-    {
+     },
+     {
       "id": 2967,
       "name": "Search  PQM Application",
       "url": "/mdms-v2/v2/_search",
@@ -20077,200 +20076,200 @@
       "enabled": 0,
       "serviceCode": "PQM",
       "code": "null"
-    },
-    {
-      "id": 2968,
-      "name": "TQM",
-      "url": "url",
-      "displayName": "TQM",
-      "orderNumber": 1,
-      "parentModule": "tqm",
-      "enabled": true,
-      "serviceCode": "tqm",
-      "code": "null",
-      "path": "TQM",
-      "navigationURL": "/digit-ui/employee/",
-      "leftIcon": "dynamic:MuktaHomeIcon",
-      "rightIcon": ""
-    },
-    {
-      "id": 2969,
-      "name": "TQMTest",
-      "url": "url",
-      "displayName": "TQM Test Report",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": "FSM.Reports.TQMTest",
-      "navigationURL": "report/fsm/TQMTest",
-      "leftIcon": "action:description",
-      "rightIcon": ""
-    },
-    {
-      "id": 2970,
-      "name": "TQMTest-Metadata",
-      "url": "/report/fsm/TQMTest/metadata/_get",
-      "displayName": "TQM Metadata Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "TQMTEST_METADATA",
-      "code": "null",
-      "path": "TQM Report"
-    },
-    {
-      "id": 2971,
-      "name": "TQMTest",
-      "url": "/report/fsm/TQMTest/_get",
-      "displayName": "TQM Report",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "TQMTEST_METADATA",
-      "code": "null",
-      "path": "TQM Report"
-    },
-    {
-      "id": 2972,
-      "name": "Download Pdf for PQM Application",
-      "url": "/pqm-service/v1/_downloadPdf",
-      "displayName": "Download Pdf for PQM Application",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "PQM",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2973,
-      "name": "National Dashboard: Send Email",
-      "url": "/national-dashboard/email/_sendEmail",
-      "displayName": "Dashboard Missing Data Send Email",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "NDSS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2974,
-      "name": "PT Workflow Escalation Update",
-      "url": "/egov-workflow-v2/egov-wf/auto/PT.CREATE/_escalate",
-      "parentModule": "",
-      "displayName": "PT Workflow Escalation Update",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "egov-workflow-v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2975,
-      "name": "WS Workflow Escalation Update",
-      "url": "/egov-workflow-v2/egov-wf/auto/NewWS1/_escalate",
-      "parentModule": "",
-      "displayName": "WS Workflow Escalation Update",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "egov-workflow-v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2976,
-      "name": "FSM Workflow Escalation Update",
-      "url": "/egov-workflow-v2/egov-wf/auto/FSM_ADVANCE_PAY_SERVICE_V1/_escalate",
-      "parentModule": "",
-      "displayName": "FSM Workflow Escalation Update",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "egov-workflow-v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2977,
-      "name": " FIRENOC Workflow Escalation Update",
-      "url": "/egov-workflow-v2/egov-wf/auto/FIRENOC/_escalate",
-      "parentModule": "",
-      "displayName": " FIRENOC Workflow Escalation Update",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "egov-workflow-v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2978,
-      "name": "SW Workflow Escalation Update",
-      "url": "/egov-workflow-v2/egov-wf/auto/NewSW1/_escalate",
-      "parentModule": "",
-      "displayName": "sw Workflow Escalation Update",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "egov-workflow-v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2979,
-      "name": "Digilocker User Create",
-      "url": "user/digilocker/oauth/token",
-      "displayName": "Digilocker Profile Create",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "ADMIN",
-      "code": "null",
-      "path": "Administration.DigiLocker User Create"
-    },
-    {
-      "id": 2980,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/Workflow.AutoEscalation",
-      "displayName": "Create Workflow AutoEscalation",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2981,
-      "name": "Sewerage Reconnection Payment Search",
-      "url": "/collection-services/payments/SWReconnection/_search",
-      "displayName": "collectionservices search",
-      "orderNumber": 11,
-      "enabled": false,
-      "serviceCode": "null",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2982,
-      "name": "TL ",
-      "url": "/requester-services-dx/eSign/redirect",
-      "parentModule": "",
-      "displayName": "",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "TradeLicense",
-      "code": "null",
-      "path": "",
-      "navigationURL": ""
-    },
-    {
-      "id": 2983,
-      "name": "TL ",
-      "url": "/requester-services-dx/eSign/process",
-      "parentModule": "",
-      "displayName": "",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "TradeLicense",
-      "code": "null",
-      "path": "",
-      "navigationURL": ""
-    }
+     },
+      {
+        "id": 2968,
+        "name": "TQM",
+        "url": "url",
+        "displayName": "TQM",
+        "orderNumber": 1,
+        "parentModule": "tqm",
+        "enabled": true,
+        "serviceCode": "tqm",
+        "code": "null",
+        "path": "TQM",
+        "navigationURL": "/digit-ui/employee/",
+        "leftIcon": "dynamic:MuktaHomeIcon",
+        "rightIcon": ""
+      },
+      {
+        "id": 2969,
+        "name": "TQMTest",
+        "url": "url",
+        "displayName": "TQM Test Report",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FSM.Reports.TQMTest",
+        "navigationURL": "report/fsm/TQMTest",
+        "leftIcon": "action:description",
+        "rightIcon": ""
+      },
+      {
+        "id": 2970,
+        "name": "TQMTest-Metadata",
+        "url": "/report/fsm/TQMTest/metadata/_get",
+        "displayName": "TQM Metadata Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "TQMTEST_METADATA",
+        "code": "null",
+        "path": "TQM Report"
+      },
+      {
+        "id": 2971,
+        "name": "TQMTest",
+        "url": "/report/fsm/TQMTest/_get",
+        "displayName": "TQM Report",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "TQMTEST_METADATA",
+        "code": "null",
+        "path": "TQM Report"
+      },
+      {
+        "id": 2972,
+        "name": "Download Pdf for PQM Application",
+        "url": "/pqm-service/v1/_downloadPdf",
+        "displayName": "Download Pdf for PQM Application",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "PQM",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2973,
+        "name": "National Dashboard: Send Email",
+        "url": "/national-dashboard/email/_sendEmail",
+        "displayName": "Dashboard Missing Data Send Email",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "NDSS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id":2974,
+        "name": "PT Workflow Escalation Update",
+        "url": "/egov-workflow-v2/egov-wf/auto/PT.CREATE/_escalate",
+        "parentModule": "",
+        "displayName": "PT Workflow Escalation Update",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "egov-workflow-v2",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2975,
+        "name": "WS Workflow Escalation Update",
+        "url": "/egov-workflow-v2/egov-wf/auto/NewWS1/_escalate",
+        "parentModule": "",
+        "displayName": "WS Workflow Escalation Update",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "egov-workflow-v2",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id":2976,
+        "name": "FSM Workflow Escalation Update",
+        "url": "/egov-workflow-v2/egov-wf/auto/FSM_ADVANCE_PAY_SERVICE_V1/_escalate",
+        "parentModule": "",
+        "displayName": "FSM Workflow Escalation Update",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "egov-workflow-v2",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id":2977,
+        "name": " FIRENOC Workflow Escalation Update",
+        "url": "/egov-workflow-v2/egov-wf/auto/FIRENOC/_escalate",
+        "parentModule": "",
+        "displayName": " FIRENOC Workflow Escalation Update",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "egov-workflow-v2",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2978,
+        "name": "SW Workflow Escalation Update",
+        "url": "/egov-workflow-v2/egov-wf/auto/NewSW1/_escalate",
+        "parentModule": "",
+        "displayName": "sw Workflow Escalation Update",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "egov-workflow-v2",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2979,
+        "name": "Digilocker User Create",
+        "url": "user/digilocker/oauth/token",
+        "displayName": "Digilocker Profile Create",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": "Administration.DigiLocker User Create"
+      },
+      {
+          "id": 2980,
+          "name": "MDMS",
+          "url":"/mdms-v2/v2/_create/Workflow.AutoEscalation",
+          "displayName": "Create Workflow AutoEscalation",
+          "orderNumber": 1,
+          "parentModule": "",
+          "enabled": true,
+          "serviceCode": "MDMS",
+          "code": "null",
+          "path": ""
+      },
+      {
+          "id": 2981,
+          "name": "Sewerage Reconnection Payment Search",
+          "url": "/collection-services/payments/SWReconnection/_search",
+          "displayName": "collectionservices search",
+          "orderNumber": 11,
+          "enabled": false,
+          "serviceCode": "null",
+          "code": "null",
+          "path": ""
+      },
+      {
+          "id": 2982,
+          "name": "TL ",
+          "url": "/requester-services-dx/eSign/redirect",
+          "parentModule": "",
+          "displayName": "",
+          "orderNumber": 0,
+          "enabled": true,
+          "serviceCode": "TradeLicense",
+          "code": "null",
+          "path": "",
+          "navigationURL": ""
+      },
+      {
+          "id": 2983,
+          "name": "TL ",
+          "url": "/requester-services-dx/eSign/process",
+          "parentModule": "",
+          "displayName": "",
+          "orderNumber": 0,
+          "enabled": true,
+          "serviceCode": "TradeLicense",
+          "code": "null",
+          "path": "",
+          "navigationURL": ""
+      }         	
   ]
 }
