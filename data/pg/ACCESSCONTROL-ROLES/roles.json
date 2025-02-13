@@ -821,6 +821,16 @@
       "code": "WT_DRIVER",
       "name": "Water Tanker Driver role",
       "description": "Water Tanker Driver"
-    }
+    },
+    {
+      "code": "COMMON_DRIVER",
+      "name": "Common Driver role",
+      "description": "Common Driver role"
+    },
+    {
+      "code": "COMMON_VENDOR",
+      "name": "Common Vendor role",
+      "description": "Common Vendor role"
+    }	  
   ]
 }
