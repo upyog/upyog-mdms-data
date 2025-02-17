@@ -15557,7 +15557,7 @@
     {
       "id": 2587,
       "name": "Get Authorization URL",
-      "url": "/requester-services-dx/user/authorization/url",
+      "url": "/requester-services-dx/digilocker/authorization/url",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15570,7 +15570,7 @@
     {
       "id": 2588,
       "name": "Get Access Token",
-      "url": "/requester-services-dx/user/token",
+      "url": "/requester-services-dx/digilocker/token",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15583,7 +15583,7 @@
     {
       "id": 2589,
       "name": "Get User Details",
-      "url": "/requester-services-dx/user/details",
+      "url": "/requester-services-dx/digilocker/details",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15596,7 +15596,7 @@
     {
       "id": 2590,
       "name": "Get Issued Files",
-      "url": "/requester-services-dx/user/issuedfiles",
+      "url": "/requester-services-dx/digilocker/issuedfiles",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15609,7 +15609,7 @@
     {
       "id": 2591,
       "name": "Get File",
-      "url": "/requester-services-dx/user/file",
+      "url": "/requester-services-dx/digilocker/file",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15622,7 +15622,7 @@
     {
       "id": 2592,
       "name": "Get Authorization URL",
-      "url": "/requester-services-dx/user/authorization/url",
+      "url": "/requester-services-dx/digilocker/authorization/url",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15772,11 +15772,11 @@
     {
       "id": 2606,
       "name": "TL Workflow Escalation Update",
-      "url": "egov-workflow-v2/egov-wf/auto/NewTL/_escalate",
+      "url": "/egov-workflow-v2/egov-wf/auto/NewTL/_escalate",
       "parentModule": "",
       "displayName": "TL Workflow Escalation Update",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
@@ -15784,7 +15784,7 @@
     {
       "id": 2607,
       "name": "OBPS Workflow Escalation Update",
-      "url": "egov-workflow-v2/egov-wf/auto/BPA/_escalate",
+      "url": "/egov-workflow-v2/egov-wf/auto/BPA/_escalate",
       "parentModule": "",
       "displayName": "OBPS Workflow Escalation Update",
       "orderNumber": 0,
@@ -19335,6 +19335,151 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    } 	  	  
-  ]
+    },
+     {
+      "id": 2899,
+      "name": "Inbox",
+      "url": "/services/EGF/inbox",
+      "parentModule": "",
+      "displayName": "Inbox",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceGeneral",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Transactions.Inbox",
+      "navigationURL": "services/EGF/inbox"
+    },
+    {
+      "id": 2900,
+      "name": "National Dashboard: Send Email",
+      "url": "/national-dashboard/email/_sendEmail",
+      "displayName": "Dashboard Missing Data Send Email",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NDSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id":2901,
+      "name": "PT Workflow Escalation Update",
+      "url": "/egov-workflow-v2/egov-wf/auto/PT.CREATE/_escalate",
+      "parentModule": "",
+      "displayName": "PT Workflow Escalation Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 2902,
+      "name": "WS Workflow Escalation Update",
+      "url": "/egov-workflow-v2/egov-wf/auto/NewWS1/_escalate",
+      "parentModule": "",
+      "displayName": "WS Workflow Escalation Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id":2903,
+      "name": "FSM Workflow Escalation Update",
+      "url": "/egov-workflow-v2/egov-wf/auto/FSM_ADVANCE_PAY_SERVICE_V1/_escalate",
+      "parentModule": "",
+      "displayName": "FSM Workflow Escalation Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id":2904,
+      "name": " FIRENOC Workflow Escalation Update",
+      "url": "/egov-workflow-v2/egov-wf/auto/FIRENOC/_escalate",
+      "parentModule": "",
+      "displayName": " FIRENOC Workflow Escalation Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 2905,
+      "name": "SW Workflow Escalation Update",
+      "url": "/egov-workflow-v2/egov-wf/auto/NewSW1/_escalate",
+      "parentModule": "",
+      "displayName": "sw Workflow Escalation Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+	{
+         "id": 2906,
+         "name": "Digilocker User Create",
+         "url": "user/digilocker/oauth/token",
+         "displayName": "Digilocker Profile Create",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "ADMIN",
+         "code": "null",
+         "path": "Administration.DigiLocker User Create"
+      },
+	   {
+      "id": 2907,
+      "name": "MDMS",
+      "url":"/mdms-v2/v2/_create/Workflow.AutoEscalation",
+      "displayName": "Create Workflow AutoEscalation",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+	 {
+      "id": 2908,
+      "name": "Sewerage Reconnection Payment Search",
+      "url": "/collection-services/payments/SWReconnection/_search",
+      "displayName": "collectionservices search",
+      "orderNumber": 11,
+      "enabled": false,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 2909,
+      "name": "TL ",
+      "url": "/requester-services-dx/eSign/redirect",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 2910,
+      "name": "TL ",
+      "url": "/requester-services-dx/eSign/process",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    }   	
+    ]
 }
