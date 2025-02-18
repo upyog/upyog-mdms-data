@@ -901,6 +901,29 @@
           "code": "pg.shimla"
         } 
       ]
-    }  
+    },
+    {
+      "module": "CND",
+      "code": "CND",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
+      ]
+    }   
   ]
 }

@@ -831,6 +831,11 @@
       "code": "COMMON_VENDOR",
       "name": "Common Vendor role",
       "description": "Common Vendor role"
-    }	  
+    },
+    {
+      "code": "CND_CEMP",
+      "name": "Construction & Demolition Employee Role",
+      "description": "Construction & Demolition Employee Role"
+    }		  
   ]
 }
