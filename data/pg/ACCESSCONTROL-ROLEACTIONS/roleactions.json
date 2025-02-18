@@ -30620,6 +30620,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2930,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "WT_CEMP",
       "actionid": 2904,
       "actioncode": "",
@@ -30645,6 +30651,18 @@
     },
     {
       "rolecode": "WT_CEMP",
+      "actionid": 2930,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WT_CEMP",
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "pg"
@@ -30661,6 +30679,24 @@
       "actioncode": "",
       "tenantId": "pg"
     },  
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2066,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2411,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2064,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
     {
       "rolecode": "CHB_CEMP",
       "actionid": 2905,

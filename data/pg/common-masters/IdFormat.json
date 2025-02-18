@@ -753,6 +753,10 @@
         {
             "format": "SV-CT-[seq_street_vending_certificate_no]",
             "idname": "street-vending.certificate.no"
+        },
+        {
+            "format": "WT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "request-service.receipt.id"
         }
     ]
 }
