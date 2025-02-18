@@ -30876,6 +30876,30 @@
       "actionid": 2929,
       "actioncode": "",
       "tenantId": "pg"
-    } 
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2931,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2932,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 2931,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 2932,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }

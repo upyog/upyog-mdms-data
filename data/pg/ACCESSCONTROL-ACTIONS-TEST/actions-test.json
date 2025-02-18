@@ -19760,6 +19760,42 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2931,
+      "name": "CND_APPLY",
+      "url": "digit-ui-card",
+      "displayName": "Apply",
+      "orderNumber": 1,
+      "parentModule": "CND",
+      "enabled": true,
+      "serviceCode": "CND",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/cnd/apply",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/and-home"
+    },
+    {
+      "id": 2932,
+      "name": "CND_APPLY",
+      "url": "cnd-ui-card",
+      "displayName": "Apply",
+      "orderNumber": 1,
+      "parentModule": "CND",
+      "enabled": true,
+      "serviceCode": "CND",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/cnd-ui/citizen/cnd/apply",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "cnd-ui-links",
+      "sidebarURL": "/cnd-ui/citizen/and-home"
     }
   ]
 }	  
