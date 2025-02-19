@@ -19796,6 +19796,43 @@
       "queryParams": "",
       "sidebar": "cnd-ui-links",
       "sidebarURL": "/cnd-ui/citizen/cnd-home"
+    },
+
+    {
+      "id": 2933,
+      "name": "SV_APPLY",
+      "url": "cnd-ui-card",
+      "displayName": "Apply",
+      "orderNumber": 1,
+      "parentModule": "SV",
+      "enabled": true,
+      "serviceCode": "SV",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/cnd-ui/citizen/sv/apply",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "cnd-ui-links",
+      "sidebarURL": "/cnd-ui/citizen/sv-home"
+    },
+    {
+      "id": 2934,
+      "name": "SV_MY_APPLICATION",
+      "url": "cnd-ui-card",
+      "displayName": "My Applications",
+      "orderNumber": 2,
+      "parentModule": "SV",
+      "enabled": true,
+      "serviceCode": "SV",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/cnd-ui/citizen/sv/my-applications",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "cnd-ui-links",
+      "sidebarURL": "/cnd-ui/citizen/sv-home"
     }
   ]
 }	  
