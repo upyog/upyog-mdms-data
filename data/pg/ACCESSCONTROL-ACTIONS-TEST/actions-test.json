@@ -19833,6 +19833,18 @@
       "queryParams": "",
       "sidebar": "cnd-ui-links",
       "sidebarURL": "/cnd-ui/citizen/sv-home"
+    },
+    {
+      "id": 2935,
+      "name": "vendor common Search",
+      "url": "/vendor-management/api/v1/vendorPlusAdditional/_search",
+      "displayName": "Vendor Common Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  

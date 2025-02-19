@@ -30912,6 +30912,12 @@
       "actionid": 2934,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2935,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
