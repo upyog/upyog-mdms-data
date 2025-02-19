@@ -19777,7 +19777,7 @@
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/and-home"
+      "sidebarURL": "/digit-ui/citizen/cnd-home"
     },
     {
       "id": 2932,
@@ -19795,7 +19795,7 @@
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "cnd-ui-links",
-      "sidebarURL": "/cnd-ui/citizen/and-home"
+      "sidebarURL": "/cnd-ui/citizen/cnd-home"
     }
   ]
 }	  
