@@ -19845,6 +19845,51 @@
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2936,
+      "name": "Pet Report",
+      "url": "url",
+      "displayName": "Pet Application Report",
+      "orderNumber": 1,
+      "parentModule": "pet-services",
+      "enabled": true,
+      "serviceCode": "PTR",
+      "code": "null",
+      "path": "PTR.Reports.PetReport",
+      "navigationURL": "report/rainmaker-pet/PetReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2937,
+      "name": "PetReport",
+      "url": "/report/rainmaker-pet/PetReport/metadata/_get",
+      "displayName": "rainmaker-pet-PetReport",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2938,
+      "name": "PetReport",
+      "url": "/report/rainmaker-pet/PetReport/_get",
+      "displayName": "rainmaker-pet-PetReport",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
+    }	  
   ]
 }	  
