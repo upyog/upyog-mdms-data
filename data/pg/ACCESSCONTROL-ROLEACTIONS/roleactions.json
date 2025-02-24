@@ -30936,6 +30936,24 @@
       "actionid": 2938,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "ADS_CEMP",
+      "actionid": 2939,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ADS_CEMP",
+      "actionid": 2940,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ADS_CEMP",
+      "actionid": 2941,
+      "actioncode": "",
+      "tenantId": "pg"
     }	  
   ]
 }
