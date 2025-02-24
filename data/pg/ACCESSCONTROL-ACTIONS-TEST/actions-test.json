@@ -19890,6 +19890,51 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
+    },
+    {
+      "id": 2939,
+      "name": "Adv Application Report",
+      "url": "url",
+      "displayName": "Adv Application Report",
+      "orderNumber": 1,
+      "parentModule": "adv-services",
+      "enabled": true,
+      "serviceCode": "ADS",
+      "code": "null",
+      "path": "ADS.Reports.AdvApplicationReport",
+      "navigationURL": "report/rainmaker-ads/AdvApplicationReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2940,
+      "name": "AdvApplicationReport",
+      "url": "/report/rainmaker-ads/AdvApplicationReport/metadata/_get",
+      "displayName": "rainmaker-ads-AdvApplicationReport",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2941,
+      "name": "AdvApplicationReport",
+      "url": "/report/rainmaker-ads/AdvApplicationReport/_get",
+      "displayName": "rainmaker-ads-AdvApplicationReport",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
     }	  
   ]
 }	  
