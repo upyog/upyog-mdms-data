@@ -757,6 +757,10 @@
         {
             "format": "WT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "request-service.receipt.id"
+        },
+	{
+            "format": "MT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "request-service-mobile-toilet.receipt.id"
         }
     ]
 }
