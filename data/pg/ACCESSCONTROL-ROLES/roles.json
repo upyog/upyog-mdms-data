@@ -808,6 +808,11 @@
       "description": "Vendor Employee"
     },
     {
+      "code": "MT_CEMP",
+      "name": "Mobile Toilet Counter Employee",
+      "description": "Mobile Toilet Counter Employee"
+    },
+    {
       "code": "WT_CEMP",
       "name": "Water Tanker Counter Employee",
       "description": "Water Tanker Counter Employee"
@@ -836,6 +841,6 @@
       "code": "CND_CEMP",
       "name": "Construction & Demolition Waste Collection Employee Role",
       "description": "Construction & Demolition Waste Collection Employee Role"
-    }		  
+    }
   ]
 }
