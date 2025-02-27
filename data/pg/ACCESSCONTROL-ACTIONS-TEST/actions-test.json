@@ -19935,6 +19935,39 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    }	  
+    },
+    {
+      "id": 2942,
+      "name": "Create Mobile Toilet application",
+      "url": "/request-service/mobile-toilet/v1/_create",
+      "displayName": "Create Mobile Toilet application",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2943,
+      "name": "Search Mobile Toilet application",
+      "url": "/request-service/mobile-toilet/v1/_search",
+      "displayName": "Search Mobile Toilet application",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2944,
+      "name": "Update Mobile Toilet application",
+      "url": "/request-service/mobile-toilet/v1/_update",
+      "displayName": "Update Mobile Toilet application",
+      "orderNumber": 6,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    }
   ]
 }	  
