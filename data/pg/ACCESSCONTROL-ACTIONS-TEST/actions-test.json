@@ -20001,24 +20001,6 @@
       "serviceCode": "cnd-service",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2948,
-      "name": "MT_REQUEST_SERVICE_VENDOR_LOGIN",
-      "url": "digit-ui-card",
-      "displayName": "Request Service",
-      "orderNumber": 3,
-      "parentModule": "WT",
-      "enabled": true,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/wt/wt-Vendor",
-      "leftIcon": "CHBIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/wt-home"
     }
   ]
 }	  
