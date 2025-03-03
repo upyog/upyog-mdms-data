@@ -30938,18 +30938,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 2933,
-      "actioncode": "",
-      "tenantId": "pg"
-    }, 
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2934,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "VENDOR",
       "actionid": 2935,
       "actioncode": "",
