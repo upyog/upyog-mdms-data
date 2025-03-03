@@ -9,6 +9,12 @@
         "active": true
       },
       {
+        "moduleName": "MT",
+        "roleName": "Mobile Tanker Vendor",
+        "roleCode": "MT_VENDOR",
+        "active": true
+      },
+      {
         "moduleName": "FSM",
         "roleName": "DSO",
         "roleCode": "FSM_DSO",

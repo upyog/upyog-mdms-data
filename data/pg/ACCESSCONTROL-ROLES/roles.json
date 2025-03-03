@@ -841,6 +841,11 @@
       "code": "CND_CEMP",
       "name": "Construction & Demolition Waste Collection Employee Role",
       "description": "Construction & Demolition Waste Collection Employee Role"
+    },
+    {
+      "code": "MT_VENDOR",
+      "name": "Mobile Toilet Vendor",
+      "description": "Mobile Toilet Vendor From Citizen Login"
     }
   ]
 }
