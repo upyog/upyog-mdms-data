@@ -1,0 +1,21 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Construction-Demolition",
+    "ConstructionType": [
+      {
+        "name": "RENOVATION",
+        "code": "RENOVATION",
+        "active": true
+      },
+      {
+        "name": "Old Building Demolition",
+        "code": "OLD_BUILDING_DEMOLITION",
+        "active": true
+      },
+      {
+        "name": "New Construction",
+        "code": "NEW_CONSTRUCTION",
+        "active": true
+      }
+    ]
+  }
