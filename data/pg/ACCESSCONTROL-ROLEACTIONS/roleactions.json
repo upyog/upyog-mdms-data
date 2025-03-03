@@ -30990,6 +30990,42 @@
       "actionid": 2941,
       "actioncode": "",
       "tenantId": "pg"
-    }  
+    },
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 2945,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 2946,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 2947,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2945,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2946,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2947,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }

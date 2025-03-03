@@ -19968,6 +19968,39 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2945,
+      "name": "Create CND application",
+      "url": "/cnd-service/v1/_create",
+      "displayName": "Create CND application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "cnd-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2946,
+      "name": "Search CND application",
+      "url": "/cnd-service/v1/_search",
+      "displayName": "Search CND application",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "cnd-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2947,
+      "name": "Update CND application",
+      "url": "/cnd-service/v1/_update",
+      "displayName": "Update CND application",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "cnd-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
