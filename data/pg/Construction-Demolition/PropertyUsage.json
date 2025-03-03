@@ -1,0 +1,26 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Construction-Demolition",
+    "PropertyUsage": [
+        {
+            "name": "Residential",
+            "code": "RESIDENTIAL",
+            "active": true
+        },
+        {
+            "name": "NonResidential",
+            "code": "NONRESIDENTIAL",
+            "active": true
+        },
+        {
+            "name": "Mixed",
+            "code": "MIXED",
+            "active": true
+        },
+        {
+            "name": "Industrial",
+            "code": "NONRESIDENTIAL.INDUSTRIAL",
+            "active": true
+        }
+    ]
+  }
