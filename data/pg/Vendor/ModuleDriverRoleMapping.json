@@ -15,6 +15,12 @@
         "active": true
       },
       {
+        "moduleName": "MT",
+        "roleName": "Mobile Toilet Driver role",
+        "roleCode": "MT_DRIVER",
+        "active": true
+      },
+      {
         "moduleName": "COMMON",
         "roleName": "Common Driver role",
         "roleCode": "COMMON_DRIVER",
