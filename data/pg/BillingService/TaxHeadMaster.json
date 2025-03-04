@@ -5897,6 +5897,16 @@
         "isActualDemand": true,
         "order": "0",
         "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "request-service",
+        "name": "Mobile Toilet Fee",
+        "code": "MOBILE_TOILET_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
       }
   ]
 }
