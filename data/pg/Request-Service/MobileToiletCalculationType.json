@@ -5,7 +5,7 @@
       {
         "applicationType": "MOBILE_TOILET_REQUEST",
         "serviceType": "NEW_REQUEST",
-        "feeType": "MOBILE_TOILET_FEE",
+        "feeType": "MOBILE_TOILET_BOOKING_FEE",
         "amount": 1000
       }
     ]

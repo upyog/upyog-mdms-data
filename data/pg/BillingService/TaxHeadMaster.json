@@ -5901,8 +5901,8 @@
       {
         "category": "FEE",
         "service": "request-service",
-        "name": "Mobile Toilet Fee",
-        "code": "MOBILE_TOILET_FEE",
+        "name": "Mobile Toilet Booking Fee",
+        "code": "MOBILE_TOILET_BOOKING_FEE",
         "isDebit": false,
         "isActualDemand": true,
         "order": "0",
