@@ -5907,6 +5907,16 @@
         "isActualDemand": true,
         "order": "0",
         "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "Construction-Demolition",
+        "name": "CND Vehicle Fee",
+        "code": "CND_VEHICLE_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
       }
   ]
 }
