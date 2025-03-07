@@ -1722,6 +1722,23 @@
       "service": "request-service",
       "code": "REQ10YRS2024",
       "financialYear": "2024-34"
+    },
+
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "cnd-service",
+      "code": "CND10YRS2024",
+      "financialYear": "2025-35"
+    },
+    {
+      "fromDate": 1606815883000,
+      "toDate": 1924948799000,
+      "periodCycle": "FORTENYEARS",
+      "service": "CND.TRIP_CHARGES",
+      "code": "CNDTRIPCHARGE10YRS",
+      "financialYear": "2025-2035"
     }
   ]
 }
