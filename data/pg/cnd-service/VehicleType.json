@@ -1,6 +1,6 @@
 {
     "tenantId": "pg",
-    "moduleName": "Construction-Demolition",
+    "moduleName": "cnd-service",
     "VehicleType": [
         {
             "code": "MAHINDRA.BOLERO_PICKUP",

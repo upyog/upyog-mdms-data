@@ -2061,8 +2061,8 @@
       "isActive": true
     },
     {
-      "businessService": "Construction-Demolition",
-      "code": "Construction-Demolition",
+      "businessService": "cnd-service",
+      "code": "cnd-service",
       "collectionModesNotAllowed": [
         "DD"
       ],

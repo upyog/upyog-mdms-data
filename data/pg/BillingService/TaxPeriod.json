@@ -1728,7 +1728,7 @@
       "fromDate": 1554057000000,
       "toDate": 1869676199000,
       "periodCycle": "TENYEARS",
-      "service": "Construction-Demolition",
+      "service": "cnd-service",
       "code": "CND10YRS2024",
       "financialYear": "2025-35"
     },

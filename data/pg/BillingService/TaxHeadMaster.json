@@ -5910,7 +5910,7 @@
       },
       {
         "category": "FEE",
-        "service": "Construction-Demolition",
+        "service": "cnd-service",
         "name": "CND Vehicle Fee",
         "code": "CND_VEHICLE_FEE",
         "isDebit": false,

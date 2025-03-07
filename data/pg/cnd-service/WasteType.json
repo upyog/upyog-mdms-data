@@ -1,6 +1,6 @@
 {
     "tenantId": "pg",
-    "moduleName": "Construction-Demolition",
+    "moduleName": "cnd-service",
     "WasteType": [
       {
         "name": "Wood",
