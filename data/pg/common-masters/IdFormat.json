@@ -756,11 +756,11 @@
         },
         {
             "format": "WT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "request-service-water-tanker.receipt.id"
+            "idname": "request-service.water_tanker.receipt.id"
         },
-	{
+	    {
             "format": "MT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "request-service.receipt.id"
+            "idname": "request-service.mobile_toilet.receipt.id"
         }
     ]
 }
