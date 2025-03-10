@@ -760,7 +760,7 @@
         },
 	{
             "format": "MT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "request-service-mobile-toilet.receipt.id"
+            "idname": "request-service.receipt.id"
         }
     ]
 }
