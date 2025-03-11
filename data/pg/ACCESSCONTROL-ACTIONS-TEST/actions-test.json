@@ -19752,7 +19752,7 @@
     {
       "id": 2930,
       "name": "Water Tanker Payment search",
-      "url": "/collection-services/payments/request-service/_search",
+      "url": "/collection-services/payments/request-service.water_tanker/_search",
       "displayName": "Water Tanker Payment search",
       "orderNumber": 1,
       "parentModule": "",
@@ -19982,6 +19982,18 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/wt-home"
+    },
+    {
+      "id": 2949,
+      "name": "Mobile Toilet Payment search",
+      "url": "/collection-services/payments/request-service.mobile_toilet/_search",
+      "displayName": "Mobile Toilet Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
