@@ -30680,6 +30680,18 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "MT_CEMP",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MT_CEMP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "MT_VENDOR",
       "actionid": 2411,
       "actioncode": "",
