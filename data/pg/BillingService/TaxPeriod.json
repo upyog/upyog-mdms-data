@@ -1719,11 +1719,18 @@
       "fromDate": 1554057000000,
       "toDate": 1869676199000,
       "periodCycle": "TENYEARS",
-      "service": "request-service",
+      "service": "request-service.water_tanker",
       "code": "REQ10YRS2024",
       "financialYear": "2024-34"
     },
-
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "request-service.mobile_toilet",
+      "code": "REQ10YRS2024",
+      "financialYear": "2024-34"
+    },
     {
       "fromDate": 1554057000000,
       "toDate": 1869676199000,

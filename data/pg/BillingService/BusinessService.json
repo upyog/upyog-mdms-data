@@ -2050,8 +2050,19 @@
       "isActive": true
     },
     {
-      "businessService": "request-service",
-      "code": "request-service",
+      "businessService": "request-service.water_tanker",
+      "code": "request-service.water_tanker",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "request-service.mobile_toilet",
+      "code": "request-service.mobile_toilet",
       "collectionModesNotAllowed": [
         "DD"
       ],

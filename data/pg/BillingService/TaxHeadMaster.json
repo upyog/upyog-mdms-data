@@ -5890,7 +5890,7 @@
       },
       {
         "category": "FEE",
-        "service": "request-service",
+        "service": "request-service.water_tanker",
         "name": "Water Tanker Fee",
         "code": "WATER_TANKER_FEE",
         "isDebit": false,
@@ -5900,7 +5900,7 @@
       },
       {
         "category": "FEE",
-        "service": "request-service",
+        "service": "request-service.mobile_toilet",
         "name": "Mobile Toilet Booking Fee",
         "code": "MOBILE_TOILET_BOOKING_FEE",
         "isDebit": false,
