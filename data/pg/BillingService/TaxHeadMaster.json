@@ -5917,6 +5917,16 @@
         "isActualDemand": true,
         "order": "0",
         "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "cnd-service",
+        "name": "CND Ton Fee",
+        "code": "CND_TON_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
       }
   ]
 }
