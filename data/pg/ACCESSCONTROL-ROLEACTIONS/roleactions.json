@@ -31092,6 +31092,18 @@
         "actionid": 2950,
         "actioncode": "",
         "tenantId": "pg"
-    } 
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2951,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2951,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
