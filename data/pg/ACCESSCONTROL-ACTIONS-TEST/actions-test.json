@@ -20019,6 +20019,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Reports.Admin Reports",
       "navigationURL": "services/EGF/report/ulbWiseReport-generateUlbWiseReport.action"
+    },
+    {
+      "id": 2951,
+      "name": "Admin Reports",
+      "url": "services/EGF/report/ulbWiseReport-generateUlbWiseReport.action",
+      "parentModule": "",
+      "displayName": "Admin Reports",
+      "orderNumber": 7,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Reports.Admin Reports",
+      "navigationURL": "services/EGF/report/ulbWiseReport-generateUlbWiseReport.action"
     }
   ]
 }	  
