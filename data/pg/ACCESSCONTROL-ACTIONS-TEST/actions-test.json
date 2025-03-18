@@ -19994,6 +19994,17 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+    "id": 2950,
+    "name": "Fetch Asset Assignable List",
+    "url": "/asset-services/v1/assignment/_search",
+    "displayName": "Fetch Asset Assignable List",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     }
   ]
 }	  
