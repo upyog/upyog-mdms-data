@@ -20019,6 +20019,42 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Reports.Admin Reports",
       "navigationURL": "services/EGF/report/ulbWiseReport-generateUlbWiseReport.action"
+    },
+    {
+      "id": 2952,
+      "name": "CND_MY_REQUEST",
+      "url": "digit-ui-card",
+      "displayName": "My-Request",
+      "orderNumber": 1,
+      "parentModule": "CND",
+      "enabled": true,
+      "serviceCode": "CND",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/cnd/my-request",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/cnd-ui/citizen/cnd-home"
+    },
+    {
+      "id": 2953,
+      "name": "CND_MY_REQUEST",
+      "url": "cnd-ui-card",
+      "displayName": "My-Request",
+      "orderNumber": 1,
+      "parentModule": "CND",
+      "enabled": true,
+      "serviceCode": "CND",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/cnd-ui/citizen/cnd/my-request",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "cnd-ui-links",
+      "sidebarURL": "/cnd-ui/citizen/cnd-home"
     }
   ]
 }	  
