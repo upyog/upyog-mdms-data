@@ -20055,6 +20055,72 @@
       "queryParams": "",
       "sidebar": "cnd-ui-links",
       "sidebarURL": "/cnd-ui/citizen/cnd-home"
+    },
+    {
+      "id": 2954,
+      "name": "Create Address ",
+      "url": "/user/_createAddress",
+      "displayName": "Create Address",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Create Address"
+    },
+    {
+      "id": 2955,
+      "name": "Get Address",
+      "url": "/user/_getAddress",
+      "displayName": "Get Address",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Get Address"
+    },
+    {
+      "id": 2956,
+      "name": "Update Address",
+      "url": "/user/_updateAddress",
+      "displayName": "Update Address",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Update Address"
+    },
+    {
+      "id": 2957,
+      "name": "Create Users",
+      "url": "/user/users/v2/_create",
+      "displayName": "Create Users",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Create Users"
+    },
+    {
+      "id": 2958,
+      "name": "Update Users V2",
+      "url": "/user/users/v2/_update",
+      "displayName": "Update Users V2",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Update Users"
+    },
+    {
+      "id": 2959,
+      "name": "Search Users",
+      "url": "/user/users/v2/_search",
+      "displayName": "Search Users",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Search Users"
     }
   ]
 }	  
