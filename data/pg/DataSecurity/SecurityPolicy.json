@@ -299,6 +299,48 @@
           "jsonPath": "fatherOrHusbandName",
           "patternId": null,
           "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "address",
+          "jsonPath": "addresses/*/address",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "housenumber",
+          "jsonPath": "addresses/*/housenumber",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "housename",
+          "jsonPath": "addresses/*/housename",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "streetname",
+          "jsonPath": "addresses/*/streetname",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "address2",
+          "jsonPath": "addresses/*/address2",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "landmark",
+          "jsonPath": "addresses/*/landmark",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "locality",
+          "jsonPath": "addresses/*/locality",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
         }
       ],
       "roleBasedDecryptionPolicy": []
