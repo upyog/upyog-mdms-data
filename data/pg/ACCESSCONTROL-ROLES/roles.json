@@ -846,6 +846,16 @@
       "code": "MT_VENDOR",
       "name": "Mobile Toilet Vendor",
       "description": "Mobile Toilet Vendor From Citizen Login"
+    },
+    {
+      "code": "FIELD_INSPECTOR",
+      "name": "Field Inspector for CND",
+      "description": "Field Inspector for CND"
+    },
+    {
+      "code": "CND_VENDOR",
+      "name": "CND Vendor",
+      "description": "CND Vendor"
     }
   ]
 }

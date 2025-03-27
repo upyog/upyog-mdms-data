@@ -25,6 +25,12 @@
         "roleName": "Common Vendor role",
         "roleCode": "COMMON_VENDOR",
         "active": true
+      },
+      {
+        "moduleName": "CND",
+        "roleName": "CND Vendor",
+        "roleCode": "CND_VENDOR",
+        "active": true
       }
     ]
 }
