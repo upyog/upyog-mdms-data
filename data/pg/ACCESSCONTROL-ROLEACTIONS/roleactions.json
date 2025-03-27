@@ -31206,6 +31206,24 @@
       "actionid": 1743,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "FIELD_INSPECTOR",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_VENDOR",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
