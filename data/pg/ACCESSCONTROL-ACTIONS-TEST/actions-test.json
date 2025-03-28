@@ -18430,7 +18430,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/obps/preApprovedPlanDetails",
+      "navigationURL": "/digit-ui/citizen/obps/preApprovedPlan/planDetails",
       "leftIcon": "OBPSIcon",
       "rightIcon": "",
       "queryParams": "",
