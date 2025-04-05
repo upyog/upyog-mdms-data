@@ -1,0 +1,13 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "SepticTank": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "septicTankMinDisWatersrc": 18,
+        "septicTankMinDisBuilding": 6,
+        "active": true
+    }
+]
+}

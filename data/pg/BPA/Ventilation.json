@@ -1,0 +1,13 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Ventilation": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "ventilationValueOne": 8,
+        "ventilationValueTwo": 0.3,
+        "active": true
+    }
+]
+}

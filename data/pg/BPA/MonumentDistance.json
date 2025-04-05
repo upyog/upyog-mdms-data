@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "MonumentDistance": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "monumentDistance_distanceOne": "300",
+        "monumentDistance_minDistanceOne": "300",
+        "monumentDistance_minDistanceTwo": "100",
+        "monumentDistance_maxHeightofbuilding": "7",
+        "monumentDistance_maxbuildingheightblock": "1",
+        "active": true
+    }
+]
+}

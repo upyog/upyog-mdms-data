@@ -1,0 +1,18 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "SegregatedToilet": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "sTValueOne": 15,
+        "sTValueTwo": 1000,
+        "sTValueThree": 2,
+        "sTValueFour": 500,
+        "sTSegregatedToiletRequired": 1,
+        "sTSegregatedToiletProvided": 0,
+        "sTminDimensionRequired": 200,
+        "active": true
+    }
+]
+}

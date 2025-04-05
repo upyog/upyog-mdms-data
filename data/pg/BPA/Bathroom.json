@@ -1,0 +1,15 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Bathroom": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "bathroomRequiredArea": "1.8",
+        "bathroomRequiredWidth": "1.2",
+        "bathroomtotalArea": "1.8",
+        "bathroomMinWidth": "1.2",
+        "active": true
+    }
+]
+}

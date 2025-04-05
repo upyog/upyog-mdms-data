@@ -1,0 +1,15 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Sanitation": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "sanitationMinAreaofSPWC": 2.625,
+        "sanitationMinDimensionofSPWC": 1.5,
+        "sanitationMinatGroundFloor": 1,
+        "sanitationFloorMultiplier": 3,
+        "active": true
+    }
+]
+}

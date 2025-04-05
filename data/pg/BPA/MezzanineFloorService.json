@@ -1,0 +1,14 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "MezzanineFloorService": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "mezzanineArea": "9.5",
+        "mezzanineHeight": "2.2",
+        "mezzanineBuiltUpArea": "3",
+        "active": true
+    }
+]
+}

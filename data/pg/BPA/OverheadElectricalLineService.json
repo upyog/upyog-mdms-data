@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "OverheadElectricalLineService": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "overheadVerticalDistance_11000": 2.5,
+        "overheadVerticalDistance_33000": 3.7,
+        "overheadHorizontalDistance_11000": 1.2,
+        "overheadHorizontalDistance_33000": 2,
+        "overheadVoltage_11000": 11,
+        "overheadVoltage_33000": 33,
+        "active": true
+    }
+]
+}
