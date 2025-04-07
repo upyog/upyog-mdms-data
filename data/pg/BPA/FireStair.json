@@ -8,7 +8,6 @@
         "fireStairExpectedNoofRise": "12",
         "fireStairMinimumWidth": "1",
         "fireStairRequiredTread": "0.25",
-        "fireStairTypicalRepititiveFloor": "12",
         "active": true
     }
 ]

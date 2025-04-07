@@ -7,7 +7,6 @@
         "occupancy": "residential",
         "plantationGreenStripPlanValue": 300,
         "plantationGreenStripMinWidth": 0.6,
-        "plantationGreenStripbuildResult": 0.6,
         "active": true
     }
 ]

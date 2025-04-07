@@ -6,9 +6,7 @@
         "id": 1,
         "occupancy": "residential",
         "GovtBuildingDistanceValue": "200",
-        "GovtBuildingDistanceMin": "200",
         "GovtBuildingDistanceMaxHeight": "10",
-        "GovtBuildingDistancePermitted": "10",
         "active": true
     }
 ]
