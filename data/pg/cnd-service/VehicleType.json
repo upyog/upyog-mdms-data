@@ -6,7 +6,6 @@
             "code": "MAHINDRA.BOLERO_PICKUP",
             "name": "Bolero Pickup",
             "active": true,
-            "make": "MAHINDRA",
             "capacity": "5000 Ltrs",
             "feeType": "CND_VEHICLE_FEE",
             "amount": "500"
