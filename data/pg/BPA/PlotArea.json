@@ -1,0 +1,13 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "PlotArea": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "plotAreaValueOne": 300,
+        "plotAreaValueTwo": 500,
+        "active": true
+    }
+]
+}

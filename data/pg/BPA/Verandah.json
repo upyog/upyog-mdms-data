@@ -1,0 +1,13 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Verandah": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "verandahWidth": 1.8,
+        "verandahDepth": 3.66,
+        "active": true
+    }
+]
+}

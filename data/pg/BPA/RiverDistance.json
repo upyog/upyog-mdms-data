@@ -1,0 +1,15 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "RiverDistance": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "rDminDistanceFromProtectionWall": 30,
+        "rDminDistanceFromEmbankment": 50,
+        "rDminDistanceFromMainRiverEdge": 200,
+        "rDminDistanceFromSubRiver": 100,
+        "active": true
+    }
+]
+}

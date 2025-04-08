@@ -1,0 +1,13 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "PlantationGreenStrip": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "plantationGreenStripPlanValue": 300,
+        "plantationGreenStripMinWidth": 0.6,
+        "active": true
+    }
+]
+}

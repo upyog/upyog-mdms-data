@@ -1,0 +1,14 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "BathroomWaterClosets": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "bathroomWCRequiredArea": "1.1",
+        "bathroomWCRequiredWidth": "0.9",
+        "bathroomWCRequiredHeight": "2.4",
+        "active": true
+    }
+]
+}

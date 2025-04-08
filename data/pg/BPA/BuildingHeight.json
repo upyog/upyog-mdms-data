@@ -1,0 +1,13 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "BuildingHeight": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "buildingHeightMaximumDistancetoRoad": "12",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    }
+]
+}

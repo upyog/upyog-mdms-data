@@ -1,0 +1,13 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "WaterTankCapacity": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "waterTankCapacityArea": 12.5,
+        "waterTankCapacityExpected": 135,
+        "active": true
+    }
+]
+}

@@ -1,0 +1,17 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "VehicleRamp": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "vehicleRampValue": 4,
+        "vehicleRampSlopeValueOne": 10,
+        "vehicleRampSlopeValueTwo": 12,
+        "vehicleRampSlopeMinWidthValueOne": 5.4,
+        "vehicleRampSlopeMinWidthValueTwo": 0.12,
+        "vehicleRampSlopeMinWidthValueThree": 3.6,
+        "active": true
+    }
+]
+}

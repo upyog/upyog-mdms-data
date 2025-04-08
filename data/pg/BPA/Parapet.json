@@ -1,0 +1,13 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Parapet": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "parapetValueOne":1.2,
+        "parapetValueTwo":1.5,
+        "active": true
+    }
+]
+}

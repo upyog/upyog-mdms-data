@@ -1,0 +1,12 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "BlockDistancesService": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "permissibleValue": "3",
+        "active": true
+    }
+]
+}

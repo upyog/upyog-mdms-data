@@ -1,0 +1,14 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "SpiralStair": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "spiralStairValue": 10,
+        "spiralStairExpectedDiameter": 1.50,
+        "spiralStairRadius": 2,
+        "active": true
+    }
+]
+}

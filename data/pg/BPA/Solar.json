@@ -1,0 +1,13 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Solar": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "solarValueOne": 400,
+        "solarValueTwo": 500,
+        "active": true
+    }
+]
+}

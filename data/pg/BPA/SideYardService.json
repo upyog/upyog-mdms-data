@@ -1,0 +1,40 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "SideYardService": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "sideYardValueOne": 1,
+        "sideYardValueTwo": 1.2,
+        "sideYardValueThree": 1.5,
+        "sideYardValueFour": 1.8,
+        "sideYardValueFive": 2,     
+        "sideYardValueSix": 2.5,
+        "sideYardValueSeven": 3,
+        "sideYardValueEight": 3.66,
+        "sideYardValueNine": 4,
+        "sideYardValueTen": 4.5,
+        "sideYardValueEleven": 5,
+        "sideYardValueTwelve": 6,
+        "sideYardValueThirteen": 7,
+        "sideYardValueFourteen": 0.75,
+        "sideYardValueFifteen": 8,
+        "sideYardValueSixteen": 9,
+        "sideYardValueSeventeen": 10,
+
+        "sideYardValueEighteen": 12.2,
+        "sideYardValueNineteen": 30,
+        "sideYardValueTwenty": 100,
+        "sideYardValueTwentyOne": 150,
+        "sideYardValueTwentyTwo": 200,
+        "sideYardValueTwentyThree": 300,
+        "sideYardValueTwentyFour": 500,
+        "sideYardValueTwentyFive": 1000,
+        "sideYardValueTwentySix": 5,
+        "sideYardValueTwentySeven": 2.0,
+        "sideYardValueTwentyEight": 3.0,
+        "active": true
+    }
+]
+}

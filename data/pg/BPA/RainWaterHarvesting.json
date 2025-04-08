@@ -1,0 +1,12 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "RainWaterHarvesting": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "permissible": 100,
+        "active": true
+    }
+]
+}

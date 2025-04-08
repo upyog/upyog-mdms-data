@@ -1,0 +1,14 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Basement": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "permissibleone": "2.4",
+        "permissibletwo": "1.2",
+        "permissiblethree": "1.5",
+        "active": true
+    }
+]
+}

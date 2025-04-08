@@ -1,0 +1,21 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "RampService": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "rampServiceValueOne": 0,
+        "rampServiceExpectedSlopeOne": 1,
+        "rampServiceDivideExpectedSlope": 12,
+        "rampServiceSlopValue": 0,
+        "rampServiceBuildingHeight": 15,
+        "rampServiceTotalLength": 0,
+        "rampServiceExpectedSlopeTwo": 0.05,
+        "rampServiceExpectedSlopeCompare": 2.4,
+        "rampServiceExpectedSlopeCompareTrue": 0.05,
+        "rampServiceExpectedSlopeCompareFalse": 0.08,
+        "active": true
+    }
+]
+}

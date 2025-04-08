@@ -1,0 +1,13 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "FireTenderMovement": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "fireTenderMovementValueOne": "15",
+        "fireTenderMovementValueTwo": "3.66",
+        "active": true
+    }
+]
+}

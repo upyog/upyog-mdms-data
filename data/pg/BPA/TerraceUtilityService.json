@@ -1,0 +1,12 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "TerraceUtilityService": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "permissible": 3,
+        "active": true
+    }
+]
+}

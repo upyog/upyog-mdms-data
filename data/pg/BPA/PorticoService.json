@@ -1,0 +1,12 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "PorticoService": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "permissible": 4.6,
+        "active": true
+    }
+]
+}
