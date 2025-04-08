@@ -31242,6 +31242,24 @@
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "FIELD_INSPECTOR",
+      "actionid": 2960,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 2960,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2960,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

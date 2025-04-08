@@ -20121,6 +20121,18 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.Search Users"
+    },
+    {
+      "id": 2960,
+      "name": "CND Payment search",
+      "url": "/collection-services/payments/cnd-service/_search",
+      "displayName": "CND Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
