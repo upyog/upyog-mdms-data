@@ -31260,6 +31260,30 @@
       "actionid": 2960,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_VENDOR",
+      "actionid": 2961,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FIELD_INSPECTOR",
+      "actionid": 2066,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 2066,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_VENDOR",
+      "actionid": 2064,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

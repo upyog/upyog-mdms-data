@@ -20133,6 +20133,24 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2961,
+      "name": "CND_VENDOR_LOGIN",
+      "url": "cnd-ui-card",
+      "displayName": "Vendor Login",
+      "orderNumber": 3,
+      "parentModule": "CND",
+      "enabled": true,
+      "serviceCode": "CND",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/cnd-ui/citizen/cnd/cnd-vendor",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "cnd-ui-links",
+      "sidebarURL": "/cnd-ui/citizen/cnd-home"
     }
   ]
 }	  
