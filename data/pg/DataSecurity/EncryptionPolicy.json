@@ -124,6 +124,39 @@
             "type" : "Normal"
           } 
         ]
+      },
+      {
+        "key" : "Address",
+        "attributeList" : [
+          {
+            "jsonPath" : "address",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "housenumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "housename",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "streetname",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "address2",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "landmark",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "locality",
+            "type" : "Normal"
+          }
+        ]
       }
     ]
 }
