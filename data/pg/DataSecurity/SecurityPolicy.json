@@ -1561,6 +1561,57 @@
           "attributeAccessList": []
         }
       ]
+    },
+    {
+      "model": "Address",
+      "uniqueIdentifier": {
+        "name": "addressId",
+        "jsonPath": "/addressId"
+      },
+      "attributes": [
+        {
+          "name": "address",
+          "jsonPath": "address",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "housenumber",
+          "jsonPath": "housenumber",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "housename",
+          "jsonPath": "housename",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "streetname",
+          "jsonPath": "streetname",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "address2",
+          "jsonPath": "address2",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "landmark",
+          "jsonPath": "landmark",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "locality",
+          "jsonPath": "locality",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        }
+      ]
     }
   ]
 }
