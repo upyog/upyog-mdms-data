@@ -856,6 +856,11 @@
       "code": "CND_VENDOR",
       "name": "CND Vendor",
       "description": "CND Vendor"
+    },
+    {
+      "code": "CND_FACILITY_CEMP",
+      "name": "Facility Centre Employee",
+      "description": "Employee for Facility Centre & Deposit Centre on CND Site"
     }
   ]
 }

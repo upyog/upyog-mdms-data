@@ -31284,6 +31284,42 @@
       "actionid": 2064,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 2946,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 2947,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 2953,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
