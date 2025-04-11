@@ -1565,8 +1565,8 @@
     {
       "model": "Address",
       "uniqueIdentifier": {
-        "name": "addressId",
-        "jsonPath": "/addressId"
+        "name": "id",
+        "jsonPath": "/id"
       },
       "attributes": [
         {
@@ -1610,6 +1610,57 @@
           "jsonPath": "locality",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": [
+            {
+              "attribute": "address",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "housenumber",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "housename",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "streetname",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "address2",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "landmark",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "locality",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
         }
       ]
     }
