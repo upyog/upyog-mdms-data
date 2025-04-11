@@ -31326,6 +31326,18 @@
       "actionid": 1743,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 2064,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 2066,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
