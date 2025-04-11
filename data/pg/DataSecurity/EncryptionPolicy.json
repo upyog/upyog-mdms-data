@@ -50,15 +50,15 @@
             "type" : "Normal"
           },
           {
-            "jsonPath" : "addresses/*/housenumber",
+            "jsonPath" : "addresses/*/houseNumber",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "addresses/*/housename",
+            "jsonPath" : "addresses/*/houseName",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "addresses/*/streetname",
+            "jsonPath" : "addresses/*/streetName",
             "type" : "Normal"
           },
           {
@@ -133,15 +133,15 @@
             "type" : "Normal"
           },
           {
-            "jsonPath" : "housenumber",
+            "jsonPath" : "houseNumber",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "housename",
+            "jsonPath" : "houseName",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "streetname",
+            "jsonPath" : "streetName",
             "type" : "Normal"
           },
           {

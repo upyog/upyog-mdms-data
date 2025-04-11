@@ -1788,19 +1788,19 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/housenumber"
+                "jsonPath": "*/houseNumber"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/housename"
+                "jsonPath": "*/houseName"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/streetname"
+                "jsonPath": "*/streetName"
               },
               "accessType": "PLAIN"
             },
@@ -1835,19 +1835,19 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/housenumber"
+                "jsonPath": "*/houseNumber"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/housename"
+                "jsonPath": "*/houseName"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/streetname"
+                "jsonPath": "*/streetName"
               },
               "accessType": "PLAIN"
             },
