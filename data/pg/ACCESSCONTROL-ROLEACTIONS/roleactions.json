@@ -31320,6 +31320,12 @@
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
