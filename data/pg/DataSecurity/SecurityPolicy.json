@@ -94,20 +94,20 @@
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "housenumber",
-          "jsonPath": "addresses/*/housenumber",
+          "name": "houseNumber",
+          "jsonPath": "addresses/*/houseNumber",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "housename",
-          "jsonPath": "addresses/*/housename",
+          "name": "houseName",
+          "jsonPath": "addresses/*/houseName",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "streetname",
-          "jsonPath": "addresses/*/streetname",
+          "name": "streetName",
+          "jsonPath": "addresses/*/streetName",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
         },
@@ -307,20 +307,20 @@
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "housenumber",
-          "jsonPath": "addresses/*/housenumber",
+          "name": "houseNumber",
+          "jsonPath": "addresses/*/houseNumber",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "housename",
-          "jsonPath": "addresses/*/housename",
+          "name": "houseName",
+          "jsonPath": "addresses/*/houseName",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "streetname",
-          "jsonPath": "addresses/*/streetname",
+          "name": "streetName",
+          "jsonPath": "addresses/*/streetName",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
         },
@@ -1576,20 +1576,20 @@
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "housenumber",
-          "jsonPath": "housenumber",
+          "name": "houseNumber",
+          "jsonPath": "houseNumber",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "housename",
-          "jsonPath": "housename",
+          "name": "houseName",
+          "jsonPath": "houseName",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "streetname",
-          "jsonPath": "streetname",
+          "name": "streetName",
+          "jsonPath": "streetName",
           "patternId": "005",
           "defaultVisibility": "PLAIN"
         },
@@ -1625,17 +1625,17 @@
               "secondLevelVisibility": "PLAIN"
             },
             {
-              "attribute": "housenumber",
+              "attribute": "houseNumber",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
             {
-              "attribute": "housename",
+              "attribute": "houseName",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
             {
-              "attribute": "streetname",
+              "attribute": "streetName",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },

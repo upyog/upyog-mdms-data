@@ -50,15 +50,15 @@
             "type" : "Normal"
           },
           {
-            "jsonPath" : "addresses/*/housenumber",
+            "jsonPath" : "addresses/*/houseNumber",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "addresses/*/housename",
+            "jsonPath" : "addresses/*/houseName",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "addresses/*/streetname",
+            "jsonPath" : "addresses/*/streetName",
             "type" : "Normal"
           },
           {
@@ -123,39 +123,6 @@
             "jsonPath" : "icdcode",
             "type" : "Normal"
           } 
-        ]
-      },
-      {
-        "key" : "Address",
-        "attributeList" : [
-          {
-            "jsonPath" : "address",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "housenumber",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "housename",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "streetname",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "address2",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "landmark",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "locality",
-            "type" : "Normal"
-          }
         ]
       }
     ]
