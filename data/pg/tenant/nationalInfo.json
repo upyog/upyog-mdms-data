@@ -19314,7 +19314,6 @@
       "active": true,
       "module": "NationalDashboard"
     },
-	
     {
       "stateCode": "Assam",
       "stateName": "Assam",
@@ -20144,6 +20143,766 @@
       "stateName": "Assam",
       "code": "as.fakiragram",
       "name": "as.fakiragram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thiruvananthapuram",
+      "name": "Thiruvananthapuram Municipal Corporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kollam",
+      "name": "Kollam Municipal Corporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kochi",
+      "name": "Kochi Municipal Corporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thrissur",
+      "name": "Thrissur Municipal Corporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kozhikode",
+      "name": "Kozhikode Municipal Corporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.varkala",
+      "name": "Varkala Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.attingal",
+      "name": "Attingal Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.nedumangad",
+      "name": "Nedumangad Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.neyyattinkara",
+      "name": "Neyyattinkara Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.paravur",
+      "name": "Paravur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.punalur",
+      "name": "Punalur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.adoor",
+      "name": "Adoor Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thiruvalla",
+      "name": "Thiruvalla Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.pathanamthitta",
+      "name": "Pathanamthitta Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.chengannur",
+      "name": "Chengannur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.mavelikara",
+      "name": "Mavelikara Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.cherthala",
+      "name": "Cherthala Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kayamkulam",
+      "name": "Kayamkulam Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.alappuzha",
+      "name": "Alappuzha Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.pala",
+      "name": "Pala Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.vaikom",
+      "name": "Vaikom Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.changanassery",
+      "name": "Changanassery Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kottayam",
+      "name": "Kottayam Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thodupuzha",
+      "name": "Thodupuzha Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kalamassery",
+      "name": "Kalamassery Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kothamangalam",
+      "name": "Kothamangalam Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.angamaly",
+      "name": "Angamaly Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.tripunithura",
+      "name": "Tripunithura Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.muvattupuzha",
+      "name": "Muvattupuzha Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.north paravur",
+      "name": "North Paravur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.perumbavoor",
+      "name": "Perumbavoor Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.aluva",
+      "name": "Aluva Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.guruvayur",
+      "name": "Guruvayur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.chavakkad",
+      "name": "Chavakkad Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kodungallur",
+      "name": "Kodungallur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.chalakudy",
+      "name": "Chalakudy Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.irinjalakuda",
+      "name": "Irinjalakuda Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kunnamkulam",
+      "name": "Kunnamkulam Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.ottappalam",
+      "name": "Ottappalam Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.shornur",
+      "name": "Shornur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.chittoor thathamangalam",
+      "name": "Chittoor Thathamangalam Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.palakkad",
+      "name": "Palakkad Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.perinthalmanna",
+      "name": "Perinthalmanna Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.ponnani",
+      "name": "Ponnani Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.manjeri",
+      "name": "Manjeri Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.tirur",
+      "name": "Tirur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.malappuram",
+      "name": "Malappuram Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.vadakara",
+      "name": "Vadakara Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.koyilandy",
+      "name": "Koyilandy Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kalpetta",
+      "name": "Kalpetta Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.mattannur",
+      "name": "Mattannur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thaliparamba",
+      "name": "Thaliparamba Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.koothuparamba",
+      "name": "Koothuparamba Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.payyannur",
+      "name": "Payyannur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thalassery",
+      "name": "Thalassery Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kannur",
+      "name": "Kannur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kanhangad",
+      "name": "Kanhangad Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kasaragod",
+      "name": "Kasaragod Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.karunagappally",
+      "name": "Karunagappally Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.thrikkakara",
+      "name": "Thrikkakara Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.eloor",
+      "name": "Eloor Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.maradu",
+      "name": "Maradu Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kottakkal",
+      "name": "Kottakkal Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.nilambur",
+      "name": "Nilambur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.nileshwar",
+      "name": "Nileshwar Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kannur",
+      "name": "Kannur Municipal Corporation",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kottarakara",
+      "name": "Kottarakara Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.pandalam",
+      "name": "Pandalam Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.haripad",
+      "name": "Haripad Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.ettumanoor",
+      "name": "Ettumanoor Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.erattupetta",
+      "name": "Erattupetta Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kattappana",
+      "name": "Kattappana Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.koothattukulam",
+      "name": "Koothattukulam Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.piravom",
+      "name": "Piravom Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.wadakanchery",
+      "name": "Wadakanchery Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.pattambi",
+      "name": "Pattambi Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.cherpulassery",
+      "name": "Cherpulassery Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.mannarkad",
+      "name": "Mannarkad Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.kondotty",
+      "name": "Kondotty Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.valanchery",
+      "name": "Valanchery Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.tirurangadi",
+      "name": "Tirurangadi Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.parappanangadi",
+      "name": "Parappanangadi Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.tanur",
+      "name": "Tanur Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.payyoli",
+      "name": "Payyoli Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.koduvally",
+      "name": "Koduvally Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.mukkam",
+      "name": "Mukkam Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.ramanattukara",
+      "name": "Ramanattukara Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.feroke",
+      "name": "Feroke Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.mananthavady",
+      "name": "Mananthavady Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.sulthan bathery",
+      "name": "Sulthan Bathery Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.sreekandapuram",
+      "name": "Sreekandapuram Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.panoor",
+      "name": "Panoor Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.iritty",
+      "name": "Iritty Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.anthoor",
+      "name": "Anthoor Municipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Kerela",
+      "stateName": "Kerela",
+      "code": "kl.cannanore",
+      "name": "Cannanore Cantonment",
       "active": true,
       "module": "NationalDashboard"
     }
