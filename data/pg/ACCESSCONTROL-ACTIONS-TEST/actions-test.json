@@ -20151,6 +20151,42 @@
       "queryParams": "",
       "sidebar": "cnd-ui-links",
       "sidebarURL": "/cnd-ui/citizen/cnd-home"
+    },
+    {
+      "id": 2962,
+      "name": "FILE_MY_GRIEVANCE",
+      "url": "digit-ui-card",
+      "displayName": "File My Grievance",
+      "orderNumber": 1,
+      "parentModule": "PGRAI",
+      "enabled": true,
+      "serviceCode": "PGRAI",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pgrai/fileGrievance",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pgrai-home"
+    },
+    {
+      "id": 2963,
+      "name": "PGRAI_MY_GRIEVANCE",
+      "url": "digit-ui-card",
+      "displayName": "My Grievance",
+      "orderNumber": 2,
+      "parentModule": "PGRAI",
+      "enabled": true,
+      "serviceCode": "PGRAI",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pgrai/myGrievance",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pgrai-home"
     }
   ]
 }	  
