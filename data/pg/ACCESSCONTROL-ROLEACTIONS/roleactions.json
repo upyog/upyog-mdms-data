@@ -11528,6 +11528,18 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+	{
+      "rolecode": "EGF_VOUCHER_APPROVER",
+      "actionid": 1777,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "EGF_PAYMENT_APPROVER",
+      "actionid": 1777,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
     {
       "rolecode": "TL_CEMP",
       "actionid": 1778,
