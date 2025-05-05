@@ -20187,6 +20187,18 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pgrai-home"
+    }, 
+    {
+      "id": 2964,
+      "name": "Create PGR Request",
+      "url": "/pgr-services/v3/request/_create",
+      "parentModule": "",
+      "displayName": "Create PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
