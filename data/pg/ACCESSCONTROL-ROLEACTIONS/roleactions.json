@@ -31356,6 +31356,12 @@
       "actionid": 2966,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 2967,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
