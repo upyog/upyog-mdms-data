@@ -20187,6 +20187,42 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pgrai-home"
+    }, 
+    {
+      "id": 2964,
+      "name": "Create PGR-AI Request",
+      "url": "/pgr-ai-services/v1/request/_create",
+      "parentModule": "",
+      "displayName": "Create PGR-AI Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-ai-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2965,
+      "name": "Update PGR-AI Request",
+      "url": "/pgr-ai-services/v1/request/_update",
+      "parentModule": "",
+      "displayName": "Update PGR-AI Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-ai-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2966,
+      "name": "Search PGR-AI Request",
+      "url": "/pgr-ai-services/v1/request/_search",
+      "parentModule": "",
+      "displayName": "Search PGR-AI Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-ai-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
