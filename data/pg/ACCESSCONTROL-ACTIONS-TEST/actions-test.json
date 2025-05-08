@@ -20223,6 +20223,21 @@
       "serviceCode": "pgr-ai-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2967,
+      "name": "National Dashboard Street Vending",
+      "url": "url",
+      "displayName": "National Street Vending",
+      "orderNumber": 4,
+      "parentModule": "ndss-dashboard",
+      "enabled": true,
+      "serviceCode": "NDSS",
+      "code": "null",
+      "path": "NatDashboard.StreetVending",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/national-sv",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     }
   ]
 }	  
