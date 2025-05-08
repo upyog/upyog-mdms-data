@@ -20227,17 +20227,14 @@
     {
       "id": 2967,
       "name": "National Dashboard Street Vending",
-      "url": "url",
-      "displayName": "National Street Vending",
-      "orderNumber": 4,
-      "parentModule": "ndss-dashboard",
-      "enabled": true,
-      "serviceCode": "NDSS",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-sv",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
       "code": "null",
-      "path": "NatDashboard.StreetVending",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-sv",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
+      "path": ""
     }
   ]
 }	  
