@@ -327,6 +327,78 @@
       },
       "address": "2,Mall Rd, Ram Bazar,Shimla, Himachal Pradesh, 171001",
       "contactNumber": "0177 280 2771"
-    }
+    },
+    {
+        "code": "pg.patiala",
+        "name": "Patiala",
+        "description": "Patiala",
+        "pincode": [
+            147001
+        ],
+        "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+        "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+        "imageId": null,
+        "domainUrl": "https://www.upyog.niua.org",
+        "type": "CITY",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "emailId": "complaints.mcj@gmail.com",
+        "OfficeTimings": {
+            "Mon - Fri": "9.00 AM - 6.00 PM"
+        },
+        "city": {
+            "name": "Patiala",
+            "localName": null,
+            "districtCode": "PATIALA",
+            "districtName": null,
+            "districtTenantCode": "pg.patiala",
+            "regionName": null,
+            "ulbGrade": "Municipal Corporation",
+            "longitude": 75.5761840,
+            "latitude": 31.3260160,
+            "shapeFileLocation": null,
+            "captcha": null,
+            "code": "1510",
+            "ddrName": "Patiala Municipal Corporation"
+        },
+        "address": "Ram Nagar Near Railway Colony No. 21, Patiala, Punjab 147001",
+        "contactNumber": "0177 280 2771"
+      },
+      {
+          "code": "pg.kurali",
+          "name": "Kurali",
+          "description": "Kurali",
+          "pincode": [
+              140103
+          ],
+          "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+          "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+          "imageId": null,
+          "domainUrl": "https://www.upyog.niua.org",
+          "type": "CITY",
+          "twitterUrl": null,
+          "facebookUrl": null,
+          "emailId": "complaints.mcj@gmail.com",
+          "OfficeTimings": {
+              "Mon - Fri": "9.00 AM - 6.00 PM"
+          },
+          "city": {
+              "name": "Kurali",
+              "localName": null,
+              "districtCode": "KURALI",
+              "districtName": null,
+              "districtTenantCode": "pg.kurali",
+              "regionName": null,
+              "ulbGrade": "Municipal Corporation",
+              "longitude": 75.5761840,
+              "latitude": 31.3260160,
+              "shapeFileLocation": null,
+              "captcha": null,
+              "code": "1510",
+              "ddrName": "Kurali Municipal Corporation"
+          },
+          "address": "Ram Nagar Near Railway Colony No. 21, Patiala, Punjab 140103",
+          "contactNumber": "0177 280 2771"
+        }
    ]
 }
