@@ -51,6 +51,21 @@
         "name": "Banur",
         "code": "BANUR",
         "active": true
+      },
+      {
+        "name": "Kharar",
+        "code": "KHARAR",
+        "active": true
+      },
+      {
+        "name": "Kurali",
+        "code": "KURALI",
+        "active": true
+      },
+      {
+        "name": "Patiala",
+        "code": "PATIALA",
+        "active": true
       }
     ]
   }

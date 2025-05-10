@@ -115,6 +115,72 @@
         "code": "GUGGA_MARI_ZIRAKPUR",
         "city": "Banur",
         "active": true
+      },
+      {
+        "name": "Old Morinda Road near Labour Shed, Kharar",
+        "code": "OLD_MORINDA_ROAD_KHARAR",
+        "city": "Kharar",
+        "active": true
+      },
+      {
+        "name": "Park near SabziMandi Market (stationary)",
+        "code": "PARK_SABZIMANDI",
+        "city": "Kurali",
+        "active": true
+      },
+      {
+        "name": "Park near Gohar Road (stationary)",
+        "code": "PARK_GOHAR",
+        "city": "Kurali",
+        "active": true
+      },
+      {
+        "name": "Near Front Gate Market Committee Office (stationary)",
+        "code": "MARKET_COMMITTEE_OFFICE",
+        "city": "Kurali",
+        "active": true
+      },
+      {
+        "name": "Near SabjiMandi Market (Mobile)",
+        "code": "NEAR_SABZIMANDI_MARKET",
+        "city": "Kurali",
+        "active": true
+      },
+      {
+        "name": "On Gohar Road (Mobile)",
+        "code": "ON_GOHAR_ROAD",
+        "city": "Kurali",
+        "active": true
+      },
+      {
+        "name": "On Siswan Road (Mobile)",
+        "code": "ON_SISWAN_ROAD",
+        "city": "Kurali",
+        "active": true
+      },
+      {
+        "name": "Opposite Bajaj Agency, Sirhind road near Rajpura Bypass starting",
+        "code": "BAJAJ_AGENCY_SIRHIND_ROAD",
+        "city": "Patiala",
+        "active": true
+      },
+      {
+        "name": "Near dolphin chowk, Rajpura bypass, focal point road",
+        "code": "DOLPHIN_CHOWK_RAJPURA",
+        "city": "Patiala",
+        "active": true
+      },
+      {
+        "name": "Along wall of DCW, near Nagar",
+        "code": "DCW_NEAR_NAGAR",
+        "city": "Patiala",
+        "active": true
+      },
+      {
+        "name": "Opposite Panchayati Gurudwara, Bindra Colony, Tripuri road",
+        "code": "PANCHAYATI_GURUDWARA_BINDRA",
+        "city": "Patiala",
+        "active": true
       }
     ]
   }
