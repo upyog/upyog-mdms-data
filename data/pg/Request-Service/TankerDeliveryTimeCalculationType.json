@@ -1,6 +1,6 @@
 {
     "tenantId": "pg",
-    "moduleName": "request-service",
+    "moduleName": "Request-Service",
     "TankerDeliveryTimeCalculationType": [
         {
             "deliveryTimeName": "Within 24 Hours",
