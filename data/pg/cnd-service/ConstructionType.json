@@ -3,7 +3,7 @@
     "moduleName": "cnd-service",
     "ConstructionType": [
       {
-        "name": "RENOVATION",
+        "name": "Renovation",
         "code": "RENOVATION",
         "active": true
       },
