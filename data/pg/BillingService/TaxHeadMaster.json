@@ -5899,6 +5899,16 @@
         "isRequired": false
       },
       {
+        "category": "CHARGES",
+        "service": "request-service.water_tanker",
+        "name": "Immediate Delivery Fee",
+        "code": "IMMEDIATE_DELIVERY_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
         "category": "FEE",
         "service": "request-service.mobile_toilet",
         "name": "Mobile Toilet Booking Fee",
