@@ -184,12 +184,12 @@
               "route": "proof",
               "component": "TLProof",
               "withoutLabel": true,
+              "isMandatory": true,
               "texts": {
                   "headerCaption": "TL_OWNERS_DETAILS",
                   "header": "TL_OWNERS_PHOTOGRAPH_HEADER",
                   "cardText": "",
                   "nextText": "CS_COMMON_NEXT",
-                  "isAsteriskRequired": true,
                   "submitBarLabel": "CS_COMMON_NEXT"
               },
               "key": "owners",
@@ -420,7 +420,6 @@
             "headerCaption": "TL_OWNERS_DETAILS",
             "header": "TL_PROOF_IDENTITY_HEADER",
             "cardText": "",
-            "isAsteriskRequired" : true,
             "submitBarLabel": "CS_COMMON_NEXT",
             "addMultipleText": "PT_COMMON_ADD_APPLICANT_LABEL"
           },
@@ -438,7 +437,7 @@
             "headerCaption": "TL_OWNERS_DETAILS",
             "header": "TL_OWNERSHIP_DOCUMENT",
             "cardText": "",
-            "isAsteriskRequired" : true,
+
             "submitBarLabel": "CS_COMMON_NEXT"
           },
           "key": "owners",
