@@ -31506,6 +31506,30 @@
       "actionid": 2969,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "TVCEMPLOYEE",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SVCEMP",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    }, 
+    {
+      "rolecode": "TVCEMPLOYEE",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SVCEMP",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
