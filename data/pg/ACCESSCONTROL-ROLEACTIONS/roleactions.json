@@ -31388,6 +31388,12 @@
     "actionid": 2983,
     "actioncode": "",
     "tenantId": "pg"
-  }
+  },
+  {
+      "rolecode": "EGF_VOUCHER_APPROVER",
+      "actionid": 1695,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
