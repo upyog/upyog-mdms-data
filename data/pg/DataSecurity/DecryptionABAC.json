@@ -1607,7 +1607,13 @@
                 "jsonPath": "*/approvedby"
               },
               "accessType": "PLAIN"
-            }	  
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
+              },
+              "accessType": "PLAIN"
+            }		   
           ]
         }
       ]
