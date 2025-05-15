@@ -7,7 +7,7 @@
       "code": "TANKER_1000",
       "applicationType": "REQUEST_SERVICE",
       "serviceType": "NEW_REQUEST",
-      "feeType": "WATER_TANKER_BOOKING_FEE",
+      "feeType": "WT_BOOKING_FEE",
       "amount": 1000
     },
     {
@@ -15,7 +15,7 @@
       "code": "TANKER_2000",
       "applicationType": "REQUEST_SERVICE",
       "serviceType": "NEW_REQUEST",
-      "feeType": "WATER_TANKER_BOOKING_FEE",
+      "feeType": "WT_BOOKING_FEE",
       "amount": 2000
     },
     {
@@ -23,7 +23,7 @@
       "code": "TANKER_5000",
       "applicationType": "REQUEST_SERVICE",
       "serviceType": "NEW_REQUEST",
-      "feeType": "WATER_TANKER_BOOKING_FEE",
+      "feeType": "WT_BOOKING_FEE",
       "amount": 5000
     },
     {
@@ -31,7 +31,7 @@
       "code": "TANKER_10000",
       "applicationType": "REQUEST_SERVICE",
       "serviceType": "NEW_REQUEST",
-      "feeType": "WATER_TANKER_BOOKING_FEE",
+      "feeType": "WT_BOOKING_FEE",
       "amount": 10000
     },
     {
@@ -39,7 +39,7 @@
       "code": "TROLLEY_300",
       "applicationType": "REQUEST_SERVICE",
       "serviceType": "NEW_REQUEST",
-      "feeType": "WATER_TANKER_BOOKING_FEE",
+      "feeType": "WT_BOOKING_FEE",
       "amount": 300
     },
     {
@@ -47,7 +47,7 @@
       "code": "TROLLEY_500",
       "applicationType": "REQUEST_SERVICE",
       "serviceType": "NEW_REQUEST",
-      "feeType": "WATER_TANKER_BOOKING_FEE",
+      "feeType": "WT_BOOKING_FEE",
       "amount": 500
     },
     {
@@ -55,7 +55,7 @@
       "code": "TROLLEY_800",
       "applicationType": "REQUEST_SERVICE",
       "serviceType": "NEW_REQUEST",
-      "feeType": "WATER_TANKER_BOOKING_FEE",
+      "feeType": "WT_BOOKING_FEE",
       "amount": 800
     }
   ]
