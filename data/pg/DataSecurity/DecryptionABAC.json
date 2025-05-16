@@ -1791,6 +1791,40 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "key": "CHBReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "CHB_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/userName"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_mobile_no"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_name"
+              },
+              "accessType": "PLAIN"
+            }		  
+          ]
+        }
+      ]
+    }	  
   ]
 }
