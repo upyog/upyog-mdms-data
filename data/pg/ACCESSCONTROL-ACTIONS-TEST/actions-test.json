@@ -20283,6 +20283,17 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2975,
+      "name": "Search FSM Workers",
+      "url":"/individual/v1/_search",
+      "displayName": "Search FSM Workers",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FSM",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
