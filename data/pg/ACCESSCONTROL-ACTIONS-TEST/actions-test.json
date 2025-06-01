@@ -20101,7 +20101,7 @@
     {
       "id": 2961,
       "name": "CND_VENDOR_LOGIN",
-      "url": "cnd-ui-card",
+      "url": "digit-ui-card",
       "displayName": "Vendor Login",
       "orderNumber": 3,
       "parentModule": "CND",
@@ -20113,7 +20113,7 @@
       "leftIcon": "",
       "rightIcon": "",
       "queryParams": "",
-      "sidebar": "cnd-ui-links",
+      "sidebar": "digit-ui-links",
       "sidebarURL": "/cnd-ui/citizen/cnd-home"
     },
     {
