@@ -818,6 +818,12 @@
       "description": "Water Tanker Counter Employee"
     },
     {
+      "code": "TP_CEMP",
+      "name": " Tree Pruning Counter Employee",
+      "description": "Tree Pruning Counter Employee"
+    },
+
+    {
       "code": "WT_VENDOR",
       "name": "Water Tanker Vendor",
       "description": "Water Tanker Vendor From Citizen Login"
@@ -846,6 +852,11 @@
       "code": "MT_VENDOR",
       "name": "Mobile Toilet Vendor",
       "description": "Mobile Toilet Vendor From Citizen Login"
+    },
+    {
+      "code": "TP_VENDOR",
+      "name": "Tree Pruning Vendor",
+      "description": "Tree Pruning Vendor From Citizen Login"
     },
     {
       "code": "FIELD_INSPECTOR",
