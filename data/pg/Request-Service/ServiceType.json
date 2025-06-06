@@ -3,12 +3,12 @@
   "moduleName": "request-service",
   "ServiceType": [
      {
-      "code": "WT",
+      "code": "WATER_TANKER",
       "i18nKey": "Water Tanker",
       "value": "Water Tanker"
     },
     {
-      "code": "MobileToilet",
+      "code": "MOBILE_TOILET",
       "i18nKey": "Mobile Toilet",
       "value": "Mobile Toilet"
     },
