@@ -211,6 +211,14 @@
       "code": "TLAN2024",
       "financialYear": "2024-25"
     },
+    {
+      "fromDate": 1743465565000,
+      "toDate": 1774976013000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2025",
+      "financialYear": "2025-26"
+    },
 	{
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
