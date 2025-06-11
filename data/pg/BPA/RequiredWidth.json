@@ -7,6 +7,18 @@
             "occupancy": "residential",
             "permissible": 0.76,
             "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "commercial",
+            "permissible": 1.0,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "permissible": 1.2,
+            "active": true
         }
     ]
 }

@@ -9,6 +9,22 @@
         "mezzanineHeight": "2.2",
         "mezzanineBuiltUpArea": "3",
         "active": true
+    },
+        {
+        "id": 2,
+        "occupancy": "commercial",
+        "mezzanineArea": "9",
+        "mezzanineHeight": "2.2",
+        "mezzanineBuiltUpArea": "3",
+        "active": true
+    },
+        {
+        "id": 3,
+        "occupancy": "industrial",
+        "mezzanineArea": "5",
+        "mezzanineHeight": "2.2",
+        "mezzanineBuiltUpArea": "3",
+        "active": true
     }
 ]
 }

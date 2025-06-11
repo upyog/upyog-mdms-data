@@ -9,6 +9,22 @@
         "fireStairMinimumWidth": "1",
         "fireStairRequiredTread": "0.25",
         "active": true
+    },
+        {
+        "id": 2,
+        "occupancy": "commercial",
+        "fireStairExpectedNoofRise": "1",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    },
+        {
+        "id": 3,
+        "occupancy": "industrial",
+        "fireStairExpectedNoofRise": "2",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
     }
 ]
 }
