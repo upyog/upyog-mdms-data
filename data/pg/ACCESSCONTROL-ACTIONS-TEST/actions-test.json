@@ -20294,6 +20294,42 @@
       "serviceCode": "FSM",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2976,
+      "name": "SV_APPLY",
+      "url": "sv-ui-card",
+      "displayName": "Apply",
+      "orderNumber": 1,
+      "parentModule": "SV",
+      "enabled": true,
+      "serviceCode": "SV",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/sv-ui/citizen/sv/apply",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "sv-ui-links",
+      "sidebarURL": "/sv-ui/citizen/sv-home"
+    },
+    {
+      "id": 2977,
+      "name": "SV_MY_APPLICATION",
+      "url": "sv-ui-card",
+      "displayName": "My Applications",
+      "orderNumber": 2,
+      "parentModule": "SV",
+      "enabled": true,
+      "serviceCode": "SV",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/sv-ui/citizen/sv/my-applications",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "sv-ui-links",
+      "sidebarURL": "/sv-ui/citizen/sv-home"
     }
   ]
 }	  
