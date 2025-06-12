@@ -9,6 +9,22 @@
             "minDoorHeight": 2,
             "active": true
 
+        },
+                { 
+            "id": 2,
+            "occupancy": "commercial",
+            "minDoorWidth": 75,
+            "minDoorHeight": 2,
+            "active": true
+
+        },
+                { 
+            "id": 3,
+            "occupancy": "industrial",
+            "minDoorWidth": 0.5,
+            "minDoorHeight": 2,
+            "active": true
+
         }
     ]
 }
