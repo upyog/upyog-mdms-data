@@ -1759,6 +1759,14 @@
       "fromDate": 1554057000000,
       "toDate": 1869676199000,
       "periodCycle": "TENYEARS",
+      "service": "request-service.tree_pruning",
+      "code": "REQ10YRS2025",
+      "financialYear": "2025-35"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
       "service": "cnd-service",
       "code": "CND10YRS2024",
       "financialYear": "2025-35"

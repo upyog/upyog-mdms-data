@@ -774,6 +774,10 @@
         {
             "format": "CND/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "cnd-service.receipt.id"
+        },
+        {
+            "format": "TP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "request-service.tree_pruning.id"
         }
     ]
 }
