@@ -8,6 +8,20 @@
         "buildingHeightMaximumDistancetoRoad": "12",
         "buildingHeightMaxBuildingHeight": "10",
         "active": true
+    },
+        {
+        "id": 2,
+        "occupancy": "commercial",
+        "buildingHeightMaximumDistancetoRoad": "32",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    },
+        {
+        "id": 3,
+        "occupancy": "industrial",
+        "buildingHeightMaximumDistancetoRoad": "1",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
     }
 ]
 }

@@ -11,6 +11,26 @@
         "guardRoomMinCabinHeightOne": "0.75",
         "guardRoomMinCabinHeightTwo": "2.2",
         "active": true
+    },
+        {
+        "id":2,
+        "occupancy": "commercial",
+        "guardRoomMinHeight": "8",
+        "guardRoomMinWidth": "3",
+        "guardRoomMinArea": "10",
+        "guardRoomMinCabinHeightOne": "0.75",
+        "guardRoomMinCabinHeightTwo": "2.2",
+        "active": true
+    },
+        {
+        "id": 3,
+        "occupancy": "industrial",
+        "guardRoomMinHeight": "9",
+        "guardRoomMinWidth": "3",
+        "guardRoomMinArea": "10",
+        "guardRoomMinCabinHeightOne": "0.75",
+        "guardRoomMinCabinHeightTwo": "2.2",
+        "active": true
     }
 ]
 }
