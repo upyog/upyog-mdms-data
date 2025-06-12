@@ -2094,6 +2094,17 @@
       "isActive": true
     },
     {
+      "businessService": "request-service.tree_pruning",
+      "code": "request-service.tree_pruning",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
       "businessService": "cnd-service",
       "code": "cnd-service",
       "collectionModesNotAllowed": [

@@ -5940,6 +5940,16 @@
       },
       {
         "category": "FEE",
+        "service": "request-service.tree_pruning",
+        "name": "Tree Pruning Booking Fee",
+        "code": "TREE_PRUNING_BOOKING_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
         "service": "cnd-service",
         "name": "CND Vehicle Fee",
         "code": "CND_VEHICLE_FEE",
