@@ -822,7 +822,16 @@
       "name": " Tree Pruning Counter Employee",
       "description": "Tree Pruning Counter Employee"
     },
-
+    {
+      "code": "TP_VERIFIER",
+      "name": "Tree Pruning Verifier",
+      "description": "Tree Pruning Verifier"
+    },
+    {
+      "code": "TP_EXECUTION",
+      "name": "Tree Pruning Execution",
+      "description": "Tree Pruning Execution"
+    },
     {
       "code": "WT_VENDOR",
       "name": "Water Tanker Vendor",
