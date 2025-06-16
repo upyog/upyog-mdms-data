@@ -20334,33 +20334,33 @@
     {
       "id": 2978,
       "name": "Create Tree Pruning application",
-      "url": "/request-service/tree-pruning/v1/_create",
+      "url": "/tp-services/tree-pruning/v1/_create",
       "displayName": "Create Tree Pruning application",
       "orderNumber": 1,
       "enabled": false,
-      "serviceCode": "request-service",
+      "serviceCode": "tp-services",
       "code": "null",
       "path": ""
     },
     {
       "id": 2979,
       "name": "Search Tree Pruning application",
-      "url": "/request-service/tree-pruning/v1/_search",
+      "url": "/tp-services/tree-pruning/v1/_search",
       "displayName": "Search Tree Pruning application",
       "orderNumber": 2,
       "enabled": false,
-      "serviceCode": "request-service",
+      "serviceCode": "tp-services",
       "code": "null",
       "path": ""
     },
     {
       "id": 2980,
       "name": "Update Tree Pruning application",
-      "url": "/request-service/tree-pruning/v1/_update",
+      "url": "/tp-services/tree-pruning/v1/_update",
       "displayName": "Update Tree Pruning application",
       "orderNumber": 3,
       "enabled": false,
-      "serviceCode": "request-service",
+      "serviceCode": "tp-services",
       "code": "null",
       "path": ""
 
