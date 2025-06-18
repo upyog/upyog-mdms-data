@@ -777,7 +777,7 @@
         },
         {
             "format": "TP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "request-service.tree_pruning.id"
+            "idname": "request-service.tree_pruning.receipt.id"
         }
     ]
 }
