@@ -20905,6 +20905,222 @@
       "name": "Cannanore Cantonment",
       "active": true,
       "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Manipur",
+      "stateName": "Manipur",
+      "code": "mn.andro",
+      "name": "Andro",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.bishnupur",
+        "name": "Bishnupur",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.heirok",
+        "name": "Heirok",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.imphal",
+        "name": "Imphal",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.jiribam",
+        "name": "Jiribam",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.kakching",
+        "name": "Kakching",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.kakchingkhunou",
+        "name": "Kakching Khunou",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.kumbi",
+        "name": "Kumbi",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.kwakta",
+        "name": "Kwakta",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.lamlai",
+        "name": "Lamlai",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.lamsang",
+        "name": "Lamsang",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.lilongimphalwest",
+        "name": "Lilong Imphal West",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.lilongthoubal",
+        "name": "Lilong Thoubal",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.mayangimphal",
+        "name": "Mayang Imphal",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.moirang",
+        "name": "Moirang",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.nambol",
+        "name": "Nambol",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.ningthoukhong",
+        "name": "Ningthoukhong",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.oinam",
+        "name": "Oinam",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.samurou",
+        "name": "Samurou",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.sekmai",
+        "name": "Sekmai",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.shikhongsekmai",
+        "name": "Shikhong Sekmai",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.sugnu",
+        "name": "Sugnu",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.thongkhongluxmi",
+        "name": "Thongkhong Laxmi",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.thoubal",
+        "name": "Thoubal",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.wangjinglamding",
+        "name": "Wangjing",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.wangoi",
+        "name": "Wangoi",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.yairipok",
+        "name": "Yairipok",
+        "active": true,
+        "module": "NationalDashboard"
     }
   ]
 }
