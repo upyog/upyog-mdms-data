@@ -20376,6 +20376,24 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2982,
+      "name": "CHB_VENUE_MAP_HEADER",
+      "url": "digit-ui-card",
+      "displayName": "Venue Map",
+      "orderNumber": 3,
+      "parentModule": "CHB",
+      "enabled": true,
+      "serviceCode": "CHB",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/chb/map",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/chb-home"
     }
   ]
 }	  
