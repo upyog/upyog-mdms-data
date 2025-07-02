@@ -1,0 +1,39 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "EdcrMasterConfig": [
+        {
+            "featureName": "bathroom",
+            "zone": "yes",
+            "subZone": "yes",
+            "valuePermissible": [
+                "bathroomRequiredArea",
+                "bathroomRequiredWidth",
+                "bathroomRequiredHeight"
+            ]
+        },
+        {
+            "featureName": "balcony",
+            "zone": "yes",
+            "subZone": "yes",
+            "plotArea": "yes",
+            "roadWidth": "yes",
+            "valuePermissible": [
+                "permissible"
+            ]
+        },
+        {
+            "featureName": "far",
+            "state": "no",
+            "zone": "yes",
+            "occupancy": "yes",
+            "riskType":"yes",
+            "subZone": "yes",
+            "plotArea": "yes",
+            "roadWidth": "yes",
+            "valuePermissible": [
+                "permissible"
+            ]
+        }
+    ]
+}
