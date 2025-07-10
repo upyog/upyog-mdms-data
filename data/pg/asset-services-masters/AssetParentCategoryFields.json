@@ -12,6 +12,7 @@
             "name": "warranty",
             "code": "AST_WARRANTY",
             "type": "dropdown",
+            "masterName": "Warranty",  
             "isMandatory": false,
             "active": true,
             "options": [
