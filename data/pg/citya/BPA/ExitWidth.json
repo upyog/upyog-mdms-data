@@ -4,6 +4,11 @@
     "ExitWidth": [
     {
         "id": 1,
+        "state": "pg",
+        "city": "citya",
+        "zone": "x",
+        "subZone": "y",
+        "riskType": null,
         "occupancy": "residential",
         "exitWidthOccupancyTypeHandlerVal": "0.75",
         "exitWidthNotOccupancyTypeHandlerVal": "1.2",
@@ -50,6 +55,11 @@
     },
     {
         "id": 2,
+        "state": "pg",
+        "city": "citya",
+        "zone": "x",
+        "subZone": "y",
+        "riskType": null,
         "occupancy": "commercial",
         "exitWidthOccupancyTypeHandlerVal": "75",
         "exitWidthNotOccupancyTypeHandlerVal": "1.2",
@@ -95,6 +105,11 @@
     },
     {
         "id": 3,
+        "state": "pg",
+        "city": "citya",
+        "zone": "x",
+        "subZone": "y",
+        "riskType": null,
         "occupancy": "industrial",
         "exitWidthOccupancyTypeHandlerVal": "35",
         "exitWidthNotOccupancyTypeHandlerVal": "1.2",
