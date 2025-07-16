@@ -14,7 +14,7 @@
             "riskType": "low",
             "isOpenParking": true,
             "noOfParking": 1,
-            "permissible": 26.5,
+            "permissible": 22.5,
             "active": true
         },
         {
@@ -29,7 +29,7 @@
             "riskType": "low",
             "isOpenParking": true,
             "noOfParking": 2,
-            "permissible": 26.5,
+            "permissible": 22.5,
             "active": true
         },
         {
