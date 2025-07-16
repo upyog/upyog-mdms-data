@@ -20394,6 +20394,51 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/chb-home"
-    }
+    },
+    {
+      "id": 2983,
+      "name": "CND Report",
+      "url": "url",
+      "displayName": "CND Application Report",
+      "orderNumber": 1,
+      "parentModule": "CndServices",
+      "enabled": true,
+      "serviceCode": "CND",
+      "code": "null",
+      "path": "CND.Reports.CNDApplicationReport",
+      "navigationURL": "report/rainmaker-CND/CNDApplicationReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2984,
+      "name": "CNDApplicationReport",
+      "url": "/report/rainmaker-CND/CNDApplicationReport/metadata/_get",
+      "displayName": "rainmaker-CND-CNDApplicationReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2985,
+      "name": "CNDApplicationReport",
+      "url": "/report/rainmaker-CND/CNDApplicationReport/_get",
+      "displayName": "rainmaker-CND-CNDApplicationReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
+    }	  
   ]
 }	  

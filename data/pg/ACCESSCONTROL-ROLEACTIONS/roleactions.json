@@ -31848,6 +31848,24 @@
       "actionid": 2981,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 2983,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "CND_CEMP",
+      "actionid": 2984,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "CND_CEMP",
+      "actionid": 2985,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
