@@ -32,6 +32,12 @@
         "code": "AST_CERTIFICATE",
         "url" : "/digit-ui/employee/asset/assetservice/certificate-assets/",
         "active": true
+      },
+      {
+        "name": "Asset Maintenance",
+        "code": "AST_REPAIR_AND_MAINTENANCE",
+        "url" : "/digit-ui/employee/asset/assetservice/maintenance-assets/",
+        "active": true
       }
     ]
 }
