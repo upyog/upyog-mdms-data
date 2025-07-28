@@ -20439,6 +20439,18 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
+    },
+    {
+      "id": 2986,
+      "name": "National Dashboard Finance ",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-finance",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
     }	  
   ]
 }	  
