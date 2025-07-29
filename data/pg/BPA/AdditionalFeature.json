@@ -1,0 +1,27 @@
+{
+    "tenantId": "pg",
+    "moduleName": "AdditionalFeature",
+    "Chimney": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "additionalFeatureMinRequiredFloorHeight": 2.75,
+        "additionalFeatureMaxPermissibleFloorHeight": 4.40,
+        "active": true
+    },
+        {
+        "id": 2,
+        "occupancy": "commercial",
+        "additionalFeatureMinRequiredFloorHeight": 2,
+        "additionalFeatureMaxPermissibleFloorHeight": 3.5,
+        "active": true
+    },
+    {
+        "id": 3,
+        "occupancy": "industrial",
+        "additionalFeatureMinRequiredFloorHeight": 3,
+        "additionalFeatureMaxPermissibleFloorHeight": 5.5,
+        "active": true
+    }
+]
+}
