@@ -1758,6 +1758,692 @@
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "Main branch",
       "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "WF.Contractor_Enlistment",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "WF.Tender_Form_Fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "WF.OFC_Permission_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "FA.BUILDING",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "FA.LAND",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "FA.MOTOR_VEHICLE",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "WC.NonMetered",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "WC.Metered",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SNT.Dead_animals_contract",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SNT.Licence_Pure_food",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SNT.clean_safai_sanitation",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "ADMIN.Parking_during_election",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "ADMIN.Road_show",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "ADMIN.RTI",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "ADMIN.No_Dues_Certificate",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "ADMIN.Election_rally_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "ADMIN.Parking_Booking_Fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "WS.ONE_TIME_FEE",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OM.Plumber_License_Fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OM.Road_Cut_Fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OM.Water_connection/disconnection_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OM.Water_connection_disconnection_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "EXP.Stationary_Not_Income",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "EXP.Expenditure_santitation_Not_Income",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "FSM.TRIP_CHARGES",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CESS.COW_CESS",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CESS.LABOUR_CESS",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SW.ONE_TIME_FEE",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Littering_Challan",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Santitation_dumping_garbage",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Challan_for_Misuse_of_Water",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Dengue_Challan",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Burning_of_Waste_Challan_fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Collection_and_Demolition_Waste_Challan_fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Plastic_Challan",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Bidi_&_Cigrette_Challan",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Rehri_Challan",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Dairy_Animals_Challan",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "SBM.Cattle_Challan",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "TB.Advertisement_fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "TB.Rehri_Challan",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "TB.Tehbazaari",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "TB.Challan_Under_section_156",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Dispensary_Fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Candy_fee_Slaughter_House",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.No_due_certificate_electricity",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Sale_of_Recyclable_Fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Swimming_Pool_And_Gymnactics_Hall_Fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.registery_and_bank_loan",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Street_Light_Pole_Transfer_fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Sale_of_Compost_Fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Dog_Registration",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Misc_Challans",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Other_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.NOC_Fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Fire_Call_Report_Fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Conservancy_fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Fire_NOC_fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.License_fee_Slaughter_House",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Water_Charges",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Fire_Tender_Fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "OT.Bus_Adda_Fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "BPA.NC_OC_APP_FEE",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "BPA.LOW_RISK_PERMIT_FEE",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "BPA.NC_OC_SAN_FEE",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "BPA.NC_APP_FEE",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "BPA.NC_SAN_FEE",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Hadud_Certificate_Fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Change_of_Land_Use_Fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.NOC/Completion_of_building_approval",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Naksha_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Rain_Harvesting_Charges",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Naksha_renew_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Under_Development_Fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Information_Certificate_fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Building_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Naksha_changes",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Development_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Boundary_Wall_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.2_year_time_limit_of_Renewal_Building_Naksha",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Economic_Weaker_Section_Projects_Fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Sub_division_charges_fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Economic_Weaker_Section_Scheme_Charges",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Malba_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Regularisation_of_Buildings",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.No_Dues_Certificate",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Colony_Sambandhi_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Building_safety_Certificate_fee",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Alteration_additional_charge",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "NBM.Naksha_samjota_fees",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "TL.RENEWAL",
+      "bankAccount": "123456 - - 4502105",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "branch two",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "Advertisement_Tax.Canopy_Fee",
+      "bankAccount": "1234567890",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "Main branch",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "Advertisement_Tax.Hoardings",
+      "bankAccount": "1234567891",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "Main branch",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "Advertisement_Tax.Gas_Balloon_Advertisement",
+      "bankAccount": "1234567892",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "Main branch",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "Advertisement_Tax.Wall_Paint_Advertisement",
+      "bankAccount": "1234567893",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "Main branch",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "Advertisement_Tax.Unipolls",
+      "bankAccount": "1234567894",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "Main branch",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "Advertisement_Tax.Light_Wala_Board",
+      "bankAccount": "1234567895",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "Main branch",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "Advertisement_Tax.Outdoor_Media_Display_Fee",
+      "bankAccount": "1234567896",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "Main branch",
+      "tenantId": "pg.citya"
     }
   ]
 }
