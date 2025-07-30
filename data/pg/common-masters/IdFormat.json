@@ -427,8 +427,20 @@
             "idname": "other.noc_fee.receipt.id"
         },
         {
-            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON",
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "rev_grants.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "disp_fixed_asset.building.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "disp_fixed_asset.land.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "disp_fixed_asset.motor_vehicle.receipt.id"
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
