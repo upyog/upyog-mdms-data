@@ -1249,7 +1249,7 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.labour_cess",
+      "businessDetails": "CSS.Labor_Cess",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
@@ -1313,6 +1313,13 @@
     },
     {
       "businessDetails": "CH.Bidi_&_Cigrette_Challan",
+      "bankAccount": "000000000001",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "001",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CH.Bidi_&amp;_Cigrette_Challan",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
@@ -1935,7 +1942,7 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.labour_cess",
+      "businessDetails": "CSS.Labor_Cess",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
@@ -1999,6 +2006,13 @@
     },
     {
       "businessDetails": "CH.Bidi_&_Cigrette_Challan",
+      "bankAccount": "123456",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "123445",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CH.Bidi_&amp;_Cigrette_Challan",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
@@ -3755,7 +3769,7 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.labour_cess",
+      "businessDetails": "CSS.Labor_Cess",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
@@ -3819,6 +3833,13 @@
     },
     {
       "businessDetails": "CH.Bidi_&_Cigrette_Challan",
+      "bankAccount": "1234345565678",
+      "bank": "axis bank",
+      "bankBranch": "kdjfla12024",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CH.Bidi_&amp;_Cigrette_Challan",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
@@ -4441,7 +4462,7 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.labour_cess",
+      "businessDetails": "CSS.Labor_Cess",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
@@ -4505,6 +4526,13 @@
     },
     {
       "businessDetails": "CH.Bidi_&_Cigrette_Challan",
+      "bankAccount": "63897421",
+      "bank": "HDFC Bank",
+      "bankBranch": "HDFC147",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CH.Bidi_&amp;_Cigrette_Challan",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
@@ -6261,7 +6289,7 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.labour_cess",
+      "businessDetails": "CSS.Labor_Cess",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
@@ -6325,6 +6353,13 @@
     },
     {
       "businessDetails": "CH.Bidi_&_Cigrette_Challan",
+      "bankAccount": "844102001001VN",
+      "bank": "STATE BANK OF INDIA",
+      "bankBranch": "6305",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CH.Bidi_&amp;_Cigrette_Challan",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
@@ -6947,7 +6982,7 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.labour_cess",
+      "businessDetails": "CSS.Labor_Cess",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
@@ -7011,6 +7046,13 @@
     },
     {
       "businessDetails": "CH.Bidi_&_Cigrette_Challan",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CH.Bidi_&amp;_Cigrette_Challan",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
@@ -8767,7 +8809,7 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.labour_cess",
+      "businessDetails": "CSS.Labor_Cess",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
@@ -8831,6 +8873,13 @@
     },
     {
       "businessDetails": "CH.Bidi_&_Cigrette_Challan",
+      "bankAccount": "9898989898",
+      "bank": "ABC Bank Ltd",
+      "bankBranch": "CDE",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CH.Bidi_&amp;_Cigrette_Challan",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
@@ -9453,7 +9502,7 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.labour_cess",
+      "businessDetails": "CSS.Labor_Cess",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
@@ -9517,6 +9566,13 @@
     },
     {
       "businessDetails": "CH.Bidi_&_Cigrette_Challan",
+      "bankAccount": "1234567890",
+      "bank": "Axis Bank Branch Delhi",
+      "bankBranch": "UTIB0000007",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CH.Bidi_&amp;_Cigrette_Challan",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
@@ -11273,7 +11329,7 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.labour_cess",
+      "businessDetails": "CSS.Labor_Cess",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
@@ -11337,6 +11393,13 @@
     },
     {
       "businessDetails": "CH.Bidi_&_Cigrette_Challan",
+      "bankAccount": "8833727234837",
+      "bank": "Prayagraj Bank",
+      "bankBranch": "0532",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CH.Bidi_&amp;_Cigrette_Challan",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
@@ -11959,7 +12022,7 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.labour_cess",
+      "businessDetails": "CSS.Labor_Cess",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
@@ -12023,6 +12086,13 @@
     },
     {
       "businessDetails": "CH.Bidi_&_Cigrette_Challan",
+      "bankAccount": "123456789",
+      "bank": "INDIAN BANK",
+      "bankBranch": "SBIN0004000",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "CH.Bidi_&amp;_Cigrette_Challan",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
