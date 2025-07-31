@@ -1242,14 +1242,14 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.COW_CESS",
+      "businessDetails": "CSS.cow_cess",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.LABOUR_CESS",
+      "businessDetails": "CSS.labour_cess",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
@@ -1263,77 +1263,77 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Littering_Challan",
+      "businessDetails": "CH.Littering_Challan",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Santitation_dumping_garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Challan_for_Misuse_of_Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dengue_Challan",
+      "businessDetails": "CH.Dengue_Challan",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Burning_of_Waste_Challan_fee",
+      "businessDetails": "CH.Burning_of_Waste_Challan_fee",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Collection_and_Demolition_Waste_Challan_fee",
+      "businessDetails": "CH.Collection_and_Demolition_Waste_Challan_fee",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Plastic_Challan",
+      "businessDetails": "CH.Plastic_Challan",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Bidi_&_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_&_Cigrette_Challan",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Rehri_Challan",
+      "businessDetails": "CH.Rehri_Challan",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dairy_Animals_Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Cattle_Challan",
+      "businessDetails": "CH.Cattle_Challan",
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
@@ -1705,49 +1705,49 @@
     },
     {
       "businessDetails": "ADVT.Canopy_Fee",
-      "bankAccount": "1234567890",
+      "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "1234567891",
+      "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Gas_Balloon_Advertisement",
-      "bankAccount": "1234567892",
+      "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Wall_Paint_Advertisement",
-      "bankAccount": "1234567893",
+      "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Unipolls",
-      "bankAccount": "1234567894",
+      "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Light_Wala_Board",
-      "bankAccount": "1234567895",
+      "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
-      "bankAccount": "1234567896",
+      "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
@@ -1928,14 +1928,14 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.COW_CESS",
+      "businessDetails": "CSS.cow_cess",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.LABOUR_CESS",
+      "businessDetails": "CSS.labour_cess",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
@@ -1949,77 +1949,77 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Littering_Challan",
+      "businessDetails": "CH.Littering_Challan",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Santitation_dumping_garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Challan_for_Misuse_of_Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dengue_Challan",
+      "businessDetails": "CH.Dengue_Challan",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Burning_of_Waste_Challan_fee",
+      "businessDetails": "CH.Burning_of_Waste_Challan_fee",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Collection_and_Demolition_Waste_Challan_fee",
+      "businessDetails": "CH.Collection_and_Demolition_Waste_Challan_fee",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Plastic_Challan",
+      "businessDetails": "CH.Plastic_Challan",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Bidi_&_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_&_Cigrette_Challan",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Rehri_Challan",
+      "businessDetails": "CH.Rehri_Challan",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dairy_Animals_Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Cattle_Challan",
+      "businessDetails": "CH.Cattle_Challan",
       "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "123445",
@@ -2405,51 +2405,51 @@
     },
     {
       "businessDetails": "ADVT.Canopy_Fee",
-      "bankAccount": "1234567890",
+      "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "1234567891",
+      "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Gas_Balloon_Advertisement",
-      "bankAccount": "1234567892",
+      "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Wall_Paint_Advertisement",
-      "bankAccount": "1234567893",
+      "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Unipolls",
-      "bankAccount": "1234567894",
+      "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Light_Wala_Board",
-      "bankAccount": "1234567895",
+      "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
-      "bankAccount": "1234567896",
+      "bankAccount": "123456",
       "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankBranch": "123445",
       "tenantId": "pg.citya"
     },
     {
@@ -3748,14 +3748,14 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.COW_CESS",
+      "businessDetails": "CSS.cow_cess",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.LABOUR_CESS",
+      "businessDetails": "CSS.labour_cess",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
@@ -3769,77 +3769,77 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Littering_Challan",
+      "businessDetails": "CH.Littering_Challan",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Santitation_dumping_garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Challan_for_Misuse_of_Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dengue_Challan",
+      "businessDetails": "CH.Dengue_Challan",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Burning_of_Waste_Challan_fee",
+      "businessDetails": "CH.Burning_of_Waste_Challan_fee",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Collection_and_Demolition_Waste_Challan_fee",
+      "businessDetails": "CH.Collection_and_Demolition_Waste_Challan_fee",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Plastic_Challan",
+      "businessDetails": "CH.Plastic_Challan",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Bidi_&_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_&_Cigrette_Challan",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Rehri_Challan",
+      "businessDetails": "CH.Rehri_Challan",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dairy_Animals_Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Cattle_Challan",
+      "businessDetails": "CH.Cattle_Challan",
       "bankAccount": "1234345565678",
       "bank": "axis bank",
       "bankBranch": "kdjfla12024",
@@ -4211,51 +4211,51 @@
     },
     {
       "businessDetails": "ADVT.Canopy_Fee",
-      "bankAccount": "1234567890",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234345565678",
+      "bank": "axis bank",
+      "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "1234567891",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234345565678",
+      "bank": "axis bank",
+      "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Gas_Balloon_Advertisement",
-      "bankAccount": "1234567892",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234345565678",
+      "bank": "axis bank",
+      "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Wall_Paint_Advertisement",
-      "bankAccount": "1234567893",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234345565678",
+      "bank": "axis bank",
+      "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Unipolls",
-      "bankAccount": "1234567894",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234345565678",
+      "bank": "axis bank",
+      "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Light_Wala_Board",
-      "bankAccount": "1234567895",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234345565678",
+      "bank": "axis bank",
+      "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
-      "bankAccount": "1234567896",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234345565678",
+      "bank": "axis bank",
+      "bankBranch": "kdjfla12024",
       "tenantId": "pg.citya"
     },
     {
@@ -4434,14 +4434,14 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.COW_CESS",
+      "businessDetails": "CSS.cow_cess",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.LABOUR_CESS",
+      "businessDetails": "CSS.labour_cess",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
@@ -4455,77 +4455,77 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Littering_Challan",
+      "businessDetails": "CH.Littering_Challan",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Santitation_dumping_garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Challan_for_Misuse_of_Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dengue_Challan",
+      "businessDetails": "CH.Dengue_Challan",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Burning_of_Waste_Challan_fee",
+      "businessDetails": "CH.Burning_of_Waste_Challan_fee",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Collection_and_Demolition_Waste_Challan_fee",
+      "businessDetails": "CH.Collection_and_Demolition_Waste_Challan_fee",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Plastic_Challan",
+      "businessDetails": "CH.Plastic_Challan",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Bidi_&_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_&_Cigrette_Challan",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Rehri_Challan",
+      "businessDetails": "CH.Rehri_Challan",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dairy_Animals_Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Cattle_Challan",
+      "businessDetails": "CH.Cattle_Challan",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
@@ -4911,51 +4911,51 @@
     },
     {
       "businessDetails": "ADVT.Canopy_Fee",
-      "bankAccount": "1234567890",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "63897421",
+      "bank": "HDFC Bank",
+      "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "1234567891",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "63897421",
+      "bank": "HDFC Bank",
+      "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Gas_Balloon_Advertisement",
-      "bankAccount": "1234567892",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "63897421",
+      "bank": "HDFC Bank",
+      "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Wall_Paint_Advertisement",
-      "bankAccount": "1234567893",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "63897421",
+      "bank": "HDFC Bank",
+      "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Unipolls",
-      "bankAccount": "1234567894",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "63897421",
+      "bank": "HDFC Bank",
+      "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Light_Wala_Board",
-      "bankAccount": "1234567895",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "63897421",
+      "bank": "HDFC Bank",
+      "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
-      "bankAccount": "1234567896",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "63897421",
+      "bank": "HDFC Bank",
+      "bankBranch": "HDFC147",
       "tenantId": "pg.citya"
     },
     {
@@ -6254,14 +6254,14 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.COW_CESS",
+      "businessDetails": "CSS.cow_cess",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.LABOUR_CESS",
+      "businessDetails": "CSS.labour_cess",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
@@ -6275,77 +6275,77 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Littering_Challan",
+      "businessDetails": "CH.Littering_Challan",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Santitation_dumping_garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Challan_for_Misuse_of_Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dengue_Challan",
+      "businessDetails": "CH.Dengue_Challan",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Burning_of_Waste_Challan_fee",
+      "businessDetails": "CH.Burning_of_Waste_Challan_fee",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Collection_and_Demolition_Waste_Challan_fee",
+      "businessDetails": "CH.Collection_and_Demolition_Waste_Challan_fee",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Plastic_Challan",
+      "businessDetails": "CH.Plastic_Challan",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Bidi_&_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_&_Cigrette_Challan",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Rehri_Challan",
+      "businessDetails": "CH.Rehri_Challan",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dairy_Animals_Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Cattle_Challan",
+      "businessDetails": "CH.Cattle_Challan",
       "bankAccount": "844102001001VN",
       "bank": "STATE BANK OF INDIA",
       "bankBranch": "6305",
@@ -6717,51 +6717,51 @@
     },
     {
       "businessDetails": "ADVT.Canopy_Fee",
-      "bankAccount": "1234567890",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "844102001001VN",
+      "bank": "STATE BANK OF INDIA",
+      "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "1234567891",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "844102001001VN",
+      "bank": "STATE BANK OF INDIA",
+      "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Gas_Balloon_Advertisement",
-      "bankAccount": "1234567892",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "844102001001VN",
+      "bank": "STATE BANK OF INDIA",
+      "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Wall_Paint_Advertisement",
-      "bankAccount": "1234567893",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "844102001001VN",
+      "bank": "STATE BANK OF INDIA",
+      "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Unipolls",
-      "bankAccount": "1234567894",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "844102001001VN",
+      "bank": "STATE BANK OF INDIA",
+      "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Light_Wala_Board",
-      "bankAccount": "1234567895",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "844102001001VN",
+      "bank": "STATE BANK OF INDIA",
+      "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
-      "bankAccount": "1234567896",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "844102001001VN",
+      "bank": "STATE BANK OF INDIA",
+      "bankBranch": "6305",
       "tenantId": "pg.citya"
     },
     {
@@ -6940,14 +6940,14 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.COW_CESS",
+      "businessDetails": "CSS.cow_cess",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.LABOUR_CESS",
+      "businessDetails": "CSS.labour_cess",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
@@ -6961,77 +6961,77 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Littering_Challan",
+      "businessDetails": "CH.Littering_Challan",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Santitation_dumping_garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Challan_for_Misuse_of_Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dengue_Challan",
+      "businessDetails": "CH.Dengue_Challan",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Burning_of_Waste_Challan_fee",
+      "businessDetails": "CH.Burning_of_Waste_Challan_fee",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Collection_and_Demolition_Waste_Challan_fee",
+      "businessDetails": "CH.Collection_and_Demolition_Waste_Challan_fee",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Plastic_Challan",
+      "businessDetails": "CH.Plastic_Challan",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Bidi_&_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_&_Cigrette_Challan",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Rehri_Challan",
+      "businessDetails": "CH.Rehri_Challan",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dairy_Animals_Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Cattle_Challan",
+      "businessDetails": "CH.Cattle_Challan",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
@@ -7417,51 +7417,51 @@
     },
     {
       "businessDetails": "ADVT.Canopy_Fee",
-      "bankAccount": "1234567890",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "1234567891",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Gas_Balloon_Advertisement",
-      "bankAccount": "1234567892",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Wall_Paint_Advertisement",
-      "bankAccount": "1234567893",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Unipolls",
-      "bankAccount": "1234567894",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Light_Wala_Board",
-      "bankAccount": "1234567895",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
-      "bankAccount": "1234567896",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
     },
     {
@@ -8760,14 +8760,14 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.COW_CESS",
+      "businessDetails": "CSS.cow_cess",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.LABOUR_CESS",
+      "businessDetails": "CSS.labour_cess",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
@@ -8781,77 +8781,77 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Littering_Challan",
+      "businessDetails": "CH.Littering_Challan",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Santitation_dumping_garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Challan_for_Misuse_of_Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dengue_Challan",
+      "businessDetails": "CH.Dengue_Challan",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Burning_of_Waste_Challan_fee",
+      "businessDetails": "CH.Burning_of_Waste_Challan_fee",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Collection_and_Demolition_Waste_Challan_fee",
+      "businessDetails": "CH.Collection_and_Demolition_Waste_Challan_fee",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Plastic_Challan",
+      "businessDetails": "CH.Plastic_Challan",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Bidi_&_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_&_Cigrette_Challan",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Rehri_Challan",
+      "businessDetails": "CH.Rehri_Challan",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dairy_Animals_Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Cattle_Challan",
+      "businessDetails": "CH.Cattle_Challan",
       "bankAccount": "9898989898",
       "bank": "ABC Bank Ltd",
       "bankBranch": "CDE",
@@ -9223,51 +9223,51 @@
     },
     {
       "businessDetails": "ADVT.Canopy_Fee",
-      "bankAccount": "1234567890",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "9898989898",
+      "bank": "ABC Bank Ltd",
+      "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "1234567891",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "9898989898",
+      "bank": "ABC Bank Ltd",
+      "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Gas_Balloon_Advertisement",
-      "bankAccount": "1234567892",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "9898989898",
+      "bank": "ABC Bank Ltd",
+      "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Wall_Paint_Advertisement",
-      "bankAccount": "1234567893",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "9898989898",
+      "bank": "ABC Bank Ltd",
+      "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Unipolls",
-      "bankAccount": "1234567894",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "9898989898",
+      "bank": "ABC Bank Ltd",
+      "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Light_Wala_Board",
-      "bankAccount": "1234567895",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "9898989898",
+      "bank": "ABC Bank Ltd",
+      "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
-      "bankAccount": "1234567896",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "9898989898",
+      "bank": "ABC Bank Ltd",
+      "bankBranch": "CDE",
       "tenantId": "pg.citya"
     },
     {
@@ -9446,14 +9446,14 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.COW_CESS",
+      "businessDetails": "CSS.cow_cess",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.LABOUR_CESS",
+      "businessDetails": "CSS.labour_cess",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
@@ -9467,77 +9467,77 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Littering_Challan",
+      "businessDetails": "CH.Littering_Challan",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Santitation_dumping_garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Challan_for_Misuse_of_Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dengue_Challan",
+      "businessDetails": "CH.Dengue_Challan",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Burning_of_Waste_Challan_fee",
+      "businessDetails": "CH.Burning_of_Waste_Challan_fee",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Collection_and_Demolition_Waste_Challan_fee",
+      "businessDetails": "CH.Collection_and_Demolition_Waste_Challan_fee",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Plastic_Challan",
+      "businessDetails": "CH.Plastic_Challan",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Bidi_&_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_&_Cigrette_Challan",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Rehri_Challan",
+      "businessDetails": "CH.Rehri_Challan",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dairy_Animals_Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Cattle_Challan",
+      "businessDetails": "CH.Cattle_Challan",
       "bankAccount": "1234567890",
       "bank": "Axis Bank Branch Delhi",
       "bankBranch": "UTIB0000007",
@@ -9924,50 +9924,50 @@
     {
       "businessDetails": "ADVT.Canopy_Fee",
       "bankAccount": "1234567890",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bank": "Axis Bank Branch Delhi",
+      "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "1234567891",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234567890",
+      "bank": "Axis Bank Branch Delhi",
+      "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Gas_Balloon_Advertisement",
-      "bankAccount": "1234567892",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234567890",
+      "bank": "Axis Bank Branch Delhi",
+      "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Wall_Paint_Advertisement",
-      "bankAccount": "1234567893",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234567890",
+      "bank": "Axis Bank Branch Delhi",
+      "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Unipolls",
-      "bankAccount": "1234567894",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234567890",
+      "bank": "Axis Bank Branch Delhi",
+      "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Light_Wala_Board",
-      "bankAccount": "1234567895",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234567890",
+      "bank": "Axis Bank Branch Delhi",
+      "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
-      "bankAccount": "1234567896",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "1234567890",
+      "bank": "Axis Bank Branch Delhi",
+      "bankBranch": "UTIB0000007",
       "tenantId": "pg.citya"
     },
     {
@@ -11266,14 +11266,14 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.COW_CESS",
+      "businessDetails": "CSS.cow_cess",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.LABOUR_CESS",
+      "businessDetails": "CSS.labour_cess",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
@@ -11287,77 +11287,77 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Littering_Challan",
+      "businessDetails": "CH.Littering_Challan",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Santitation_dumping_garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Challan_for_Misuse_of_Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dengue_Challan",
+      "businessDetails": "CH.Dengue_Challan",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Burning_of_Waste_Challan_fee",
+      "businessDetails": "CH.Burning_of_Waste_Challan_fee",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Collection_and_Demolition_Waste_Challan_fee",
+      "businessDetails": "CH.Collection_and_Demolition_Waste_Challan_fee",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Plastic_Challan",
+      "businessDetails": "CH.Plastic_Challan",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Bidi_&_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_&_Cigrette_Challan",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Rehri_Challan",
+      "businessDetails": "CH.Rehri_Challan",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dairy_Animals_Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Cattle_Challan",
+      "businessDetails": "CH.Cattle_Challan",
       "bankAccount": "8833727234837",
       "bank": "Prayagraj Bank",
       "bankBranch": "0532",
@@ -11729,51 +11729,51 @@
     },
     {
       "businessDetails": "ADVT.Canopy_Fee",
-      "bankAccount": "1234567890",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "8833727234837",
+      "bank": "Prayagraj Bank",
+      "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "1234567891",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "8833727234837",
+      "bank": "Prayagraj Bank",
+      "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Gas_Balloon_Advertisement",
-      "bankAccount": "1234567892",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "8833727234837",
+      "bank": "Prayagraj Bank",
+      "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Wall_Paint_Advertisement",
-      "bankAccount": "1234567893",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "8833727234837",
+      "bank": "Prayagraj Bank",
+      "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Unipolls",
-      "bankAccount": "1234567894",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "8833727234837",
+      "bank": "Prayagraj Bank",
+      "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Light_Wala_Board",
-      "bankAccount": "1234567895",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "8833727234837",
+      "bank": "Prayagraj Bank",
+      "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
-      "bankAccount": "1234567896",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "8833727234837",
+      "bank": "Prayagraj Bank",
+      "bankBranch": "0532",
       "tenantId": "pg.citya"
     },
     {
@@ -11952,14 +11952,14 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.COW_CESS",
+      "businessDetails": "CSS.cow_cess",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CSS.LABOUR_CESS",
+      "businessDetails": "CSS.labour_cess",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
@@ -11973,77 +11973,77 @@
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Littering_Challan",
+      "businessDetails": "CH.Littering_Challan",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Santitation_dumping_garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Challan_for_Misuse_of_Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dengue_Challan",
+      "businessDetails": "CH.Dengue_Challan",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Burning_of_Waste_Challan_fee",
+      "businessDetails": "CH.Burning_of_Waste_Challan_fee",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Collection_and_Demolition_Waste_Challan_fee",
+      "businessDetails": "CH.Collection_and_Demolition_Waste_Challan_fee",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Plastic_Challan",
+      "businessDetails": "CH.Plastic_Challan",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Bidi_&_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_&_Cigrette_Challan",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Rehri_Challan",
+      "businessDetails": "CH.Rehri_Challan",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Dairy_Animals_Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan.Cattle_Challan",
+      "businessDetails": "CH.Cattle_Challan",
       "bankAccount": "123456789",
       "bank": "INDIAN BANK",
       "bankBranch": "SBIN0004000",
@@ -12429,51 +12429,51 @@
     },
     {
       "businessDetails": "ADVT.Canopy_Fee",
-      "bankAccount": "1234567890",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "123456789",
+      "bank": "INDIAN BANK",
+      "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Hoardings",
-      "bankAccount": "1234567891",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "123456789",
+      "bank": "INDIAN BANK",
+      "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Gas_Balloon_Advertisement",
-      "bankAccount": "1234567892",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "123456789",
+      "bank": "INDIAN BANK",
+      "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Wall_Paint_Advertisement",
-      "bankAccount": "1234567893",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "123456789",
+      "bank": "INDIAN BANK",
+      "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Unipolls",
-      "bankAccount": "1234567894",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "123456789",
+      "bank": "INDIAN BANK",
+      "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Light_Wala_Board",
-      "bankAccount": "1234567895",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "123456789",
+      "bank": "INDIAN BANK",
+      "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
-      "bankAccount": "1234567896",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
+      "bankAccount": "123456789",
+      "bank": "INDIAN BANK",
+      "bankBranch": "SBIN0004000",
       "tenantId": "pg.citya"
     },
     {
