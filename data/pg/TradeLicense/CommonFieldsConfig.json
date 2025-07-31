@@ -184,6 +184,7 @@
               "route": "proof",
               "component": "TLProof",
               "withoutLabel": true,
+              "isMandatory": true,
               "texts": {
                   "headerCaption": "TL_OWNERS_DETAILS",
                   "header": "TL_OWNERS_PHOTOGRAPH_HEADER",

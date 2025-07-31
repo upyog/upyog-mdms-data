@@ -31400,6 +31400,30 @@
       "actionid": 2984,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2984,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 2985,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2985,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2986,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
