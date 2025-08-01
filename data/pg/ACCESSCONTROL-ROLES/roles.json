@@ -358,6 +358,11 @@
       "description": "BPA Town Planner"
     },
     {
+      "code": "BPA_DESIGNER",
+      "name": "BPA Designer",
+      "description": "BPA Designer"
+    },
+    {
       "code": "ANONYMOUS",
       "name": "Anonymous User",
       "description": "Anonymous User to be used in case of no auth"
