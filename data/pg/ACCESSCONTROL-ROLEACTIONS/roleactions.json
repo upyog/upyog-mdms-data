@@ -31376,6 +31376,24 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CND_CEMP",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_CEMP",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "CND_FACILITY_CEMP",
       "actionid": 2946,
       "actioncode": "",
@@ -31426,6 +31444,48 @@
     {
       "rolecode": "CND_FACILITY_CEMP",
       "actionid": 2066,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CND_FACILITY_CEMP",
+      "actionid": 2960,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FIELD_INSPECTOR",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FIELD_INSPECTOR",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FIELD_INSPECTOR",
+      "actionid": 1865,
       "actioncode": "",
       "tenantId": "pg"
     },
