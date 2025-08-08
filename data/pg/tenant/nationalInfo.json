@@ -18882,7 +18882,7 @@
       "active": true,
       "module": "NationalDashboard"
     },
-	{
+    {
       "stateCode": "Himachal Pradesh",
       "stateName": "Himachal Pradesh",
       "code": "hp.municipalcorporationshimla",
@@ -19369,6 +19369,1054 @@
       "name": "hp.nagarpanchayatamb",
       "active": true,
       "module": "NationalDashboard"
+    },
+	{
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.guwahati",
+      "name": "as.guwahati",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.palasbari",
+      "name": "as.palasbari",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.northguwahati",
+      "name": "as.northguwahati",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.rangia",
+      "name": "as.rangia",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.nalbari",
+      "name": "as.nalbari",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.tihu",
+      "name": "as.tihu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.barpeta",
+      "name": "as.barpeta",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.pathsala",
+      "name": "as.pathsala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.howly",
+      "name": "as.howly",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.sarthebari",
+      "name": "as.sarthebari",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.barpetaroad",
+      "name": "as.barpetaroad",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.sorbhog",
+      "name": "as.sorbhog",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.patacharkuchi",
+      "name": "as.patacharkuchi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.mangaldoi",
+      "name": "as.mangaldoi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.kharupetia",
+      "name": "as.kharupetia",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.sipajhar",
+      "name": "as.sipajhar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.dhubri",
+      "name": "as.dhubri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.gauripur",
+      "name": "as.gauripur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.bilasipara",
+      "name": "as.bilasipara",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.chapar",
+      "name": "as.chapar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.sapatgram",
+      "name": "as.sapatgram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.golukganj",
+      "name": "as.golukganj",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.goalpara",
+      "name": "as.goalpara",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.lakhipurgoalpara",
+      "name": "as.lakhipurgoalpara",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.bongaigaon",
+      "name": "as.bongaigaon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.abhayapuri",
+      "name": "as.abhayapuri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.morigaon",
+      "name": "as.morigaon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.nagaon",
+      "name": "as.nagaon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.kampur",
+      "name": "as.kampur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.raha",
+      "name": "as.raha",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.dhing",
+      "name": "as.dhing",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.lanka",
+      "name": "as.lanka",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.hojai",
+      "name": "as.hojai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.doboka",
+      "name": "as.doboka",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.lumding",
+      "name": "as.lumding",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.tezpur",
+      "name": "as.tezpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.dhekiajuli",
+      "name": "as.dhekiajuli",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.rangapara",
+      "name": "as.rangapara",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.jamugurihat",
+      "name": "as.jamugurihat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.gohpur",
+      "name": "as.gohpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.biswanathchariali",
+      "name": "as.biswanathchariali",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.sootea",
+      "name": "as.sootea",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.golaghat",
+      "name": "as.golaghat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.dergaon",
+      "name": "as.dergaon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.bokakhat",
+      "name": "as.bokakhat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.sarupathar",
+      "name": "as.sarupathar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.barpathar",
+      "name": "as.barpathar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.jorhat",
+      "name": "as.jorhat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.moriani",
+      "name": "as.moriani",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.titabar",
+      "name": "as.titabar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.teok",
+      "name": "as.teok",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.sibsagar",
+      "name": "as.sibsagar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.nazira",
+      "name": "as.nazira",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.amguri",
+      "name": "as.amguri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.simaluguri",
+      "name": "as.simaluguri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.demow",
+      "name": "as.demow",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.sonari",
+      "name": "as.sonari",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.moran",
+      "name": "as.moran",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.northlakhimpur",
+      "name": "as.northlakhimpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.bihpuria",
+      "name": "as.bihpuria",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.dhakuakhana",
+      "name": "as.dhakuakhana",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.narayanpur",
+      "name": "as.narayanpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.dibrugarh",
+      "name": "as.dibrugarh",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.naharkatia",
+      "name": "as.naharkatia",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.chabua",
+      "name": "as.chabua",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.namrup",
+      "name": "as.namrup",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.tinsukia",
+      "name": "as.tinsukia",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.doomdooma",
+      "name": "as.doomdooma",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.makum",
+      "name": "as.makum",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.digboi",
+      "name": "as.digboi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.margherita",
+      "name": "as.margherita",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.chapakhowa",
+      "name": "as.chapakhowa",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.hailakandi",
+      "name": "as.hailakandi",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.lala",
+      "name": "as.lala",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.silchar",
+      "name": "as.silchar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.lakhipurcachar",
+      "name": "as.lakhipurcachar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.sonai",
+      "name": "as.sonai",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.karimganj",
+      "name": "as.karimganj",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.badarpur",
+      "name": "as.badarpur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.ramkrishnanagar",
+      "name": "as.ramkrishnanagar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.dhemaji",
+      "name": "as.dhemaji",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.silapathar",
+      "name": "as.silapathar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.diphu",
+      "name": "as.diphu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.dokmoka",
+      "name": "as.dokmoka",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.howaraghat",
+      "name": "as.howaraghat",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.bokajan",
+      "name": "as.bokajan",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.bokolia",
+      "name": "as.bokolia",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.langhin",
+      "name": "as.langhin",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.hamren",
+      "name": "as.hamren",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.donkamokam",
+      "name": "as.donkamokam",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.baithalangso",
+      "name": "as.baithalangso",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.haflong",
+      "name": "as.haflong",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.mahur",
+      "name": "as.mahur",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.maibong",
+      "name": "as.maibong",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.umrangshu",
+      "name": "as.umrangshu",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.goreswar",
+      "name": "as.goreswar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.udalguri",
+      "name": "as.udalguri",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.tangla",
+      "name": "as.tangla",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.bijni",
+      "name": "as.bijni",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.basugaon",
+      "name": "as.basugaon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.kajalgaon",
+      "name": "as.kajalgaon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.kokrajhar",
+      "name": "as.kokrajhar",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.gossaigaon",
+      "name": "as.gossaigaon",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Assam",
+      "stateName": "Assam",
+      "code": "as.fakiragram",
+      "name": "as.fakiragram",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Manipur",
+      "stateName": "Manipur",
+      "code": "mn.andro",
+      "name": "Andro",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.bishnupur",
+        "name": "Bishnupur",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.heirok",
+        "name": "Heirok",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.imphal",
+        "name": "Imphal",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.jiribam",
+        "name": "Jiribam",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.kakching",
+        "name": "Kakching",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.kakchingkhunou",
+        "name": "Kakching Khunou",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.kumbi",
+        "name": "Kumbi",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.kwakta",
+        "name": "Kwakta",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.lamlai",
+        "name": "Lamlai",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.lamsang",
+        "name": "Lamsang",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.lilongimphalwest",
+        "name": "Lilong Imphal West",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.lilongthoubal",
+        "name": "Lilong Thoubal",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.mayangimphal",
+        "name": "Mayang Imphal",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.moirang",
+        "name": "Moirang",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.nambol",
+        "name": "Nambol",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.ningthoukhong",
+        "name": "Ningthoukhong",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.oinam",
+        "name": "Oinam",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.samurou",
+        "name": "Samurou",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.sekmai",
+        "name": "Sekmai",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.shikhongsekmai",
+        "name": "Shikhong Sekmai",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.sugnu",
+        "name": "Sugnu",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.thongkhongluxmi",
+        "name": "Thongkhong Laxmi",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.thoubal",
+        "name": "Thoubal",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.wangjinglamding",
+        "name": "Wangjing",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.wangoi",
+        "name": "Wangoi",
+        "active": true,
+        "module": "NationalDashboard"
+    },
+    {
+        "stateCode": "Manipur",
+        "stateName": "Manipur",
+        "code": "mn.yairipok",
+        "name": "Yairipok",
+        "active": true,
+        "module": "NationalDashboard"
     }
   ]
 }

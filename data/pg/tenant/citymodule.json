@@ -886,6 +886,30 @@
       ]
     },
     {
+      "module": "Tqm",
+      "code": "Tqm",
+      "active": true,
+      "order": 14,
+      "additionalComponent": "TqmAdminNotification",
+      "tenants":  [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
       "module": "WT",
       "code": "WT",
       "active": true,

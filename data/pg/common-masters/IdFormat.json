@@ -427,8 +427,20 @@
             "idname": "other.noc_fee.receipt.id"
         },
         {
-            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON",
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "rev_grants.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "disp_fixed_asset.building.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "disp_fixed_asset.land.receipt.id"
+        },
+        {
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "disp_fixed_asset.motor_vehicle.receipt.id"
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
@@ -726,6 +738,10 @@
             "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "pet-services.receipt.id"
         },
+   	{
+            "format": "PG-[cy:yyyy-MM-dd]-[SEQ_EG_PG_TXN]",
+            "idname": "esign.txnid"
+        },
         {
             "format": "PG-AST-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
             "idname": "egov.idgen.asset.applicationNum"
@@ -762,6 +778,14 @@
         {
             "format": "SV-CT-[seq_street_vending_certificate_no]",
             "idname": "street-vending.certificate.no"
+        },
+        {
+            "idname": "pqm.aplnumber",
+            "format": "[CITY.CODE]-PQM-[cy:yyyy-MM-dd]-[SEQ_EGOV_PQM]"
+        },
+        {
+            "format": "IND-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_IND]",
+            "idname": "individual.id"
         },
         {
             "format": "WT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
