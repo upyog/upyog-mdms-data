@@ -48,30 +48,6 @@
           {
             "jsonPath" : "addresses/*/address",
             "type" : "Normal"
-          },
-          {
-            "jsonPath" : "addresses/*/houseNumber",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "addresses/*/houseName",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "addresses/*/streetName",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "addresses/*/address2",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "addresses/*/landmark",
-            "type" : "Normal"
-          },
-          {
-            "jsonPath" : "addresses/*/locality",
-            "type" : "Normal"
           }
         ]
       },
