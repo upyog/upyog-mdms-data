@@ -112,6 +112,15 @@
         },
         {
           "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
         }
       ]
     },
@@ -780,6 +789,12 @@
         },
         {
           "code": "pg.citye"
+        },
+        {
+          "code": "pg.patiala"
+        },
+        {
+          "code": "pg.kurali"
         }
       ]
     },
@@ -893,6 +908,157 @@
           "code": "pg.citye"
         }
       ]
-    } 
+    },
+    {
+      "module": "WT",
+      "code": "WT",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "CND",
+      "code": "CND",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
+      ]
+    } ,
+    {
+      "module": "MT",
+      "code": "MT",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "TP",
+      "code": "TP",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "PGRAI",
+      "code": "PGRAI",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
+      ]
+    }  
   ]
 }

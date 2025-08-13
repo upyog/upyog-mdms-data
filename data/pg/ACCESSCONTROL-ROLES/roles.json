@@ -836,6 +836,81 @@
       "code": "PQM_CRONJOB_SCHEDULER",
       "name": "PQM CRONJOB SCHEDULER",
       "description": "Pqm Cronjob Scheduler"
+    },
+    {
+      "code": "MT_CEMP",
+      "name": "Mobile Toilet Counter Employee",
+      "description": "Mobile Toilet Counter Employee"
+    },
+    {
+      "code": "WT_CEMP",
+      "name": "Water Tanker Counter Employee",
+      "description": "Water Tanker Counter Employee"
+    },
+    {
+      "code": "TP_CEMP",
+      "name": " Tree Pruning Counter Employee",
+      "description": "Tree Pruning Counter Employee"
+    },
+    {
+      "code": "TP_VERIFIER",
+      "name": "Tree Pruning Verifier",
+      "description": "Tree Pruning Verifier"
+    },
+    {
+      "code": "TP_EXECUTION",
+      "name": "Tree Pruning Execution",
+      "description": "Tree Pruning Execution"
+    },
+    {
+      "code": "WT_VENDOR",
+      "name": "Water Tanker Vendor",
+      "description": "Water Tanker Vendor From Citizen Login"
+    },
+    {
+      "code": "WT_DRIVER",
+      "name": "Water Tanker Driver role",
+      "description": "Water Tanker Driver"
+    },
+    {
+      "code": "COMMON_DRIVER",
+      "name": "Common Driver role",
+      "description": "Common Driver role"
+    },
+    {
+      "code": "COMMON_VENDOR",
+      "name": "Common Vendor role",
+      "description": "Common Vendor role"
+    },
+    {
+      "code": "CND_CEMP",
+      "name": "Construction & Demolition Waste Collection Employee Role",
+      "description": "Construction & Demolition Waste Collection Employee Role"
+    },
+    {
+      "code": "MT_VENDOR",
+      "name": "Mobile Toilet Vendor",
+      "description": "Mobile Toilet Vendor From Citizen Login"
+    },
+    {
+      "code": "TP_VENDOR",
+      "name": "Tree Pruning Vendor",
+      "description": "Tree Pruning Vendor From Citizen Login"
+    },
+    {
+      "code": "FIELD_INSPECTOR",
+      "name": "Field Inspector for CND",
+      "description": "Field Inspector for CND"
+    },
+    {
+      "code": "CND_VENDOR",
+      "name": "CND Vendor",
+      "description": "CND Vendor"
+    },
+    {
+      "code": "CND_FACILITY_CEMP",
+      "name": "Facility Centre Employee",
+      "description": "Employee for Facility Centre & Deposit Centre on CND Site"
     }
   ]
 }

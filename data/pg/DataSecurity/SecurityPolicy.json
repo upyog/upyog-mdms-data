@@ -86,6 +86,48 @@
           "jsonPath": "userName",
           "patternId": "002",
           "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "address",
+          "jsonPath": "addresses/*/address",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "houseNumber",
+          "jsonPath": "addresses/*/houseNumber",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "houseName",
+          "jsonPath": "addresses/*/houseName",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "streetName",
+          "jsonPath": "addresses/*/streetName",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "address2",
+          "jsonPath": "addresses/*/address2",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "landmark",
+          "jsonPath": "addresses/*/landmark",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "locality",
+          "jsonPath": "addresses/*/locality",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
         }
       ],
       "roleBasedDecryptionPolicy": [
@@ -256,6 +298,48 @@
           "name": "fatherOrHusbandName",
           "jsonPath": "fatherOrHusbandName",
           "patternId": null,
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "address",
+          "jsonPath": "addresses/*/address",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "houseNumber",
+          "jsonPath": "addresses/*/houseNumber",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "houseName",
+          "jsonPath": "addresses/*/houseName",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "streetName",
+          "jsonPath": "addresses/*/streetName",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "address2",
+          "jsonPath": "addresses/*/address2",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "landmark",
+          "jsonPath": "addresses/*/landmark",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "locality",
+          "jsonPath": "addresses/*/locality",
+          "patternId": "005",
           "defaultVisibility": "PLAIN"
         }
       ],
@@ -1469,6 +1553,108 @@
             "CITIZEN"
           ],
           "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]
+    },
+    {
+      "model": "Address",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "address",
+          "jsonPath": "address",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "houseNumber",
+          "jsonPath": "houseNumber",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "houseName",
+          "jsonPath": "houseName",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "streetName",
+          "jsonPath": "streetName",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "address2",
+          "jsonPath": "address2",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "landmark",
+          "jsonPath": "landmark",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "locality",
+          "jsonPath": "locality",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": [
+            {
+              "attribute": "address",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "houseNumber",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "houseName",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "streetName",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "address2",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "landmark",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "locality",
+              "firstLevelVisibility": "PLAIN",
+              "secondLevelVisibility": "PLAIN"
+            }
+          ]
         },
         {
           "roles": [
