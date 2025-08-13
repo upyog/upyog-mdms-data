@@ -275,6 +275,14 @@
       "code": "FIRENOCAN2025",
       "financialYear": "2025-26"
     },
+    {
+      "fromDate": 1743465565000,
+      "toDate": 1774976013000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2025",
+      "financialYear": "2025-26"
+    },
 	{
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
@@ -1814,10 +1822,66 @@
     {
       "fromDate": 1554057000000,
       "toDate": 1869676199000,
+      "periodCycle": "MONTHLY",
+      "service": "sv-services.monthly",
+      "code": "SV_MONTHLY_FEE",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "QUATERLY",
+      "service": "sv-services.quaterly",
+      "code": "SV_QUATERLY_FEE",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
       "periodCycle": "TENYEARS",
       "service": "adv-services",
       "code": "ADV10YRS2024",
       "financialYear": "2024-34"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "request-service.water_tanker",
+      "code": "REQ10YRS2024",
+      "financialYear": "2024-34"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "request-service.mobile_toilet",
+      "code": "REQ10YRS2024",
+      "financialYear": "2024-34"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "request-service.tree_pruning",
+      "code": "REQ10YRS2025",
+      "financialYear": "2025-35"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "cnd-service",
+      "code": "CND10YRS2024",
+      "financialYear": "2025-35"
+    },
+    {
+      "fromDate": 1606815883000,
+      "toDate": 1924948799000,
+      "periodCycle": "FORTENYEARS",
+      "service": "CND.TRIP_CHARGES",
+      "code": "CNDTRIPCHARGE10YRS",
+      "financialYear": "2025-2035"
     }
   ]
 }

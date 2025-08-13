@@ -1588,7 +1588,7 @@
       "key": "TradeLicenseDailyCollectionReport",
       "roleAttributeAccessList": [
         {
-          "roleCode": "EMPLOYEE",
+          "roleCode": "SVCEMP",
           "attributeAccessList": [
             {
               "attribute": {
@@ -1601,7 +1601,25 @@
                 "jsonPath": "*/userName"
               },
               "accessType": "PLAIN"
-            }
+            },
+	    {
+              "attribute": {
+                "jsonPath": "*/approvedby"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_mobile_no"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_name"
+              },
+              "accessType": "PLAIN"
+            }		  
           ]
         }
       ]
@@ -1773,6 +1791,40 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "key": "CHBReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "CHB_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/userName"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_mobile_no"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_name"
+              },
+              "accessType": "PLAIN"
+            }		  
+          ]
+        }
+      ]
+    }	  
   ]
 }
