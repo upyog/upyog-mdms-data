@@ -32120,19 +32120,6 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 3060,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 3061,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
     {
       "rolecode": "CITIZEN",
       "actionid": 3019,
