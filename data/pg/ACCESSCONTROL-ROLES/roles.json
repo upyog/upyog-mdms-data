@@ -911,6 +911,16 @@
       "code": "CND_FACILITY_CEMP",
       "name": "Facility Centre Employee",
       "description": "Employee for Facility Centre & Deposit Centre on CND Site"
+    },
+    {
+      "code": "CHB_INTERNAL_MICROSERVICE_ROLE",
+      "name": "CHB Internal Microservice Role",
+      "description": "Internal role for plain access"
+    },
+    {
+      "code": "SV_INTERNAL_MICROSERVICE_ROLE",
+      "name": "SV Internal Microservice Role",
+      "description": "Internal role for plain access"
     }
   ]
 }
