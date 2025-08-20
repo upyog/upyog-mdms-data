@@ -20313,6 +20313,17 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
-    }         	
+    },
+    {
+      "id": 2987,
+      "name": " User Create",
+      "url": "/user/oauth/token",
+      "displayName": "User Create",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.User Create"
+    }
   ]
 }
