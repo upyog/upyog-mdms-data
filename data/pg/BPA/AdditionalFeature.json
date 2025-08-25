@@ -1,7 +1,7 @@
 {
     "tenantId": "pg",
     "moduleName": "AdditionalFeature",
-    "Chimney": [
+    "AdditionalFeature": [
     {
         "id": 1,
         "occupancy": "residential",
