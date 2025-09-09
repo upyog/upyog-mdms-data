@@ -1287,7 +1287,17 @@
         "uniqueKeys": [
           "$.code"
         ]
+      },
+      "Channel": {
+        "ChannelList": {
+         "masterName": "ChannelList",
+          "isStateLevel": true,
+          "uniqueKeys": [
+             "$.businessService",
+             "$.channelNames"
+        ]
       }
+     }	    
     }
   }
 }

@@ -5855,6 +5855,27 @@
         "code": "SV_STREET_VENDING_REGISTRATION_FEE",
         "isDebit": false,
         "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "sv-services.monthly",
+        "name": "Street Vending monthly fee",
+        "code": "SV_STREET_VENDING_MONTHLY_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "sv-services.quaterly",
+        "name": "Street Vending quaterly fee",
+        "code": "SV_STREET_VENDING_QUATERLY_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
         "isRequired": false
       },
       {
@@ -5882,6 +5903,66 @@
         "service": "adv-services",
         "name": "ADV SGST",
         "code": "ADV_SGST",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "request-service.water_tanker",
+        "name": "Water Tanker Fee",
+        "code": "WT_BOOKING_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "CHARGES",
+        "service": "request-service.water_tanker",
+        "name": "Immediate Delivery Fee",
+        "code": "IMMEDIATE_DELIVERY_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "request-service.mobile_toilet",
+        "name": "Mobile Toilet Booking Fee",
+        "code": "MOBILE_TOILET_BOOKING_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "request-service.tree_pruning",
+        "name": "Tree Pruning Booking Fee",
+        "code": "TREE_PRUNING_BOOKING_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "cnd-service",
+        "name": "CND Vehicle Fee",
+        "code": "CND_VEHICLE_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "cnd-service",
+        "name": "CND Ton Fee",
+        "code": "CND_TON_FEE",
         "isDebit": false,
         "isActualDemand": true,
         "order": "0",
