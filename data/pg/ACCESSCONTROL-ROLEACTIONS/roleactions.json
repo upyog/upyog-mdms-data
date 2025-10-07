@@ -32787,6 +32787,54 @@
       "actionid": 3070,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+	 {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 3072,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 3073,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 3074,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	{
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 3075,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 3076,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	 {
+        "rolecode": "MDMS_ADMIN",
+        "actionid": 3078,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+	 {
+        "rolecode": "MDMS_ADMIN",
+        "actionid": 3079,
+        "actioncode": "",
+        "tenantId": "pg"
+    } 
   ]
 }
