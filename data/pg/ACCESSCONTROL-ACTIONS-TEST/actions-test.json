@@ -21404,6 +21404,107 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.User Create"
-    }
+    },
+	{
+      "id": 3072,
+      "name": "Asset Report",
+      "url": "url",
+      "displayName": "Asset Count Report",
+      "orderNumber": 1,
+      "parentModule": "asset-services-masters",
+      "enabled": true,
+      "serviceCode": "ASSET",
+      "code": "null",
+      "path": "Asset.Reports.AssetCountReport",
+      "navigationURL": "report/rainmaker-asset/AssetCountReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 3073,
+      "name": "AssetCountReport",
+      "url": "/report/rainmaker-asset/AssetCountReport/metadata/_get",
+      "displayName": "rainmaker-asset-AssetCountReport",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3074,
+      "name": "AssetCountReport",
+      "url": "/report/rainmaker-asset/AssetCountReport/_get",
+      "displayName": "rainmaker-asset-AssetCountReport",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+	{
+         "id": 3075,
+         "name": "Land Report",
+         "url": "url",
+         "displayName": "Land Report",
+         "orderNumber": 2,
+         "parentModule": "asset-services-masters",
+         "enabled": true,
+         "serviceCode": "ASSET",
+         "code": "null",
+         "path": "Asset.Reports.LandReport",
+         "navigationURL": "report/rainmaker-asset/LandReport",
+         "leftIcon": "places:business-center",
+         "rightIcon": ""
+      },
+      {
+         "id": 3076,
+         "name": "LandReport",
+         "url": "/report/rainmaker-asset/LandReport/metadata/_get",
+         "displayName": "rainmaker-asset-LandReport",
+         "orderNumber": 6,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3077,
+         "name": "LandReport",
+         "url": "/report/rainmaker-asset/LandReport/_get",
+         "displayName": "rainmaker-asset-LandReport",
+         "orderNumber": 7,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
+	   {
+      "id": 3078,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/ASSET.AssetCategory",
+      "displayName": "update ASSET.AssetCategory",
+      "orderNumber": "1",
+      "parentModule": "",
+      "enabled": "true",
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 3079,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/ASSET.AssetCategory",
+      "displayName": "Create ASSET.AssetCategory",
+      "orderNumber": "1",
+      "enabled": "true",
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    }   
   ]
 }
