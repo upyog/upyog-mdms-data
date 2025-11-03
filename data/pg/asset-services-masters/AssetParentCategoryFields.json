@@ -1,554 +1,1458 @@
 {
-    "tenantId": "pg",
-    "moduleName": "ASSET",
-    "AssetParentCategoryFields": [
-      {
-        "id": "0",
-        "parent": null,
-        "assetParentCategory": "COMMON",
-        "fields": [
-          
-          {
-            "name": "warranty",
-            "code": "AST_WARRANTY",
-            "type": "dropdown",
-            "masterName": "Warranty",  
-            "isMandatory": false,
-            "active": true,
-            "options": [
-              {
-                "name": "warranty",
-                "i18nKey": "1 Year",
-                "code": "1_YEAR",
-                "value": "1 Year"
-              },
-              {
-                "name": "warranty",
-                "i18nKey": "2 Years",
-                "code": "2_YEAR",
-                "value": "2 Years"
-              },
-              {
-                "name": "warranty",
-                "i18nKey": "3 Years",
-                "code": "3_YEAR",
-                "value": "3 Years"
-              },
-              {
-                "name": "warranty",
-                "i18nKey": "4 Years",
-                "code": "4_YEAR",
-                "value": "4 Years"
-              },
-              {
-                "name": "warranty",
-                "i18nKey": "5 Years",
-                "code": "5_YEAR",
-                "value": "5 Years"
-              },
-              {
-                "name": "warranty",
-                "i18nKey": "NA",
-                "code": "NA",
-                "value": "NA"
-              }
-            ]
-          }
-        ]
-      },   
-      {
-        "id": "1",
-        "parent": null,
-        "assetClassification": "MOVABLE",
-        "assetParentCategory": "IT",
-        "depreciationMethod": "Straight Line method",
-        "isAssetAllowFromUi": true,
-        "unitOfMeasurement": "NOS",
-        "isDepreciationApplicable": true,
-        "depreciationRate": "10",
-        "fields": [
-          {
-            "name": "brand",
-            "value": "brand",
-            "code": "AST_BRAND",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setBrand",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "manufacturer",
-            "value": "manufacturer",
-            "code": "AST_MANUFACTURER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "selectmanufacturer",
-            "active": true,
-            "columnType": "text"
-          }
-        ]
-      },
-      {
-        "id": "2",
-        "parent": null,
-        "assetClassification": "MOVABLE",
-        "assetParentCategory": "VEHICLE",
-        "depreciationMethod": "Straight Line method",
-        "isAssetAllowFromUi": true,
-        "unitOfMeasurement": "VEHICLE",
-        "isDepreciationApplicable": true,
-        "depreciationRate": "15",
-        "fields": [
-          {
-            "name": "registrationNumber",
-            "value": "registrationNumber",
-            "code": "AST_REGISTRATION_NUMBER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setRegistrationNumber",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "engineNumber",
-            "value": "engineNumber",
-            "code": "AST_ENGINE_NUMBER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setEngineNumber",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "chasisNumber",
-            "value": "chasisNumber",
-            "code": "AST_CHASIS_NUMBER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setChasisNumber",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "parkingLocation",
-            "value": "parkingLocation",
-            "code": "AST_PARKING_LOCATION",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setParkingLocation",
-            "active": true,
-            "columnType": "text"
-          }
-        ]
-      },
-      {
-        "id": "3",
-        "parent": null,
-        "assetClassification": "IMMOVABLE",
-        "assetParentCategory": "LAND",
-        "depreciationMethod": "Straight Line method",
-        "isAssetAllowFromUi": true,
-        "unitOfMeasurement": "SFT",
-        "isDepreciationApplicable": false,
-        "depreciationRate": "0",
-        "fields": [
-          {
-            "name": "landType",
-            "value": "landType",
-            "code": "AST_LAND_TYPE",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setLandType",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "area",
-            "value": "area",
-            "code": "AST_LAND_AREA",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setArea",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "dateOfDeedExecution",
-            "value": "dateOfDeedExecution",
-            "code": "AST_DATE_DEED_EXECUTION",
-            "type": "date",
-            "isMandatory": false,
-            "onChange": "setdateofDeedExecution",
-            "active": true
-          },
-          {
-            "name": "dateOfPossession",
-            "value": "dateOfPossession",
-            "code": "AST_DATE_POSSESION",
-            "type": "date",
-            "isMandatory": false,
-            "onChange": "setdateofPossesion",
-            "active": true
-          },
-          {
-            "name": "fromWhomDeedTaken",
-            "value": "fromWhomDeedTaken",
-            "code": "AST_FROM_DEED_TAKEN",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setfromWhomDeedTaken",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "governmentOrderNumber",
-            "value": "governmentOrderNumber",
-            "code": "AST_GOVT_ORDER_NUM",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setgovernmentorderNumber",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "councilResolutionNumber",
-            "value": "councilResolutionNumber",
-            "code": "AST_COUNCIL_RES_NUM",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setcouncilResolutionNumber",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "awardNumber",
-            "value": "awardNumber",
-            "code": "AST_AWARD_NUMBER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setawardNumber",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "oAndMCOI",
-            "value": "oAndMCOI",
-            "code": "AST_COI",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setoandMCOI",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "oAndMTaskDetail",
-            "value": "oAndMTaskDetail",
-            "code": "AST_OM_TASK",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setoandMTaskDetail",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "osrLand",
-            "value": "osrLand",
-            "code": "AST_OSR_LAND",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setoSRLand",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "howAssetBeingUsed",
-            "value": "howAssetBeingUsed",
-            "code": "AST_HOW_ASSET_USE",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setHowassetbeingused",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "isitFenced",
-            "code": "Is it Fenced",
-            "type": "dropdown",
-            "isMandatory": false,
-            "active": true,
-            "options": [
-              {
-                "name": "isitFenced",
-                "code": "YES",
-                "i18nKey": "YES",
-                "value": "YES"
-              },
-              {
-                "name": "isitFenced",
-                "code": "NO",
-                "i18nKey": "NO",
-                "value": "NO"
-              }
-            ]
-          },
-          {
-            "name": "anyBuiltup",
-            "code": "AST_ANY_BUILTUP",
-            "type": "dropdown",
-            "isMandatory": false,
-            "active": true,
-            "options": [
-              {
-                "name": "anyBuiltup",
-                "code": "YES",
-                "i18nKey": "YES",
-                "value": "YES"
-              },
-              {
-                "name": "anyBuiltup",
-                "code": "NO",
-                "i18nKey": "NO",
-                "value": "NO"
-              }
-            ]
-          },
-          {
-            "name": "howAssetBeingUsed",
-            "value": "howAssetBeingUsed",
-            "code": "AST_HOW_ASSET_USE",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setHowassetbeingused",
-            "active": true,
-            "columnType": "text"
-          }
-        ]
-      },
-      {
-        "id": "4",
-        "parent": null,
-        "assetClassification": "IMMOVABLE",
-        "assetParentCategory": "BUILDING",
-        "depreciationMethod": "Straight Line method",
-        "isAssetAllowFromUi": true,
-        "unitOfMeasurement": "SFT",
-        "isDepreciationApplicable": true,
-        "depreciationRate": "5",
-        "fields": [
-          {
-            "name": "buildingSno",
-            "value": "buildingSno",
-            "code": "AST_BUILDING_NO",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setbuildingsNo",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "floorNo",
-            "value": "floorNo",
-            "code": "AST_FLOORS_NO",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setFloorNo",
-            "active": true,
-            "columnType": "number"
-          },
-          {
-            "name": "dimensions",
-            "value": "dimensions",
-            "code": "AST_DIMENSIONS",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setDimensions",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "plotArea",
-            "value": "plotArea",
-            "code": "AST_PLOT_AREA",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setPlotArea",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "plinthArea",
-            "value": "plinthArea",
-            "code": "AST_PLINTH_AREA",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setPlinthArea",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "howAssetBeingUsed",
-            "value": "howAssetBeingUsed",
-            "code": "AST_HOW_ASSET_USE",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setHowassetbeingused",
-            "active": true,
-            "columnType": "text"
-          }
-        ]
-      },
-      {
-        "id": "5",
-        "parent": null,
-        "assetClassification": "IMMOVABLE",
-        "assetParentCategory": "SERVICE",
-        "depreciationMethod": "Straight Line method",
-        "isAssetAllowFromUi": true,
-        "unitOfMeasurement": "MTR",
-        "isDepreciationApplicable": false,
-        "depreciationRate": "0",
-        "fields": [
-          {
-            "name": "roadType",
-            "value": "roadType",
-            "code": "AST_ROAD_TYPE",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setRoadType",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "totalLength",
-            "value": "totalLength",
-            "code": "AST_TOTAL_LENGTH",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setTotalLength",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "lastMaintainence",
-            "value": "lastMaintainence",
-            "code": "AST_LAST_MAINTAINENCE",
-            "type": "date",
-            "isMandatory": false,
-            "onChange": "setLastMaintainence",
-            "active": true
-          },
-          {
-            "name": "surfaceType",
-            "value": "surfaceType",
-            "code": "AST_SURFACE_TYPE",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setSurfaceType",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "protectionLength",
-            "value": "protectionLength",
-            "code": "AST_PROTECTION_LENGTH",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setProtectionLength",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "drainageLength",
-            "value": "drainageLength",
-            "code": "AST_DRAINAGE_CHANNEL_LENGTH",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setDrainageLength",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "numOfFootpath",
-            "value": "numOfFootpath",
-            "code": "AST_FOOTPATH_NUMBER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setNumOfFootpath",
-            "active": true,
-            "columnType": "number"
-          },
-          {
-            "name": "numOfPedastrianCross",
-            "value": "numOfPedastrianCross",
-            "code": "AST_PEDASTRIAN_CROSSING_NUMBER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setNumOfPedastrianCross",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "numOfBusStop",
-            "value": "numOfBusStop",
-            "code": "AST_BUSSTOP_NUMBER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setNumOfBusStop",
-            "active": true,
-            "columnType": "number"
-          },
-          {
-            "name": "numOfMetroStation",
-            "value": "numOfMetroStation",
-            "code": "AST_METROSTATION_NUMBER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setNumOfMetroStation",
-            "active": true,
-            "columnType": "number"
-          },
-          {
-            "name": "lengthOfCycletrack",
-            "value": "lengthOfCycletrack",
-            "code": "AST_CYCLETRACK_LENGTH",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setLengthOfCycletrack",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "lastMaintainence",
-            "value": "lastMaintainence",
-            "code": "AST_LAST_MAINTAINENCE",
-            "type": "date",
-            "isMandatory": false,
-            "onChange": "setLastMaintainence",
-            "active": true
-          },
-          {
-            "name": "nextMaintainence",
-            "value": "nextMaintainence",
-            "code": "AST_NEXT_MAINTAINENCE",
-            "type": "date",
-            "isMandatory": false,
-            "onChange": "setNextMaintainence",
-            "active": true
-          }
-        ]
-      },
-      {
-        "id": "6",
-        "parent": null,
-        "assetClassification": "MOVABLE",
-        "assetParentCategory": "OTHER",
-        "depreciationMethod": "Straight Line method",
-        "isAssetAllowFromUi": true,
-        "unitOfMeasurement": "UNIT",
-        "isDepreciationApplicable": true,
-        "depreciationRate": "8",
-        "fields": []
-      }
-    ]
-  }
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "AssetParentCategoryFields": [
+    {
+      "id": "1",
+      "parent": null,
+      "assetClassification": "MOVABLE",
+      "assetParentCategory": "VEHICLE",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "VEHICLE",
+      "isDepreciationApplicable": true,
+      "depreciationRate": "15",
+      "fields": [
+        {
+          "name": "registrationNumber",
+          "value": "registrationNumber",
+          "code": "ASTUP_REGISTRATION_NUMBER",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setRegistrationNumber",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "engineNumber",
+          "value": "engineNumber",
+          "code": "ASTUP_ENGINE_NUMBER",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setEngineNumber",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "chasisNumber",
+          "value": "chasisNumber",
+          "code": "ASTUP_CHASIS_NUMBER",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setChasisNumber",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "karyansh",
+          "value": "karyansh",
+          "code": "ASTUP_KARYANSH",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setParkingLocation",
+          "masterName": "Karyansh",
+          "active": true,
+          "options": [
+            {
+              "name": "karyansh",
+              "i18nKey": "ANIMAL CATCHER",
+              "code": "ASTUP_ANIMAL_CATCHER",
+              "value": "ANIMAL CATCHER"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "NALA CLEANING",
+              "code": "ASTUP_NALA_CLEANING",
+              "value": "NALA CLEANING"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "E-TOURIST VEHICLE",
+              "code": "ASTUP_E_TOURIST_VEHICLE",
+              "value": "E-TOURIST VEHICLE"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "GARBAGE USE",
+              "code": "ASTUP_GARBAGE_USE",
+              "value": "GARBAGE USE"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "POLL LIGHTING REPAIR",
+              "code": "ASTUP_POLL_LIGHTING_REPAIR",
+              "value": "POLL LIGHTING REPAIR"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "PUBLIC USE",
+              "code": "ASTUP_PUBLIC_USE",
+              "value": "PUBLIC USE"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "RECYLING POTHOLE ROAD PATCHING",
+              "code": "ASTUP_RECYLING_POTHOLE_ROAD_PATCHING",
+              "value": "RECYLING POTHOLE ROAD PATCHING"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "RIVER CLEANING/NALA CLEANING",
+              "code": "ASTUP_RIVER_CLEANING_NALA_CLEANING",
+              "value": "RIVER CLEANING/NALA CLEANING"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "ROAD SWEEPING",
+              "code": "ASTUP_ROAD_SWEEPING",
+              "value": "ROAD SWEEPING"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "SEWER CLEANING",
+              "code": "ASTUP_SEWER_CLEANING",
+              "value": "SEWER CLEANING"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "TOWING",
+              "code": "ASTUP_TOWING",
+              "value": "TOWING"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "WATER SPRAYER",
+              "code": "ASTUP_WATER_SPRAYER",
+              "value": "WATER SPRAYER"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "WATER SPRAYER/GARBAGE/MOBILE TIOLET",
+              "code": "ASTUP_WATER_SPRAYER_GARBAGE_MOBILE_TIOLET",
+              "value": "WATER SPRAYER/GARBAGE/MOBILE TIOLET"
+            },
+            {
+              "name": "karyansh",
+              "i18nKey": "WATER SPRINKER SMOG GUN",
+              "code": "ASTUP_WATER_SPRINKER_SMOG_GUN",
+              "value": "WATER SPRINKER SMOG GUN"
+            }
+          ]
+        },
+        {
+          "name": "eWayBillNo",
+          "value": "eWayBillNo",
+          "code": "ASTUP_E_WAY_BILL_NO",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setWEWayBillNo",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "brand",
+          "value": "brand",
+          "code": "ASTUP_BRAND",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setBrand",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "budgetHead",
+          "value": "budgetHead",
+          "code": "ASTUP_BUDGET_HEAD",
+          "type": "dropdown",
+          "masterName": "BudgetHead",
+          "isMandatory": false,
+          "onChange": "setBudgetHead",
+          "active": true,
+          "options": [
+            {
+              "name": "budgetHead",
+              "i18nKey": "14 PAY COMMISSION",
+              "code": "14_PAY_COMMISSION",
+              "value": "14 PAY COMMISSION"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "14 PAY COMMISSION (SBM)",
+              "code": "14_PAY_COMMISSION(SBM)",
+              "value": "14 PAY COMMISSION (SBM)"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "15 PAY COMMISSION",
+              "code": "15_PAY_COMMISSION",
+              "value": "15 PAY COMMISSION"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "AVASH VIKAS NIDHI",
+              "code": "AVASH_VIKAS_NIDHI",
+              "value": "AVASH VIKAS NIDHI"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "DIFENCE EXPO",
+              "code": "DIFENCE_EXPO",
+              "value": "DIFENCE EXPO"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "N.C.A.P FUND",
+              "code": "NCAP_FUND",
+              "value": "N.C.A.P FUND"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "NAGAR NIGAM NIDHI",
+              "code": "NAGAR_NIGAM_NIDHI",
+              "value": "NAGAR NIGAM NIDHI"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "OFFICE (2-3D)",
+              "code": "ASTUP_OFFICE(2-3D)",
+              "value": "OFFICE (2-3D)"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "PARSHAD KOTA",
+              "code": "ASTUP_PARSHAD_KOTA",
+              "value": "PARSHAD KOTA"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "S.B.M",
+              "code": "ASTUP_SBM",
+              "value": "S.B.M"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "SMART CITY FUND",
+              "code": "ASTUP_SMART_CITY_FUND",
+              "value": "SMART CITY FUND"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "STATE FINANCE COMMISSION",
+              "code": "ASTUP_STATE_FINANCE_COMMISSION",
+              "value": "STATE FINANCE COMMISSION"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "VIDHAYAK NIDHI",
+              "code": "ASTUP_VIDHAYAK_NIDHI",
+              "value": "VIDHAYAK NIDHI"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "13 PAY COMMISSION",
+              "code": "ASTUP_13PAY_COMMISSION",
+              "value": "13 PAY COMMISSION"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "PALIKA NIDHI",
+              "code": "ASTUP_PALIKA_NIDHI",
+              "value": "PALIKA NIDHI"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "PANCHAYAT NIDHI",
+              "code": "ASTUP_PANCHAYAT_NIDHI",
+              "value": "PANCHAYAT NIDHI"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "SOLID WASTE MANAGEMENT",
+              "code": "ASTUP_SOLID WASTE MANAGEMENT",
+              "value": "SOLID WASTE MANAGEMENT"
+            },
+            {
+              "name": "budgetHead",
+              "i18nKey": "Corporate Social Responsibility Fund (CSR Fund)",
+              "code": "ASTUP_Corporate_Social_Responsibility_Fund(CSR Fund)",
+              "value": "Corporate Social Responsibility Fund (CSR Fund)"
+            }
+          ]
+        },
+        {
+          "name": "vehicleUsageType",
+          "value": "vehicleUsageType",
+          "code": "ASTUP_VEHICLE_USAGE_TYPE",
+          "type": "dropdown",
+          "masterName": "VehicleUsageType",
+          "isMandatory": false,
+          "onChange": "setVehicleUsageType",
+          "active": true,
+          "options": [
+            {
+              "name": "vehicleUsageType",
+              "i18nKey": "Office Use",
+              "code": "ASTUP_OFFICE_USE",
+              "value": "Office Use"
+            },
+            {
+              "name": "vehicleUsageType",
+              "i18nKey": "Work Use",
+              "code": "ASTUP_WORK_USE",
+              "value": "Work Use"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "parent": null,
+      "assetClassification": "MOVABLE",
+      "assetParentCategory": "FURNITURE",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "FURNITURE",
+      "isDepreciationApplicable": true,
+      "depreciationRate": "10",
+      "fields": [
+        {
+          "name": "quantity",
+          "value": "quantity",
+          "code": "ASTUP_QUANTITY",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setQuantity",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "parent": null,
+      "assetClassification": "MOVABLE",
+      "assetParentCategory": "AIR_CONDITIONER",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "AIR_CONDITIONER",
+      "isDepreciationApplicable": true,
+      "depreciationRate": "10",
+      "fields": [
+        {
+          "name": "quantity",
+          "value": "quantity",
+          "code": "ASTUP_QUANTITY",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setQuantity",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "parent": null,
+      "assetClassification": "MOVABLE",
+      "assetParentCategory": "GENERATOR",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "GENERATOR",
+      "isDepreciationApplicable": true,
+      "depreciationRate": "10",
+      "fields": [
+        {
+          "name": "quantity",
+          "value": "quantity",
+          "code": "ASTUP_QUANTITY",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setQuantity",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "parent": null,
+      "assetClassification": "MOVABLE",
+      "assetParentCategory": "COMPUTER_&_PRINTERS",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "COMPUTER_&_PRINTERS",
+      "isDepreciationApplicable": true,
+      "depreciationRate": "10",
+      "fields": [
+        {
+          "name": "quantity",
+          "value": "quantity",
+          "code": "ASTUP_QUANTITY",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setQuantity",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "parent": null,
+      "assetClassification": "MOVABLE",
+      "assetParentCategory": "OTHER",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "OTHER",
+      "isDepreciationApplicable": true,
+      "depreciationRate": "10",
+      "fields": [
+        {
+          "name": "quantity",
+          "value": "quantity",
+          "code": "ASTUP_QUANTITY",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setQuantity",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "parent": null,
+      "assetClassification": "IMMOVABLE",
+      "assetParentCategory": "ROADS",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "ROADS",
+      "isDepreciationApplicable": false,
+      "depreciationRate": "0",
+      "fields": [
+        {
+          "name": "useOfProperty",
+          "value": "useOfProperty",
+          "code": "ASTUP_USE_OF_PROPERTY",
+          "type": "dropdown",
+          "isMandatory": false,
+          "masterName": "UseofProperty",
+          "onChange": "setUseOfProperty",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Rented",
+              "code": "ASTUP_RENTED",
+              "value": "Rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Non-rented",
+              "code": "ASTUP_NON_RENTED",
+              "value": "Non-rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "other",
+              "code": "ASTUP_OTHER",
+              "value": "other"
+            }
+          ]
+        },
+        {
+          "name": "ownedBy",
+          "value": "ownedBy",
+          "code": "ASTUP_OWNED_BY",
+          "masterName": "OwnedBy",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setOwnedBy",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "ownedBy",
+              "i18nKey": "Central Government Assets",
+              "code": "ASTUP_CENTRAL_GOVERNMENT_ASSETS",
+              "value": "Central Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "State Government Assets",
+              "code": "ASTUP_STATE_GOVERNMENT_ASSETS",
+              "value": "State Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "Municipal Government Assets",
+              "code": "ASTUP_MUNICIPAL_GOVERNMENT_ASSETS",
+              "value": "Municipal Government Assets"
+            }
+          ]
+        },
+        {
+          "name": "lengthInMeter",
+          "value": "lengthInMeter",
+          "code": "ASTUP_LENGTH_IN_METER",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setLengthInMeter",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "startLatitude",
+          "value": "startLatitude",
+          "code": "ASTUP_START_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setStartLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "startLongitude",
+          "value": "startLongitude",
+          "code": "ASTUP_START_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setStartLongitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "endLatitude",
+          "value": "endLatitude",
+          "code": "ASTUP_END_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setEndLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "endLongitude",
+          "value": "endLongitude",
+          "code": "ASTUP_END_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setENDLongitude",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "parent": null,
+      "assetClassification": "IMMOVABLE",
+      "assetParentCategory": "BRIDGES",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "BRIDGES",
+      "isDepreciationApplicable": false,
+      "depreciationRate": "0",
+      "fields": [
+        {
+          "name": "useOfProperty",
+          "value": "useOfProperty",
+          "code": "ASTUP_USE_OF_PROPERTY",
+          "masterName": "UseOfProperty",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setUseOfProperty",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Rented",
+              "code": "ASTUP_RENTED",
+              "value": "Rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Non-rented",
+              "code": "ASTUP_NON_RENTED",
+              "value": "Non-rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "other",
+              "code": "ASTUP_OTHER",
+              "value": "other"
+            }
+          ]
+        },
+        {
+          "name": "ownedBy",
+          "value": "ownedBy",
+          "code": "ASTUP_OWNED_BY",
+          "masterName": "OwnedBy",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setOwnedBy",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "ownedBy",
+              "i18nKey": "Central Government Assets",
+              "code": "ASTUP_CENTRAL_GOVERNMENT_ASSETS",
+              "value": "Central Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "State Government Assets",
+              "code": "ASTUP_STATE_GOVERNMENT_ASSETS",
+              "value": "State Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "Municipal Government Assets",
+              "code": "ASTUP_MUNICIPAL_GOVERNMENT_ASSETS",
+              "value": "Municipal Government Assets"
+            }
+          ]
+        },
+        {
+          "name": "startLatitude",
+          "value": "startLatitude",
+          "code": "ASTUP_START_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setStartLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "startLongitude",
+          "value": "startLongitude",
+          "code": "ASTUP_START_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setStartLongitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "endLatitude",
+          "value": "endLatitude",
+          "code": "ASTUP_END_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setEndLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "endLongitude",
+          "value": "endLongitude",
+          "code": "ASTUP_END_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setENDLongitude",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "parent": null,
+      "assetClassification": "IMMOVABLE",
+      "assetParentCategory": "LAND",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "LAND",
+      "isDepreciationApplicable": false,
+      "depreciationRate": "0",
+      "fields": [
+        {
+          "name": "useOfProperty",
+          "value": "useOfProperty",
+          "code": "ASTUP_USE_OF_PROPERTY",
+          "masterName": "UseofProperty",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setUseOfProperty",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Rented",
+              "code": "ASTUP_RENTED",
+              "value": "Rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Non-rented",
+              "code": "ASTUP_NON_RENTED",
+              "value": "Non-rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "other",
+              "code": "ASTUP_OTHER",
+              "value": "other"
+            }
+          ]
+        },
+        {
+          "name": "ownedBy",
+          "value": "ownedBy",
+          "code": "ASTUP_OWNED_BY",
+          "type": "dropdown",
+          "isMandatory": false,
+          "masterName": "OwnedBy",
+          "onChange": "setOwnedBy",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "ownedBy",
+              "i18nKey": "Central Government Assets",
+              "code": "ASTUP_CENTRAL_GOVERNMENT_ASSETS",
+              "value": "Central Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "State Government Assets",
+              "code": "ASTUP_STATE_GOVERNMENT_ASSETS",
+              "value": "State Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "Municipal Government Assets",
+              "code": "ASTUP_MUNICIPAL_GOVERNMENT_ASSETS",
+              "value": "Municipal Government Assets"
+            }
+          ]
+        },
+        {
+          "name": "latitude",
+          "value": "latitude",
+          "code": "ASTUP_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "longitude",
+          "value": "longitude",
+          "code": "ASTUP_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setLongitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "litigation",
+          "value": "litigation",
+          "code": "ASTUP_LITIGATION",
+          "masterName": "Litigation",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setLitigation",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "litigation",
+              "code": "YES",
+              "i18nKey": "YES",
+              "value": "YES"
+            },
+            {
+              "name": "litigation",
+              "code": "NO",
+              "i18nKey": "NO",
+              "value": "NO"
+            }
+          ]
+        },
+        {
+          "name": "gataSankhya",
+          "value": "gataSankhya",
+          "code": "ASTUP_GATA_SANKHYA",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setGataSankhya",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "landRestrictionStatus",
+          "value": "landRestrictionStatus",
+          "code": "ASTUP_LAND_RESTRICTIONSTATUS",
+          "masterName": "LandRestrictionStatus",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setLandRestrictionStatus",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "landRestrictionStatus",
+              "code": "ASTUP_PRATIBANDHIT_LAND",
+              "i18nKey": "Pratibandhit Land",
+              "value": "Pratibandhit Land"
+            },
+            {
+              "name": "landRestrictionStatus",
+              "code": "ASTUP_NON_PRATIBANDHIT_LAND",
+              "i18nKey": "Non-Pratibandhit Land",
+              "value": "Non-Pratibandhit Land"
+            }
+          ]
+        },
+        {
+          "name": "landOwnershipType",
+          "value": "landOwnershipType",
+          "masterName": "LandOwnershipType",
+          "code": "ASTUP_LAND_OWNERSHIP_TYPE",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setLandOwnershipType",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "landOwnershipType",
+              "code": "ASTUP_OWNED_LAND",
+              "i18nKey": "Owned Land",
+              "value": "Owned Land"
+            },
+            {
+              "name": "landOwnershipType",
+              "code": "ASTUP_CARETAKER_LAND",
+              "i18nKey": "Caretaker Land",
+              "value": "Caretaker Land"
+            }
+          ]
+        },
+        {
+          "name": "areaInSquareMeter",
+          "value": "areaInSquareMeter",
+          "code": "ASTUP_AREA_SQUARE_METER",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setAreaInSquareMeter",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "parent": null,
+      "assetClassification": "IMMOVABLE",
+      "assetParentCategory": "BUILDING",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "BUILDING",
+      "isDepreciationApplicable": false,
+      "depreciationRate": "0",
+      "fields": [
+        {
+          "name": "useOfProperty",
+          "value": "useOfProperty",
+          "code": "ASTUP_USE_OF_PROPERTY",
+          "masterName": "UseofProperty",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setUseOfProperty",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Rented",
+              "code": "ASTUP_RENTED",
+              "value": "Rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Non-rented",
+              "code": "ASTUP_NON_RENTED",
+              "value": "Non-rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "other",
+              "code": "ASTUP_OTHER",
+              "value": "other"
+            }
+          ]
+        },
+        {
+          "name": "ownedBy",
+          "value": "ownedBy",
+          "code": "ASTUP_OWNED_BY",
+          "type": "dropdown",
+          "masterName": "OwnedBy",
+          "isMandatory": false,
+          "onChange": "setOwnedBy",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "ownedBy",
+              "i18nKey": "Central Government Assets",
+              "code": "ASTUP_CENTRAL_GOVERNMENT_ASSETS",
+              "value": "Central Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "State Government Assets",
+              "code": "ASTUP_STATE_GOVERNMENT_ASSETS",
+              "value": "State Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "Municipal Government Assets",
+              "code": "ASTUP_MUNICIPAL_GOVERNMENT_ASSETS",
+              "value": "Municipal Government Assets"
+            }
+          ]
+        },
+        {
+          "name": "latitude",
+          "value": "latitude",
+          "code": "ASTUP_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "longitude",
+          "value": "longitude",
+          "code": "ASTUP_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setLongitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "areaInSquareMeter",
+          "value": "areaInSquareMeter",
+          "code": "ASTUP_AREA_SQUARE_METER",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setAreaInSquareMeter",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "parent": null,
+      "assetClassification": "IMMOVABLE",
+      "assetParentCategory": "OTHERS",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "OTHERS",
+      "isDepreciationApplicable": false,
+      "depreciationRate": "0",
+      "fields": [
+        {
+          "name": "useOfProperty",
+          "value": "useOfProperty",
+          "code": "ASTUP_USE_OF_PROPERTY",
+          "masterName": "UseOfProperty",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setUseOfProperty",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Rented",
+              "code": "ASTUP_RENTED",
+              "value": "Rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Non-rented",
+              "code": "ASTUP_NON_RENTED",
+              "value": "Non-rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "other",
+              "code": "ASTUP_OTHER",
+              "value": "other"
+            }
+          ]
+        },
+        {
+          "name": "ownedBy",
+          "value": "ownedBy",
+          "code": "ASTUP_OWNED_BY",
+          "type": "dropdown",
+          "masterName": "OwnedBy",
+          "isMandatory": false,
+          "onChange": "setOwnedBy",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "ownedBy",
+              "i18nKey": "Central Government Assets",
+              "code": "ASTUP_CENTRAL_GOVERNMENT_ASSETS",
+              "value": "Central Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "State Government Assets",
+              "code": "ASTUP_STATE_GOVERNMENT_ASSETS",
+              "value": "State Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "Municipal Government Assets",
+              "code": "ASTUP_MUNICIPAL_GOVERNMENT_ASSETS",
+              "value": "Municipal Government Assets"
+            }
+          ]
+        },
+        {
+          "name": "latitude",
+          "value": "latitude",
+          "code": "ASTUP_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "longitude",
+          "value": "longitude",
+          "code": "ASTUP_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setLongitude",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "parent": null,
+      "assetClassification": "IMMOVABLE",
+      "assetParentCategory": "TALAB",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "TALAB",
+      "isDepreciationApplicable": false,
+      "depreciationRate": "0",
+      "fields": [
+        {
+          "name": "useOfProperty",
+          "value": "useOfProperty",
+          "code": "ASTUP_USE_OF_PROPERTY",
+          "masterName": "UseOfProperty",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setUseOfProperty",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Rented",
+              "code": "ASTUP_RENTED",
+              "value": "Rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Non-rented",
+              "code": "ASTUP_NON_RENTED",
+              "value": "Non-rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "other",
+              "code": "ASTUP_OTHER",
+              "value": "other"
+            }
+          ]
+        },
+        {
+          "name": "ownedBy",
+          "value": "ownedBy",
+          "code": "ASTUP_OWNED_BY",
+          "masterName": "OwnedBy",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setOwnedBy",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "ownedBy",
+              "i18nKey": "Central Government Assets",
+              "code": "ASTUP_CENTRAL_GOVERNMENT_ASSETS",
+              "value": "Central Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "State Government Assets",
+              "code": "ASTUP_STATE_GOVERNMENT_ASSETS",
+              "value": "State Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "Municipal Government Assets",
+              "code": "ASTUP_MUNICIPAL_GOVERNMENT_ASSETS",
+              "value": "Municipal Government Assets"
+            }
+          ]
+        },
+        {
+          "name": "latitude",
+          "value": "latitude",
+          "code": "ASTUP_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "longitude",
+          "value": "longitude",
+          "code": "ASTUP_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setLongitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "areaInSquareMeter",
+          "value": "areaInSquareMeter",
+          "code": "ASTUP_AREA_SQUARE_METER",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setAreaInSquareMeter",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "parent": null,
+      "assetClassification": "IMMOVABLE",
+      "assetParentCategory": "NALA",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "NALA",
+      "isDepreciationApplicable": false,
+      "depreciationRate": "0",
+      "fields": [
+        {
+          "name": "useOfProperty",
+          "value": "useOfProperty",
+          "code": "ASTUP_USE_OF_PROPERTY",
+          "masterName": "UseOfProperty",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setUseOfProperty",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Rented",
+              "code": "ASTUP_RENTED",
+              "value": "Rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Non-rented",
+              "code": "ASTUP_NON_RENTED",
+              "value": "Non-rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "other",
+              "code": "ASTUP_OTHER",
+              "value": "other"
+            }
+          ]
+        },
+        {
+          "name": "ownedBy",
+          "value": "ownedBy",
+          "code": "ASTUP_OWNED_BY",
+          "masterName": "OwnedBy",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setOwnedBy",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "ownedBy",
+              "i18nKey": "Central Government Assets",
+              "code": "ASTUP_CENTRAL_GOVERNMENT_ASSETS",
+              "value": "Central Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "State Government Assets",
+              "code": "ASTUP_STATE_GOVERNMENT_ASSETS",
+              "value": "State Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "Municipal Government Assets",
+              "code": "ASTUP_MUNICIPAL_GOVERNMENT_ASSETS",
+              "value": "Municipal Government Assets"
+            }
+          ]
+        },
+        {
+          "name": "startLatitude",
+          "value": "startLatitude",
+          "code": "ASTUP_START_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setStartLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "startLongitude",
+          "value": "startLongitude",
+          "code": "ASTUP_START_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setStartLongitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "endLatitude",
+          "value": "endLatitude",
+          "code": "ASTUP_END_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setEndLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "endLongitude",
+          "value": "endLongitude",
+          "code": "ASTUP_END_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setENDLongitude",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "parent": null,
+      "assetClassification": "MOVABLE",
+      "assetParentCategory": "STATIONERY",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "STATIONERY",
+      "isDepreciationApplicable": true,
+      "depreciationRate": "10",
+      "fields": [
+        {
+          "name": "quantity",
+          "value": "quantity",
+          "code": "ASTUP_QUANTITY",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setQuantity",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "parent": null,
+      "assetClassification": "MOVABLE",
+      "assetParentCategory": "ELECTRICALS_ITEMS",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "ELECTRICALS_ITEMS",
+      "isDepreciationApplicable": true,
+      "depreciationRate": "10",
+      "fields": [
+        {
+          "name": "quantity",
+          "value": "quantity",
+          "code": "ASTUP_QUANTITY",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setQuantity",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "parent": null,
+      "assetClassification": "MOVABLE",
+      "assetParentCategory": "CHEMICAL_ITEMS",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "CHEMICAL_ITEMS",
+      "isDepreciationApplicable": true,
+      "depreciationRate": "10",
+      "fields": [
+        {
+          "name": "quantity",
+          "value": "quantity",
+          "code": "ASTUP_QUANTITY",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setQuantity",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "parent": null,
+      "assetClassification": "IMMOVABLE",
+      "assetParentCategory": "NALI",
+      "depreciationMethod": "Straight Line method",
+      "isAssetAllowFromUi": true,
+      "unitOfMeasurement": "NALI",
+      "isDepreciationApplicable": false,
+      "depreciationRate": "0",
+      "fields": [
+        {
+          "name": "useOfProperty",
+          "value": "useOfProperty",
+          "code": "ASTUP_USE_OF_PROPERTY",
+          "masterName": "UseOfProperty",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setUseOfProperty",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Rented",
+              "code": "ASTUP_RENTED",
+              "value": "Rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "Non-rented",
+              "code": "ASTUP_NON_RENTED",
+              "value": "Non-rented"
+            },
+            {
+              "name": "useOfProperty",
+              "i18nKey": "other",
+              "code": "ASTUP_OTHER",
+              "value": "other"
+            }
+          ]
+        },
+        {
+          "name": "ownedBy",
+          "value": "ownedBy",
+          "code": "ASTUP_OWNED_BY",
+          "masterName": "OwnedBy",
+          "type": "dropdown",
+          "isMandatory": false,
+          "onChange": "setOwnedBy",
+          "active": true,
+          "columnType": "dropdown",
+          "options": [
+            {
+              "name": "ownedBy",
+              "i18nKey": "Central Government Assets",
+              "code": "ASTUP_CENTRAL_GOVERNMENT_ASSETS",
+              "value": "Central Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "State Government Assets",
+              "code": "ASTUP_STATE_GOVERNMENT_ASSETS",
+              "value": "State Government Assets"
+            },
+            {
+              "name": "ownedBy",
+              "i18nKey": "Municipal Government Assets",
+              "code": "ASTUP_MUNICIPAL_GOVERNMENT_ASSETS",
+              "value": "Municipal Government Assets"
+            }
+          ]
+        },
+        {
+          "name": "startLatitude",
+          "value": "startLatitude",
+          "code": "ASTUP_START_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setStartLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "startLongitude",
+          "value": "startLongitude",
+          "code": "ASTUP_START_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setStartLongitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "endLatitude",
+          "value": "endLatitude",
+          "code": "ASTUP_END_LATITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setEndLatitude",
+          "active": true,
+          "columnType": "text"
+        },
+        {
+          "name": "endLongitude",
+          "value": "endLongitude",
+          "code": "ASTUP_END_LONGITUDE",
+          "type": "text",
+          "isMandatory": false,
+          "onChange": "setENDLongitude",
+          "active": true,
+          "columnType": "text"
+        }
+      ]
+    }
+  ]
+}

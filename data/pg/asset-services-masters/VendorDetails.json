@@ -1,0 +1,11 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "VendorDetails": [
+      {
+        "name": "New Vendor",
+        "code": "NEW VENDOR",
+        "active": true
+      }
+    ]
+}
