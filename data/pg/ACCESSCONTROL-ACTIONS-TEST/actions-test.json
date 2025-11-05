@@ -10423,7 +10423,7 @@
       "displayName": "Municipal Shops Rent Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10435,7 +10435,7 @@
       "displayName": "Land rent Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10447,7 +10447,7 @@
       "displayName": "Tower Rent Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10459,7 +10459,7 @@
       "displayName": "Parking Fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10471,7 +10471,7 @@
       "displayName": "Jamin Theka Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10483,7 +10483,7 @@
       "displayName": "Eclection Rally Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10495,7 +10495,7 @@
       "displayName": "Parking During Election Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10507,7 +10507,7 @@
       "displayName": "Road Show Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10519,7 +10519,7 @@
       "displayName": "Advance Provident Fund Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10531,7 +10531,7 @@
       "displayName": "Stationary Not Income Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10543,7 +10543,7 @@
       "displayName": "Expenditure Santitation Not Income Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10555,7 +10555,7 @@
       "displayName": "Santitation Dumping Garbage Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10567,7 +10567,7 @@
       "displayName": "Telecom Tower Fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10579,7 +10579,7 @@
       "displayName": "Draftsmen Fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10591,7 +10591,7 @@
       "displayName": "Compremasing Fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10603,7 +10603,7 @@
       "displayName": "Building Planner Renew Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10615,7 +10615,7 @@
       "displayName": "Naksha Samjota Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10627,7 +10627,7 @@
       "displayName": "Naksha Changes Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10639,7 +10639,7 @@
       "displayName": "License Fees Building Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10651,7 +10651,7 @@
       "displayName": "Water connection/ Disconnection fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10663,7 +10663,7 @@
       "displayName": "Naksha Renew fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10675,7 +10675,7 @@
       "displayName": "Completion of Building Approval Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10687,7 +10687,7 @@
       "displayName": "Alteration Additional Charge Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10699,7 +10699,7 @@
       "displayName": "2 Year limit of Renewal Building Naksha Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10711,7 +10711,7 @@
       "displayName": "Leave Encashment and Gratuity Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10723,7 +10723,7 @@
       "displayName": "Plastic Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10735,7 +10735,7 @@
       "displayName": "Rehri Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10747,7 +10747,7 @@
       "displayName": "Challan for Miuse of Water Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10759,7 +10759,7 @@
       "displayName": "Dengue Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10771,7 +10771,7 @@
       "displayName": "Littering Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10783,7 +10783,7 @@
       "displayName": "License Pure Food Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10795,7 +10795,7 @@
       "displayName": "Misc. Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10807,7 +10807,7 @@
       "displayName": "Regularization of Building Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10819,7 +10819,7 @@
       "displayName": "Contractor Enlistment Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10831,7 +10831,7 @@
       "displayName": "Tender Form fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10843,7 +10843,7 @@
       "displayName": "Advertisment Fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10855,7 +10855,7 @@
       "displayName": "Tehbazaari Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10867,7 +10867,7 @@
       "displayName": "PF Tranfer Account Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10879,7 +10879,7 @@
       "displayName": "RTI Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10891,7 +10891,7 @@
       "displayName": "No Dues Certificate Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10903,7 +10903,7 @@
       "displayName": "Architect License fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10915,7 +10915,7 @@
       "displayName": "Tehbazaari Fee Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10927,7 +10927,7 @@
       "displayName": "Recovery Employee/Contractor Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10939,7 +10939,7 @@
       "displayName": "Grants Cheque Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10951,7 +10951,7 @@
       "displayName": "No due Certifcate Electricity Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10963,7 +10963,7 @@
       "displayName": "Registry and bank loan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10975,7 +10975,7 @@
       "displayName": "SBM Garbage Plastic Poluthene Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10987,7 +10987,7 @@
       "displayName": "Dead Animals Contarct Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -10999,7 +10999,7 @@
       "displayName": "GPF Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11011,7 +11011,7 @@
       "displayName": "CPF Received Check Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11023,7 +11023,7 @@
       "displayName": "Tower Installation Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11035,7 +11035,7 @@
       "displayName": "Tower Annual rent Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11047,7 +11047,7 @@
       "displayName": "Cow Cess Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11059,7 +11059,7 @@
       "displayName": "CattleChallan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11071,7 +11071,7 @@
       "displayName": "Rehri Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11083,7 +11083,7 @@
       "displayName": "Manual Rikshaw Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11095,7 +11095,7 @@
       "displayName": "Dairy Animals Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11107,7 +11107,7 @@
       "displayName": "Bidi & Ciggrette Challan Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11119,7 +11119,7 @@
       "displayName": "Community Centre Booking Fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11131,7 +11131,7 @@
       "displayName": "Commercial Use Of Municipal Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11143,7 +11143,7 @@
       "displayName": "Street Vendor Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11155,7 +11155,7 @@
       "displayName": "Construction Waste Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11167,7 +11167,7 @@
       "displayName": "Demolition Waste Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11179,7 +11179,7 @@
       "displayName": "Clean Safai Sanitation Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11191,7 +11191,7 @@
       "displayName": "Plumber License Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11203,7 +11203,7 @@
       "displayName": "Rev Grants Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11215,7 +11215,7 @@
       "displayName": "Disp Fixed Asset Land Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11227,7 +11227,7 @@
       "displayName": "Disp Fixed Asset Building Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11239,7 +11239,7 @@
       "displayName": "Disp Fixed Asset Motor Vehicle Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11251,7 +11251,7 @@
       "displayName": "House Tax Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11263,7 +11263,7 @@
       "displayName": "Property tax Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11275,7 +11275,7 @@
       "displayName": "Property Tax Dishonoured Checque Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11287,7 +11287,7 @@
       "displayName": "Canopy fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11299,7 +11299,7 @@
       "displayName": "Outdoor Media Display Fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11311,7 +11311,7 @@
       "displayName": "Sale of Land Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11323,7 +11323,7 @@
       "displayName": "Service Tax GST of Rent of MC Properties Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11335,7 +11335,7 @@
       "displayName": "Street vendor Icard Certificate fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11347,7 +11347,7 @@
       "displayName": "Parking booking Fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11359,7 +11359,7 @@
       "displayName": "Provident Fund Processing fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11371,7 +11371,7 @@
       "displayName": "Tender Earnest Money deposit Refundable fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11383,7 +11383,7 @@
       "displayName": "Security Deposit Fee Refundable fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11395,7 +11395,7 @@
       "displayName": "Collection and Demolition Waste Challan fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11407,7 +11407,7 @@
       "displayName": "Burnings of Waste Challan fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11419,7 +11419,7 @@
       "displayName": "Hadud Certificate fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11431,7 +11431,7 @@
       "displayName": "No dues Certificate Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11443,7 +11443,7 @@
       "displayName": "Colony Sambandhi fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11455,7 +11455,7 @@
       "displayName": "Naksha fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11467,7 +11467,7 @@
       "displayName": "Building fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11479,7 +11479,7 @@
       "displayName": "Boundary Wall Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11491,7 +11491,7 @@
       "displayName": "Malba fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11503,7 +11503,7 @@
       "displayName": "Devleopment Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11515,7 +11515,7 @@
       "displayName": "Change of Land use fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11527,7 +11527,7 @@
       "displayName": "Under development fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11539,7 +11539,7 @@
       "displayName": "Econmic Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11551,7 +11551,7 @@
       "displayName": "Economic Weaker Section Project fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11563,7 +11563,7 @@
       "displayName": "Rain Harvesting charges Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11575,7 +11575,7 @@
       "displayName": "Sub Division charges fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11587,7 +11587,7 @@
       "displayName": "Information Certificate fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11599,7 +11599,7 @@
       "displayName": "Building safety Certificate fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11611,7 +11611,7 @@
       "displayName": "Rehri Rikshaw fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11623,7 +11623,7 @@
       "displayName": "Trade licence fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11635,7 +11635,7 @@
       "displayName": "Labor Cess Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11647,7 +11647,7 @@
       "displayName": "OFC Permission fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11659,7 +11659,7 @@
       "displayName": "Water Charges Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11671,7 +11671,7 @@
       "displayName": "Other fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11683,7 +11683,7 @@
       "displayName": "NOC fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11695,7 +11695,7 @@
       "displayName": "Fire NOC fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11707,7 +11707,7 @@
       "displayName": "Fire tender fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11719,7 +11719,7 @@
       "displayName": "Fire Call Report Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11731,7 +11731,7 @@
       "displayName": "Dispensary fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11743,7 +11743,7 @@
       "displayName": "License fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11755,7 +11755,7 @@
       "displayName": "Candy fee Slaughter House Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11767,7 +11767,7 @@
       "displayName": "Conservancy fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11779,7 +11779,7 @@
       "displayName": "Street Light Pole Transfer fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11791,7 +11791,7 @@
       "displayName": "Sale of Compost fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11803,7 +11803,7 @@
       "displayName": "Sale of Recyclable fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11815,7 +11815,7 @@
       "displayName": "Dog registration Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11827,7 +11827,7 @@
       "displayName": "Swimming pool and Gymnastic Hall fee Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11839,7 +11839,7 @@
       "displayName": "Water Connection/Diconnection fess Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11851,7 +11851,7 @@
       "displayName": "Road cut fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11863,7 +11863,7 @@
       "displayName": "Composition fees Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -11875,7 +11875,7 @@
       "displayName": "Challan Under section Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": "FALSE",
+      "enabled": false,
       "serviceCode": "",
       "code": null,
       "path": ""
@@ -18833,7 +18833,7 @@
       "url": "/mdms-v2/v2/_create/ASSET.AssetParentCategoryFields",
       "displayName": "Create ASSET.AssetParentCategoryFields",
       "orderNumber": "1",
-      "enabled": "true",
+      "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
@@ -18844,7 +18844,7 @@
       "url": "/mdms-v2/v2/_create/ASSET.AssetParentCategory",
       "displayName": "Create ASSET.AssetParentCategory",
       "orderNumber": "1",
-      "enabled": "true",
+      "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
@@ -19023,7 +19023,7 @@
       "displayName": "Update WORKFLOW.BusinessServices",
       "orderNumber": "1",
       "parentModule": "",
-      "enabled": "true",
+      "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
@@ -19035,7 +19035,7 @@
       "displayName": "Create WORKFLOW.BusinessServices",
       "orderNumber": "1",
       "parentModule": "",
-      "enabled": "true",
+      "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
@@ -19047,7 +19047,7 @@
       "displayName": "update ASSET.AssetParentCategoryFields",
       "orderNumber": "1",
       "parentModule": "",
-      "enabled": "true",
+      "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
@@ -19059,7 +19059,7 @@
       "displayName": "update ASSET.AssetParentCategory",
       "orderNumber": "1",
       "parentModule": "",
-      "enabled": "true",
+      "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
@@ -19082,7 +19082,7 @@
       "displayName": "create ASSET.DepreciationRates",
       "orderNumber": "1",
       "parentModule": "",
-      "enabled": "true",
+      "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
@@ -19094,7 +19094,7 @@
       "displayName": "update ASSET.DepreciationRates",
       "orderNumber": "1",
       "parentModule": "",
-      "enabled": "true",
+      "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
@@ -21481,7 +21481,7 @@
       "displayName": "update ASSET.AssetCategory",
       "orderNumber": "1",
       "parentModule": "",
-      "enabled": "true",
+      "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
@@ -21492,7 +21492,7 @@
       "url": "/mdms-v2/v2/_create/ASSET.AssetCategory",
       "displayName": "Create ASSET.AssetCategory",
       "orderNumber": "1",
-      "enabled": "true",
+      "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
