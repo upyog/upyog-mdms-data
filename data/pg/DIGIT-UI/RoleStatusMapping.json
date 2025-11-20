@@ -1,6 +1,6 @@
 {
     "tenantId": "pg",
-    "moduleName": "upyog-ui",
+    "moduleName": "DIGIT-UI",
     "RoleStatusMapping": [{
             "userRole": "FSM_ADMIN",
             "statuses": [
