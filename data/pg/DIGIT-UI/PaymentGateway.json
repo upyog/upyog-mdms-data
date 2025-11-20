@@ -1,6 +1,6 @@
 {
     "tenantId": "pg",
-    "moduleName": "DIGIT-UI",
+    "moduleName": "upyog-ui",
     "PaymentGateway": [
         {
             "gateway": "PAYGOV",
