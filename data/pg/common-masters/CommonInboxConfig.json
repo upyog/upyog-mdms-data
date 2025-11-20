@@ -169,8 +169,8 @@
             "locality":true,
             "localityModule":"pgr-services",
             "redirectConfig": {
-                "INITIATED": "/digit-ui/employee/pgr/complaint/details/^WFBID^",
-                "DEFAULT":"/digit-ui/employee/pgr/complaint/details/^WFBID^"
+                "INITIATED": "/upyog-ui/employee/pgr/complaint/details/^WFBID^",
+                "DEFAULT":"/upyog-ui/employee/pgr/complaint/details/^WFBID^"
               }
         }
     ]
