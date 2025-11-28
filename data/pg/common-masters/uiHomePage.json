@@ -23,7 +23,7 @@
           "sideOption": {
             "name": "DASHBOARD_VIEW_ALL_LABEL",
             "enabled": true,
-            "navigationUrl": "/upyog-ui/citizen/all-services"
+            "navigationUrl": "/digit-ui/citizen/all-services"
           },
           "props": [
             {
@@ -31,35 +31,35 @@
               "name": "Complaints",
               "label": "ES_PGR_HEADER_COMPLAINT",
               "enabled": true,
-              "navigationUrl": "/upyog-ui/citizen/pgr-home"
+              "navigationUrl": "/digit-ui/citizen/pgr-home"
             },
             {
               "code": "CITIZEN_SERVICE_PT",
               "name": "Property Tax",
               "label": "MODULE_PT",
               "enabled": true,
-              "navigationUrl": "/upyog-ui/citizen/pt-home"
+              "navigationUrl": "/digit-ui/citizen/pt-home"
             },
             {
               "code": "CITIZEN_SERVICE_TL",
               "name": "Trade Licence",
               "label": "MODULE_TL",
               "enabled": true,
-              "navigationUrl": "/upyog-ui/citizen/tl-home"
+              "navigationUrl": "/digit-ui/citizen/tl-home"
             },
             {
               "code": "CITIZEN_SERVICE_CHB",
               "name": "Community Hall Booking",
               "label": "ACTION_TEST_CHB",
               "enabled": true,
-              "navigationUrl": "/upyog-ui/citizen/chb-home"
+              "navigationUrl": "/digit-ui/citizen/chb-home"
             },
             {
               "code": "CITIZEN_SERVICE_WS",
               "name": "Water & Sewerage",
               "label": "ACTION_TEST_WATER_AND_SEWERAGE",
               "enabled": true,
-              "navigationUrl": "/upyog-ui/citizen/ws-home"
+              "navigationUrl": "/digit-ui/citizen/ws-home"
             }
           ]
         },
@@ -86,21 +86,21 @@
               "name": "Events",
               "label": "EVENTS_EVENTS_HEADER",
               "enabled": true,
-              "navigationUrl": "/upyog-ui/citizen/engagement/events"
+              "navigationUrl": "/digit-ui/citizen/engagement/events"
             },
             {
               "code": "CITIZEN_DOCUMENTS",
               "name": "Documents",
               "label": "CS_COMMON_DOCUMENTS",
               "enabled": true,
-              "navigationUrl": "/upyog-ui/citizen/engagement/docs"
+              "navigationUrl": "/digit-ui/citizen/engagement/docs"
             },
             {
               "code": "CITIZEN_SURVEYS",
               "name": "Surveys",
               "label": "CS_COMMON_SURVEYS",
               "enabled": true,
-              "navigationUrl": "/upyog-ui/citizen/engagement/surveys/list"
+              "navigationUrl": "/digit-ui/citizen/engagement/surveys/list"
             }
           ]
         },
@@ -112,7 +112,7 @@
           "sideOption": {
             "name": "DASHBOARD_VIEW_ALL_LABEL",
             "enabled": true,
-            "navigationUrl": "/upyog-ui/citizen/engagement/whats-new"
+            "navigationUrl": "/digit-ui/citizen/engagement/whats-new"
           }
         },
         "whatsAppBannerDesktop": {
