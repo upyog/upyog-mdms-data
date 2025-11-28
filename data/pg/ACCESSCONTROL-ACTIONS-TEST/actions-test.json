@@ -16670,8 +16670,8 @@
     {
       "id": 2683,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/digit-ui.HelpText",
-      "displayName": "create digit-ui.HelpText",
+      "url": "/mdms-v2/v2/_create/DIGIT-UI.HelpText",
+      "displayName": "create DIGIT-UI.HelpText",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
@@ -17594,8 +17594,8 @@
     {
       "id": 2760,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/digit-ui.HelpText",
-      "displayName": "update digit-ui.HelpText",
+      "url": "/mdms-v2/v2/_update/DIGIT-UI.HelpText",
+      "displayName": "update DIGIT-UI.HelpText",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
