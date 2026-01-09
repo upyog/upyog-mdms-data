@@ -32935,6 +32935,12 @@
       "actionid": 3099,
       "actioncode": "",
       "tenantId": "pg"
+    },
+     {
+      "rolecode": "PT_CEMP",
+      "actionid": 2533,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
