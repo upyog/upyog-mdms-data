@@ -2,6 +2,94 @@
   "tenantId": "pg",
   "moduleName": "BillingService",
   "TaxPeriod": [
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2026",
+      "financialYear": "2026-27"
+    },
+  	{
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2026",
+      "financialYear": "2026-27"
+    },
+  	{
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2026",
+      "financialYear": "2026-27"
+    },
+  	{
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.HOARDINGS_TAX",
+      "code": "ADHAN2026",
+      "financialYear": "2026-27"
+    },
+  	{
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.HOARDINGS_FIELD_FEE",
+      "code": "ADHAN2026",
+      "financialYear": "2026-27"
+    },
+  	{
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2026",
+      "financialYear": "2026-27"
+    },
+  	{
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2026",
+      "financialYear": "2026-27"
+    },
+  	{
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "WS",
+      "code": "WC2026",
+      "financialYear": "2026-27"
+    },
+  	{
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "SW",
+      "code": "SC2026",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WSAN2026",
+      "financialYear": "2026-27"
+    },
+  	{
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SWAN2026",
+      "financialYear": "2026-27"
+    },
 	   {
       "fromDate": 1680307199000,
       "toDate": 1711929599000,
