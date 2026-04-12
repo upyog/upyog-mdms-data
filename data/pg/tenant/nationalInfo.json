@@ -2154,6 +2154,14 @@
       "active": true,
       "module": "NationalDashboard"
     },
+     {
+      "stateCode": "Rajasthan",
+      "stateName": "Rajasthan",
+      "code": "rj.kotputlinagarpalika",
+      "name": "rj.kotputlinagarpalika",
+      "active": true,
+      "module": "NationalDashboard"
+    },
     {
       "stateCode": "Rajasthan",
       "stateName": "Rajasthan",
