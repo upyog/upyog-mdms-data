@@ -32935,6 +32935,12 @@
       "actionid": 3099,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_CEMP",
+      "actionid": 3100,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

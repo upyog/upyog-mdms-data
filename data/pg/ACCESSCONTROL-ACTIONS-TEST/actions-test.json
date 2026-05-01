@@ -21704,6 +21704,17 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
+    },
+    {
+      "id": 3100,
+      "name": "Payment Refund",
+      "url": "/collection-services/payments/CHB/_workflow",
+      "displayName": "Payment Refund",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
