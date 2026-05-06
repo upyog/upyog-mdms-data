@@ -806,6 +806,10 @@
         {
             "format": "EST-[CITY.CODE]-[seq_estate_management_asset_id]",
             "idname": "estate.management.asset.id"
+        },
+		{
+            "format": "PG-RF-[cy:yyyy-MM-dd]-[SEQ_EG_PG_REFUND]",
+            "idname": "egov.idgen.refund.id"
         }
     ]
 }
