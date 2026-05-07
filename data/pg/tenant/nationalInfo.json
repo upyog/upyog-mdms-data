@@ -13387,6 +13387,182 @@
       "module": "NationalDashboard"
     },
     {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.alampurmunicipality",
+      "name": "tl.alampurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.asifabadmunicipality",
+      "name": "tl.asifabadmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.aswaraopetamunicipality",
+      "name": "tl.aswaraopetamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.chevellamunicipality",
+      "name": "tl.chevellamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.devarakadaramunicipality",
+      "name": "tl.devarakadaramunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.edulapurammunicipality",
+      "name": "tl.edulapurammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.gaddapotharammunicipality",
+      "name": "tl.gaddapotharammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.gummadidalamunicipality",
+      "name": "tl.gummadidalamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.isnapurmunicipality",
+      "name": "tl.isnapurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.kesamudrammunicipality",
+      "name": "tl.kesamudrammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.kohirmunicipality",
+      "name": "tl.kohirmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.maddurmunicipality",
+      "name": "tl.maddurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.moinabadmunicipality",
+      "name": "tl.moinabadmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.stationghanpurmunicipality",
+      "name": "tl.stationghanpurmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.aliyabadmunicipality",
+      "name": "tl.aliyabadmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.bichkundamunicipality",
+      "name": "tl.bichkundamunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.kallurumunicipality",
+      "name": "tl.kallurumunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.muduchinthalapallymunicipality",
+      "name": "tl.muduchinthalapallymunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.mulugumunicipality",
+      "name": "tl.mulugumunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.yellampetmunicipality",
+      "name": "tl.yellampetmunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.indreshammunicipality",
+      "name": "tl.indreshammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Telangana",
+      "stateName": "Telangana",
+      "code": "tl.jinnarammunicipality",
+      "name": "tl.jinnarammunicipality",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
       "stateCode": "Chhattisgarh",
       "stateName": "Chhattisgarh",
       "code": "ch.ambikapurmunicipalcorporation",
