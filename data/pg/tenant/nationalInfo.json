@@ -13389,14 +13389,6 @@
     {
       "stateCode": "Telangana",
       "stateName": "Telangana",
-      "code": "tl.alampurmunicipality",
-      "name": "tl.alampurmunicipality",
-      "active": true,
-      "module": "NationalDashboard"
-    },
-    {
-      "stateCode": "Telangana",
-      "stateName": "Telangana",
       "code": "tl.asifabadmunicipality",
       "name": "tl.asifabadmunicipality",
       "active": true,
