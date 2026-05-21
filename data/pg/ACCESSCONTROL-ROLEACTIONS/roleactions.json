@@ -32990,6 +32990,24 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
      {
       "rolecode": "CHB_CEMP",
       "actionid": 3105,
