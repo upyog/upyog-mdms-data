@@ -21762,7 +21762,7 @@
       "displayName": "Refund Search",
       "orderNumber": 0,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pg-service",
       "code": "null",
       "path": ""
@@ -21774,7 +21774,7 @@
       "displayName": "Refund Update",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pg-service",
       "code": "null",
       "path": ""
