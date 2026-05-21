@@ -21715,6 +21715,21 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 3101,
+      "name": "CHB Report",
+      "url": "url",
+      "displayName": "Paymet Refund Report",
+      "orderNumber": 1,
+      "parentModule": "ChbServices",
+      "enabled": true,
+      "serviceCode": "CHB",
+      "code": "null",
+      "path": "CHB.Reports.PaymentRefundReport",
+      "navigationURL": "report/rainmaker-CHB/PaymentRefundReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     }
   ]
 }
