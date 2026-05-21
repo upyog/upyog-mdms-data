@@ -21769,9 +21769,9 @@
     },
     {
       "id": 3105,
-      "name": "PGService Refund Search",
+      "name": "PGService Refund Update",
       "url": "/pg-service/refund/v1/_update",
-      "displayName": "Refund Search",
+      "displayName": "Refund Update",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": false,
