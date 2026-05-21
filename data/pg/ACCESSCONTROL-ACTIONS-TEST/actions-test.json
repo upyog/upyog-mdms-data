@@ -21730,6 +21730,54 @@
       "navigationURL": "report/rainmaker-CHB/PaymentRefundReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
+    },
+    {
+      "id": 3102,
+      "name": "PaymentRefundReport",
+      "url": "/report/rainmaker-CHB/PaymentRefundReport/metadata/_get",
+      "displayName": "rainmaker-CHB-PaymentRefundReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 3103,
+      "name": "PaymentRefundReport",
+      "url": "/report/rainmaker-CHB/PaymentRefundReport/_get",
+      "displayName": "rainmaker-CHB-PaymentRefundReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3104,
+      "name": "PGService Refund Search",
+      "url": "/pg-service/refund/v1/_search",
+      "displayName": "Refund Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pg-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3105,
+      "name": "PGService Refund Search",
+      "url": "/pg-service/refund/v1/_update",
+      "displayName": "Refund Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pg-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
