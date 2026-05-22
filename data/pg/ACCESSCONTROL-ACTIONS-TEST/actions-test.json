@@ -21753,7 +21753,13 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
     },
     {
       "id": 3104,
