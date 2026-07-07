@@ -87,6 +87,24 @@
       "emailId": "directorurbantripura@gmail.com",
 	  "NodalOfficerName": "Chandan",
       "active": true
+    },
+    {
+      "stateCode": "Assam",
+      "emailId": "tankeswardasacs@yahoo.com",
+	  "NodalOfficerName": "Tankeshwar Das",
+      "active": true
+    },
+    {
+      "stateCode": "Himachal Pradesh",
+      "emailId": "ud-hp@nic.in",
+	  "NodalOfficerName": "Pradeep Verma",
+      "active": true
+    },
+    {
+      "stateCode": "Manipur",
+      "emailId": "nandomanipur@gmail.com",
+	  "NodalOfficerName": "Nando Singh",
+      "active": true
     }
 ]
 }
