@@ -20577,6 +20577,6864 @@
         "name": "Yairipok",
         "active": true,
         "module": "NationalDashboard"
+    },    
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.achhnera",
+      "name": "up.achhnera",
+      "lgdCode": "249066",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.agra",
+      "name": "up.agra",
+      "lgdCode": "249062",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bah",
+      "name": "up.bah",
+      "lgdCode": "249074",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dayalbagh",
+      "name": "up.dayalbagh",
+      "lgdCode": "249060",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.etmadpur",
+      "name": "up.etmadpur",
+      "lgdCode": "249059",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.fatehabad",
+      "name": "up.fatehabad",
+      "lgdCode": "249072",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.fatehpursikri",
+      "name": "up.fatehpursikri",
+      "lgdCode": "249068",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jagner",
+      "name": "up.jagner",
+      "lgdCode": "249069",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kheragarh",
+      "name": "up.kheragarh",
+      "lgdCode": "249070",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kiraoli",
+      "name": "up.kiraoli",
+      "lgdCode": "249067",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pinahat",
+      "name": "up.pinahat",
+      "lgdCode": "249073",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shamsabad",
+      "name": "up.shamsabad",
+      "lgdCode": "249071",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.swamibagh",
+      "name": "up.swamibagh",
+      "lgdCode": "249061",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.aligarh",
+      "name": "up.aligarh",
+      "lgdCode": "249025",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.atrauli",
+      "name": "up.atrauli",
+      "lgdCode": "249022",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.barauli",
+      "name": "up.barauli",
+      "lgdCode": "299018",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.beswan",
+      "name": "up.beswan",
+      "lgdCode": "249031",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chandaus",
+      "name": "up.chandaus",
+      "lgdCode": "297076",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chharra",
+      "name": "up.chharra",
+      "lgdCode": "249023",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gabhana",
+      "name": "up.gabhana",
+      "lgdCode": "298115",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.harduaganj",
+      "name": "up.harduaganj",
+      "lgdCode": "249024",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.iglas",
+      "name": "up.iglas",
+      "lgdCode": "249030",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jalali",
+      "name": "up.jalali",
+      "lgdCode": "249026",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jattari",
+      "name": "up.jattari",
+      "lgdCode": "249019",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jawansikandarpur",
+      "name": "up.jawansikandarpur",
+      "lgdCode": "299023",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kauriaganj",
+      "name": "up.kauriaganj",
+      "lgdCode": "249027",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khair",
+      "name": "up.khair",
+      "lgdCode": "249020",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.madrak",
+      "name": "up.madrak",
+      "lgdCode": "297033",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pilkhana",
+      "name": "up.pilkhana",
+      "lgdCode": "249028",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pisawa",
+      "name": "up.pisawa",
+      "lgdCode": "297045",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.vijaygarh",
+      "name": "up.vijaygarh",
+      "lgdCode": "249029",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.akbarpur",
+      "name": "up.akbarpur",
+      "lgdCode": "249400",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ashrafpurkichhauchha",
+      "name": "up.ashrafpurkichhauchha",
+      "lgdCode": "249398",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.iltifatganj",
+      "name": "up.iltifatganj",
+      "lgdCode": "249394",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jahangirganj",
+      "name": "up.jahangirganj",
+      "lgdCode": "298935",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jalalpur",
+      "name": "up.jalalpur",
+      "lgdCode": "249399",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rajesultanpur",
+      "name": "up.rajesultanpur",
+      "lgdCode": "300509",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tanda",
+      "name": "up.tanda",
+      "lgdCode": "249396",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.amethi",
+      "name": "up.amethi",
+      "lgdCode": "249402",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gauriganj",
+      "name": "up.gauriganj",
+      "lgdCode": "276425",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jais",
+      "name": "up.jais",
+      "lgdCode": "249240",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.musafirkhana",
+      "name": "up.musafirkhana",
+      "lgdCode": "249401",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.amroha",
+      "name": "up.amroha",
+      "lgdCode": "248950",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bachhraon",
+      "name": "up.bachhraon",
+      "lgdCode": "248947",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dhanaura",
+      "name": "up.dhanaura",
+      "lgdCode": "248946",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gajraula",
+      "name": "up.gajraula",
+      "lgdCode": "297027",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hasanpur",
+      "name": "up.hasanpur",
+      "lgdCode": "248952",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.joya",
+      "name": "up.joya",
+      "lgdCode": "248951",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.naugawansadat",
+      "name": "up.naugawansadat",
+      "lgdCode": "248949",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.saidnagli",
+      "name": "up.saidnagli",
+      "lgdCode": "297714",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ujhari",
+      "name": "up.ujhari",
+      "lgdCode": "248953",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.achhalda",
+      "name": "up.achhalda",
+      "lgdCode": "249268",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.atsu",
+      "name": "up.atsu",
+      "lgdCode": "249270",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.auraiya",
+      "name": "up.auraiya",
+      "lgdCode": "249273",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.babarpurajitmal",
+      "name": "up.babarpurajitmal",
+      "lgdCode": "249269",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bidhuna",
+      "name": "up.bidhuna",
+      "lgdCode": "249267",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dibiyapur",
+      "name": "up.dibiyapur",
+      "lgdCode": "249272",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.phaphund",
+      "name": "up.phaphund",
+      "lgdCode": "249271",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ayodhya",
+      "name": "up.ayodhya",
+      "lgdCode": "249391",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhadarsa",
+      "name": "up.bhadarsa",
+      "lgdCode": "249389",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bikapur",
+      "name": "up.bikapur",
+      "lgdCode": "249393",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.goshainganj",
+      "name": "up.goshainganj",
+      "lgdCode": "249235",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khiraunishuchittaganj",
+      "name": "up.khiraunishuchittaganj",
+      "lgdCode": "297756",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kumarganj",
+      "name": "up.kumarganj",
+      "lgdCode": "297758",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maakamakhya",
+      "name": "up.maakamakhya",
+      "lgdCode": "300865",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rudauli",
+      "name": "up.rudauli",
+      "lgdCode": "249388",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.atraulia",
+      "name": "up.atraulia",
+      "lgdCode": "249468",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.azamatgarh",
+      "name": "up.azamatgarh",
+      "lgdCode": "249472",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.azamgarh",
+      "name": "up.azamgarh",
+      "lgdCode": "249477",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bilariyaganj",
+      "name": "up.bilariyaganj",
+      "lgdCode": "249470",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.budhanpur",
+      "name": "up.budhanpur",
+      "lgdCode": "297075",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jahanaganjbazar",
+      "name": "up.jahanaganjbazar",
+      "lgdCode": "301253",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jiyanpur",
+      "name": "up.jiyanpur",
+      "lgdCode": "249471",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.katgarhlalganj",
+      "name": "up.katgarhlalganj",
+      "lgdCode": "249481",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maharajganj",
+      "name": "up.maharajganj",
+      "lgdCode": "249239",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mahul",
+      "name": "up.mahul",
+      "lgdCode": "263356",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.martinganj",
+      "name": "up.martinganj",
+      "lgdCode": "300510",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mehnagar",
+      "name": "up.mehnagar",
+      "lgdCode": "249482",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mubarakpur",
+      "name": "up.mubarakpur",
+      "lgdCode": "249474",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nizamabad",
+      "name": "up.nizamabad",
+      "lgdCode": "249478",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.phoolpur",
+      "name": "up.phoolpur",
+      "lgdCode": "249480",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.saraimir",
+      "name": "up.saraimir",
+      "lgdCode": "249479",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.aggarwalmanditatiri",
+      "name": "up.aggarwalmanditatiri",
+      "lgdCode": "248974",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.aminagarsarai",
+      "name": "up.aminagarsarai",
+      "lgdCode": "248975",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.baghpat",
+      "name": "up.baghpat",
+      "lgdCode": "248973",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.baraut",
+      "name": "up.baraut",
+      "lgdCode": "248972",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chhaparuli",
+      "name": "up.chhaparuli",
+      "lgdCode": "248969",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.doghat",
+      "name": "up.doghat",
+      "lgdCode": "248971",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khekra",
+      "name": "up.khekra",
+      "lgdCode": "297023",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rataul",
+      "name": "up.rataul",
+      "lgdCode": "297820",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tikri",
+      "name": "up.tikri",
+      "lgdCode": "248970",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bahraich",
+      "name": "up.bahraich",
+      "lgdCode": "249410",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jarwal",
+      "name": "up.jarwal",
+      "lgdCode": "249411",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kaisarganj",
+      "name": "up.kaisarganj",
+      "lgdCode": "299017",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mihirpurwa",
+      "name": "up.mihirpurwa",
+      "lgdCode": "300930",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nanpara",
+      "name": "up.nanpara",
+      "lgdCode": "249408",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.payagpur",
+      "name": "up.payagpur",
+      "lgdCode": "297070",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.risia",
+      "name": "up.risia",
+      "lgdCode": "249409",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.roopaideeha",
+      "name": "up.roopaideeha",
+      "lgdCode": "300511",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bairiya",
+      "name": "up.bairiya",
+      "lgdCode": "277185",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bansdih",
+      "name": "up.bansdih",
+      "lgdCode": "249498",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.belthararoad",
+      "name": "up.belthararoad",
+      "lgdCode": "249492",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chitbaragaon",
+      "name": "up.chitbaragaon",
+      "lgdCode": "249496",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maniar",
+      "name": "up.maniar",
+      "lgdCode": "249494",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nagra",
+      "name": "up.nagra",
+      "lgdCode": "297083",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.npp",
+      "name": "up.npp",
+      "lgdCode": "249497",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rasra",
+      "name": "up.rasra",
+      "lgdCode": "249495",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ratsarkalan",
+      "name": "up.ratsarkalan",
+      "lgdCode": "297861",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.reoti",
+      "name": "up.reoti",
+      "lgdCode": "249500",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sahatwar",
+      "name": "up.sahatwar",
+      "lgdCode": "249499",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sikanderpur",
+      "name": "up.sikanderpur",
+      "lgdCode": "249493",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.balrampur",
+      "name": "up.balrampur",
+      "lgdCode": "249414",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gainsadi",
+      "name": "up.gainsadi",
+      "lgdCode": "300512",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pachperwa",
+      "name": "up.pachperwa",
+      "lgdCode": "249416",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tulsipur",
+      "name": "up.tulsipur",
+      "lgdCode": "249415",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.utraula",
+      "name": "up.utraula",
+      "lgdCode": "249417",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.atarra",
+      "name": "up.atarra",
+      "lgdCode": "249339",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.baberu",
+      "name": "up.baberu",
+      "lgdCode": "249336",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.banda",
+      "name": "up.banda",
+      "lgdCode": "249334",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bisanda",
+      "name": "up.bisanda",
+      "lgdCode": "249338",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mataundh",
+      "name": "up.mataundh",
+      "lgdCode": "249333",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.naraini",
+      "name": "up.naraini",
+      "lgdCode": "249340",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.oran",
+      "name": "up.oran",
+      "lgdCode": "249337",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tindwari",
+      "name": "up.tindwari",
+      "lgdCode": "249335",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.banki",
+      "name": "up.banki",
+      "lgdCode": "249380",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.belhara",
+      "name": "up.belhara",
+      "lgdCode": "277186",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dariyabad",
+      "name": "up.dariyabad",
+      "lgdCode": "249385",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dewa",
+      "name": "up.dewa",
+      "lgdCode": "249378",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.fatehpur",
+      "name": "up.fatehpur",
+      "lgdCode": "249376",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.haidergarh",
+      "name": "up.haidergarh",
+      "lgdCode": "249387",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nawabganj",
+      "name": "up.nawabganj",
+      "lgdCode": "301389",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ramnagar",
+      "name": "up.ramnagar",
+      "lgdCode": "249377",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ramsanehighat",
+      "name": "up.ramsanehighat",
+      "lgdCode": "299081",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.satrikh",
+      "name": "up.satrikh",
+      "lgdCode": "249381",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.siddhaur",
+      "name": "up.siddhaur",
+      "lgdCode": "249386",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.subeha",
+      "name": "up.subeha",
+      "lgdCode": "253131",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tikaitnagar",
+      "name": "up.tikaitnagar",
+      "lgdCode": "249384",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.zaidpur",
+      "name": "up.zaidpur",
+      "lgdCode": "249382",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.aonla",
+      "name": "up.aonla",
+      "lgdCode": "249145",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.baheri",
+      "name": "up.baheri",
+      "lgdCode": "249135",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bareilly",
+      "name": "up.bareilly",
+      "lgdCode": "249149",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bisharatganj",
+      "name": "up.bisharatganj",
+      "lgdCode": "249144",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.deoranian",
+      "name": "up.deoranian",
+      "lgdCode": "249138",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dhauratanda",
+      "name": "up.dhauratanda",
+      "lgdCode": "249147",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.faridpur",
+      "name": "up.faridpur",
+      "lgdCode": "249156",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.faridpur",
+      "name": "up.faridpur",
+      "lgdCode": "249136",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.fatehganjpashchimi",
+      "name": "up.fatehganjpashchimi",
+      "lgdCode": "249142",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.fatehganjpurvi",
+      "name": "up.fatehganjpurvi",
+      "lgdCode": "249155",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.meerganj",
+      "name": "up.meerganj",
+      "lgdCode": "249141",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nawabganj",
+      "name": "up.nawabganj",
+      "lgdCode": "249154",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.richha",
+      "name": "up.richha",
+      "lgdCode": "249137",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rithora",
+      "name": "up.rithora",
+      "lgdCode": "249152",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sainthal",
+      "name": "up.sainthal",
+      "lgdCode": "249153",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shahi",
+      "name": "up.shahi",
+      "lgdCode": "249143",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shergarh",
+      "name": "up.shergarh",
+      "lgdCode": "249139",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shishgarh",
+      "name": "up.shishgarh",
+      "lgdCode": "249140",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sirauli",
+      "name": "up.sirauli",
+      "lgdCode": "249146",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.thiriyanizawatkhan",
+      "name": "up.thiriyanizawatkhan",
+      "lgdCode": "249151",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.babhnanbazar",
+      "name": "up.babhnanbazar",
+      "lgdCode": "297073",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bankati",
+      "name": "up.bankati",
+      "lgdCode": "289237",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.basti",
+      "name": "up.basti",
+      "lgdCode": "249430",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhanpur",
+      "name": "up.bhanpur",
+      "lgdCode": "297060",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ganeshpur",
+      "name": "up.ganeshpur",
+      "lgdCode": "297031",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gayghat",
+      "name": "up.gayghat",
+      "lgdCode": "297066",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.harraiya",
+      "name": "up.harraiya",
+      "lgdCode": "249429",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kaptanganj",
+      "name": "up.kaptanganj",
+      "lgdCode": "298096",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mundervan",
+      "name": "up.mundervan",
+      "lgdCode": "298093",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nagarbazar",
+      "name": "up.nagarbazar",
+      "lgdCode": "298095",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rudhaulibazar",
+      "name": "up.rudhaulibazar",
+      "lgdCode": "263359",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhadohi",
+      "name": "up.bhadohi",
+      "lgdCode": "249535",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ghosiabazar",
+      "name": "up.ghosiabazar",
+      "lgdCode": "249539",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gopiganj",
+      "name": "up.gopiganj",
+      "lgdCode": "249537",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gyanpur",
+      "name": "up.gyanpur",
+      "lgdCode": "249536",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khamaria",
+      "name": "up.khamaria",
+      "lgdCode": "249538",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.naibazar",
+      "name": "up.naibazar",
+      "lgdCode": "249534",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.suriyawan",
+      "name": "up.suriyawan",
+      "lgdCode": "249533",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.afzalgarh",
+      "name": "up.afzalgarh",
+      "lgdCode": "248917",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.barhapur",
+      "name": "up.barhapur",
+      "lgdCode": "248916",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bijnor",
+      "name": "up.bijnor",
+      "lgdCode": "248910",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chandpur",
+      "name": "up.chandpur",
+      "lgdCode": "248924",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dhampur",
+      "name": "up.dhampur",
+      "lgdCode": "248919",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.haldaur",
+      "name": "up.haldaur",
+      "lgdCode": "248914",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jalalabad",
+      "name": "up.jalalabad",
+      "lgdCode": "248892",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jhalu",
+      "name": "up.jhalu",
+      "lgdCode": "248913",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kiratpur",
+      "name": "up.kiratpur",
+      "lgdCode": "248908",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mandawar",
+      "name": "up.mandawar",
+      "lgdCode": "248909",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nagina",
+      "name": "up.nagina",
+      "lgdCode": "248915",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.najibabad",
+      "name": "up.najibabad",
+      "lgdCode": "248905",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nehtaur",
+      "name": "up.nehtaur",
+      "lgdCode": "248920",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.noorpur",
+      "name": "up.noorpur",
+      "lgdCode": "248923",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sahanpur",
+      "name": "up.sahanpur",
+      "lgdCode": "248904",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sahaspur",
+      "name": "up.sahaspur",
+      "lgdCode": "248922",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.seohara",
+      "name": "up.seohara",
+      "lgdCode": "248921",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sherkot",
+      "name": "up.sherkot",
+      "lgdCode": "248918",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.alapur",
+      "name": "up.alapur",
+      "lgdCode": "249131",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bilsi",
+      "name": "up.bilsi",
+      "lgdCode": "249122",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bisauli",
+      "name": "up.bisauli",
+      "lgdCode": "249118",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.budaun",
+      "name": "up.budaun",
+      "lgdCode": "249126",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dahgawan",
+      "name": "up.dahgawan",
+      "lgdCode": "297063",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dataganj",
+      "name": "up.dataganj",
+      "lgdCode": "297026",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.faizganj",
+      "name": "up.faizganj",
+      "lgdCode": "249116",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.guldiya",
+      "name": "up.guldiya",
+      "lgdCode": "249128",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.islamnagar",
+      "name": "up.islamnagar",
+      "lgdCode": "249115",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kachhla",
+      "name": "up.kachhla",
+      "lgdCode": "249124",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kakrala",
+      "name": "up.kakrala",
+      "lgdCode": "249130",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kunwargaon",
+      "name": "up.kunwargaon",
+      "lgdCode": "249127",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mundia",
+      "name": "up.mundia",
+      "lgdCode": "249117",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rudayan",
+      "name": "up.rudayan",
+      "lgdCode": "249121",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sahaswan",
+      "name": "up.sahaswan",
+      "lgdCode": "249123",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.saidpur",
+      "name": "up.saidpur",
+      "lgdCode": "249119",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sakhanu",
+      "name": "up.sakhanu",
+      "lgdCode": "249129",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ujhani",
+      "name": "up.ujhani",
+      "lgdCode": "249125",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.usawan",
+      "name": "up.usawan",
+      "lgdCode": "249133",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ushait",
+      "name": "up.ushait",
+      "lgdCode": "249134",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.wazirganj",
+      "name": "up.wazirganj",
+      "lgdCode": "249120",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.anupshahr",
+      "name": "up.anupshahr",
+      "lgdCode": "249011",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.aurangabad",
+      "name": "up.aurangabad",
+      "lgdCode": "249004",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhawanbahadurnagar",
+      "name": "up.bhawanbahadurnagar",
+      "lgdCode": "249007",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bugrasi",
+      "name": "up.bugrasi",
+      "lgdCode": "249009",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bulandshahr",
+      "name": "up.bulandshahr",
+      "lgdCode": "249005",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chhatari",
+      "name": "up.chhatari",
+      "lgdCode": "249017",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dibai",
+      "name": "up.dibai",
+      "lgdCode": "249013",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gulaothi",
+      "name": "up.gulaothi",
+      "lgdCode": "249006",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jahangirabad",
+      "name": "up.jahangirabad",
+      "lgdCode": "249012",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kakod",
+      "name": "up.kakod",
+      "lgdCode": "248999",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khanpur",
+      "name": "up.khanpur",
+      "lgdCode": "249010",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khurja",
+      "name": "up.khurja",
+      "lgdCode": "249018",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.narora",
+      "name": "up.narora",
+      "lgdCode": "249014",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pahasu",
+      "name": "up.pahasu",
+      "lgdCode": "249016",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shikarpur",
+      "name": "up.shikarpur",
+      "lgdCode": "249015",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sikandrabad",
+      "name": "up.sikandrabad",
+      "lgdCode": "249003",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.siyana",
+      "name": "up.siyana",
+      "lgdCode": "249008",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chakia",
+      "name": "up.chakia",
+      "lgdCode": "249522",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chandauli",
+      "name": "up.chandauli",
+      "lgdCode": "249520",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ptdindayalupadhayanagar",
+      "name": "up.ptdindayalupadhayanagar",
+      "lgdCode": "249518",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.saiyadraja",
+      "name": "up.saiyadraja",
+      "lgdCode": "249521",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chitrakootdhamkarwi",
+      "name": "up.chitrakootdhamkarwi",
+      "lgdCode": "249342",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.manikpursarhat",
+      "name": "up.manikpursarhat",
+      "lgdCode": "249341",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mau",
+      "name": "up.mau",
+      "lgdCode": "299010",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rajapur",
+      "name": "up.rajapur",
+      "lgdCode": "249343",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.baitalpur",
+      "name": "up.baitalpur",
+      "lgdCode": "300768",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bariyarpur",
+      "name": "up.bariyarpur",
+      "lgdCode": "281989",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhaluanibazar",
+      "name": "up.bhaluanibazar",
+      "lgdCode": "300729",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhatnibazar",
+      "name": "up.bhatnibazar",
+      "lgdCode": "249463",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhatparrani",
+      "name": "up.bhatparrani",
+      "lgdCode": "249467",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.deoria",
+      "name": "up.deoria",
+      "lgdCode": "249460",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gaurabarhaj",
+      "name": "up.gaurabarhaj",
+      "lgdCode": "249462",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gauribazar",
+      "name": "up.gauribazar",
+      "lgdCode": "249458",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hetimpur",
+      "name": "up.hetimpur",
+      "lgdCode": "300779",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lar",
+      "name": "up.lar",
+      "lgdCode": "249466",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.madanpur",
+      "name": "up.madanpur",
+      "lgdCode": "300789",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.majhauliraj",
+      "name": "up.majhauliraj",
+      "lgdCode": "249464",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pathardeva",
+      "name": "up.pathardeva",
+      "lgdCode": "300782",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rampurkarkhana",
+      "name": "up.rampurkarkhana",
+      "lgdCode": "249459",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rudrapur",
+      "name": "up.rudrapur",
+      "lgdCode": "249461",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.salempur",
+      "name": "up.salempur",
+      "lgdCode": "249465",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tarkulwa",
+      "name": "up.tarkulwa",
+      "lgdCode": "300807",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.aliganj",
+      "name": "up.aliganj",
+      "lgdCode": "249095",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.awagarh",
+      "name": "up.awagarh",
+      "lgdCode": "249102",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.etah",
+      "name": "up.etah",
+      "lgdCode": "249098",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jaithara",
+      "name": "up.jaithara",
+      "lgdCode": "249096",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jalesar",
+      "name": "up.jalesar",
+      "lgdCode": "249101",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.marhera",
+      "name": "up.marhera",
+      "lgdCode": "249099",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mirhachi",
+      "name": "up.mirhachi",
+      "lgdCode": "300713",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nidhaulikalan",
+      "name": "up.nidhaulikalan",
+      "lgdCode": "249100",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rajakarampur",
+      "name": "up.rajakarampur",
+      "lgdCode": "249094",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sakit",
+      "name": "up.sakit",
+      "lgdCode": "249097",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bakewar",
+      "name": "up.bakewar",
+      "lgdCode": "249265",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bharthana",
+      "name": "up.bharthana",
+      "lgdCode": "249264",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ekdil",
+      "name": "up.ekdil",
+      "lgdCode": "249263",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.etawah",
+      "name": "up.etawah",
+      "lgdCode": "249262",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jaswantnagar",
+      "name": "up.jaswantnagar",
+      "lgdCode": "249261",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lakhna",
+      "name": "up.lakhna",
+      "lgdCode": "249266",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.farrukhabad",
+      "name": "up.farrukhabad",
+      "lgdCode": "249250",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kaimganj",
+      "name": "up.kaimganj",
+      "lgdCode": "249248",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kamalganj",
+      "name": "up.kamalganj",
+      "lgdCode": "249252",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kampil",
+      "name": "up.kampil",
+      "lgdCode": "249247",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khimsepur",
+      "name": "up.khimsepur",
+      "lgdCode": "300652",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mohammadabad",
+      "name": "up.mohammadabad",
+      "lgdCode": "249490",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nawabganj",
+      "name": "up.nawabganj",
+      "lgdCode": "297735",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sankisabasantpur",
+      "name": "up.sankisabasantpur",
+      "lgdCode": "300651",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shamsabad",
+      "name": "up.shamsabad",
+      "lgdCode": "297032",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.asothar",
+      "name": "up.asothar",
+      "lgdCode": "297623",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bahua",
+      "name": "up.bahua",
+      "lgdCode": "249346",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bindki",
+      "name": "up.bindki",
+      "lgdCode": "249345",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.fatehpur",
+      "name": "up.fatehpur",
+      "lgdCode": "249347",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hathgam",
+      "name": "up.hathgam",
+      "lgdCode": "253113",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.karikandhata",
+      "name": "up.karikandhata",
+      "lgdCode": "300833",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khaga",
+      "name": "up.khaga",
+      "lgdCode": "249348",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khakhreru",
+      "name": "up.khakhreru",
+      "lgdCode": "300839",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kishanpur",
+      "name": "up.kishanpur",
+      "lgdCode": "249349",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.korajahanabad",
+      "name": "up.korajahanabad",
+      "lgdCode": "249344",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.eka",
+      "name": "up.eka",
+      "lgdCode": "277188",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.fariha",
+      "name": "up.fariha",
+      "lgdCode": "249080",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.firozabad",
+      "name": "up.firozabad",
+      "lgdCode": "249079",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jasrana",
+      "name": "up.jasrana",
+      "lgdCode": "249081",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.makkhanpur",
+      "name": "up.makkhanpur",
+      "lgdCode": "297081",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shikohabad",
+      "name": "up.shikohabad",
+      "lgdCode": "249082",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sirsaganj",
+      "name": "up.sirsaganj",
+      "lgdCode": "249083",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tundla",
+      "name": "up.tundla",
+      "lgdCode": "249075",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bilaspur",
+      "name": "up.bilaspur",
+      "lgdCode": "248997",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dadri",
+      "name": "up.dadri",
+      "lgdCode": "248996",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dankur",
+      "name": "up.dankur",
+      "lgdCode": "248998",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jahangirpur",
+      "name": "up.jahangirpur",
+      "lgdCode": "249001",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jewar",
+      "name": "up.jewar",
+      "lgdCode": "249002",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rabupura",
+      "name": "up.rabupura",
+      "lgdCode": "249000",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dasna",
+      "name": "up.dasna",
+      "lgdCode": "248989",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.faridnagar",
+      "name": "up.faridnagar",
+      "lgdCode": "248982",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ghaziabad",
+      "name": "up.ghaziabad",
+      "lgdCode": "248988",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khoramakanpur",
+      "name": "up.khoramakanpur",
+      "lgdCode": "274820",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.loni",
+      "name": "up.loni",
+      "lgdCode": "248985",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.modinagar",
+      "name": "up.modinagar",
+      "lgdCode": "248981",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.muradnagar",
+      "name": "up.muradnagar",
+      "lgdCode": "248983",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.niwari",
+      "name": "up.niwari",
+      "lgdCode": "248978",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.patla",
+      "name": "up.patla",
+      "lgdCode": "248977",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bahadurganj",
+      "name": "up.bahadurganj",
+      "lgdCode": "249513",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dildarnagar",
+      "name": "up.dildarnagar",
+      "lgdCode": "249515",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ghazipur",
+      "name": "up.ghazipur",
+      "lgdCode": "249512",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jangipur",
+      "name": "up.jangipur",
+      "lgdCode": "249511",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mohammadabad",
+      "name": "up.mohammadabad",
+      "lgdCode": "249514",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sadat",
+      "name": "up.sadat",
+      "lgdCode": "249509",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.saidpur",
+      "name": "up.saidpur",
+      "lgdCode": "249510",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.zamania",
+      "name": "up.zamania",
+      "lgdCode": "249516",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.belsar",
+      "name": "up.belsar",
+      "lgdCode": "301014",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.colonelganj",
+      "name": "up.colonelganj",
+      "lgdCode": "249421",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dhanepur",
+      "name": "up.dhanepur",
+      "lgdCode": "301016",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gonda",
+      "name": "up.gonda",
+      "lgdCode": "249419",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.katra",
+      "name": "up.katra",
+      "lgdCode": "249420",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khargupur",
+      "name": "up.khargupur",
+      "lgdCode": "249418",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mankapur",
+      "name": "up.mankapur",
+      "lgdCode": "249423",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nawabganj",
+      "name": "up.nawabganj",
+      "lgdCode": "249422",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.paraspur",
+      "name": "up.paraspur",
+      "lgdCode": "301245",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tarabganj",
+      "name": "up.tarabganj",
+      "lgdCode": "301012",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bansgaon",
+      "name": "up.bansgaon",
+      "lgdCode": "249448",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.barhalganj",
+      "name": "up.barhalganj",
+      "lgdCode": "249450",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chaumukhacampierganj",
+      "name": "up.chaumukhacampierganj",
+      "lgdCode": "297029",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ghaghsarabazar",
+      "name": "up.ghaghsarabazar",
+      "lgdCode": "300750",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.golabazar",
+      "name": "up.golabazar",
+      "lgdCode": "249449",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gorakhpur",
+      "name": "up.gorakhpur",
+      "lgdCode": "249444",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kasbasangrampururfunwal",
+      "name": "up.kasbasangrampururfunwal",
+      "lgdCode": "297495",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.munderabazar",
+      "name": "up.munderabazar",
+      "lgdCode": "249447",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pipiganj",
+      "name": "up.pipiganj",
+      "lgdCode": "249442",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pipraich",
+      "name": "up.pipraich",
+      "lgdCode": "249446",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sahjanwa",
+      "name": "up.sahjanwa",
+      "lgdCode": "249443",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.uruwabazar",
+      "name": "up.uruwabazar",
+      "lgdCode": "300721",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gohand",
+      "name": "up.gohand",
+      "lgdCode": "249325",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hamirpur",
+      "name": "up.hamirpur",
+      "lgdCode": "249322",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kurara",
+      "name": "up.kurara",
+      "lgdCode": "249321",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maudaha",
+      "name": "up.maudaha",
+      "lgdCode": "249327",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rath",
+      "name": "up.rath",
+      "lgdCode": "249326",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sarila",
+      "name": "up.sarila",
+      "lgdCode": "249324",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sumerpur",
+      "name": "up.sumerpur",
+      "lgdCode": "249323",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.babugarh",
+      "name": "up.babugarh",
+      "lgdCode": "248992",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.garhmukteshwar",
+      "name": "up.garhmukteshwar",
+      "lgdCode": "248993",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hapur",
+      "name": "up.hapur",
+      "lgdCode": "248991",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pilkhuwa",
+      "name": "up.pilkhuwa",
+      "lgdCode": "248990",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.beniganj",
+      "name": "up.beniganj",
+      "lgdCode": "249208",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bilgram",
+      "name": "up.bilgram",
+      "lgdCode": "249203",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gopamau",
+      "name": "up.gopamau",
+      "lgdCode": "249200",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hardoi",
+      "name": "up.hardoi",
+      "lgdCode": "249201",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kachhaunapatseni",
+      "name": "up.kachhaunapatseni",
+      "lgdCode": "249207",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kursath",
+      "name": "up.kursath",
+      "lgdCode": "249216",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.madhoganj",
+      "name": "up.madhoganj",
+      "lgdCode": "249204",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mallawan",
+      "name": "up.mallawan",
+      "lgdCode": "249205",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pali",
+      "name": "up.pali",
+      "lgdCode": "249199",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pihani",
+      "name": "up.pihani",
+      "lgdCode": "249198",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sandi",
+      "name": "up.sandi",
+      "lgdCode": "249202",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sandila",
+      "name": "up.sandila",
+      "lgdCode": "249209",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shahabad",
+      "name": "up.shahabad",
+      "lgdCode": "249197",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hasayan",
+      "name": "up.hasayan",
+      "lgdCode": "249035",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hathras",
+      "name": "up.hathras",
+      "lgdCode": "249037",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mendu",
+      "name": "up.mendu",
+      "lgdCode": "249036",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mursan",
+      "name": "up.mursan",
+      "lgdCode": "249038",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.purdilnagar",
+      "name": "up.purdilnagar",
+      "lgdCode": "249034",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sadabad",
+      "name": "up.sadabad",
+      "lgdCode": "249039",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sahpau",
+      "name": "up.sahpau",
+      "lgdCode": "249040",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sasni",
+      "name": "up.sasni",
+      "lgdCode": "249032",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sikandrarao",
+      "name": "up.sikandrarao",
+      "lgdCode": "249033",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ait",
+      "name": "up.ait",
+      "lgdCode": "297055",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jalaun",
+      "name": "up.jalaun",
+      "lgdCode": "249294",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kadaura",
+      "name": "up.kadaura",
+      "lgdCode": "249296",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kalpi",
+      "name": "up.kalpi",
+      "lgdCode": "249295",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.konch",
+      "name": "up.konch",
+      "lgdCode": "249299",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kotra",
+      "name": "up.kotra",
+      "lgdCode": "249298",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.madhogarh",
+      "name": "up.madhogarh",
+      "lgdCode": "249293",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nadigaon",
+      "name": "up.nadigaon",
+      "lgdCode": "249300",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.orai",
+      "name": "up.orai",
+      "lgdCode": "249297",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rampura",
+      "name": "up.rampura",
+      "lgdCode": "249291",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.umari",
+      "name": "up.umari",
+      "lgdCode": "249292",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.badlapur",
+      "name": "up.badlapur",
+      "lgdCode": "263358",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gaurabadshahpur",
+      "name": "up.gaurabadshahpur",
+      "lgdCode": "297034",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jaunpur",
+      "name": "up.jaunpur",
+      "lgdCode": "249505",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kachgaon",
+      "name": "up.kachgaon",
+      "lgdCode": "297068",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kerakat",
+      "name": "up.kerakat",
+      "lgdCode": "249508",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khetasarai",
+      "name": "up.khetasarai",
+      "lgdCode": "249502",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.machhalishar",
+      "name": "up.machhalishar",
+      "lgdCode": "249504",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.madiyahun",
+      "name": "up.madiyahun",
+      "lgdCode": "249507",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mungrabadshahpur",
+      "name": "up.mungrabadshahpur",
+      "lgdCode": "249503",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rampur",
+      "name": "up.rampur",
+      "lgdCode": "297088",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shahganj",
+      "name": "up.shahganj",
+      "lgdCode": "249501",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.zafarabad",
+      "name": "up.zafarabad",
+      "lgdCode": "297091",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.baragaon",
+      "name": "up.baragaon",
+      "lgdCode": "249313",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.baruasagar",
+      "name": "up.baruasagar",
+      "lgdCode": "249311",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chirgaon",
+      "name": "up.chirgaon",
+      "lgdCode": "249303",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.erich",
+      "name": "up.erich",
+      "lgdCode": "249304",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.garautha",
+      "name": "up.garautha",
+      "lgdCode": "249306",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gursarai",
+      "name": "up.gursarai",
+      "lgdCode": "249305",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.katera",
+      "name": "up.katera",
+      "lgdCode": "249310",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mauranipur",
+      "name": "up.mauranipur",
+      "lgdCode": "249308",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.moth",
+      "name": "up.moth",
+      "lgdCode": "249302",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.municipalcorporationjhansi",
+      "name": "up.municipalcorporationjhansi",
+      "lgdCode": "249314",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ranipur",
+      "name": "up.ranipur",
+      "lgdCode": "249309",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.samthar",
+      "name": "up.samthar",
+      "lgdCode": "249301",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tondifatehpur",
+      "name": "up.tondifatehpur",
+      "lgdCode": "249307",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chhibramau",
+      "name": "up.chhibramau",
+      "lgdCode": "249256",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gursahaiganj",
+      "name": "up.gursahaiganj",
+      "lgdCode": "249254",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kannauj",
+      "name": "up.kannauj",
+      "lgdCode": "249259",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.samdhan",
+      "name": "up.samdhan",
+      "lgdCode": "249253",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.saurikh",
+      "name": "up.saurikh",
+      "lgdCode": "249257",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sikandarpur",
+      "name": "up.sikandarpur",
+      "lgdCode": "249255",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.talgram",
+      "name": "up.talgram",
+      "lgdCode": "249258",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tirwaganj",
+      "name": "up.tirwaganj",
+      "lgdCode": "249260",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.akbarpur",
+      "name": "up.akbarpur",
+      "lgdCode": "249277",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.amraudha",
+      "name": "up.amraudha",
+      "lgdCode": "263353",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.derapur",
+      "name": "up.derapur",
+      "lgdCode": "263348",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jhinjhak",
+      "name": "up.jhinjhak",
+      "lgdCode": "263354",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kanchausi",
+      "name": "up.kanchausi",
+      "lgdCode": "297864",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.moosanagar",
+      "name": "up.moosanagar",
+      "lgdCode": "297651",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pukhrayan",
+      "name": "up.pukhrayan",
+      "lgdCode": "249279",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rajpur",
+      "name": "up.rajpur",
+      "lgdCode": "297037",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.raniya",
+      "name": "up.raniya",
+      "lgdCode": "297089",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rashulabad",
+      "name": "up.rashulabad",
+      "lgdCode": "263352",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rura",
+      "name": "up.rura",
+      "lgdCode": "249276",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shivli",
+      "name": "up.shivli",
+      "lgdCode": "249275",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sikandra",
+      "name": "up.sikandra",
+      "lgdCode": "263355",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bilhaur",
+      "name": "up.bilhaur",
+      "lgdCode": "249282",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bithoor",
+      "name": "up.bithoor",
+      "lgdCode": "249285",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ghatampur",
+      "name": "up.ghatampur",
+      "lgdCode": "249290",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kanpur",
+      "name": "up.kanpur",
+      "lgdCode": "249286",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shivrajpur",
+      "name": "up.shivrajpur",
+      "lgdCode": "249283",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.amanpur",
+      "name": "up.amanpur",
+      "lgdCode": "249088",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhargain",
+      "name": "up.bhargain",
+      "lgdCode": "249093",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bilram",
+      "name": "up.bilram",
+      "lgdCode": "249085",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ganjdundwara",
+      "name": "up.ganjdundwara",
+      "lgdCode": "249090",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kasganj",
+      "name": "up.kasganj",
+      "lgdCode": "249086",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mohanpur",
+      "name": "up.mohanpur",
+      "lgdCode": "249089",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.patiyali",
+      "name": "up.patiyali",
+      "lgdCode": "249091",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sahawar",
+      "name": "up.sahawar",
+      "lgdCode": "249087",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sidhpura",
+      "name": "up.sidhpura",
+      "lgdCode": "249092",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.soron",
+      "name": "up.soron",
+      "lgdCode": "249084",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ajhuwa",
+      "name": "up.ajhuwa",
+      "lgdCode": "249357",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bharwari",
+      "name": "up.bharwari",
+      "lgdCode": "249361",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chail",
+      "name": "up.chail",
+      "lgdCode": "249362",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.charwa",
+      "name": "up.charwa",
+      "lgdCode": "299009",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.daranagar",
+      "name": "up.daranagar",
+      "lgdCode": "297064",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.karari",
+      "name": "up.karari",
+      "lgdCode": "249360",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.manjhanpur",
+      "name": "up.manjhanpur",
+      "lgdCode": "249359",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.purabpashchimsharira",
+      "name": "up.purabpashchimsharira",
+      "lgdCode": "297086",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.saraiaquil",
+      "name": "up.saraiaquil",
+      "lgdCode": "249363",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sirathu",
+      "name": "up.sirathu",
+      "lgdCode": "249358",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chhitauni",
+      "name": "up.chhitauni",
+      "lgdCode": "297077",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dudahi",
+      "name": "up.dudahi",
+      "lgdCode": "297078",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.fazilnagar",
+      "name": "up.fazilnagar",
+      "lgdCode": "297065",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hata",
+      "name": "up.hata",
+      "lgdCode": "297020",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kaptanganj",
+      "name": "up.kaptanganj",
+      "lgdCode": "249454",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khadda",
+      "name": "up.khadda",
+      "lgdCode": "249451",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kushinagar",
+      "name": "up.kushinagar",
+      "lgdCode": "297024",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mathauli",
+      "name": "up.mathauli",
+      "lgdCode": "300705",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.padrauna",
+      "name": "up.padrauna",
+      "lgdCode": "249452",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ramkola",
+      "name": "up.ramkola",
+      "lgdCode": "249453",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sewarhi",
+      "name": "up.sewarhi",
+      "lgdCode": "249457",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sukrauli",
+      "name": "up.sukrauli",
+      "lgdCode": "249412",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tamkuhiraj",
+      "name": "up.tamkuhiraj",
+      "lgdCode": "297036",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.barwar",
+      "name": "up.barwar",
+      "lgdCode": "249181",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bheera",
+      "name": "up.bheera",
+      "lgdCode": "300719",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dhaurahra",
+      "name": "up.dhaurahra",
+      "lgdCode": "249185",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.golagokarannath",
+      "name": "up.golagokarannath",
+      "lgdCode": "249179",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kheri",
+      "name": "up.kheri",
+      "lgdCode": "249183",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lakhimpur",
+      "name": "up.lakhimpur",
+      "lgdCode": "249182",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mailani",
+      "name": "up.mailani",
+      "lgdCode": "249178",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mohammadi",
+      "name": "up.mohammadi",
+      "lgdCode": "249180",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nighasan",
+      "name": "up.nighasan",
+      "lgdCode": "297085",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.oeldhakhwa",
+      "name": "up.oeldhakhwa",
+      "lgdCode": "249184",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.paliakalan",
+      "name": "up.paliakalan",
+      "lgdCode": "249176",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.singahibhedaura",
+      "name": "up.singahibhedaura",
+      "lgdCode": "249177",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lalitpur",
+      "name": "up.lalitpur",
+      "lgdCode": "249318",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mahroni",
+      "name": "up.mahroni",
+      "lgdCode": "249320",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pali",
+      "name": "up.pali",
+      "lgdCode": "249319",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.talbehat",
+      "name": "up.talbehat",
+      "lgdCode": "249317",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.amethi",
+      "name": "up.amethi",
+      "lgdCode": "249236",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bakshikatalab",
+      "name": "up.bakshikatalab",
+      "lgdCode": "263351",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.banthara",
+      "name": "up.banthara",
+      "lgdCode": "297048",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gosaiganj",
+      "name": "up.gosaiganj",
+      "lgdCode": "249392",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.itaunja",
+      "name": "up.itaunja",
+      "lgdCode": "249232",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kakori",
+      "name": "up.kakori",
+      "lgdCode": "249233",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lucknow",
+      "name": "up.lucknow",
+      "lgdCode": "249234",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mahona",
+      "name": "up.mahona",
+      "lgdCode": "249231",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.malihabad",
+      "name": "up.malihabad",
+      "lgdCode": "249230",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mohanlalganj",
+      "name": "up.mohanlalganj",
+      "lgdCode": "297039",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nagram",
+      "name": "up.nagram",
+      "lgdCode": "249237",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.anandnagar",
+      "name": "up.anandnagar",
+      "lgdCode": "249439",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.brijmanganj",
+      "name": "up.brijmanganj",
+      "lgdCode": "297062",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chowk",
+      "name": "up.chowk",
+      "lgdCode": "298915",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ghughuli",
+      "name": "up.ghughuli",
+      "lgdCode": "249440",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maharajganj",
+      "name": "up.maharajganj",
+      "lgdCode": "249441",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nautanwa",
+      "name": "up.nautanwa",
+      "lgdCode": "249436",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nichlaul",
+      "name": "up.nichlaul",
+      "lgdCode": "249437",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.paniyara",
+      "name": "up.paniyara",
+      "lgdCode": "297041",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.partawal",
+      "name": "up.partawal",
+      "lgdCode": "297040",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.siswabazar",
+      "name": "up.siswabazar",
+      "lgdCode": "249438",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sonauli",
+      "name": "up.sonauli",
+      "lgdCode": "277139",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.charkhari",
+      "name": "up.charkhari",
+      "lgdCode": "249330",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kabrai",
+      "name": "up.kabrai",
+      "lgdCode": "249332",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kharela",
+      "name": "up.kharela",
+      "lgdCode": "249329",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kulpahar",
+      "name": "up.kulpahar",
+      "lgdCode": "249328",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mahoba",
+      "name": "up.mahoba",
+      "lgdCode": "249331",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.barnahal",
+      "name": "up.barnahal",
+      "lgdCode": "297058",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bewar",
+      "name": "up.bewar",
+      "lgdCode": "249109",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhongaon",
+      "name": "up.bhongaon",
+      "lgdCode": "249108",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ghiror",
+      "name": "up.ghiror",
+      "lgdCode": "249105",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jyotikhudiya",
+      "name": "up.jyotikhudiya",
+      "lgdCode": "249104",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.karhal",
+      "name": "up.karhal",
+      "lgdCode": "249107",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kishni",
+      "name": "up.kishni",
+      "lgdCode": "249111",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kurawali",
+      "name": "up.kurawali",
+      "lgdCode": "249103",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kusmara",
+      "name": "up.kusmara",
+      "lgdCode": "249110",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mainpuri",
+      "name": "up.mainpuri",
+      "lgdCode": "249106",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bajna",
+      "name": "up.bajna",
+      "lgdCode": "249046",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.baldeo",
+      "name": "up.baldeo",
+      "lgdCode": "249057",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.barsana",
+      "name": "up.barsana",
+      "lgdCode": "249043",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chaumuha",
+      "name": "up.chaumuha",
+      "lgdCode": "249045",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chhata",
+      "name": "up.chhata",
+      "lgdCode": "249044",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.farah",
+      "name": "up.farah",
+      "lgdCode": "249058",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gokul",
+      "name": "up.gokul",
+      "lgdCode": "249055",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.goverdhan",
+      "name": "up.goverdhan",
+      "lgdCode": "249050",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kosikalan",
+      "name": "up.kosikalan",
+      "lgdCode": "249041",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mahavan",
+      "name": "up.mahavan",
+      "lgdCode": "249056",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mathuravrindavan",
+      "name": "up.mathuravrindavan",
+      "lgdCode": "249052",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nandgaon",
+      "name": "up.nandgaon",
+      "lgdCode": "249042",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.radhakund",
+      "name": "up.radhakund",
+      "lgdCode": "249049",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.raya",
+      "name": "up.raya",
+      "lgdCode": "249047",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.saunkh",
+      "name": "up.saunkh",
+      "lgdCode": "249051",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.adari",
+      "name": "up.adari",
+      "lgdCode": "249487",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.amila",
+      "name": "up.amila",
+      "lgdCode": "249484",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chiraiyakot",
+      "name": "up.chiraiyakot",
+      "lgdCode": "277189",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dohrighat",
+      "name": "up.dohrighat",
+      "lgdCode": "249483",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ghosi",
+      "name": "up.ghosi",
+      "lgdCode": "249485",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kopaganj",
+      "name": "up.kopaganj",
+      "lgdCode": "249486",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kurthijafarpur",
+      "name": "up.kurthijafarpur",
+      "lgdCode": "299071",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.madhuban",
+      "name": "up.madhuban",
+      "lgdCode": "301254",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maunathbhanjan",
+      "name": "up.maunathbhanjan",
+      "lgdCode": "249488",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.muhammadabadgohna",
+      "name": "up.muhammadabadgohna",
+      "lgdCode": "249251",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.walidpur",
+      "name": "up.walidpur",
+      "lgdCode": "270654",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bahsuma",
+      "name": "up.bahsuma",
+      "lgdCode": "248959",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.daurala",
+      "name": "up.daurala",
+      "lgdCode": "248956",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.harra",
+      "name": "up.harra",
+      "lgdCode": "301364",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hastinapur",
+      "name": "up.hastinapur",
+      "lgdCode": "248960",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.karnawal",
+      "name": "up.karnawal",
+      "lgdCode": "248954",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kharkhauda",
+      "name": "up.kharkhauda",
+      "lgdCode": "248968",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khiwai",
+      "name": "up.khiwai",
+      "lgdCode": "297079",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kithaur",
+      "name": "up.kithaur",
+      "lgdCode": "248963",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lawar",
+      "name": "up.lawar",
+      "lgdCode": "248957",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mawana",
+      "name": "up.mawana",
+      "lgdCode": "248961",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.meerut",
+      "name": "up.meerut",
+      "lgdCode": "248964",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.parikshitgarh",
+      "name": "up.parikshitgarh",
+      "lgdCode": "248962",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.phalauda",
+      "name": "up.phalauda",
+      "lgdCode": "248958",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sardhana",
+      "name": "up.sardhana",
+      "lgdCode": "248955",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shahjahanpur",
+      "name": "up.shahjahanpur",
+      "lgdCode": "301349",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.siwalkhas",
+      "name": "up.siwalkhas",
+      "lgdCode": "248967",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ahraura",
+      "name": "up.ahraura",
+      "lgdCode": "249545",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chunar",
+      "name": "up.chunar",
+      "lgdCode": "249543",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kachhwa",
+      "name": "up.kachhwa",
+      "lgdCode": "249542",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mirzapur",
+      "name": "up.mirzapur",
+      "lgdCode": "249540",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.aghwanpur",
+      "name": "up.aghwanpur",
+      "lgdCode": "297071",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhojpurdharampur",
+      "name": "up.bhojpurdharampur",
+      "lgdCode": "248928",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bilari",
+      "name": "up.bilari",
+      "lgdCode": "248931",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dhakiya",
+      "name": "up.dhakiya",
+      "lgdCode": "290251",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kanth",
+      "name": "up.kanth",
+      "lgdCode": "248926",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kundarki",
+      "name": "up.kundarki",
+      "lgdCode": "248930",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mahmoodpurmafi",
+      "name": "up.mahmoodpurmafi",
+      "lgdCode": "299027",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.moradabad",
+      "name": "up.moradabad",
+      "lgdCode": "248929",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pakbara",
+      "name": "up.pakbara",
+      "lgdCode": "290250",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.thakurdwara",
+      "name": "up.thakurdwara",
+      "lgdCode": "248925",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.umrikalan",
+      "name": "up.umrikalan",
+      "lgdCode": "248927",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhokerheri",
+      "name": "up.bhokerheri",
+      "lgdCode": "248902",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.budhana",
+      "name": "up.budhana",
+      "lgdCode": "248897",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.charthawal",
+      "name": "up.charthawal",
+      "lgdCode": "248894",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jansath",
+      "name": "up.jansath",
+      "lgdCode": "248901",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khatauli",
+      "name": "up.khatauli",
+      "lgdCode": "248899",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.meerapur",
+      "name": "up.meerapur",
+      "lgdCode": "248903",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.muzaffarnagar",
+      "name": "up.muzaffarnagar",
+      "lgdCode": "248895",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.purquazi",
+      "name": "up.purquazi",
+      "lgdCode": "248893",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shahpur",
+      "name": "up.shahpur",
+      "lgdCode": "248898",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sisauli",
+      "name": "up.sisauli",
+      "lgdCode": "248896",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.barkhera",
+      "name": "up.barkhera",
+      "lgdCode": "249161",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bilsanda",
+      "name": "up.bilsanda",
+      "lgdCode": "249163",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bisalpur",
+      "name": "up.bisalpur",
+      "lgdCode": "249162",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gulariyabhindara",
+      "name": "up.gulariyabhindara",
+      "lgdCode": "249157",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jahanabad",
+      "name": "up.jahanabad",
+      "lgdCode": "249159",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kalinagar",
+      "name": "up.kalinagar",
+      "lgdCode": "249164",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.neoriahusainpur",
+      "name": "up.neoriahusainpur",
+      "lgdCode": "249158",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pakariyanawgawan",
+      "name": "up.pakariyanawgawan",
+      "lgdCode": "297046",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pilibhit",
+      "name": "up.pilibhit",
+      "lgdCode": "249160",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.puranpur",
+      "name": "up.puranpur",
+      "lgdCode": "249165",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.antu",
+      "name": "up.antu",
+      "lgdCode": "249352",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.derva",
+      "name": "up.derva",
+      "lgdCode": "300772",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dhakwa",
+      "name": "up.dhakwa",
+      "lgdCode": "299013",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gadwarabazar",
+      "name": "up.gadwarabazar",
+      "lgdCode": "300693",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.heeraganjbazar",
+      "name": "up.heeraganjbazar",
+      "lgdCode": "300707",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.katragulabsinghbazar",
+      "name": "up.katragulabsinghbazar",
+      "lgdCode": "300776",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kohandaur",
+      "name": "up.kohandaur",
+      "lgdCode": "297042",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kunda",
+      "name": "up.kunda",
+      "lgdCode": "249351",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lalganj",
+      "name": "up.lalganj",
+      "lgdCode": "277531",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maandhatabazar",
+      "name": "up.maandhatabazar",
+      "lgdCode": "249355",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.manikpur",
+      "name": "up.manikpur",
+      "lgdCode": "249350",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.medeniganj",
+      "name": "up.medeniganj",
+      "lgdCode": "300774",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.patti",
+      "name": "up.patti",
+      "lgdCode": "249356",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pratapgarhcity",
+      "name": "up.pratapgarhcity",
+      "lgdCode": "249354",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pratapgarh",
+      "name": "up.pratapgarh",
+      "lgdCode": "249353",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.prithviganj",
+      "name": "up.prithviganj",
+      "lgdCode": "297087",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ramganj",
+      "name": "up.ramganj",
+      "lgdCode": "299012",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.raniganj",
+      "name": "up.raniganj",
+      "lgdCode": "277192",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.suwansabazar",
+      "name": "up.suwansabazar",
+      "lgdCode": "297054",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bharatganj",
+      "name": "up.bharatganj",
+      "lgdCode": "249374",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.handia",
+      "name": "up.handia",
+      "lgdCode": "249372",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.koraon",
+      "name": "up.koraon",
+      "lgdCode": "249375",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lalgopalganj",
+      "name": "up.lalgopalganj",
+      "lgdCode": "249365",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mauaima",
+      "name": "up.mauaima",
+      "lgdCode": "249364",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.phulpur",
+      "name": "up.phulpur",
+      "lgdCode": "249368",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.prayagraj",
+      "name": "up.prayagraj",
+      "lgdCode": "249369",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shankargarh",
+      "name": "up.shankargarh",
+      "lgdCode": "249370",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sirsa",
+      "name": "up.sirsa",
+      "lgdCode": "249373",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bachhrawan",
+      "name": "up.bachhrawan",
+      "lgdCode": "249238",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dalmau",
+      "name": "up.dalmau",
+      "lgdCode": "249243",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lalganj",
+      "name": "up.lalganj",
+      "lgdCode": "249242",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maharajganj",
+      "name": "up.maharajganj",
+      "lgdCode": "249469",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nasirabad",
+      "name": "up.nasirabad",
+      "lgdCode": "297084",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.parshadepur",
+      "name": "up.parshadepur",
+      "lgdCode": "249245",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.raebareli",
+      "name": "up.raebareli",
+      "lgdCode": "249241",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.salon",
+      "name": "up.salon",
+      "lgdCode": "249246",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shivgarh",
+      "name": "up.shivgarh",
+      "lgdCode": "300739",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.unchahar",
+      "name": "up.unchahar",
+      "lgdCode": "249244",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bilaspur",
+      "name": "up.bilaspur",
+      "lgdCode": "248941",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dadhiyal",
+      "name": "up.dadhiyal",
+      "lgdCode": "299069",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kemri",
+      "name": "up.kemri",
+      "lgdCode": "248942",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maswasi",
+      "name": "up.maswasi",
+      "lgdCode": "248938",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.milak",
+      "name": "up.milak",
+      "lgdCode": "248945",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.narpatnagardundawala",
+      "name": "up.narpatnagardundawala",
+      "lgdCode": "297047",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rampur",
+      "name": "up.rampur",
+      "lgdCode": "248943",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.saifni",
+      "name": "up.saifni",
+      "lgdCode": "297090",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shahbad",
+      "name": "up.shahbad",
+      "lgdCode": "248944",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.suar",
+      "name": "up.suar",
+      "lgdCode": "248939",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tanda",
+      "name": "up.tanda",
+      "lgdCode": "248940",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ambehta",
+      "name": "up.ambehta",
+      "lgdCode": "248877",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.behat",
+      "name": "up.behat",
+      "lgdCode": "248870",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chhutmalpur",
+      "name": "up.chhutmalpur",
+      "lgdCode": "296986",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.deoband",
+      "name": "up.deoband",
+      "lgdCode": "248882",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gangoh",
+      "name": "up.gangoh",
+      "lgdCode": "248878",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nakur",
+      "name": "up.nakur",
+      "lgdCode": "248876",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nanauta",
+      "name": "up.nanauta",
+      "lgdCode": "248880",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rampurmaniharan",
+      "name": "up.rampurmaniharan",
+      "lgdCode": "248881",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.saharanpur",
+      "name": "up.saharanpur",
+      "lgdCode": "248873",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sarsawa",
+      "name": "up.sarsawa",
+      "lgdCode": "248875",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sultanpurchilkana",
+      "name": "up.sultanpurchilkana",
+      "lgdCode": "248874",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.titron",
+      "name": "up.titron",
+      "lgdCode": "248879",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.babrala",
+      "name": "up.babrala",
+      "lgdCode": "263350",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bahjoi",
+      "name": "up.bahjoi",
+      "lgdCode": "248935",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chandausi",
+      "name": "up.chandausi",
+      "lgdCode": "248937",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gawan",
+      "name": "up.gawan",
+      "lgdCode": "249112",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gunnaur",
+      "name": "up.gunnaur",
+      "lgdCode": "249114",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.narauli",
+      "name": "up.narauli",
+      "lgdCode": "248936",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sambhal",
+      "name": "up.sambhal",
+      "lgdCode": "248934",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sirsi",
+      "name": "up.sirsi",
+      "lgdCode": "248933",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.baghnagarurfbakhira",
+      "name": "up.baghnagarurfbakhira",
+      "lgdCode": "297053",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.belharkala",
+      "name": "up.belharkala",
+      "lgdCode": "297059",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dharmsinghva",
+      "name": "up.dharmsinghva",
+      "lgdCode": "301363",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.haiserbazardhanghata",
+      "name": "up.haiserbazardhanghata",
+      "lgdCode": "300532",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hariharpur",
+      "name": "up.hariharpur",
+      "lgdCode": "249435",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khalilabad",
+      "name": "up.khalilabad",
+      "lgdCode": "249433",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maghar",
+      "name": "up.maghar",
+      "lgdCode": "249434",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.menhdawal",
+      "name": "up.menhdawal",
+      "lgdCode": "249431",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.allahganj",
+      "name": "up.allahganj",
+      "lgdCode": "249175",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.banda",
+      "name": "up.banda",
+      "lgdCode": "297057",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jalalabad",
+      "name": "up.jalalabad",
+      "lgdCode": "249174",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kalan",
+      "name": "up.kalan",
+      "lgdCode": "297807",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kant",
+      "name": "up.kant",
+      "lgdCode": "249173",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.katra",
+      "name": "up.katra",
+      "lgdCode": "249169",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khudaganj",
+      "name": "up.khudaganj",
+      "lgdCode": "249168",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khutar",
+      "name": "up.khutar",
+      "lgdCode": "249166",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nigohi",
+      "name": "up.nigohi",
+      "lgdCode": "297049",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.powayan",
+      "name": "up.powayan",
+      "lgdCode": "249167",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shahjahanpur",
+      "name": "up.shahjahanpur",
+      "lgdCode": "297802",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tilhar",
+      "name": "up.tilhar",
+      "lgdCode": "249170",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ailum",
+      "name": "up.ailum",
+      "lgdCode": "248887",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.banat",
+      "name": "up.banat",
+      "lgdCode": "248889",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.garhipukhta",
+      "name": "up.garhipukhta",
+      "lgdCode": "248890",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jalalabad",
+      "name": "up.jalalabad",
+      "lgdCode": "248907",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.jhinjhana",
+      "name": "up.jhinjhana",
+      "lgdCode": "248884",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kairana",
+      "name": "up.kairana",
+      "lgdCode": "248885",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kandhla",
+      "name": "up.kandhla",
+      "lgdCode": "248886",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shamli",
+      "name": "up.shamli",
+      "lgdCode": "248888",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.thanabhawan",
+      "name": "up.thanabhawan",
+      "lgdCode": "248891",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.unn",
+      "name": "up.unn",
+      "lgdCode": "248883",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhinga",
+      "name": "up.bhinga",
+      "lgdCode": "297025",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ikauna",
+      "name": "up.ikauna",
+      "lgdCode": "249413",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.badhanichafa",
+      "name": "up.badhanichafa",
+      "lgdCode": "297056",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bansi",
+      "name": "up.bansi",
+      "lgdCode": "249428",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.barhnibazar",
+      "name": "up.barhnibazar",
+      "lgdCode": "301390",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bharatbhari",
+      "name": "up.bharatbhari",
+      "lgdCode": "297061",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.biskohar",
+      "name": "up.biskohar",
+      "lgdCode": "297050",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dumariyaganj",
+      "name": "up.dumariyaganj",
+      "lgdCode": "248145",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.itwa",
+      "name": "up.itwa",
+      "lgdCode": "297067",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kapilvastu",
+      "name": "up.kapilvastu",
+      "lgdCode": "297051",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.shohratgarh",
+      "name": "up.shohratgarh",
+      "lgdCode": "249426",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tetribazar",
+      "name": "up.tetribazar",
+      "lgdCode": "249427",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.uskabazar",
+      "name": "up.uskabazar",
+      "lgdCode": "257826",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.biswan",
+      "name": "up.biswan",
+      "lgdCode": "249193",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hargaon",
+      "name": "up.hargaon",
+      "lgdCode": "249190",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.khairabad",
+      "name": "up.khairabad",
+      "lgdCode": "249188",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.laharpur",
+      "name": "up.laharpur",
+      "lgdCode": "249191",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mahmudabad",
+      "name": "up.mahmudabad",
+      "lgdCode": "249194",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maholi",
+      "name": "up.maholi",
+      "lgdCode": "249186",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mishritnaimisharnya",
+      "name": "up.mishritnaimisharnya",
+      "lgdCode": "249187",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.paintepur",
+      "name": "up.paintepur",
+      "lgdCode": "249195",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sidhauli",
+      "name": "up.sidhauli",
+      "lgdCode": "249196",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sitapur",
+      "name": "up.sitapur",
+      "lgdCode": "249189",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.tambaurcumahmadabad",
+      "name": "up.tambaurcumahmadabad",
+      "lgdCode": "249192",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.anpara",
+      "name": "up.anpara",
+      "lgdCode": "299053",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.chopan",
+      "name": "up.chopan",
+      "lgdCode": "249549",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.churkghurma",
+      "name": "up.churkghurma",
+      "lgdCode": "249548",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dalabazar",
+      "name": "up.dalabazar",
+      "lgdCode": "297044",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dudhi",
+      "name": "up.dudhi",
+      "lgdCode": "249551",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ghorawal",
+      "name": "up.ghorawal",
+      "lgdCode": "249546",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.obra",
+      "name": "up.obra",
+      "lgdCode": "249550",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.pipri",
+      "name": "up.pipri",
+      "lgdCode": "249553",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.renukoot",
+      "name": "up.renukoot",
+      "lgdCode": "249552",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.robertsganj",
+      "name": "up.robertsganj",
+      "lgdCode": "249547",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.dostpur",
+      "name": "up.dostpur",
+      "lgdCode": "249406",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kadipur",
+      "name": "up.kadipur",
+      "lgdCode": "249407",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.koeripur",
+      "name": "up.koeripur",
+      "lgdCode": "249405",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.lambhua",
+      "name": "up.lambhua",
+      "lgdCode": "297038",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.sultanpur",
+      "name": "up.sultanpur",
+      "lgdCode": "249404",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.achalganj",
+      "name": "up.achalganj",
+      "lgdCode": "297922",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.auras",
+      "name": "up.auras",
+      "lgdCode": "249217",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bangarmau",
+      "name": "up.bangarmau",
+      "lgdCode": "249212",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bhagwantnagar",
+      "name": "up.bhagwantnagar",
+      "lgdCode": "249229",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.bighapur",
+      "name": "up.bighapur",
+      "lgdCode": "249228",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.fatehpurchaurasi",
+      "name": "up.fatehpurchaurasi",
+      "lgdCode": "249213",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gangaghat",
+      "name": "up.gangaghat",
+      "lgdCode": "297022",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ganjmuradabad",
+      "name": "up.ganjmuradabad",
+      "lgdCode": "249211",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.hyderabad",
+      "name": "up.hyderabad",
+      "lgdCode": "249218",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.kursath",
+      "name": "up.kursath",
+      "lgdCode": "249206",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.maurawan",
+      "name": "up.maurawan",
+      "lgdCode": "249227",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.mohan",
+      "name": "up.mohan",
+      "lgdCode": "249220",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nawabganj",
+      "name": "up.nawabganj",
+      "lgdCode": "249222",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.nyotani",
+      "name": "up.nyotani",
+      "lgdCode": "249221",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.purwa",
+      "name": "up.purwa",
+      "lgdCode": "249226",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.rasulabad",
+      "name": "up.rasulabad",
+      "lgdCode": "249219",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.safipur",
+      "name": "up.safipur",
+      "lgdCode": "249215",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.ugu",
+      "name": "up.ugu",
+      "lgdCode": "249214",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.unnao",
+      "name": "up.unnao",
+      "lgdCode": "249223",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.gangapur",
+      "name": "up.gangapur",
+      "lgdCode": "249524",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "stateName": "Uttar Pradesh",
+      "code": "up.varanasi",
+      "name": "up.varanasi",
+      "lgdCode": "249531",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }

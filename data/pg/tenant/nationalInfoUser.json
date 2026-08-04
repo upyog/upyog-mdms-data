@@ -105,6 +105,12 @@
       "emailId": "nandomanipur@gmail.com",
 	  "NodalOfficerName": "Nando Singh",
       "active": true
+    },
+    {
+      "stateCode": "Uttar Pradesh",
+      "emailId": "assistantdirectorlekha@gmail.com",
+	    "NodalOfficerName": "Amit Kumar Singh",
+      "active": true
     }
 ]
 }
