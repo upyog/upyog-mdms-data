@@ -926,6 +926,16 @@
       "code": "PET_INTERNAL_MICROSERVICE_ROLE",
       "name": "PET Internal Microservice Role",
       "description": "Internal role for plain access"
-    }
+    },
+	{
+	  "code": "CHB_REFUND_VERIFIER",
+	  "name": "Refund Verifier",
+	  "description": "Role for verifying CHB refund requests"
+	},
+	{
+	  "code": "CHB_REFUND_APPROVER",
+	  "name": "CHB Refund Approver",
+	  "description": "Role for approving CHB refund requests"
+	}
   ]
 }
