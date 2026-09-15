@@ -1,0 +1,32 @@
+{
+    "tenantId": "pg",
+    "moduleName": "FinanceModule",
+    "RefundPaymentMapping": [
+      {
+        "tenantId": "pg.citya",
+        "businessService": "CHB.REFUND",
+        "refundMode": "ONLINE",
+        "debitGlCode": "2806000",
+        "payableGlCode": "3504007",
+        "fund": "01",
+        "department": "A",
+        "function": "",
+        "bankAccountNumber": "77345579884",
+        "paymentMode": "ONLINE",
+        "isActive": true
+      },
+      {
+        "tenantId": "pg.citya",
+        "businessService": "CHB.REFUND",
+        "refundMode": "OFFLINE",
+        "debitGlCode": "2806000",
+        "payableGlCode": "3504007",
+        "fund": "01",
+        "department": "A",
+        "function": "",
+        "bankAccountNumber": "77345579884",
+        "paymentMode": "OFFLINE",
+        "isActive": true
+      }
+    ]
+  }
