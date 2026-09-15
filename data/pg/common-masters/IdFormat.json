@@ -810,6 +810,10 @@
 		{
             "format": "PG-RF-[cy:yyyy-MM-dd]-[SEQ_EG_PG_REFUND]",
             "idname": "egov.idgen.refund.id"
+        },
+		{
+            "format": "REF-[cy:yyyy-MM-dd]-[SEQ_REFUND]",
+            "idname": "egov.refund.id"
         }
     ]
 }
