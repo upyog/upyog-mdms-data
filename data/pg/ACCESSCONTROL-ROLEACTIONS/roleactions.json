@@ -33097,6 +33097,12 @@
 		"actionid": 3109,
 		"actioncode": "",
 		"tenantId": "pg"
-	}
+	},
+  {
+    "rolecode": "SYS_INTEGRATOR_FINANCE",
+    "actionid": 3107,
+    "actioncode": "",
+    "tenantId": "pg"
+  }
   ]
 }
