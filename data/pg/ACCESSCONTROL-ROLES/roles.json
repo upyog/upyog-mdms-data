@@ -1112,5 +1112,17 @@
       "name": "Theme Admin",
       "description": "Approver who only approves Theme Config"
     } 
+
+	{
+	  "code": "CHB_REFUND_VERIFIER",
+	  "name": "Refund Verifier",
+	  "description": "Role for verifying CHB refund requests"
+	},
+	{
+	  "code": "CHB_REFUND_APPROVER",
+	  "name": "CHB Refund Approver",
+	  "description": "Role for approving CHB refund requests"
+	}
+
   ]
 }
