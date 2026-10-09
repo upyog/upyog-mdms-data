@@ -1,0 +1,134 @@
+{
+    "tenantId": "pg.citya",
+    "moduleName": "CHB",
+    "HallCode": [
+        {
+            "venueId": "1",
+            "codeId": "1",
+            "code": "Hall_Code-1",
+            "capacity": "100",
+            "timeSlot": [
+                {
+                    "id": "1",
+                    "from": "06:00",
+                    "to": "17:59",
+                    "duration": "23:59"
+                }
+            ],
+            "active": true,
+            "venueCode": "Sector_54_Phase_2"
+        },
+        {
+            "venueId": "2",
+            "codeId": "2",
+            "code": "Hall_Code-1",
+            "capacity": "100",
+            "timeSlot": [
+                {
+                    "id": "1",
+                    "from": "06:00",
+                    "to": "17:59",
+                    "duration": "23:59"
+                }
+            ],
+            "active": true,
+            "venueCode": "Sector_55_Phase_1"
+        },
+        {
+            "venueId": "3",
+            "codeId": "3",
+            "code": "Hall_Code-1",
+            "capacity": "100",
+            "timeSlot": [
+                {
+                    "id": "1",
+                    "from": "06:00",
+                    "to": "17:59",
+                    "duration": "23:59"
+                }
+            ],
+            "active": true,
+            "venueCode": "Sector_59_Phase_5"
+        },
+        {
+            "venueId": "4",
+            "codeId": "4",
+            "code": "Hall_Code-1",
+            "capacity": "100",
+            "timeSlot": [
+                {
+                    "id": "1",
+                    "from": "06:00",
+                    "to": "17:59",
+                    "duration": "23:59"
+                }
+            ],
+            "active": true,
+            "venueCode": "Sector_61_Phase_7"
+        },
+        {
+            "venueId": "5",
+            "codeId": "5",
+            "code": "Hall_Code-1",
+            "capacity": "100",
+            "timeSlot": [
+                {
+                    "id": "1",
+                    "from": "06:00",
+                    "to": "17:59",
+                    "duration": "23:59"
+                }
+            ],
+            "active": true,
+            "venueCode": "Sector_65_Phase_11"
+        },
+        {
+            "venueId": "6",
+            "codeId": "6",
+            "code": "Hall_Code-1",
+            "capacity": "100",
+            "timeSlot": [
+                {
+                    "id": "1",
+                    "from": "06:00",
+                    "to": "17:59",
+                    "duration": "23:59"
+                }
+            ],
+            "active": true,
+            "venueCode": "Sector_69"
+        },
+        {
+            "venueId": "7",
+            "codeId": "7",
+            "code": "Hall_Code-1",
+            "capacity": "100",
+            "timeSlot": [
+                {
+                    "id": "1",
+                    "from": "06:00",
+                    "to": "17:59",
+                    "duration": "23:59"
+                }
+            ],
+            "active": true,
+            "venueCode": "Sector_70"
+        },
+        {
+            "venueId": "8",
+            "codeId": "8",
+            "code": "Hall Code-1",
+            "capacity": "100",
+            "timeSlot": [
+                {
+                    "id": "1",
+                    "from": "06:00",
+                    "to": "17:59",
+                    "duration": "23:59"
+                }
+            ],
+            "active": true,
+            "venueCode": "Sector_71"
+        }
+    ]
+}
