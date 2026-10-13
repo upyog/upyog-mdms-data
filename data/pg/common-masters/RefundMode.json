@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg",
+    "moduleName": "common-masters",
+    "RefundMode": [
+        {
+          "code": "ONLINE",
+          "name": "Online",
+          "active": true
+        },
+        {
+          "code": "OFFLINE",
+          "name": "Offline",
+          "active": true
+        }
+      ]
+  } 
