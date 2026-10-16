@@ -21704,6 +21704,19 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
+    },
+    {
+      "id": 4000,
+      "name": "Data Pushing in Data Sharing Service",
+      "url": "/data-sharing-service-dx/v1/transactions/_create",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "data-sharing-service-dx",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
     }
   ]
 }
