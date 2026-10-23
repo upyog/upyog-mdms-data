@@ -928,6 +928,11 @@
       "description": "Internal role for plain access"
     },
     {
+      "code": "PFMS_DATA_INGEST_ADMIN",
+      "name": "PFMS Data Ingest Admin",
+      "description": "User who can ingest data into our data sharing service"
+    },
+    {
       "code": "EST_CEMP",
       "name": "Counter Employee for EState Service",
       "description": "Counter Employee for EState Service"

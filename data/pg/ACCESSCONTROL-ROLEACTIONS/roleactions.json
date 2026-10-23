@@ -32943,6 +32943,18 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4000,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PFMS_DATA_INGEST_ADMIN",
+      "actionid": 4000,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 3099,
       "actioncode": "",
