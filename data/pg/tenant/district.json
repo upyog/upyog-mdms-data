@@ -25,6 +25,192 @@
       "name": "Patiala",
       "stateCode": "PG",
       "active": true
+    },
+    {
+      "code": "BAGALKOT",
+      "name": "Bagalkot",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "BALLARI",
+      "name": "Ballari",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "BELAGAVI",
+      "name": "Belagavi",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "BENGALURU_RURAL",
+      "name": "Bengaluru Rural",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "BENGALURU_SOUTH",
+      "name": "Bengaluru South",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "BENGALURU_URBAN",
+      "name": "Bengaluru Urban",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "BIDAR",
+      "name": "Bidar",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "CHAMARAJANAGAR",
+      "name": "Chamarajanagar",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "CHIKKABALLAPURA",
+      "name": "Chikkaballapura",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "CHIKKAMAGALURU",
+      "name": "Chikkamagaluru",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "CHITRADURGA",
+      "name": "Chitradurga",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "DAKSHINA_KANNADA",
+      "name": "Dakshina Kannada",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "DAVANAGERE",
+      "name": "Davanagere",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "DHARWAD",
+      "name": "Dharwad",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "GADAG",
+      "name": "Gadag",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "HASSAN",
+      "name": "Hassan",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "HAVERI",
+      "name": "Haveri",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "KALABURAGI",
+      "name": "Kalaburagi",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "KODAGU",
+      "name": "Kodagu",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "KOLAR",
+      "name": "Kolar",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "KOPPAL",
+      "name": "Koppal",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "MANDYA",
+      "name": "Mandya",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "MYSURU",
+      "name": "Mysuru",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "RAICHUR",
+      "name": "Raichur",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "SHIVAMOGGA",
+      "name": "Shivamogga",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "TUMAKURU",
+      "name": "Tumakuru",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "UDUPI",
+      "name": "Udupi",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "UTTARA_KANNADA",
+      "name": "Uttara Kannada",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "VIJAYANAGARA",
+      "name": "Vijayanagara",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "VIJAYAPURA",
+      "name": "Vijayapura",
+      "stateCode": "PG",
+      "active": true
+    },
+    {
+      "code": "YADGIR",
+      "name": "Yadgir",
+      "stateCode": "PG",
+      "active": true
     }
   ]
 }
