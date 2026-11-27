@@ -1,0 +1,13 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "UnitOfMeasurement": [
+    { "code": "NOS", "name": "Nos", "active": true },
+    { "code": "SET", "name": "Set", "active": true },
+    { "code": "KG", "name": "Kg", "active": true },
+    { "code": "LITRE", "name": "Litre", "active": true },
+    { "code": "METRE", "name": "Metre", "active": true },
+    { "code": "MONTH", "name": "Month", "active": true },
+    { "code": "JOB", "name": "Job", "active": true }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "ExecutionOfficer": [
+    {
+      "code": "RAVI_KUMAR_JE",
+      "name": "Ravi Kumar",
+      "designation": "Junior Engineer",
+      "active": true
+    },
+    {
+      "code": "MEENA_SHETTY_AE",
+      "name": "Meena Shetty",
+      "designation": "Assistant Engineer",
+      "active": true
+    },
+    {
+      "code": "ANIL_GOWDA_AEE",
+      "name": "Anil Gowda",
+      "designation": "Assistant Executive Engineer",
+      "active": true
+    },
+    {
+      "code": "PRAKASH_N_CASEWORKER",
+      "name": "Prakash N",
+      "designation": "Caseworker",
+      "active": true
+    }
+  ]
+}

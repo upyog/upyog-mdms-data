@@ -1,0 +1,8 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "BidType": [
+    { "code": "CUSTOM", "name": "Custom Bid", "active": true },
+    { "code": "BUNCH", "name": "Bunch Bid", "active": true }
+  ]
+}

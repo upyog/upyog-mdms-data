@@ -1,0 +1,8 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "BidderTechnicalStatus": [
+    { "code": "QUALIFIED", "name": "Qualified", "active": true },
+    { "code": "DISQUALIFIED", "name": "Disqualified", "active": true }
+  ]
+}

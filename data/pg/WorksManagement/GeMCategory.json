@@ -1,0 +1,77 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "GeMCategory": [
+    {
+      "code": "GOODS",
+      "name": "Goods",
+      "active": true,
+      "categories": [
+        {
+          "code": "OFFICE_SUPPLIES",
+          "name": "Office Supplies",
+          "active": true,
+          "subCategories": [
+            { "code": "STAPLER", "name": "Stapler", "active": true },
+            { "code": "SCISSORS", "name": "Scissors", "active": true },
+            { "code": "CRAYONS", "name": "Crayons", "active": true }
+          ]
+        },
+        {
+          "code": "MOBILES_TABLETS",
+          "name": "Mobiles & Tablets",
+          "active": true,
+          "subCategories": [
+            { "code": "UNBOXED_PHONES", "name": "Unboxed Phones", "active": true },
+            { "code": "LANDLINE_PHONES", "name": "Landline Phones", "active": true },
+            { "code": "MOBILES", "name": "Mobiles", "active": true },
+            { "code": "TABLETS", "name": "Tablets", "active": true }
+          ]
+        },
+        {
+          "code": "COMPUTERS_ACCESSORIES",
+          "name": "Computers & Accessories",
+          "active": true,
+          "subCategories": [
+            { "code": "DESKTOPS", "name": "Desktops", "active": true },
+            { "code": "LAPTOPS", "name": "Laptops", "active": true },
+            { "code": "PRINTERS_SCANNERS", "name": "Printers & Scanners", "active": true }
+          ]
+        },
+        {
+          "code": "HOME_ENTERTAINMENT",
+          "name": "Home Entertainment",
+          "active": true,
+          "subCategories": [
+            { "code": "TV", "name": "TV", "active": true }
+          ]
+        },
+        {
+          "code": "WEARABLE_SMART_DEVICES",
+          "name": "Wearable Smart Devices",
+          "active": true,
+          "subCategories": [
+            { "code": "SMART_WATCHES", "name": "Smart Watches", "active": true }
+          ]
+        },
+        {
+          "code": "HOME_KITCHEN_APPLIANCES",
+          "name": "Home & Kitchen Appliances",
+          "active": true,
+          "subCategories": [
+            { "code": "HOME_APPLIANCES", "name": "Home Appliances", "active": true }
+          ]
+        },
+        {
+          "code": "CAMERAS_ACCESSORIES",
+          "name": "Cameras & Accessories",
+          "active": true,
+          "subCategories": [
+            { "code": "CAMERAS", "name": "Cameras", "active": true }
+          ]
+        }
+      ]
+    },
+    { "code": "SERVICE", "name": "Service", "active": true, "categories": [] }
+  ]
+}

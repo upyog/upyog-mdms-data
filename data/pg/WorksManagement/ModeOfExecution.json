@@ -1,0 +1,11 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "ModeOfExecution": [
+    { "code": "KPPP_EPROCUREMENT", "name": "KPPP / e-Procurement", "active": true },
+    { "code": "GEM", "name": "Government e-Marketplace (GeM)", "active": true },
+    { "code": "QUOTATION", "name": "Quotation", "active": true },
+    { "code": "DIRECT_ENTRUSTMENT", "name": "Direct Entrustment", "active": true },
+    { "code": "MANUAL_TENDER", "name": "Manual Tender", "active": true }
+  ]
+}

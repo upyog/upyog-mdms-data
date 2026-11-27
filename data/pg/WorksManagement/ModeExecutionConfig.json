@@ -1,0 +1,26 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "ModeExecutionConfig": [
+    {
+      "code": "DEFAULT",
+      "directPurchaseLimit": 25000,
+      "l1PurchaseLimit": 500000,
+      "bidAllowedAtAnyValue": true,
+      "minimumL1SellerCount": 3,
+      "minimumBidderCount": 3,
+      "minimumQualifiedBidderCount": 1,
+      "minimumBidPeriodDays": 21,
+      "minimumBidValidityDays": 30,
+      "maximumBidValidityDays": 180,
+      "allowedGstPercentages": [0, 5, 18, 40],
+      "maximumDocuments": 5,
+      "maximumDocumentSizeMb": 50,
+      "performanceSecurityRequired": false,
+      "allowManualSellerBidderEntry": true,
+      "makerCheckerSeparation": true,
+      "workflowEnabled": null,
+      "active": true
+    }
+  ]
+}

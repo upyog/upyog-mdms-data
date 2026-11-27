@@ -1,0 +1,10 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "PerformanceSecurityInstrument": [
+    { "code": "BANK_GUARANTEE", "name": "Bank Guarantee", "active": true },
+    { "code": "FIXED_DEPOSIT_RECEIPT", "name": "Fixed Deposit Receipt", "active": true },
+    { "code": "DEMAND_DRAFT", "name": "Demand Draft", "active": true },
+    { "code": "ONLINE_PAYMENT", "name": "Online Payment", "active": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "ProcurementType": [
+    { "code": "DIRECT_PURCHASE", "name": "Direct Purchase", "active": true, "availableInRelease": true },
+    { "code": "L1_PURCHASE", "name": "L1 Purchase", "active": true, "availableInRelease": true },
+    { "code": "BID", "name": "Bid", "active": true, "availableInRelease": true },
+    { "code": "REVERSE_AUCTION", "name": "Reverse Auction", "active": false, "availableInRelease": false, "disabledReason": "Not available" },
+    { "code": "BID_REVERSE_AUCTION", "name": "Bid followed by Reverse Auction", "active": false, "availableInRelease": false, "disabledReason": "Not available" }
+  ]
+}

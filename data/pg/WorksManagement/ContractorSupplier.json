@@ -1,0 +1,66 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "ContractorSupplier": [
+    {
+      "code": "SRI_LAKSHMI_TRADERS",
+      "name": "Sri Lakshmi Traders",
+      "entityType": "SUPPLIER",
+      "gemSellerId": "GEMS1A2B3C01",
+      "gstin": "29ABCDE1234F1Z5",
+      "address": "12, KR Road, Chamarajpet, Bengaluru - 560018",
+      "selectableAs": ["SELLER", "BIDDER"],
+      "active": true
+    },
+    {
+      "code": "KARNATAKA_IT_SOLUTIONS",
+      "name": "Karnataka IT Solutions",
+      "entityType": "SUPPLIER",
+      "gemSellerId": "GEMS4D5E6F02",
+      "gstin": "29PQRSX5678L1Z2",
+      "address": "45, Residency Road, Bengaluru - 560025",
+      "selectableAs": ["SELLER", "BIDDER"],
+      "active": true
+    },
+    {
+      "code": "BHARAT_OFFICE_MART",
+      "name": "Bharat Office Mart",
+      "entityType": "SUPPLIER",
+      "gemSellerId": "GEMS7G8H9I03",
+      "gstin": "29LMNOP4321K1Z9",
+      "address": "7, Devaraja Mohalla, Mysuru - 570001",
+      "selectableAs": ["SELLER", "BIDDER"],
+      "active": true
+    },
+    {
+      "code": "VIJAY_ELECTRONICS",
+      "name": "Vijay Electronics",
+      "entityType": "SUPPLIER",
+      "gemSellerId": "GEMS2J3K4L04",
+      "gstin": "29GHIJK9876M1Z3",
+      "address": "101, Vidyanagar, Hubballi - 580021",
+      "selectableAs": ["SELLER", "BIDDER"],
+      "active": true
+    },
+    {
+      "code": "MYSORE_INFRA_SUPPLIES",
+      "name": "Mysore Infra Supplies",
+      "entityType": "SUPPLIER",
+      "gemSellerId": "GEMS5M6N7O05",
+      "gstin": "29UVWXY2468N1Z1",
+      "address": "88, Industrial Area, Mysuru - 570016",
+      "selectableAs": ["SELLER", "BIDDER"],
+      "active": true
+    },
+    {
+      "code": "DECCAN_TECH_SYSTEMS",
+      "name": "Deccan Tech Systems",
+      "entityType": "SUPPLIER",
+      "gemSellerId": "GEMS8P9Q0R06",
+      "gstin": "29DEFGH1357P1Z7",
+      "address": "23, Brigade Road, Bengaluru - 560001",
+      "selectableAs": ["SELLER", "BIDDER"],
+      "active": true
+    }
+  ]
+}

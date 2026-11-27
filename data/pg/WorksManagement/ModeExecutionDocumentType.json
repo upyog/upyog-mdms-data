@@ -1,0 +1,19 @@
+{
+  "tenantId": "pg",
+  "moduleName": "WorksManagement",
+  "ModeExecutionDocumentType": [
+    { "code": "ORDER_COPY", "name": "Order Copy", "procurementTypes": ["DIRECT_PURCHASE", "L1_PURCHASE"], "required": true, "active": true },
+    { "code": "COMPARISON_SHEET", "name": "Comparison Sheet", "procurementTypes": ["L1_PURCHASE"], "required": true, "active": true },
+    { "code": "BID_DOCUMENT", "name": "Bid Document (RFP)", "procurementTypes": ["BID"], "required": true, "active": true },
+    { "code": "APPROVAL_NOTE", "name": "Approval Note", "procurementTypes": ["BID"], "required": true, "active": true },
+    { "code": "PRE_BID_MEETING_CORRIGENDUM", "name": "Pre-Bid Meeting / Corrigendum / Amendment", "procurementTypes": ["BID"], "required": false, "active": true },
+    { "code": "TENDER_COMMITTEE_DETAILS", "name": "Tender Committee Details", "procurementTypes": ["BID"], "required": true, "active": true },
+    { "code": "TECHNICAL_EVALUATION_REPORT", "name": "Technical Evaluation Report", "procurementTypes": ["BID"], "required": true, "active": true },
+    { "code": "AWARD_COPY", "name": "Award Copy", "procurementTypes": ["BID"], "required": true, "active": true },
+    { "code": "ORDER_SUMMARY", "name": "Order Summary", "procurementTypes": [], "required": false, "active": true },
+    { "code": "FINANCIAL_DETAILS", "name": "Financial Details", "procurementTypes": [], "required": false, "active": true },
+    { "code": "FINANCE_APPROVAL", "name": "Finance Approval", "procurementTypes": [], "required": true, "active": true },
+    { "code": "SANCTION_ORDER", "name": "Sanction Order", "procurementTypes": [], "required": false, "active": true },
+    { "code": "CONTRACT_ORDER", "name": "Contract Order", "procurementTypes": [], "required": true, "active": true }
+  ]
+}
